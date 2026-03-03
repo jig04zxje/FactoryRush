@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Wheat
   m_EditorClassIdentifier: Assembly-CSharp::FactoryRush.Scripts.ScriptableObjects.Definitions.ItemSO
   itemName: Wheat
-  icon: {fileID: 0}
+  icon: {fileID: 3481358968830484548, guid: d72513f664c549447bf6110d8b0d986d, type: 3}
   price: 0
   type: 0
   description: 

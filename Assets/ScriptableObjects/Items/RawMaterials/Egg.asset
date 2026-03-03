@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Egg
   m_EditorClassIdentifier: Assembly-CSharp::FactoryRush.Scripts.ScriptableObjects.Definitions.ItemSO
   itemName: Egg
-  icon: {fileID: 0}
+  icon: {fileID: -4440555571965644319, guid: 0d41b94d68aaab74bbb67d8a393f72a6, type: 3}
   price: 0
   type: 0
   description: 

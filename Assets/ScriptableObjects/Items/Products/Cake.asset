@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Cake
   m_EditorClassIdentifier: Assembly-CSharp::FactoryRush.Scripts.ScriptableObjects.Definitions.ItemSO
   itemName: Cake
-  icon: {fileID: 0}
+  icon: {fileID: -3750097495944089515, guid: 67fe75d6bbf1f794daca62d3cef43a7c, type: 3}
   price: 80
   type: 1
   description: 

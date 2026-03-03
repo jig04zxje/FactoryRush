@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Bread
   m_EditorClassIdentifier: Assembly-CSharp::FactoryRush.Scripts.ScriptableObjects.Definitions.ItemSO
   itemName: Bread
-  icon: {fileID: 0}
+  icon: {fileID: 6706604562591481552, guid: 2e8d3c9e091451b4ea6bbf612f521420, type: 3}
   price: 30
   type: 1
   description: 

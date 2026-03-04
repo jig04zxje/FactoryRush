@@ -34,10 +34,10 @@ public class GridSlot : MonoBehaviour
     {
         if (!isOccupied)
         {
-            Debug.Log($"Đã click vào ô trống: {gameObject.name}");
-
-           
-            SetOccupied(true);
+            if (BuildingPlacer.Instance != null)
+            {
+                BuildingPlacer.Instance.PlaceBuilding(this);
+            }
         }
         else
         {

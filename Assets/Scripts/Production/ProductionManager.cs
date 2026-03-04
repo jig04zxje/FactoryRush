@@ -87,6 +87,17 @@ namespace FactoryRush.Scripts.Production
             }
         }
 
+        /// <summary>
+        /// Called by GameStateManager when the session ends.
+        /// </summary>
+        public void StopAllProduction()
+        {
+            foreach (var machine in activeMachines)
+            {
+                machine.SetGameOver(true);
+            }
+        }
+
         public List<MachineController> GetActiveMachines() => activeMachines;
     }
 }

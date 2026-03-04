@@ -23,6 +23,7 @@ namespace FactoryRush.Scripts.Production
         [Header("State")]
         [SerializeField] private MachineState currentState = MachineState.Idle;
         [SerializeField] private float currentProgress = 0f;
+        [SerializeField] private bool isGameOver = false;
 
         [Header("Events")]
         public UnityEvent OnProductionStarted;
@@ -71,7 +72,7 @@ namespace FactoryRush.Scripts.Production
 
         private IEnumerator AutoProductionTicker()
         {
-            while (true)
+            while (!isGameOver)
             {
                 if (currentState == MachineState.Idle || currentState == MachineState.WaitingForInput || currentState == MachineState.WaitingForInventory)
                 {
@@ -83,6 +84,7 @@ namespace FactoryRush.Scripts.Production
 
         public void TryStartProduction()
         {
+            if (isGameOver) return;
             if (currentState != MachineState.Idle && currentState != MachineState.WaitingForInput && currentState != MachineState.WaitingForInventory) return;
 
             // Check if inventory is full for the output item before even starting
@@ -133,6 +135,7 @@ namespace FactoryRush.Scripts.Production
 
         public void Harvest()
         {
+            if (isGameOver) return;
             if (currentState != MachineState.ReadyToHarvest && currentState != MachineState.WaitingForInventory) return;
 
             // Final check on capacity before adding
@@ -161,5 +164,14 @@ namespace FactoryRush.Scripts.Production
         // For UI/Interaction
         public MachineState GetState() => currentState;
         public float GetProgress() => currentProgress / machineData.productionTime;
+
+        public void SetGameOver(bool value)
+        {
+            isGameOver = value;
+            if (isGameOver)
+            {
+                StopAllCoroutines();
+            }
+        }
     }
 }

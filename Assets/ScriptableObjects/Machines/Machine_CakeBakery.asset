@@ -10,14 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e96d00c70d40dd1449d27a923fab9402, type: 3}
-  m_Name: Machine_Bakery
+  m_Name: Machine_CakeBakery
   m_EditorClassIdentifier: Assembly-CSharp::FactoryRush.Scripts.ScriptableObjects.Definitions.MachineSO
-  machineName: Bakery
-  purchasePrice: 0
+  machineName: Cake Bakery
+  purchasePrice: 200
   visualPrefab: {fileID: 0}
   requiredInputs:
-  - {fileID: 11400000, guid: a81a18871f48c0b488d119d56dc965d5, type: 2}
-  - {fileID: 11400000, guid: a81a18871f48c0b488d119d56dc965d5, type: 2}
-  outputItem: {fileID: 11400000, guid: 0a82441659a873d469daede54765cfcf, type: 2}
-  productionTime: 25
-  description: "L\xF2 b\xE1nh m\xEC \u0111\u1EC3 t\u1EA1o b\xE1nh m\xEC"
+  - {fileID: 11400000, guid: 200b45ac36a7f904594842b42d54badb, type: 2}
+  - {fileID: 11400000, guid: ce592fb0899810343b9c5aa02f8c303c, type: 2}
+  outputItem: {fileID: 11400000, guid: 2ec191a372846d54aa89458840f1ec9a, type: 2}
+  productionTime: 40
+  description: "L\xF2 b\xE1nh ng\u1ECDt \u0111\u1EC3 t\u1EA1o b\xE1nh ng\u1ECDt"

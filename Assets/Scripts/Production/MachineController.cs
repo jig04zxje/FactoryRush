@@ -11,7 +11,8 @@ namespace FactoryRush.Scripts.Production
         Idle,
         Producing,
         ReadyToHarvest,
-        WaitingForInput
+        WaitingForInput,
+        WaitingForInventory
     }
 
     public class MachineController : MonoBehaviour
@@ -29,13 +30,18 @@ namespace FactoryRush.Scripts.Production
         public UnityEvent OnProductionComplete;
         public UnityEvent OnHarvested;
 
+        [Header("Warnings")]
+        public UnityEvent OnWarningInputsMissing;
+        public UnityEvent OnWarningInventoryFull;
+
         // Reference to external inventory logic (to be linked later)
-        // We use a delegate/event approach to stay decoupled
         public delegate bool TakeItemsDelegate(List<ItemSO> items);
         public delegate void AddItemDelegate(ItemSO item);
+        public delegate bool CheckCapacityDelegate(ItemSO item);
 
         public TakeItemsDelegate OnRequestInputs;
         public AddItemDelegate OnRequestAddItem;
+        public CheckCapacityDelegate OnCheckCapacity;
 
         private void Start()
         {
@@ -67,7 +73,7 @@ namespace FactoryRush.Scripts.Production
         {
             while (true)
             {
-                if (currentState == MachineState.Idle || currentState == MachineState.WaitingForInput)
+                if (currentState == MachineState.Idle || currentState == MachineState.WaitingForInput || currentState == MachineState.WaitingForInventory)
                 {
                     TryStartProduction();
                 }
@@ -77,7 +83,15 @@ namespace FactoryRush.Scripts.Production
 
         public void TryStartProduction()
         {
-            if (currentState != MachineState.Idle && currentState != MachineState.WaitingForInput) return;
+            if (currentState != MachineState.Idle && currentState != MachineState.WaitingForInput && currentState != MachineState.WaitingForInventory) return;
+
+            // Check if inventory is full for the output item before even starting
+            if (OnCheckCapacity != null && OnCheckCapacity(machineData.outputItem))
+            {
+                currentState = MachineState.WaitingForInventory;
+                OnWarningInventoryFull?.Invoke();
+                return;
+            }
 
             // Check if we have delegates hooked up or if we need inputs
             if (machineData.requiredInputs.Count > 0)
@@ -89,6 +103,7 @@ namespace FactoryRush.Scripts.Production
                 else
                 {
                     currentState = MachineState.WaitingForInput;
+                    OnWarningInputsMissing?.Invoke();
                 }
             }
             else
@@ -118,7 +133,15 @@ namespace FactoryRush.Scripts.Production
 
         public void Harvest()
         {
-            if (currentState != MachineState.ReadyToHarvest) return;
+            if (currentState != MachineState.ReadyToHarvest && currentState != MachineState.WaitingForInventory) return;
+
+            // Final check on capacity before adding
+            if (OnCheckCapacity != null && OnCheckCapacity(machineData.outputItem))
+            {
+                currentState = MachineState.WaitingForInventory;
+                OnWarningInventoryFull?.Invoke();
+                return;
+            }
 
             if (OnRequestAddItem != null)
             {

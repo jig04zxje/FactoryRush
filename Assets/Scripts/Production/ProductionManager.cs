@@ -12,9 +12,9 @@ namespace FactoryRush.Scripts.Production
         [SerializeField] private List<MachineController> activeMachines = new List<MachineController>();
 
         // These handles will be connected to the real Inventory system later
-        // For now, they can be set by a MockInventory or the actual InventoryManager
         public MachineController.TakeItemsDelegate GlobalInputHandler;
         public MachineController.AddItemDelegate GlobalOutputHandler;
+        public MachineController.CheckCapacityDelegate GlobalCapacityHandler;
 
         private void Awake()
         {
@@ -38,6 +38,7 @@ namespace FactoryRush.Scripts.Production
                 // Automatically link delegates
                 machine.OnRequestInputs = GlobalInputHandler;
                 machine.OnRequestAddItem = GlobalOutputHandler;
+                machine.OnCheckCapacity = GlobalCapacityHandler;
 
                 // Try to start production if it was waiting
                 machine.TryStartProduction();
@@ -71,16 +72,18 @@ namespace FactoryRush.Scripts.Production
         /// <summary>
         /// Used by Inventory system to provide the functional logic to all machines.
         /// </summary>
-        public void SetupInventoryLinks(MachineController.TakeItemsDelegate inputHandler, MachineController.AddItemDelegate outputHandler)
+        public void SetupInventoryLinks(MachineController.TakeItemsDelegate inputHandler, MachineController.AddItemDelegate outputHandler, MachineController.CheckCapacityDelegate capacityHandler)
         {
             GlobalInputHandler = inputHandler;
             GlobalOutputHandler = outputHandler;
+            GlobalCapacityHandler = capacityHandler;
 
             // Update all existing machines
             foreach (var machine in activeMachines)
             {
                 machine.OnRequestInputs = GlobalInputHandler;
                 machine.OnRequestAddItem = GlobalOutputHandler;
+                machine.OnCheckCapacity = GlobalCapacityHandler;
             }
         }
 

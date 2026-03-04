@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: fa3dbad510d8f3d48a3cc912145d17b9
+guid: d3906d95471ae5849b2cdd3e2d0f5ff3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1749023864346193327
-    second: building_wheat_field 1_0
+      213: -7748132186895386919
+    second: Egg_32x32_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: building_wheat_field 1_0
+      name: Egg_32x32_0
       rect:
         serializedVersion: 2
-        x: 55
-        y: 263
-        width: 914
-        height: 480
+        x: 7
+        y: 5
+        width: 18
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fad290a10f7c54810800000000000000
-      internalID: 1749023864346193327
+      spriteID: 9d6745fc3da197490800000000000000
+      internalID: -7748132186895386919
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      building_wheat_field 1_0: 1749023864346193327
+      Egg_32x32_0: -7748132186895386919
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

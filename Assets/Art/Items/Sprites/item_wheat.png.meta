@@ -3,8 +3,8 @@ guid: 81755ef29281e6541a7cae8bdc99e878
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3817789534040617545
-    second: Wheat_Growth_Stages_32x32_0
+      213: 3481358968830484548
+    second: item_wheat_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Wheat_Growth_Stages_32x32_0
+      name: item_wheat_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 224
-        height: 64
+        width: 28
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7bd0e4475ac740bc0800000000000000
-      internalID: -3817789534040617545
+      spriteID: 440e2c08985405030800000000000000
+      internalID: 3481358968830484548
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Wheat_Growth_Stages_32x32_0: -3817789534040617545
+      item_wheat_0: 3481358968830484548
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

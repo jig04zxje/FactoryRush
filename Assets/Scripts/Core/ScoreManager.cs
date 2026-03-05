@@ -1,44 +1,71 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.Events;
+using UnityEngine.SceneManagement;
 
-namespace Assets.Scripts.Core
+[System.Serializable]
+public class IntUnityEvent : UnityEvent<int> { }
+
+/// <summary>
+/// Quản lý điểm số (Gold) trong game.
+/// Sử dụng Singleton pattern để truy cập toàn cục.
+/// Phát sự kiện OnGoldChanged mỗi khi số Gold thay đổi.
+/// </summary>
+public class ScoreManager : MonoBehaviour
 {
-    [System.Serializable]
-    public class IntUnityEvent : UnityEvent<int> { }
+    /// <summary>Singleton instance duy nhất của ScoreManager.</summary>
+    public static ScoreManager Instance { get; private set; }
 
-    public class ScoreManager : MonoBehaviour
+    [Header("Config")]
+    /// <summary>Tham chiếu đến ScriptableObject chứa dữ liệu Gold.</summary>
+    [SerializeField] private GoldData goldData;
+
+    /// <summary>Property public chỉ đọc để truy cập tổng Gold từ bên ngoài.</summary>
+    public int TotalGold => goldData.totalGold;
+
+    [Header("Events")]
+    /// <summary>Sự kiện được gọi mỗi khi Gold thay đổi, truyền kèm giá trị Gold mới.</summary>
+    public IntUnityEvent OnGoldChanged;
+
+    /// <summary>
+    /// Khởi tạo Singleton. Nếu đã tồn tại instance khác thì hủy object này.
+    /// </summary>
+    private void Awake()
     {
-        public static ScoreManager Instance { get; private set; }
+        if (Instance != null && Instance != this) { Destroy(gameObject); return; }
+        Instance = this;
+    }
 
-        [SerializeField] private int totalGold;
-        public int TotalGold => totalGold;
+    /// <summary>
+    /// Khởi tạo Gold từ config và phát sự kiện cho UI.
+    /// </summary>
+    private void Start()
+    {
+        goldData.ResetToDefault();
+        OnGoldChanged?.Invoke(goldData.totalGold);
+    }
 
-        public IntUnityEvent OnGoldChanged;
+    /// <summary>
+    /// Cộng thêm Gold cho người chơi và phát sự kiện thông báo thay đổi.
+    /// </summary>
+    /// <param name="amount">Số Gold cần cộng thêm (bỏ qua nếu &lt;= 0).</param>
+    public void AddGold(int amount)
+    {
+        if (amount <= 0) return;
+        goldData.totalGold += amount;
+        OnGoldChanged?.Invoke(goldData.totalGold);
+    }
 
-        private void Awake()
-        {
-            if (Instance != null && Instance != this) { Destroy(gameObject); return; }
-            Instance = this;
-        }
+    /// <summary>
+    /// Lấy số Gold hiện tại.
+    /// </summary>
+    public int GetGold() => goldData.totalGold;
 
-        public void AddGold(int amount)
-        {
-            if (amount <= 0) return;
-            totalGold += amount;
-            OnGoldChanged?.Invoke(totalGold);
-        }
-
-        public int GetGold() => totalGold;
-
-        public void ResetGold()
-        {
-            totalGold = 0;
-            OnGoldChanged?.Invoke(totalGold);
-        }
+    /// <summary>
+    /// Đặt lại Gold về 0 và phát sự kiện thông báo thay đổi.
+    /// </summary>
+    public void ResetGold()
+    {
+        goldData.totalGold = 0;
+        OnGoldChanged?.Invoke(goldData.totalGold);
     }
 }

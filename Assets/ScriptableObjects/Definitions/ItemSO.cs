@@ -1,8 +1,10 @@
 using UnityEngine;
 
-[CreateAssetMenu(fileName = "New Item", menuName = "Inventory/Item")]
+[CreateAssetMenu(menuName = "FactoryRush/Item")]
 public class ItemSO : ScriptableObject
 {
     public string itemName;
     public Sprite icon;
+
+    public int sellPrice;   
 }

@@ -2,15 +2,20 @@ using UnityEngine;
 
 public class InventoryUI : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    public InventoryManager inventoryManager;
+
     void Start()
     {
-        
+        inventoryManager.OnInventoryChanged.AddListener(RefreshUI);
     }
 
-    // Update is called once per frame
-    void Update()
+    void RefreshUI()
     {
-        
+        Debug.Log("Inventory Updated");
+
+        foreach (var item in inventoryManager.GetInventory())
+        {
+            Debug.Log(item.Key.name + " : " + item.Value);
+        }
     }
 }

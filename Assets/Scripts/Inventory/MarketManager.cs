@@ -2,15 +2,17 @@ using UnityEngine;
 
 public class MarketManager : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
+    public InventoryManager inventoryManager;
 
-    // Update is called once per frame
-    void Update()
+    public void SellItem(ItemSO item, int amount)
     {
-        
+        if (!inventoryManager.Has(item, amount))
+            return;
+
+        inventoryManager.Remove(item, amount);
+
+        int totalPrice = item.sellPrice * amount;
+
+        ScoreManager.Instance.AddGold(totalPrice);
     }
 }

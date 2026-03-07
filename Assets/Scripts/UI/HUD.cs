@@ -1,16 +1,18 @@
 using UnityEngine;
+using TMPro;
 
 public class HUD : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    public TextMeshProUGUI goldText;
+
+    private void Start()
     {
-        
+        ScoreManager.Instance.OnGoldChanged.AddListener(UpdateGold);
+        UpdateGold();
     }
 
-    // Update is called once per frame
-    void Update()
+    void UpdateGold()
     {
-        
+        goldText.text = ScoreManager.Instance.GetGold().ToString();
     }
 }

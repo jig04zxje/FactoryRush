@@ -2,15 +2,25 @@ using UnityEngine;
 
 public class MarketUI : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    public MarketManager marketManager;
+    public InventoryManager inventoryManager;
+
+    public ItemSO item;
+
+    public void SellOne()
     {
-        
+        marketManager.SellItem(item, 1);
     }
 
-    // Update is called once per frame
-    void Update()
+    public void SellAll()
     {
-        
+        var inventory = inventoryManager.GetInventory();
+
+        if (!inventory.ContainsKey(item))
+            return;
+
+        int amount = inventory[item];
+
+        marketManager.SellItem(item, amount);
     }
 }

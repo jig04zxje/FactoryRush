@@ -156,5 +156,3 @@ MonoBehaviour:
   sellableItems:
   - {fileID: 11400000, guid: 200b45ac36a7f904594842b42d54badb, type: 2}
   - {fileID: 11400000, guid: 2ec191a372846d54aa89458840f1ec9a, type: 2}
-  - {fileID: 11400000, guid: 6ad7e060040fe6d41bbbd857e75c33f8, type: 2}
-  - {fileID: 11400000, guid: 0a82441659a873d469daede54765cfcf, type: 2}

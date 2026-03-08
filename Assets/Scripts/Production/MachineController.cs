@@ -9,14 +9,14 @@ namespace FactoryRush.Scripts.Production
     public enum MachineState
     {
         Idle,
+        WaitingForInput,
         Producing,
-        ReadyToHarvest,
-        WaitingForInput
+        ReadyToHarvest
     }
 
     public class MachineController : MonoBehaviour
     {
-        [Header("Settings")]
+        [Header("Data")]
         public MachineSO machineData;
 
         [Header("State")]
@@ -24,14 +24,13 @@ namespace FactoryRush.Scripts.Production
         [SerializeField] private float currentProgress = 0f;
 
         [Header("Events")]
-        public UnityEvent OnProductionStarted;
-        public UnityEvent<float> OnProductionProgress; // 0 to 1
-        public UnityEvent OnProductionComplete;
-        public UnityEvent OnHarvested;
+        public UnityEvent OnProductionStarted = new UnityEvent();
+        public UnityEvent<float> OnProductionProgress = new UnityEvent<float>(); // 0 to 1
+        public UnityEvent OnProductionComplete = new UnityEvent();
+        public UnityEvent OnHarvested = new UnityEvent();
 
         // Reference to external inventory logic (to be linked later)
-        // We use a delegate/event approach to stay decoupled
-        public delegate bool TakeItemsDelegate(List<ItemSO> items);
+        public delegate bool TakeItemsDelegate(List<ItemSO> inputs);
         public delegate void AddItemDelegate(ItemSO item);
 
         public TakeItemsDelegate OnRequestInputs;
@@ -41,7 +40,7 @@ namespace FactoryRush.Scripts.Production
         {
             if (machineData == null)
             {
-                Debug.LogError($"MachineData missing on {gameObject.name}");
+                Debug.LogError($"[Machine] MachineData missing on {gameObject.name}!");
                 return;
             }
 
@@ -50,17 +49,13 @@ namespace FactoryRush.Scripts.Production
             {
                 ProductionManager.Instance.RegisterMachine(this);
             }
+            else
+            {
+                Debug.LogWarning($"[Machine] ProductionManager Instance not found for {gameObject.name}!");
+            }
 
             // Start production checking
             StartCoroutine(AutoProductionTicker());
-        }
-
-        private void OnDestroy()
-        {
-            if (ProductionManager.Instance != null)
-            {
-                ProductionManager.Instance.UnregisterMachine(this);
-            }
         }
 
         private IEnumerator AutoProductionTicker()
@@ -94,6 +89,7 @@ namespace FactoryRush.Scripts.Production
             else
             {
                 // Generators like Wheat Field don't need input
+                Debug.Log($"[Machine] {machineData.machineName} starting automatic production.");
                 StartCoroutine(ProductionCycle());
             }
         }
@@ -113,6 +109,7 @@ namespace FactoryRush.Scripts.Production
 
             currentProgress = machineData.productionTime;
             currentState = MachineState.ReadyToHarvest;
+            Debug.Log($"[Machine] {machineData.machineName} is READY TO HARVEST!");
             OnProductionComplete?.Invoke();
         }
 
@@ -123,19 +120,19 @@ namespace FactoryRush.Scripts.Production
             if (OnRequestAddItem != null)
             {
                 OnRequestAddItem(machineData.outputItem);
+                Debug.Log($"[Machine] {machineData.machineName} Harvested: {machineData.outputItem.itemName}!");
                 currentState = MachineState.Idle;
                 OnHarvested?.Invoke();
 
-                // Try to start next cycle immediately
+                // Restart production if possible
                 TryStartProduction();
             }
             else
             {
-                Debug.LogWarning("Cannot harvest: No Inventory delegate provider linked!");
+                Debug.LogWarning($"[Machine] {machineData.machineName} cannot harvest because OnRequestAddItem delegate is missing!");
             }
         }
 
-        // For UI/Interaction
         public MachineState GetState() => currentState;
         public float GetProgress() => currentProgress / machineData.productionTime;
     }

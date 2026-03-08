@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using UnityEngine;
+using FactoryRush.Scripts.Inventory;
 using FactoryRush.Scripts.ScriptableObjects.Definitions;
 
 namespace FactoryRush.Scripts.Production
@@ -26,6 +27,23 @@ namespace FactoryRush.Scripts.Production
             else
             {
                 Destroy(gameObject);
+            }
+        }
+
+        // Automatically link InventoryManager delegates.
+        private void Start()
+        {
+            if (InventoryManager.Instance != null)
+            {
+                SetupInventoryLinks(
+                    InventoryManager.Instance.RemoveItems,
+                    InventoryManager.Instance.AddItem
+                );
+            }
+            else
+            {
+                Debug.LogError("ProductionManager: InventoryManager.Instance is null in Start()! " +
+                               "Make sure InventoryManager is in the scene and initialized before ProductionManager.");
             }
         }
 

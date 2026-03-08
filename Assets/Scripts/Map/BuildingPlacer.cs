@@ -16,13 +16,13 @@ public class BuildingPlacer : MonoBehaviour
     {
         if (clickedSlot.isOccupied)
         {
-            Debug.Log("Ô này đã có công trình, không thể xây đè!");
+            Debug.LogWarning("Slot already occupied!");
             return;
         }
 
         if (buildingPrefab == null)
         {
-            Debug.LogError("Chưa gán prefab nhà vào BuildingPlacer!");
+            Debug.LogError("Building prefab is securely missing in BuildingPlacer!");
             return;
         }
 
@@ -32,6 +32,6 @@ public class BuildingPlacer : MonoBehaviour
 
         clickedSlot.SetOccupied(true);
 
-        Debug.Log($"Thành công: Đã xây {buildingPrefab.name} tại {clickedSlot.gameObject.name}");
+        Debug.Log($"Successfully built {buildingPrefab.name} at {clickedSlot.gameObject.name}");
     }
 }

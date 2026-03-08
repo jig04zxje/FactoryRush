@@ -30,6 +30,15 @@ namespace FactoryRush.Scripts.Inventory
             }
         }
 
+        // Added AddItem(ItemSO) overload to match MachineController.AddItemDelegate signature
+        /// <summary>
+        /// Overload used by MachineController.AddItemDelegate — adds 1 unit of an item.
+        /// </summary>
+        public void AddItem(ItemSO item)
+        {
+            AddItem(item, 1);
+        }
+
         public bool AddItem(ItemSO item, int amount)
         {
             if (item == null) return false;
@@ -64,6 +73,42 @@ namespace FactoryRush.Scripts.Inventory
             else
             {
                 OnInventoryChanged?.Invoke(item, _items[item]);
+            }
+
+            return true;
+        }
+
+        // Added RemoveItems(List<ItemSO>) to match MachineController.TakeItemsDelegate signature
+        /// <summary>
+        /// Atomically checks and removes a list of items. Used by MachineController.TakeItemsDelegate.
+        /// Returns true only if ALL required items were present and successfully removed.
+        /// </summary>
+        public bool RemoveItems(List<ItemSO> items)
+        {
+            if (items == null || items.Count == 0) return true;
+
+            // First pass: tally required amounts per item type
+            var required = new Dictionary<ItemSO, int>();
+            foreach (var item in items)
+            {
+                if (item == null) continue;
+                if (!required.ContainsKey(item)) required[item] = 0;
+                required[item]++;
+            }
+
+            // Check that we have enough of each before consuming anything
+            foreach (var kvp in required)
+            {
+                if (!HasEnough(kvp.Key, kvp.Value))
+                {
+                    return false;
+                }
+            }
+
+            // Second pass: remove all items
+            foreach (var kvp in required)
+            {
+                RemoveItem(kvp.Key, kvp.Value);
             }
 
             return true;

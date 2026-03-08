@@ -11,8 +11,16 @@ namespace FactoryRush.Scripts.Inventory
 
         private void Awake()
         {
-            if (Instance == null) Instance = this;
-            else Destroy(gameObject);
+            if (Instance == null)
+            {
+                Instance = this;
+                // Added DontDestroyOnLoad so MarketManager persists on scene reload.
+                DontDestroyOnLoad(gameObject);
+            }
+            else
+            {
+                Destroy(gameObject);
+            }
         }
 
         public void SellItem(ItemSO item, int quantity)

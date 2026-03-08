@@ -20,13 +20,14 @@ namespace FactoryRush.Scripts.Production
 
         private void HandleClick()
         {
-            // Simple Raycast for 2D interaction
             Vector2 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-            RaycastHit2D hit = Physics2D.Raycast(mousePos, Vector2.zero, 0f, machineLayer);
 
-            if (hit.collider != null)
+            // 1. Check precisely on Machine Layer
+            Collider2D hitCollider = Physics2D.OverlapPoint(mousePos, machineLayer);
+
+            if (hitCollider != null)
             {
-                MachineController machine = hit.collider.GetComponent<MachineController>();
+                MachineController machine = hitCollider.GetComponent<MachineController>();
                 if (machine != null)
                 {
                     if (machine.GetState() == MachineState.ReadyToHarvest)
@@ -35,8 +36,29 @@ namespace FactoryRush.Scripts.Production
                     }
                     else
                     {
-                        Debug.Log($"Machine {machine.machineData.machineName} is not ready yet ({machine.GetState()})");
+                        Debug.Log($"[Harvest] {machine.machineData.machineName} is not ready yet ({machine.GetState()})");
                     }
+                }
+            }
+            else
+            {
+                // 2. DIAGNOSTIC: Check what was actually hit regardless of layer
+                Collider2D anyHit = Physics2D.OverlapPoint(mousePos);
+
+                if (anyHit != null)
+                {
+                    string layerName = LayerMask.LayerToName(anyHit.gameObject.layer);
+                    Debug.LogWarning($"[Harvest] Clicked '{anyHit.gameObject.name}' on Layer '{layerName}'. " +
+                                     $"Expected Layer Mask: {machineLayer.value}.");
+
+                    if (anyHit.gameObject.name.Contains("Slot"))
+                    {
+                        Debug.LogWarning("[Harvest] HINT: You clicked a GridSlot. Ensure the machine has a Collider2D and correct Layer.");
+                    }
+                }
+                else
+                {
+                    Debug.Log($"[Harvest] Clicked empty space at {mousePos}.");
                 }
             }
         }

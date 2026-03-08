@@ -16,6 +16,8 @@ namespace FactoryRush.Scripts.Core
             if (Instance == null)
             {
                 Instance = this;
+                // Ensure gold persists across scene reloads (Retry).
+                DontDestroyOnLoad(gameObject);
             }
             else
             {
@@ -23,11 +25,25 @@ namespace FactoryRush.Scripts.Core
             }
         }
 
+        private void Start()
+        {
+            // Reset gold when a new game starts.
+            if (GameStateManager.Instance != null)
+            {
+                GameStateManager.Instance.OnGameStarted.AddListener(ResetGold);
+            }
+        }
+
+        public void ResetGold()
+        {
+            _totalGold = 200; // Starting gold as per design doc
+            OnGoldChanged?.Invoke(_totalGold);
+        }
+
         public void AddGold(int amount)
         {
             _totalGold += amount;
             OnGoldChanged?.Invoke(_totalGold);
-            Debug.Log($"Gold Added: {amount}. Total: {_totalGold}");
         }
 
         public bool SpendGold(int amount)

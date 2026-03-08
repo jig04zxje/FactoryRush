@@ -3,46 +3,46 @@ using UnityEngine;
 using UnityEngine.Events;
 
 /// <summary>
-/// Quản lý bộ đếm ngược trong game.
-/// Sử dụng Singleton pattern để truy cập toàn cục.
+/// Manages the game's countdown timer.
+/// Uses Singleton pattern for global access.
 /// </summary>
 public class TimerManager : MonoBehaviour
 {
-    /// <summary>Singleton instance duy nhất của TimerManager.</summary>
+    /// <summary>Singleton instance of TimerManager.</summary>
     public static TimerManager Instance { get; private set; }
 
     [Header("Config")]
-    /// <summary>Thời gian mặc định của bộ đếm ngược (giây).</summary>
+    /// <summary>Default duration of the countdown timer (seconds).</summary>
     [SerializeField] private float defaultDurationSeconds = 300f;
 
-    /// <summary>Ngưỡng cảnh báo khi thời gian còn lại ít (giây).</summary>
+    /// <summary>Warning threshold when time remaining is low (seconds).</summary>
     [SerializeField] private float warningThresholdSeconds = 30f;
 
     [Header("State")]
-    /// <summary>Thời gian còn lại hiện tại (giây).</summary>
+    /// <summary>Current time remaining (seconds).</summary>
     [SerializeField] private float timeRemaining;
 
-    /// <summary>Property public để đọc thời gian còn lại từ bên ngoài.</summary>
+    /// <summary>Public property to read the remaining time.</summary>
     public float TimeRemaining => timeRemaining;
 
-    /// <summary>Trạng thái đang chạy của bộ đếm ngược.</summary>
+    /// <summary>Running state of the countdown timer.</summary>
     public bool IsRunning { get; private set; }
 
     [Header("Events")]
-    /// <summary>Sự kiện được gọi một lần khi thời gian còn lại dưới ngưỡng cảnh báo.</summary>
-    public UnityEvent OnTimerWarning;
+    /// <summary>Event fired once when remaining time is below the warning threshold.</summary>
+    public UnityEvent OnTimerWarning = new UnityEvent();
 
-    /// <summary>Sự kiện được gọi khi bộ đếm ngược kết thúc (hết giờ).</summary>
-    public UnityEvent OnTimerEnd;
+    /// <summary>Event fired when the countdown timer ends (time's up).</summary>
+    public UnityEvent OnTimerEnd = new UnityEvent();
 
-    /// <summary>Tham chiếu đến coroutine đang chạy để có thể dừng khi cần.</summary>
+    /// <summary>Reference to the running coroutine to stop it when needed.</summary>
     private Coroutine countdownRoutine;
 
-    /// <summary>Cờ đánh dấu đã phát cảnh báo hay chưa, tránh gọi lặp lại.</summary>
+    /// <summary>Flag marking whether the warning has been fired.</summary>
     private bool warned;
 
     /// <summary>
-    /// Khởi tạo Singleton. Nếu đã tồn tại instance khác thì hủy object này.
+    /// Initializes the Singleton. Destroys duplicate instances.
     /// </summary>
     private void Awake()
     {
@@ -56,8 +56,8 @@ public class TimerManager : MonoBehaviour
     }
 
     /// <summary>
-    /// Lắng nghe event khi game bắt đầu → tự khởi động timer.
-    /// Đăng ký gọi EndGame khi hết giờ.
+    /// Listens for the game started event to auto-start the timer.
+    /// Registers to call EndGame when time is up.
     /// </summary>
     private void Start()
     {
@@ -65,13 +65,13 @@ public class TimerManager : MonoBehaviour
         {
             GameStateManager.Instance.OnGameStarted.AddListener(StartTimerDefault);
 
-            // Khi hết giờ → tự động kết thúc game
+            // Automatically end the game when time is up
             OnTimerEnd.AddListener(GameStateManager.Instance.EndGame);
         }
     }
 
     /// <summary>
-    /// Bắt đầu bộ đếm ngược với thời gian mặc định đã cấu hình.
+    /// Starts the countdown timer with the configured default duration.
     /// </summary>
     public void StartTimerDefault()
     {
@@ -79,10 +79,10 @@ public class TimerManager : MonoBehaviour
     }
 
     /// <summary>
-    /// Bắt đầu bộ đếm ngược với số giây chỉ định.
-    /// Tự động dừng timer cũ nếu đang chạy.
+    /// Starts the countdown timer with the specified seconds.
+    /// Automatically stops the old timer if it's running.
     /// </summary>
-    /// <param name="seconds">Số giây cho bộ đếm ngược (tối thiểu 0).</param>
+    /// <param name="seconds">Number of seconds for the countdown timer.</param>
     public void StartTimer(float seconds)
     {
         StopTimer();
@@ -95,7 +95,7 @@ public class TimerManager : MonoBehaviour
     }
 
     /// <summary>
-    /// Dừng bộ đếm ngược và hủy coroutine đang chạy.
+    /// Stops the countdown timer and cancels the running coroutine.
     /// </summary>
     public void StopTimer()
     {
@@ -109,24 +109,24 @@ public class TimerManager : MonoBehaviour
     }
 
     /// <summary>
-    /// Coroutine thực hiện đếm ngược mỗi frame.
-    /// Phát sự kiện cảnh báo khi gần hết giờ và sự kiện kết thúc khi hết giờ.
+    /// Coroutine that performs the countdown every frame.
+    /// Fires the warning event when time is low and the end event when time is up.
     /// </summary>
     private IEnumerator CountdownCoroutine()
     {
         while (IsRunning)
         {
-            // Giảm thời gian theo thời gian thực mỗi frame
+            // Decrease time based on real time every frame
             timeRemaining -= Time.deltaTime;
 
-            // Kiểm tra và phát cảnh báo một lần duy nhất khi dưới ngưỡng
+            // Check and fire warning once when below threshold
             if (!warned && timeRemaining <= warningThresholdSeconds && timeRemaining > 0f)
             {
                 warned = true;
                 OnTimerWarning?.Invoke();
             }
 
-            // Hết giờ → dừng timer và phát sự kiện kết thúc
+            // Time's up -> stop timer and fire end event
             if (timeRemaining <= 0f)
             {
                 timeRemaining = 0f;
@@ -135,13 +135,12 @@ public class TimerManager : MonoBehaviour
                 yield break;
             }
 
-            // Chờ đến frame tiếp theo
             yield return null;
         }
     }
 
     /// <summary>
-    /// Trả về thời gian còn lại dưới dạng chuỗi "mm:ss" để hiển thị lên UI.
+    /// Returns the remaining time as an "mm:ss" string for UI display.
     /// </summary>
     public string GetTimeText()
     {

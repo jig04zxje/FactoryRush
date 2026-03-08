@@ -10,7 +10,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1050291111227156929}
   - component: {fileID: 71552915580154341}
-  m_Layer: 0
+  - component: {fileID: 6182123265872190421}
+  - component: {fileID: 6842872933537862337}
+  m_Layer: 3
   m_Name: Building_Wheatfield
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -81,7 +83,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 75f5f34dc1b5347e0b8351032682f224, type: 3}
+  m_Sprite: {fileID: 1749023864346193327, guid: fa3dbad510d8f3d48a3cc912145d17b9, type: 3}
   m_Color: {r: 0.9275635, g: 1, b: 0.023584902, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -91,3 +93,76 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
+--- !u!114 &6182123265872190421
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7621031748506586241}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e687ec0eb5138a242a84cef4b0e8111f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::FactoryRush.Scripts.Production.MachineController
+  machineData: {fileID: 11400000, guid: 895734d9dbb4a2e469c0c739fd986592, type: 2}
+  currentState: 0
+  currentProgress: 0
+  OnProductionStarted:
+    m_PersistentCalls:
+      m_Calls: []
+  OnProductionProgress:
+    m_PersistentCalls:
+      m_Calls: []
+  OnProductionComplete:
+    m_PersistentCalls:
+      m_Calls: []
+  OnHarvested:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!61 &6842872933537862337
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7621031748506586241}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 14.28125, y: 7.5}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 14.28125, y: 7.5}
+  m_EdgeRadius: 0

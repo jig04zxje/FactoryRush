@@ -1,21 +1,21 @@
-﻿using UnityEngine;
-using UnityEngine.UI;
+﻿using FactoryRush.Scripts.Core;
+using UnityEngine;
+using TMPro;
 
 
 /// <summary>
-/// Hiển thị điểm số cao nhất (HighScore) trên UI.
-/// Lắng nghe sự kiện OnGoldChanged từ ScoreManager để cập nhật giá trị.
+/// Displays current total gold on the UI.
+/// Listens to OnGoldChanged event from ScoreManager to update the text.
 /// </summary>
 public class ScoreDisplay : MonoBehaviour
 {
     /// <summary>
-    /// Text UI hiển thị điểm số.
+    /// UI Text displaying the score (using TextMeshPro).
     /// </summary>
-    [SerializeField] private Text totalGoldText;
+    [SerializeField] private TextMeshProUGUI totalGoldText;
 
     /// <summary>
-    /// Khởi tạo và đăng ký sự kiện tính điểm số cao nhất. 
-    /// Cập nhật hiển thị ngay khi bắt đầu.
+    /// Updates display on Start.
     /// </summary>
     private void Start()
     {
@@ -24,15 +24,29 @@ public class ScoreDisplay : MonoBehaviour
             ScoreManager.Instance.OnGoldChanged.AddListener(UpdateDisplay);
             UpdateDisplay(ScoreManager.Instance.GetGold());
         }
+        else
+        {
+            Debug.LogWarning("ScoreDisplay: ScoreManager.Instance is null in Start()!");
+        }
+    }
+
+    private void OnDestroy()
+    {
+        // Unsubscribe on destroy to prevent memory leaks or null reference errors.
+        if (ScoreManager.Instance != null)
+        {
+            ScoreManager.Instance.OnGoldChanged.RemoveListener(UpdateDisplay);
+        }
     }
 
     /// <summary>
-    /// Cập nhật hiển thị điểm số cao nhất trên UI.
+    /// Updates the UI text with the current gold.
     /// </summary>
-    /// <param name="gold">Số Gold hiện tại.</param>
+    /// <param name="gold">Current gold amount.</param>
     public void UpdateDisplay(int gold)
     {
-        totalGoldText.text = $"Total Gold: {gold}";
+        if (totalGoldText != null)
+            totalGoldText.text = $"Gold: {gold}";
     }
 
 }

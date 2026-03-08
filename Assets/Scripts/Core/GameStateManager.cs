@@ -3,52 +3,54 @@ using UnityEngine.Events;
 using UnityEngine.SceneManagement;
 
 /// <summary>
-/// Enum định nghĩa các trạng thái chính của game.
+/// Enum defining the main game states.
 /// </summary>
 public enum GameState
 {
-    /// <summary>Màn hình menu chính.</summary>
+    /// <summary>Main menu screen.</summary>
     MainMenu,
-    /// <summary>Đang trong lượt chơi.</summary>
+    /// <summary>Active gameplay.</summary>
     Playing,
-    /// <summary>Kết thúc lượt chơi.</summary>
+    /// <summary>Game over screen.</summary>
     GameOver
 }
 
 /// <summary>
-/// Quản lý trạng thái game (MainMenu, Playing, GameOver).
-/// Sử dụng Singleton pattern để truy cập toàn cục.
-/// Phát sự kiện khi trạng thái thay đổi để các hệ thống khác phản ứng.
+/// Manages the game state (MainMenu, Playing, GameOver).
+/// Uses Singleton pattern for global access.
+/// Fires events on state changes for other systems to react.
 /// </summary>
 public class GameStateManager : MonoBehaviour
 {
-    /// <summary>Singleton instance duy nhất của GameStateManager.</summary>
+    /// <summary>Singleton instance of GameStateManager.</summary>
     public static GameStateManager Instance { get; private set; }
 
-    /// <summary>Trạng thái hiện tại của game, mặc định là MainMenu.</summary>
+    /// <summary>Current game state, default is MainMenu.</summary>
     [SerializeField] private GameState state = GameState.MainMenu;
 
-    /// <summary>Property public chỉ đọc để truy cập trạng thái game từ bên ngoài.</summary>
+    /// <summary>Read-only property to access game state.</summary>
     public GameState State => state;
 
-    /// <summary>Sự kiện được gọi khi game bắt đầu (chuyển sang Playing).</summary>
-    public UnityEvent OnGameStarted;
+    /// <summary>Event fired when the game starts (Playing state).</summary>
+    public UnityEvent OnGameStarted = new UnityEvent();
 
-    /// <summary>Sự kiện được gọi khi game kết thúc (chuyển sang GameOver).</summary>
-    public UnityEvent OnGameOver;
+    /// <summary>Event fired when the game ends (GameOver state).</summary>
+    public UnityEvent OnGameOver = new UnityEvent();
 
     /// <summary>
-    /// Khởi tạo Singleton. Nếu đã tồn tại instance khác thì hủy object này.
+    /// Initializes the Singleton. Destroys duplicate instances.
     /// </summary>
     private void Awake()
     {
         if (Instance != null && Instance != this) { Destroy(gameObject); return; }
         Instance = this;
+        // BUG FIX: Added DontDestroyOnLoad so game state persists across scene reloads.
+        DontDestroyOnLoad(gameObject);
     }
 
     /// <summary>
-    /// Bắt đầu game. Chuyển trạng thái sang Playing và phát sự kiện OnGameStarted.
-    /// Bỏ qua nếu game đã đang chạy.
+    /// Starts the game. Changes state to Playing and fires OnGameStarted.
+    /// Ignored if game is already running.
     /// </summary>
     public void StartGame()
     {
@@ -58,8 +60,8 @@ public class GameStateManager : MonoBehaviour
     }
 
     /// <summary>
-    /// Kết thúc game. Chuyển trạng thái sang GameOver và phát sự kiện OnGameOver.
-    /// Chỉ hoạt động khi đang ở trạng thái Playing.
+    /// Ends the game. Changes state to GameOver and fires OnGameOver.
+    /// Only works when in Playing state.
     /// </summary>
     public void EndGame()
     {
@@ -67,9 +69,9 @@ public class GameStateManager : MonoBehaviour
         state = GameState.GameOver;
         OnGameOver?.Invoke();
     }
-    
+
     /// <summary>
-    /// Tải lại scene hiện tại (hard reset toàn bộ).
+    /// Reloads the current scene (hard reset).
     /// </summary>
     public void RetryGame()
     {

@@ -10,7 +10,7 @@ public class GridManager : MonoBehaviour
     [Header("References")]
     public GameObject slotPrefab;
 
-    // 2D array store Gridslot
+    // 2D array storing GridSlots
     private GridSlot[,] gridArray;
 
     void Start()
@@ -41,7 +41,7 @@ public class GridManager : MonoBehaviour
         }
     }
 
-    //Get information gridslot
+    // Get information of a specific GridSlot
     public GridSlot GetSlotAt(int x, int y)
     {
         if (x >= 0 && x < width && y >= 0 && y < height)

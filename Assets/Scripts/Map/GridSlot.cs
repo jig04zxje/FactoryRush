@@ -8,7 +8,7 @@ public class GridSlot : MonoBehaviour
     [Header("Visual Colors")]
     public Color emptyColor = Color.green;
     public Color occupiedColor = Color.gray;
-    public Color hoverColor = Color.yellow; 
+    public Color hoverColor = Color.yellow;
 
     void Awake()
     {
@@ -38,10 +38,6 @@ public class GridSlot : MonoBehaviour
             {
                 BuildingPlacer.Instance.PlaceBuilding(this);
             }
-        }
-        else
-        {
-            Debug.Log($"Ô {gameObject.name} đã có nhà rồi!");
         }
     }
 

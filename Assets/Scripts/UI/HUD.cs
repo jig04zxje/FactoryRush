@@ -46,11 +46,16 @@ namespace FactoryRush.Scripts.UI
 
         private void UpdateTimerUI()
         {
-            // Placeholder: Connect to Member Lương's TimerManager
-            // float time = TimerManager.Instance.TimeRemaining;
-            // timerText.text = FormatTime(time);
+            // Ensure timer text updates if uncommented.
+            if (TimerManager.Instance == null) return;
 
-            // if (time < 30f) timerWarningEffect.SetActive(true);
+            float time = TimerManager.Instance.TimeRemaining;
+            if (timerText != null)
+                timerText.text = FormatTime(time);
+
+            // Show warning effect when < 30 seconds
+            if (timerWarningEffect != null)
+                timerWarningEffect.SetActive(time < 30f && TimerManager.Instance.IsRunning);
         }
 
         private string FormatTime(float time)

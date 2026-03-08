@@ -2,6 +2,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using FactoryRush.Scripts.Inventory;
 using FactoryRush.Scripts.ScriptableObjects.Definitions;
+using FactoryRush.Scripts.Core;
 
 namespace FactoryRush.Scripts.UI
 {
@@ -12,9 +13,33 @@ namespace FactoryRush.Scripts.UI
         [SerializeField] private Transform rowContainer;
         [SerializeField] private List<ItemSO> sellableItems; // Items that can be sold
 
+        private CanvasGroup canvasGroup;
+
         private void Start()
         {
+            canvasGroup = GetComponent<CanvasGroup>();
+            if (canvasGroup == null)
+            {
+                // Auto-add if missing
+                canvasGroup = gameObject.AddComponent<CanvasGroup>();
+            }
+
+            if (GameStateManager.Instance != null)
+            {
+                UpdateInteractability(GameStateManager.Instance.State);
+                GameStateManager.Instance.OnGameStarted.AddListener(() => UpdateInteractability(GameState.Playing));
+                GameStateManager.Instance.OnGameOver.AddListener(() => UpdateInteractability(GameState.GameOver));
+            }
+
             InitializeMarket();
+        }
+
+        private void UpdateInteractability(GameState state)
+        {
+            if (canvasGroup != null)
+            {
+                canvasGroup.interactable = (state == GameState.Playing);
+            }
         }
 
         public void InitializeMarket()

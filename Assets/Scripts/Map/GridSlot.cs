@@ -19,6 +19,8 @@ public class GridSlot : MonoBehaviour
 
     private void OnMouseEnter()
     {
+        if (GameStateManager.Instance != null && GameStateManager.Instance.State != GameState.Playing) return;
+
         if (!isOccupied && spriteRenderer != null)
         {
             spriteRenderer.color = hoverColor;
@@ -29,18 +31,6 @@ public class GridSlot : MonoBehaviour
     {
         UpdateVisual();
     }
-
-    private void OnMouseDown()
-    {
-        if (!isOccupied)
-        {
-            if (BuildingPlacer.Instance != null)
-            {
-                BuildingPlacer.Instance.PlaceBuilding(this);
-            }
-        }
-    }
-
 
     public void SetOccupied(bool status)
     {

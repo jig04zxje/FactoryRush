@@ -9,9 +9,10 @@ namespace FactoryRush.Scripts.Production
     public enum MachineState
     {
         Idle,
-        WaitingForInput,
-        Producing,
-        ReadyToHarvest
+        WaitingForInput,  // Configured inputs but inventory lacks materials
+        Producing,        // Production Coroutine is running
+        ReadyToHarvest,   // Finished, waiting for player click
+        InventoryFull     // Output item inventory is full, production blocked
     }
 
     public class MachineController : MonoBehaviour
@@ -19,22 +20,36 @@ namespace FactoryRush.Scripts.Production
         [Header("Data")]
         public MachineSO machineData;
 
-        [Header("State")]
+        [Header("State (Read-only in Inspector)")]
         [SerializeField] private MachineState currentState = MachineState.Idle;
         [SerializeField] private float currentProgress = 0f;
 
+        // ── Events used by MachineVisualController & UI ─────────────────────
         [Header("Events")]
         public UnityEvent OnProductionStarted = new UnityEvent();
-        public UnityEvent<float> OnProductionProgress = new UnityEvent<float>(); // 0 to 1
-        public UnityEvent OnProductionComplete = new UnityEvent();
+        public UnityEvent<float> OnProductionProgress = new UnityEvent<float>(); // 0..1
+        public UnityEvent OnProductionComplete = new UnityEvent(); // ReadyToHarvest
         public UnityEvent OnHarvested = new UnityEvent();
+        public UnityEvent OnWaitingForInput = new UnityEvent(); // shows "?" warning
+        public UnityEvent OnInventoryFull = new UnityEvent(); // shows "!" warning
+        public UnityEvent OnProductionStopped = new UnityEvent(); // Game Over
 
-        // Reference to external inventory logic (to be linked later)
+        // ── Delegates linked to InventoryManager ───────────────────────────────
         public delegate bool TakeItemsDelegate(List<ItemSO> inputs);
         public delegate void AddItemDelegate(ItemSO item);
+        public delegate bool IsItemFullDelegate(ItemSO item);
 
         public TakeItemsDelegate OnRequestInputs;
         public AddItemDelegate OnRequestAddItem;
+        public IsItemFullDelegate OnCheckInventoryFull;
+
+        // ── Coroutine references ──────────────────────────────────────────────
+        private Coroutine _productionCoroutine;
+        private Coroutine _tickerCoroutine;
+        private bool _isGameOver = false;
+
+        // ─────────────────────────────────────────────────────────────────────
+        #region Unity Lifecycle
 
         private void Start()
         {
@@ -44,64 +59,101 @@ namespace FactoryRush.Scripts.Production
                 return;
             }
 
-            // Register with global manager
-            if (ProductionManager.Instance != null)
-            {
-                ProductionManager.Instance.RegisterMachine(this);
-            }
-            else
-            {
-                Debug.LogWarning($"[Machine] ProductionManager Instance not found for {gameObject.name}!");
-            }
+            // Register GameOver listener
+            if (GameStateManager.Instance != null)
+                GameStateManager.Instance.OnGameOver.AddListener(StopProduction);
 
-            // Start production checking
-            StartCoroutine(AutoProductionTicker());
+            // Register with ProductionManager
+            if (ProductionManager.Instance != null)
+                ProductionManager.Instance.RegisterMachine(this);
+            else
+                Debug.LogWarning($"[Machine] ProductionManager not found for {gameObject.name}!");
+
+            // Start auto-ticker
+            _tickerCoroutine = StartCoroutine(AutoProductionTicker());
         }
 
+        private void OnDestroy()
+        {
+            if (GameStateManager.Instance != null)
+                GameStateManager.Instance.OnGameOver.RemoveListener(StopProduction);
+
+            if (ProductionManager.Instance != null)
+                ProductionManager.Instance.UnregisterMachine(this);
+        }
+
+        #endregion
+
+        // ─────────────────────────────────────────────────────────────────────
+        #region Core Production Loop
+
+        /// <summary>Ticker checks every second if production can start.</summary>
         private IEnumerator AutoProductionTicker()
         {
-            while (true)
+            while (!_isGameOver)
             {
                 if (currentState == MachineState.Idle || currentState == MachineState.WaitingForInput)
-                {
                     TryStartProduction();
-                }
+
                 yield return new WaitForSeconds(1f);
             }
         }
 
+        /// <summary>Try to start a new production cycle.</summary>
         public void TryStartProduction()
         {
+            if (_isGameOver) return;
             if (currentState != MachineState.Idle && currentState != MachineState.WaitingForInput) return;
 
-            // Check if we have delegates hooked up or if we need inputs
-            if (machineData.requiredInputs.Count > 0)
+            // --- Check if output inventory is full ---
+            if (OnCheckInventoryFull != null && machineData.outputItem != null)
+            {
+                if (OnCheckInventoryFull(machineData.outputItem))
+                {
+                    currentState = MachineState.InventoryFull;
+                    Debug.LogWarning($"[Machine] {machineData.machineName}: Inventory full for {machineData.outputItem.itemName}! Production blocked.");
+                    OnInventoryFull?.Invoke();
+                    return;
+                }
+            }
+
+            // --- Check & consume inputs ---
+            if (machineData.requiredInputs != null && machineData.requiredInputs.Count > 0)
             {
                 if (OnRequestInputs != null && OnRequestInputs(machineData.requiredInputs))
                 {
-                    StartCoroutine(ProductionCycle());
+                    // Enough materials → start production
+                    _productionCoroutine = StartCoroutine(ProductionCycle());
                 }
                 else
                 {
-                    currentState = MachineState.WaitingForInput;
+                    // Not enough materials
+                    if (currentState != MachineState.WaitingForInput)
+                    {
+                        currentState = MachineState.WaitingForInput;
+                        Debug.Log($"[Machine] {machineData.machineName}: Waiting for input materials.");
+                        OnWaitingForInput?.Invoke();
+                    }
                 }
             }
             else
             {
-                // Generators like Wheat Field don't need input
-                Debug.Log($"[Machine] {machineData.machineName} starting automatic production.");
-                StartCoroutine(ProductionCycle());
+                // Generator (Wheat Field, Chicken Coop) — no input required
+                _productionCoroutine = StartCoroutine(ProductionCycle());
             }
         }
 
+        /// <summary>Coroutine that counts time for 1 production cycle.</summary>
         private IEnumerator ProductionCycle()
         {
             currentState = MachineState.Producing;
             currentProgress = 0f;
             OnProductionStarted?.Invoke();
+            Debug.Log($"[Machine] {machineData.machineName}: Production started ({machineData.productionTime}s).");
 
             while (currentProgress < machineData.productionTime)
             {
+                if (_isGameOver) yield break;
                 currentProgress += Time.deltaTime;
                 OnProductionProgress?.Invoke(currentProgress / machineData.productionTime);
                 yield return null;
@@ -109,31 +161,82 @@ namespace FactoryRush.Scripts.Production
 
             currentProgress = machineData.productionTime;
             currentState = MachineState.ReadyToHarvest;
-            Debug.Log($"[Machine] {machineData.machineName} is READY TO HARVEST!");
+            Debug.Log($"[Machine] {machineData.machineName}: READY TO HARVEST!");
             OnProductionComplete?.Invoke();
         }
 
+        #endregion
+
+        // ─────────────────────────────────────────────────────────────────────
+        #region Public API
+
+        /// <summary>Player clicks machine → harvest output.</summary>
         public void Harvest()
         {
             if (currentState != MachineState.ReadyToHarvest) return;
 
-            if (OnRequestAddItem != null)
+            if (OnRequestAddItem == null)
             {
-                OnRequestAddItem(machineData.outputItem);
-                Debug.Log($"[Machine] {machineData.machineName} Harvested: {machineData.outputItem.itemName}!");
-                currentState = MachineState.Idle;
-                OnHarvested?.Invoke();
+                Debug.LogWarning($"[Machine] {machineData.machineName}: OnRequestAddItem delegate missing!");
+                return;
+            }
 
-                // Restart production if possible
-                TryStartProduction();
-            }
-            else
+            // Check again before adding
+            if (OnCheckInventoryFull != null && OnCheckInventoryFull(machineData.outputItem))
             {
-                Debug.LogWarning($"[Machine] {machineData.machineName} cannot harvest because OnRequestAddItem delegate is missing!");
+                currentState = MachineState.InventoryFull;
+                Debug.LogWarning($"[Machine] {machineData.machineName}: Cannot harvest — inventory full!");
+                OnInventoryFull?.Invoke();
+                return;
             }
+
+            OnRequestAddItem(machineData.outputItem);
+            Debug.Log($"[Machine] {machineData.machineName}: Harvested {machineData.outputItem.itemName}!");
+
+            currentState = MachineState.Idle;
+            OnHarvested?.Invoke();
+
+            // Try to start the next cycle immediately
+            TryStartProduction();
         }
 
+        /// <summary>
+        /// Called when game ends — stops all coroutines,
+        /// fires no further harvest or production events.
+        /// </summary>
+        public void StopProduction()
+        {
+            _isGameOver = true;
+
+            if (_productionCoroutine != null)
+            {
+                StopCoroutine(_productionCoroutine);
+                _productionCoroutine = null;
+            }
+
+            if (_tickerCoroutine != null)
+            {
+                StopCoroutine(_tickerCoroutine);
+                _tickerCoroutine = null;
+            }
+
+            Debug.Log($"[Machine] {machineData.machineName}: Production stopped (Game Over).");
+            OnProductionStopped?.Invoke();
+        }
+
+        // ── Getters ──────────────────────────────────────────────────────────
+
+        /// <summary>Returns the current machine state.</summary>
         public MachineState GetState() => currentState;
-        public float GetProgress() => currentProgress / machineData.productionTime;
+
+        /// <summary>Returns production progress from 0.0 to 1.0.</summary>
+        public float GetProgress() => machineData != null && machineData.productionTime > 0
+            ? currentProgress / machineData.productionTime
+            : 0f;
+
+        /// <summary>Returns machine name from SO data.</summary>
+        public string GetMachineName() => machineData != null ? machineData.machineName : gameObject.name;
+
+        #endregion
     }
 }

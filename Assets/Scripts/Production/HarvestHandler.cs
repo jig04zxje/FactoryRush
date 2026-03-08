@@ -8,6 +8,6 @@ namespace FactoryRush.Scripts.Production
     [System.Obsolete("This script has been replaced by PlayerInputController. You can safely remove it from the scene.")]
     public class HarvestHandler : MonoBehaviour
     {
-        // Đoạn script này đã được dời chức năng sang file `PlayerInputController.cs`
+        // Nothing here
     }
 }

@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e96d00c70d40dd1449d27a923fab9402, type: 3}
-  m_Name: Wheatfield
+  m_Name: Machine_ChickenCoop
   m_EditorClassIdentifier: Assembly-CSharp::FactoryRush.Scripts.ScriptableObjects.Definitions.MachineSO
-  machineName: Wheatfield
+  machineName: Chicken Coop
   purchasePrice: 0
-  visualPrefab: {fileID: 7621031748506586241, guid: bcbd96e9225d2c64d89615659baaff22, type: 3}
+  visualPrefab: {fileID: 0}
   requiredInputs: []
-  outputItem: {fileID: 11400000, guid: a81a18871f48c0b488d119d56dc965d5, type: 2}
-  productionTime: 15
+  outputItem: {fileID: 11400000, guid: ce592fb0899810343b9c5aa02f8c303c, type: 2}
+  productionTime: 20
   description: 

@@ -1,3 +1,4 @@
+using FactoryRush.Scripts.Map;
 using UnityEngine;
 
 public class BuildingPlacer : MonoBehaviour

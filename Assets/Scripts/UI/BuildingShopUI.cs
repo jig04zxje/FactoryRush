@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using FactoryRush.Scripts.ScriptableObjects.Definitions;
 using FactoryRush.Scripts.Core;
-// using FactoryRush.Scripts.Map; // Assuming BuildingUnlockSystem is here
+using FactoryRush.Scripts.Map; // Assuming BuildingUnlockSystem is here
 
 namespace FactoryRush.Scripts.UI
 {
@@ -36,10 +36,7 @@ namespace FactoryRush.Scripts.UI
                 {
                     string path = UnityEditor.AssetDatabase.GUIDToAssetPath(guid);
                     MachineSO machine = UnityEditor.AssetDatabase.LoadAssetAtPath<MachineSO>(path);
-                    if (machine.purchasePrice > 0)
-                    {
-                        availableMachines.Add(machine);
-                    }
+                    availableMachines.Add(machine);
                 }
 
                 if (availableMachines.Count == 0)
@@ -139,8 +136,7 @@ namespace FactoryRush.Scripts.UI
                 Debug.Log($"[BuildingShopUI] Purchasing {machineConfig.machineName} for {machineConfig.purchasePrice}G.");
 
                 // Call placement system here (To be implemented by Placement system)
-                // PlacementSystem.Instance.StartPlacement(machineConfig);
-
+                BuildingUnlockSystem.Instance.StartPlacementMode(machineConfig.visualPrefab, machineConfig.purchasePrice);
                 Debug.Log($"[BuildingShopUI] -> Triggering Placement Mode for {machineConfig.machineName}");
                 CloseShop();
             }

@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.UI;
+using FactoryRush.Scripts.Timer;
 
 public class TimerDisplay : MonoBehaviour
 {

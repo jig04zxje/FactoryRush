@@ -48,6 +48,11 @@ public class GameStateManager : MonoBehaviour
         DontDestroyOnLoad(gameObject);
     }
 
+    private void OnDestroy()
+    {
+        // No longer subscribing to sceneLoaded, so no need to unsubscribe.
+    }
+
     /// <summary>
     /// Starts the game. Changes state to Playing and fires OnGameStarted.
     /// Ignored if game is already running.

@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::FactoryRush.Scripts.ScriptableObjects.Definitions.MachineSO
   machineName: Bakery
   purchasePrice: 0
-  visualPrefab: {fileID: 0}
+  visualPrefab: {fileID: 748274590558205643, guid: 9046661f55ab77042ab7cbc20b8ddc5c, type: 3}
   requiredInputs:
   - {fileID: 11400000, guid: a81a18871f48c0b488d119d56dc965d5, type: 2}
   - {fileID: 11400000, guid: a81a18871f48c0b488d119d56dc965d5, type: 2}

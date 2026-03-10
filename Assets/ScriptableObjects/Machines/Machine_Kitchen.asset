@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::FactoryRush.Scripts.ScriptableObjects.Definitions.MachineSO
   machineName: Kitchen
   purchasePrice: 80
-  visualPrefab: {fileID: 0}
+  visualPrefab: {fileID: 1981692585940980653, guid: f255e19f35970f34da7257391a57719e, type: 3}
   requiredInputs:
   - {fileID: 11400000, guid: ce592fb0899810343b9c5aa02f8c303c, type: 2}
   - {fileID: 11400000, guid: ce592fb0899810343b9c5aa02f8c303c, type: 2}

@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::FactoryRush.Scripts.ScriptableObjects.Definitions.MachineSO
   machineName: Mill
   purchasePrice: 120
-  visualPrefab: {fileID: 0}
+  visualPrefab: {fileID: 3323816482591321259, guid: 0ac07f69bc780b24a80a384510270058, type: 3}
   requiredInputs:
   - {fileID: 11400000, guid: a81a18871f48c0b488d119d56dc965d5, type: 2}
   - {fileID: 11400000, guid: a81a18871f48c0b488d119d56dc965d5, type: 2}

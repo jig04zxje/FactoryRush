@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: ae4cdfcfc831aa8458a6f203ae37d658
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6240122410694287666
+    second: '!$MV_Farmer_1_Chop_0'
+  - first:
+      213: -1449777694963336472
+    second: '!$MV_Farmer_1_Chop_1'
+  - first:
+      213: 600263873739917184
+    second: '!$MV_Farmer_1_Chop_2'
+  - first:
+      213: 6473216000923543822
+    second: '!$MV_Farmer_1_Chop_3'
+  - first:
+      213: -5051478027141129022
+    second: '!$MV_Farmer_1_Chop_4'
+  - first:
+      213: 2598150729512965290
+    second: '!$MV_Farmer_1_Chop_5'
+  - first:
+      213: 48487656738261922
+    second: '!$MV_Farmer_1_Chop_6'
+  - first:
+      213: 7315482335754136422
+    second: '!$MV_Farmer_1_Chop_7'
+  - first:
+      213: 6455486448026845414
+    second: '!$MV_Farmer_1_Chop_8'
+  - first:
+      213: -615347534557248224
+    second: '!$MV_Farmer_1_Chop_9'
+  - first:
+      213: 4413567500777698806
+    second: '!$MV_Farmer_1_Chop_10'
+  - first:
+      213: -2919938922354759076
+    second: '!$MV_Farmer_1_Chop_11'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!$MV_Farmer_1_Chop_0'
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 311
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecedc93aab1a669a0800000000000000
+      internalID: -6240122410694287666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Farmer_1_Chop_1'
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 287
+        width: 53
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eafc602eda51ebe0800000000000000
+      internalID: -1449777694963336472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Farmer_1_Chop_2'
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 290
+        width: 50
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08784c510d0945800800000000000000
+      internalID: 600263873739917184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Farmer_1_Chop_3'
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 191
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e092c6108ab75d950800000000000000
+      internalID: 6473216000923543822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Farmer_1_Chop_4'
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 191
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ccdf898f7b85e9b0800000000000000
+      internalID: -5051478027141129022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Farmer_1_Chop_5'
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 203
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4da89a25c7e0420800000000000000
+      internalID: 2598150729512965290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Farmer_1_Chop_6'
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 95
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab00e354434ca000800000000000000
+      internalID: 48487656738261922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Farmer_1_Chop_7'
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 95
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b254fdc60d58560800000000000000
+      internalID: 7315482335754136422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Farmer_1_Chop_8'
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 107
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e00dfac8be769950800000000000000
+      internalID: 6455486448026845414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Farmer_1_Chop_9'
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0258d457da8d577f0800000000000000
+      internalID: -615347534557248224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Farmer_1_Chop_10'
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 11
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f530140244204d30800000000000000
+      internalID: 4413567500777698806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Farmer_1_Chop_11'
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 11
+        width: 53
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a2537450b4a77d0800000000000000
+      internalID: -2919938922354759076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '!$MV_Farmer_1_Chop_0': -6240122410694287666
+      '!$MV_Farmer_1_Chop_1': -1449777694963336472
+      '!$MV_Farmer_1_Chop_10': 4413567500777698806
+      '!$MV_Farmer_1_Chop_11': -2919938922354759076
+      '!$MV_Farmer_1_Chop_2': 600263873739917184
+      '!$MV_Farmer_1_Chop_3': 6473216000923543822
+      '!$MV_Farmer_1_Chop_4': -5051478027141129022
+      '!$MV_Farmer_1_Chop_5': 2598150729512965290
+      '!$MV_Farmer_1_Chop_6': 48487656738261922
+      '!$MV_Farmer_1_Chop_7': 7315482335754136422
+      '!$MV_Farmer_1_Chop_8': 6455486448026845414
+      '!$MV_Farmer_1_Chop_9': -615347534557248224
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

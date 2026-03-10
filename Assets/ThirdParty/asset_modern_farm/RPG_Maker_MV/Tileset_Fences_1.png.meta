@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: 4e94fceff64e84a49b66e0fbe969d702
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1955447036859193121
+    second: Tileset_Fences_1_0
+  - first:
+      213: 324469959955794512
+    second: Tileset_Fences_1_1
+  - first:
+      213: -1505108923665900492
+    second: Tileset_Fences_1_2
+  - first:
+      213: 4082846572585869584
+    second: Tileset_Fences_1_3
+  - first:
+      213: -9122894576529354157
+    second: Tileset_Fences_1_4
+  - first:
+      213: 6734009350142221042
+    second: Tileset_Fences_1_5
+  - first:
+      213: -6423711210409976412
+    second: Tileset_Fences_1_6
+  - first:
+      213: -7958013527327261856
+    second: Tileset_Fences_1_7
+  - first:
+      213: -1374532126524580009
+    second: Tileset_Fences_1_8
+  - first:
+      213: -7635859707693740761
+    second: Tileset_Fences_1_9
+  - first:
+      213: 2192710058534411285
+    second: Tileset_Fences_1_10
+  - first:
+      213: 3797356421376586937
+    second: Tileset_Fences_1_11
+  - first:
+      213: 6851849427456781126
+    second: Tileset_Fences_1_12
+  - first:
+      213: -8857713479950553624
+    second: Tileset_Fences_1_13
+  - first:
+      213: 5502056888035359318
+    second: Tileset_Fences_1_14
+  - first:
+      213: 672962761424045406
+    second: Tileset_Fences_1_15
+  - first:
+      213: -3295295950448840222
+    second: Tileset_Fences_1_16
+  - first:
+      213: 235463434981963738
+    second: Tileset_Fences_1_17
+  - first:
+      213: -4110390154580556528
+    second: Tileset_Fences_1_18
+  - first:
+      213: -8174813948570365113
+    second: Tileset_Fences_1_19
+  - first:
+      213: 1931708167702678830
+    second: Tileset_Fences_1_20
+  - first:
+      213: -4642663490279361533
+    second: Tileset_Fences_1_21
+  - first:
+      213: -1613693357865587064
+    second: Tileset_Fences_1_22
+  - first:
+      213: 5816702272525614082
+    second: Tileset_Fences_1_23
+  - first:
+      213: 3179148115427053408
+    second: Tileset_Fences_1_24
+  - first:
+      213: -2945521849719532072
+    second: Tileset_Fences_1_25
+  - first:
+      213: -8930120515975631533
+    second: Tileset_Fences_1_26
+  - first:
+      213: 7827981862339233043
+    second: Tileset_Fences_1_27
+  - first:
+      213: 3473212780756166240
+    second: Tileset_Fences_1_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset_Fences_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 623
+        width: 142
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127151938b4232b10800000000000000
+      internalID: 1955447036859193121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fences_1_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 671
+        width: 47
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a437f95bfb08400800000000000000
+      internalID: 324469959955794512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fences_1_2
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 695
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c9f988867cc1be0800000000000000
+      internalID: -1505108923665900492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fences_1_3
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 385
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011e66f635f29a830800000000000000
+      internalID: 4082846572585869584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fences_1_4
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 626
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35251a2c7b7f46180800000000000000
+      internalID: -9122894576529354157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fences_1_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 575
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fad26d53d1047d50800000000000000
+      internalID: 6734009350142221042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fences_1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 575
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad91db30b46ad6a0800000000000000
+      internalID: -6423711210409976412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fences_1_7
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 575
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06bb7e93cd47f8190800000000000000
+      internalID: -7958013527327261856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fences_1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 142
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fd322405eacece0800000000000000
+      internalID: -1374532126524580009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fences_1_9
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 479
+        width: 47
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d42386d0af70690800000000000000
+      internalID: -7635859707693740761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fences_1_10
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 503
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c9e564e221e6e10800000000000000
+      internalID: 2192710058534411285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fences_1_11
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 434
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b433b5cb8be2b430800000000000000
+      internalID: 3797356421376586937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fences_1_12
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 383
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b660a60c8a61f50800000000000000
+      internalID: 6851849427456781126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fences_1_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edab592584131580800000000000000
+      internalID: -8857713479950553624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fences_1_14
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 383
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ab659a69b3b5c40800000000000000
+      internalID: 5502056888035359318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fences_1_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 142
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e550fb5e018d65900800000000000000
+      internalID: 672962761424045406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fences_1_16
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 287
+        width: 47
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1b6b3dac1c442d0800000000000000
+      internalID: -3295295950448840222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fences_1_17
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 311
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad771bf1fb8844300800000000000000
+      internalID: 235463434981963738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fences_1_18
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 242
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01586f3aee5f4f6c0800000000000000
+      internalID: -4110390154580556528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fences_1_19
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 191
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7431e8a960a3d8e80800000000000000
+      internalID: -8174813948570365113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fences_1_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d83a9085ececa10800000000000000
+      internalID: 1931708167702678830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fences_1_21
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 191
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304393a4722f19fb0800000000000000
+      internalID: -4642663490279361533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fences_1_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 142
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ea304d0720b99e0800000000000000
+      internalID: -1613693357865587064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fences_1_23
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 95
+        width: 47
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20cb81e06e319b050800000000000000
+      internalID: 5816702272525614082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fences_1_24
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 119
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06fc16cfd5a9e1c20800000000000000
+      internalID: 3179148115427053408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fences_1_25
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 50
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5d055db776f17d0800000000000000
+      internalID: -2945521849719532072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fences_1_26
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 95
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d28db54b6d11480800000000000000
+      internalID: -8930120515975631533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fences_1_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3154ee4870492ac60800000000000000
+      internalID: 7827981862339233043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fences_1_28
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066615a4f94533030800000000000000
+      internalID: 3473212780756166240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tileset_Fences_1_0: 1955447036859193121
+      Tileset_Fences_1_1: 324469959955794512
+      Tileset_Fences_1_10: 2192710058534411285
+      Tileset_Fences_1_11: 3797356421376586937
+      Tileset_Fences_1_12: 6851849427456781126
+      Tileset_Fences_1_13: -8857713479950553624
+      Tileset_Fences_1_14: 5502056888035359318
+      Tileset_Fences_1_15: 672962761424045406
+      Tileset_Fences_1_16: -3295295950448840222
+      Tileset_Fences_1_17: 235463434981963738
+      Tileset_Fences_1_18: -4110390154580556528
+      Tileset_Fences_1_19: -8174813948570365113
+      Tileset_Fences_1_2: -1505108923665900492
+      Tileset_Fences_1_20: 1931708167702678830
+      Tileset_Fences_1_21: -4642663490279361533
+      Tileset_Fences_1_22: -1613693357865587064
+      Tileset_Fences_1_23: 5816702272525614082
+      Tileset_Fences_1_24: 3179148115427053408
+      Tileset_Fences_1_25: -2945521849719532072
+      Tileset_Fences_1_26: -8930120515975631533
+      Tileset_Fences_1_27: 7827981862339233043
+      Tileset_Fences_1_28: 3473212780756166240
+      Tileset_Fences_1_3: 4082846572585869584
+      Tileset_Fences_1_4: -9122894576529354157
+      Tileset_Fences_1_5: 6734009350142221042
+      Tileset_Fences_1_6: -6423711210409976412
+      Tileset_Fences_1_7: -7958013527327261856
+      Tileset_Fences_1_8: -1374532126524580009
+      Tileset_Fences_1_9: -7635859707693740761
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

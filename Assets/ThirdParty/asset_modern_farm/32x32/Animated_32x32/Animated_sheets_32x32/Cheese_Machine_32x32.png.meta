@@ -1,0 +1,2106 @@
+fileFormatVersion: 2
+guid: 53234786ed220724baacf951ca2a0c72
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8641379178572275827
+    second: Cheese_Machine_32x32_0
+  - first:
+      213: 5741048330291951566
+    second: Cheese_Machine_32x32_1
+  - first:
+      213: -6248466178615482692
+    second: Cheese_Machine_32x32_2
+  - first:
+      213: -7500236799461796834
+    second: Cheese_Machine_32x32_3
+  - first:
+      213: -4724658731643022927
+    second: Cheese_Machine_32x32_4
+  - first:
+      213: 4261614228916155131
+    second: Cheese_Machine_32x32_5
+  - first:
+      213: 2561100697829338157
+    second: Cheese_Machine_32x32_6
+  - first:
+      213: 8876417778701141966
+    second: Cheese_Machine_32x32_7
+  - first:
+      213: 8207030143609550829
+    second: Cheese_Machine_32x32_8
+  - first:
+      213: 2058814272791323203
+    second: Cheese_Machine_32x32_9
+  - first:
+      213: 6631091838673967496
+    second: Cheese_Machine_32x32_10
+  - first:
+      213: 3325561763001553849
+    second: Cheese_Machine_32x32_11
+  - first:
+      213: 3107933991268095594
+    second: Cheese_Machine_32x32_12
+  - first:
+      213: -3263422545108531346
+    second: Cheese_Machine_32x32_13
+  - first:
+      213: -6226517493040282548
+    second: Cheese_Machine_32x32_14
+  - first:
+      213: -816331595287879617
+    second: Cheese_Machine_32x32_15
+  - first:
+      213: 7322544896222460388
+    second: Cheese_Machine_32x32_16
+  - first:
+      213: -8523032351791481890
+    second: Cheese_Machine_32x32_17
+  - first:
+      213: -7573456069842153109
+    second: Cheese_Machine_32x32_18
+  - first:
+      213: 8145633048342259767
+    second: Cheese_Machine_32x32_19
+  - first:
+      213: -8655064636453438429
+    second: Cheese_Machine_32x32_20
+  - first:
+      213: -4965284835362926745
+    second: Cheese_Machine_32x32_21
+  - first:
+      213: -8110161749658630884
+    second: Cheese_Machine_32x32_22
+  - first:
+      213: -3975236773147147644
+    second: Cheese_Machine_32x32_23
+  - first:
+      213: -5386465969215690898
+    second: Cheese_Machine_32x32_24
+  - first:
+      213: 6148273835013283359
+    second: Cheese_Machine_32x32_25
+  - first:
+      213: 2209650896834613032
+    second: Cheese_Machine_32x32_26
+  - first:
+      213: 3880216183042697058
+    second: Cheese_Machine_32x32_27
+  - first:
+      213: 5259439234948640868
+    second: Cheese_Machine_32x32_28
+  - first:
+      213: -6028439645036762770
+    second: Cheese_Machine_32x32_29
+  - first:
+      213: -7219004037094305517
+    second: Cheese_Machine_32x32_30
+  - first:
+      213: 1700171245165790694
+    second: Cheese_Machine_32x32_31
+  - first:
+      213: 4610873446241162481
+    second: Cheese_Machine_32x32_32
+  - first:
+      213: 502530644661504284
+    second: Cheese_Machine_32x32_33
+  - first:
+      213: 8117962042668132537
+    second: Cheese_Machine_32x32_34
+  - first:
+      213: -3671845635690913929
+    second: Cheese_Machine_32x32_35
+  - first:
+      213: 6165234754790660722
+    second: Cheese_Machine_32x32_36
+  - first:
+      213: -3331889127803030257
+    second: Cheese_Machine_32x32_37
+  - first:
+      213: -2445057623744296573
+    second: Cheese_Machine_32x32_38
+  - first:
+      213: 3753506437079405104
+    second: Cheese_Machine_32x32_39
+  - first:
+      213: -5523314619216599333
+    second: Cheese_Machine_32x32_40
+  - first:
+      213: 467822987569036020
+    second: Cheese_Machine_32x32_41
+  - first:
+      213: 5883957806891929549
+    second: Cheese_Machine_32x32_42
+  - first:
+      213: -5660377072489985065
+    second: Cheese_Machine_32x32_43
+  - first:
+      213: -12201117056684918
+    second: Cheese_Machine_32x32_44
+  - first:
+      213: 6819150076580102656
+    second: Cheese_Machine_32x32_45
+  - first:
+      213: -8169495786527855226
+    second: Cheese_Machine_32x32_46
+  - first:
+      213: 7907105488286937939
+    second: Cheese_Machine_32x32_47
+  - first:
+      213: -5475509359654629174
+    second: Cheese_Machine_32x32_48
+  - first:
+      213: -6847678401022908292
+    second: Cheese_Machine_32x32_49
+  - first:
+      213: 8114475457415931928
+    second: Cheese_Machine_32x32_50
+  - first:
+      213: 374784660397834395
+    second: Cheese_Machine_32x32_51
+  - first:
+      213: 6085031795642907422
+    second: Cheese_Machine_32x32_52
+  - first:
+      213: -4709660408626627113
+    second: Cheese_Machine_32x32_53
+  - first:
+      213: -8156609423910975946
+    second: Cheese_Machine_32x32_54
+  - first:
+      213: 3942745129482826510
+    second: Cheese_Machine_32x32_55
+  - first:
+      213: -1015038959455654643
+    second: Cheese_Machine_32x32_56
+  - first:
+      213: -1615696586013849409
+    second: Cheese_Machine_32x32_57
+  - first:
+      213: 323366038231429349
+    second: Cheese_Machine_32x32_58
+  - first:
+      213: 5150791892225366182
+    second: Cheese_Machine_32x32_59
+  - first:
+      213: 8822702583952580514
+    second: Cheese_Machine_32x32_60
+  - first:
+      213: 7980989614364274445
+    second: Cheese_Machine_32x32_61
+  - first:
+      213: -8160858393617051884
+    second: Cheese_Machine_32x32_62
+  - first:
+      213: -9171895426922378703
+    second: Cheese_Machine_32x32_63
+  - first:
+      213: 7995711570235146742
+    second: Cheese_Machine_32x32_64
+  - first:
+      213: 7728974306329733192
+    second: Cheese_Machine_32x32_65
+  - first:
+      213: -1744202091779168081
+    second: Cheese_Machine_32x32_66
+  - first:
+      213: -7721411664943604137
+    second: Cheese_Machine_32x32_67
+  - first:
+      213: 1148449159438035016
+    second: Cheese_Machine_32x32_68
+  - first:
+      213: 4962219464083049253
+    second: Cheese_Machine_32x32_69
+  - first:
+      213: 2198421635095217172
+    second: Cheese_Machine_32x32_70
+  - first:
+      213: 7128992387140975327
+    second: Cheese_Machine_32x32_71
+  - first:
+      213: -341798768664360082
+    second: Cheese_Machine_32x32_72
+  - first:
+      213: -2042917604816880849
+    second: Cheese_Machine_32x32_73
+  - first:
+      213: -5790139003366540991
+    second: Cheese_Machine_32x32_74
+  - first:
+      213: -8366391098792489067
+    second: Cheese_Machine_32x32_75
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 95
+        width: 110
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f1ebbcb67a31880800000000000000
+      internalID: -8641379178572275827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 95
+        width: 110
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7b66df90d4caf40800000000000000
+      internalID: 5741048330291951566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 95
+        width: 110
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6e498cd1df849a0800000000000000
+      internalID: -6248466178615482692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 95
+        width: 110
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1454cc6e5ec9e790800000000000000
+      internalID: -7500236799461796834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 95
+        width: 110
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b158777ae3ae6eb0800000000000000
+      internalID: -4724658731643022927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 95
+        width: 110
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf23c4cef8b442b30800000000000000
+      internalID: 4261614228916155131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 95
+        width: 110
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c6f10f38bda8320800000000000000
+      internalID: 2561100697829338157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 95
+        width: 110
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec78171c0fe5f2b70800000000000000
+      internalID: 8876417778701141966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 95
+        width: 110
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de735c2de6a35e170800000000000000
+      internalID: 8207030143609550829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 95
+        width: 110
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3422b3c4ca0629c10800000000000000
+      internalID: 2058814272791323203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 95
+        width: 110
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889572de4ee560c50800000000000000
+      internalID: 6631091838673967496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 95
+        width: 110
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3545acdc4c62e20800000000000000
+      internalID: 3325561763001553849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 95
+        width: 110
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6695ee9f79912b20800000000000000
+      internalID: 3107933991268095594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 95
+        width: 110
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e670ece4c7ef5b2d0800000000000000
+      internalID: -3263422545108531346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 95
+        width: 110
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44049f5457f699a0800000000000000
+      internalID: -6226517493040282548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 95
+        width: 110
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3020fb3dbecba4f0800000000000000
+      internalID: -816331595287879617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 95
+        width: 110
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9703f59c7ee9560800000000000000
+      internalID: 7322544896222460388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 95
+        width: 110
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb7e46ab3b18b980800000000000000
+      internalID: -8523032351791481890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 95
+        width: 110
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61580394dda5e690800000000000000
+      internalID: -7573456069842153109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 95
+        width: 110
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7386f1d991a1b0170800000000000000
+      internalID: 8145633048342259767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 2579
+        y: 95
+        width: 110
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32cb524d19803e780800000000000000
+      internalID: -8655064636453438429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 2707
+        y: 95
+        width: 110
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f0f8bdfb3c71bb0800000000000000
+      internalID: -4965284835362926745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 95
+        width: 110
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1503a0bbdae27f80800000000000000
+      internalID: -8110161749658630884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 2963
+        y: 95
+        width: 110
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4828e7e673f15d8c0800000000000000
+      internalID: -3975236773147147644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 95
+        width: 110
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e672b2e5dbd6f35b0800000000000000
+      internalID: -5386465969215690898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 3219
+        y: 95
+        width: 110
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e9bcd5a7e035550800000000000000
+      internalID: 6148273835013283359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 3347
+        y: 95
+        width: 110
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f437f88c14aae10800000000000000
+      internalID: 2209650896834613032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 95
+        width: 110
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2676bf96f0c49d530800000000000000
+      internalID: 3880216183042697058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 3603
+        y: 95
+        width: 110
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460bdd45e184df840800000000000000
+      internalID: 5259439234948640868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 3731
+        y: 95
+        width: 110
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69a3b7351ea65ca0800000000000000
+      internalID: -6028439645036762770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_30
+      rect:
+        serializedVersion: 2
+        x: 3859
+        y: 95
+        width: 109
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31112e08312f0db90800000000000000
+      internalID: -7219004037094305517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 45
+        width: 226
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5c0755db8389710800000000000000
+      internalID: 1700171245165790694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_32
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1
+        width: 634
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f45c7b48fc1dff30800000000000000
+      internalID: 4610873446241162481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_33
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 11
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c190cc375f859f600800000000000000
+      internalID: 502530644661504284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_34
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 11
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8a65d877bc8a070800000000000000
+      internalID: 8117962042668132537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_35
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 11
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f139e39dbfa0dc0800000000000000
+      internalID: -3671845635690913929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_36
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 11
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a903c38505f8550800000000000000
+      internalID: 6165234754790660722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_37
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 11
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05705acd70c2c1d0800000000000000
+      internalID: -3331889127803030257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_38
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1
+        width: 762
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3894c51bb09611ed0800000000000000
+      internalID: -2445057623744296573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_39
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 11
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0329244b732271430800000000000000
+      internalID: 3753506437079405104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_40
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 11
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd66fda1e9e3953b0800000000000000
+      internalID: -5523314619216599333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_41
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 11
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa70df478a0e7600800000000000000
+      internalID: 467822987569036020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_42
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 11
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf0e29637408a150800000000000000
+      internalID: 5883957806891929549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_43
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 11
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db0873ea0d4271b0800000000000000
+      internalID: -5660377072489985065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_44
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 11
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c29ff0627a4dff0800000000000000
+      internalID: -12201117056684918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_45
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 11
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00282a08ddc72ae50800000000000000
+      internalID: 6819150076580102656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_46
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 11
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68de4f1bdde10ae80800000000000000
+      internalID: -8169495786527855226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_47
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 11
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35372e64c8eabbd60800000000000000
+      internalID: 7907105488286937939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_48
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 1
+        width: 1274
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac095757f351304b0800000000000000
+      internalID: -5475509359654629174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_49
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 11
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c782aea56c828f0a0800000000000000
+      internalID: -6847678401022908292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_50
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 11
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818e6e9af686c9070800000000000000
+      internalID: 8114475457415931928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_51
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 11
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b904746b9a0833500800000000000000
+      internalID: 374784660397834395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_52
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 11
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1bb042ad20627450800000000000000
+      internalID: 6085031795642907422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_53
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 11
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddb61bafcce3aeb0800000000000000
+      internalID: -4709660408626627113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_54
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 11
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636ce2cc1f6edce80800000000000000
+      internalID: -8156609423910975946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_55
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 11
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03b9b24ec177b630800000000000000
+      internalID: 3942745129482826510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_56
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 11
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0da67cb17bd9e1f0800000000000000
+      internalID: -1015038959455654643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_57
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 11
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb845dde384e399e0800000000000000
+      internalID: -1615696586013849409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_58
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 11
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0b531d2b3dc7400800000000000000
+      internalID: 323366038231429349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_59
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 11
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a81e089fe94b7740800000000000000
+      internalID: 5150791892225366182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_60
+      rect:
+        serializedVersion: 2
+        x: 2691
+        y: 1
+        width: 762
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af1a636149807a70800000000000000
+      internalID: 8822702583952580514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_61
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 11
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0fa348e4cb22ce60800000000000000
+      internalID: 7980989614364274445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_62
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 11
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fc032778ecebe80800000000000000
+      internalID: -8160858393617051884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_63
+      rect:
+        serializedVersion: 2
+        x: 2721
+        y: 11
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a034934b1e6b080800000000000000
+      internalID: -9171895426922378703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_64
+      rect:
+        serializedVersion: 2
+        x: 2735
+        y: 11
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1c85e5f4976fe60800000000000000
+      internalID: 7995711570235146742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_65
+      rect:
+        serializedVersion: 2
+        x: 2771
+        y: 11
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848a7e68e25d24b60800000000000000
+      internalID: 7728974306329733192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_66
+      rect:
+        serializedVersion: 2
+        x: 2787
+        y: 11
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8620f40795bc7e0800000000000000
+      internalID: -1744202091779168081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_67
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 11
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e9a72200908d490800000000000000
+      internalID: -7721411664943604137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_68
+      rect:
+        serializedVersion: 2
+        x: 2819
+        y: 11
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84866eefc6c10ff00800000000000000
+      internalID: 1148449159438035016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_69
+      rect:
+        serializedVersion: 2
+        x: 3459
+        y: 1
+        width: 506
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b0336cf485dd440800000000000000
+      internalID: 4962219464083049253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_70
+      rect:
+        serializedVersion: 2
+        x: 3461
+        y: 11
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414426254dc528e10800000000000000
+      internalID: 2198421635095217172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_71
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 11
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda700a1ec44fe260800000000000000
+      internalID: 7128992387140975327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_72
+      rect:
+        serializedVersion: 2
+        x: 3493
+        y: 11
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b4811b4dfa14bf0800000000000000
+      internalID: -341798768664360082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_73
+      rect:
+        serializedVersion: 2
+        x: 3533
+        y: 11
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b7f73234916a3e0800000000000000
+      internalID: -2042917604816880849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_74
+      rect:
+        serializedVersion: 2
+        x: 3553
+        y: 11
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149f330014b45afa0800000000000000
+      internalID: -5790139003366540991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese_Machine_32x32_75
+      rect:
+        serializedVersion: 2
+        x: 3567
+        y: 11
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fcb786f9b94eb80800000000000000
+      internalID: -8366391098792489067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cheese_Machine_32x32_0: -8641379178572275827
+      Cheese_Machine_32x32_1: 5741048330291951566
+      Cheese_Machine_32x32_10: 6631091838673967496
+      Cheese_Machine_32x32_11: 3325561763001553849
+      Cheese_Machine_32x32_12: 3107933991268095594
+      Cheese_Machine_32x32_13: -3263422545108531346
+      Cheese_Machine_32x32_14: -6226517493040282548
+      Cheese_Machine_32x32_15: -816331595287879617
+      Cheese_Machine_32x32_16: 7322544896222460388
+      Cheese_Machine_32x32_17: -8523032351791481890
+      Cheese_Machine_32x32_18: -7573456069842153109
+      Cheese_Machine_32x32_19: 8145633048342259767
+      Cheese_Machine_32x32_2: -6248466178615482692
+      Cheese_Machine_32x32_20: -8655064636453438429
+      Cheese_Machine_32x32_21: -4965284835362926745
+      Cheese_Machine_32x32_22: -8110161749658630884
+      Cheese_Machine_32x32_23: -3975236773147147644
+      Cheese_Machine_32x32_24: -5386465969215690898
+      Cheese_Machine_32x32_25: 6148273835013283359
+      Cheese_Machine_32x32_26: 2209650896834613032
+      Cheese_Machine_32x32_27: 3880216183042697058
+      Cheese_Machine_32x32_28: 5259439234948640868
+      Cheese_Machine_32x32_29: -6028439645036762770
+      Cheese_Machine_32x32_3: -7500236799461796834
+      Cheese_Machine_32x32_30: -7219004037094305517
+      Cheese_Machine_32x32_31: 1700171245165790694
+      Cheese_Machine_32x32_32: 4610873446241162481
+      Cheese_Machine_32x32_33: 502530644661504284
+      Cheese_Machine_32x32_34: 8117962042668132537
+      Cheese_Machine_32x32_35: -3671845635690913929
+      Cheese_Machine_32x32_36: 6165234754790660722
+      Cheese_Machine_32x32_37: -3331889127803030257
+      Cheese_Machine_32x32_38: -2445057623744296573
+      Cheese_Machine_32x32_39: 3753506437079405104
+      Cheese_Machine_32x32_4: -4724658731643022927
+      Cheese_Machine_32x32_40: -5523314619216599333
+      Cheese_Machine_32x32_41: 467822987569036020
+      Cheese_Machine_32x32_42: 5883957806891929549
+      Cheese_Machine_32x32_43: -5660377072489985065
+      Cheese_Machine_32x32_44: -12201117056684918
+      Cheese_Machine_32x32_45: 6819150076580102656
+      Cheese_Machine_32x32_46: -8169495786527855226
+      Cheese_Machine_32x32_47: 7907105488286937939
+      Cheese_Machine_32x32_48: -5475509359654629174
+      Cheese_Machine_32x32_49: -6847678401022908292
+      Cheese_Machine_32x32_5: 4261614228916155131
+      Cheese_Machine_32x32_50: 8114475457415931928
+      Cheese_Machine_32x32_51: 374784660397834395
+      Cheese_Machine_32x32_52: 6085031795642907422
+      Cheese_Machine_32x32_53: -4709660408626627113
+      Cheese_Machine_32x32_54: -8156609423910975946
+      Cheese_Machine_32x32_55: 3942745129482826510
+      Cheese_Machine_32x32_56: -1015038959455654643
+      Cheese_Machine_32x32_57: -1615696586013849409
+      Cheese_Machine_32x32_58: 323366038231429349
+      Cheese_Machine_32x32_59: 5150791892225366182
+      Cheese_Machine_32x32_6: 2561100697829338157
+      Cheese_Machine_32x32_60: 8822702583952580514
+      Cheese_Machine_32x32_61: 7980989614364274445
+      Cheese_Machine_32x32_62: -8160858393617051884
+      Cheese_Machine_32x32_63: -9171895426922378703
+      Cheese_Machine_32x32_64: 7995711570235146742
+      Cheese_Machine_32x32_65: 7728974306329733192
+      Cheese_Machine_32x32_66: -1744202091779168081
+      Cheese_Machine_32x32_67: -7721411664943604137
+      Cheese_Machine_32x32_68: 1148449159438035016
+      Cheese_Machine_32x32_69: 4962219464083049253
+      Cheese_Machine_32x32_7: 8876417778701141966
+      Cheese_Machine_32x32_70: 2198421635095217172
+      Cheese_Machine_32x32_71: 7128992387140975327
+      Cheese_Machine_32x32_72: -341798768664360082
+      Cheese_Machine_32x32_73: -2042917604816880849
+      Cheese_Machine_32x32_74: -5790139003366540991
+      Cheese_Machine_32x32_75: -8366391098792489067
+      Cheese_Machine_32x32_8: 8207030143609550829
+      Cheese_Machine_32x32_9: 2058814272791323203
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 77cbf86dc63a8ea488f55b3ecd8d77f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6685046578406757197
+    second: '!$MV_Dog_German_Shepherd_0'
+  - first:
+      213: -8900480148751774167
+    second: '!$MV_Dog_German_Shepherd_1'
+  - first:
+      213: 8052553483027090365
+    second: '!$MV_Dog_German_Shepherd_2'
+  - first:
+      213: -6199125087959631453
+    second: '!$MV_Dog_German_Shepherd_3'
+  - first:
+      213: 4047425841902120274
+    second: '!$MV_Dog_German_Shepherd_4'
+  - first:
+      213: 7984969603975405435
+    second: '!$MV_Dog_German_Shepherd_5'
+  - first:
+      213: 2361844330656166987
+    second: '!$MV_Dog_German_Shepherd_6'
+  - first:
+      213: -406075938154334231
+    second: '!$MV_Dog_German_Shepherd_7'
+  - first:
+      213: 1389011266737698632
+    second: '!$MV_Dog_German_Shepherd_8'
+  - first:
+      213: -3501982749381453206
+    second: '!$MV_Dog_German_Shepherd_9'
+  - first:
+      213: 3152096618192116360
+    second: '!$MV_Dog_German_Shepherd_10'
+  - first:
+      213: 2879588937943021322
+    second: '!$MV_Dog_German_Shepherd_11'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!$MV_Dog_German_Shepherd_0'
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 296
+        width: 41
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bcef1b4e81f933a0800000000000000
+      internalID: -6685046578406757197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Dog_German_Shepherd_1'
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 296
+        width: 41
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e0c3326742b7480800000000000000
+      internalID: -8900480148751774167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Dog_German_Shepherd_2'
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 296
+        width: 41
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb0aa28aba60cf60800000000000000
+      internalID: 8052553483027090365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Dog_German_Shepherd_3'
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 194
+        width: 98
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a934fda39848f9a0800000000000000
+      internalID: -6199125087959631453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Dog_German_Shepherd_4'
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 194
+        width: 101
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25def49eb585b2830800000000000000
+      internalID: 4047425841902120274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Dog_German_Shepherd_5'
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 194
+        width: 101
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fde337c8f40de60800000000000000
+      internalID: 7984969603975405435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Dog_German_Shepherd_6'
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 98
+        width: 98
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44f787b7e4f6c020800000000000000
+      internalID: 2361844330656166987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Dog_German_Shepherd_7'
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 98
+        width: 101
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e73a72f5145d5af0800000000000000
+      internalID: -406075938154334231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Dog_German_Shepherd_8'
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 98
+        width: 101
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8477ae64362c64310800000000000000
+      internalID: 1389011266737698632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Dog_German_Shepherd_9'
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2
+        width: 41
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a92956e35766fc0800000000000000
+      internalID: -3501982749381453206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Dog_German_Shepherd_10'
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2
+        width: 41
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a1d097c2f7ebb20800000000000000
+      internalID: 3152096618192116360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Dog_German_Shepherd_11'
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 2
+        width: 41
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07fc31e1ea56f720800000000000000
+      internalID: 2879588937943021322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '!$MV_Dog_German_Shepherd_0': -6685046578406757197
+      '!$MV_Dog_German_Shepherd_1': -8900480148751774167
+      '!$MV_Dog_German_Shepherd_10': 3152096618192116360
+      '!$MV_Dog_German_Shepherd_11': 2879588937943021322
+      '!$MV_Dog_German_Shepherd_2': 8052553483027090365
+      '!$MV_Dog_German_Shepherd_3': -6199125087959631453
+      '!$MV_Dog_German_Shepherd_4': 4047425841902120274
+      '!$MV_Dog_German_Shepherd_5': 7984969603975405435
+      '!$MV_Dog_German_Shepherd_6': 2361844330656166987
+      '!$MV_Dog_German_Shepherd_7': -406075938154334231
+      '!$MV_Dog_German_Shepherd_8': 1389011266737698632
+      '!$MV_Dog_German_Shepherd_9': -3501982749381453206
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

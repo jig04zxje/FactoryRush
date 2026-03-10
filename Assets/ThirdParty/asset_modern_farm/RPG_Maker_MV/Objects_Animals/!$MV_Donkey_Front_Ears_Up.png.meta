@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 6352280c823008d49819315e1dca5b50
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3464977081410364498
+    second: '!$MV_Donkey_Front_Ears_Up_0'
+  - first:
+      213: -8529243717589517562
+    second: '!$MV_Donkey_Front_Ears_Up_1'
+  - first:
+      213: 4450043742291388971
+    second: '!$MV_Donkey_Front_Ears_Up_2'
+  - first:
+      213: 7753834600685596436
+    second: '!$MV_Donkey_Front_Ears_Up_3'
+  - first:
+      213: 7833426246007528432
+    second: '!$MV_Donkey_Front_Ears_Up_4'
+  - first:
+      213: 5563340427729118914
+    second: '!$MV_Donkey_Front_Ears_Up_5'
+  - first:
+      213: -3168511525282116078
+    second: '!$MV_Donkey_Front_Ears_Up_6'
+  - first:
+      213: -3002608513743260242
+    second: '!$MV_Donkey_Front_Ears_Up_7'
+  - first:
+      213: -6214026577478211261
+    second: '!$MV_Donkey_Front_Ears_Up_8'
+  - first:
+      213: 102092887067201906
+    second: '!$MV_Donkey_Front_Ears_Up_9'
+  - first:
+      213: -6925243096327778630
+    second: '!$MV_Donkey_Front_Ears_Up_10'
+  - first:
+      213: 1076895711830037544
+    second: '!$MV_Donkey_Front_Ears_Up_11'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!$MV_Donkey_Front_Ears_Up_0'
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 431
+        width: 56
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab5aa3e3bde9efc0800000000000000
+      internalID: -3464977081410364498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Donkey_Front_Ears_Up_1'
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 431
+        width: 56
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b385a570a02a980800000000000000
+      internalID: -8529243717589517562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Donkey_Front_Ears_Up_2'
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 431
+        width: 56
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a6a3ec43bb1cd30800000000000000
+      internalID: 4450043742291388971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Donkey_Front_Ears_Up_3'
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 287
+        width: 110
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f6ffcdc772b9b60800000000000000
+      internalID: 7753834600685596436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Donkey_Front_Ears_Up_4'
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 287
+        width: 110
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb108fdaabe5bc60800000000000000
+      internalID: 7833426246007528432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Donkey_Front_Ears_Up_5'
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 287
+        width: 110
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c62d57a4a4f43d40800000000000000
+      internalID: 5563340427729118914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Donkey_Front_Ears_Up_6'
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 143
+        width: 110
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e04d42e8f2704d0800000000000000
+      internalID: -3168511525282116078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Donkey_Front_Ears_Up_7'
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 143
+        width: 110
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5f4ca17779456d0800000000000000
+      internalID: -3002608513743260242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Donkey_Front_Ears_Up_8'
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 143
+        width: 110
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349239840c753c9a0800000000000000
+      internalID: -6214026577478211261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Donkey_Front_Ears_Up_9'
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 50
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2711cbb90f4ba6100800000000000000
+      internalID: 102092887067201906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Donkey_Front_Ears_Up_10'
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 50
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe082c681894ef90800000000000000
+      internalID: -6925243096327778630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Donkey_Front_Ears_Up_11'
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 0
+        width: 50
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82455cbb1f6e1fe00800000000000000
+      internalID: 1076895711830037544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '!$MV_Donkey_Front_Ears_Up_0': -3464977081410364498
+      '!$MV_Donkey_Front_Ears_Up_1': -8529243717589517562
+      '!$MV_Donkey_Front_Ears_Up_10': -6925243096327778630
+      '!$MV_Donkey_Front_Ears_Up_11': 1076895711830037544
+      '!$MV_Donkey_Front_Ears_Up_2': 4450043742291388971
+      '!$MV_Donkey_Front_Ears_Up_3': 7753834600685596436
+      '!$MV_Donkey_Front_Ears_Up_4': 7833426246007528432
+      '!$MV_Donkey_Front_Ears_Up_5': 5563340427729118914
+      '!$MV_Donkey_Front_Ears_Up_6': -3168511525282116078
+      '!$MV_Donkey_Front_Ears_Up_7': -3002608513743260242
+      '!$MV_Donkey_Front_Ears_Up_8': -6214026577478211261
+      '!$MV_Donkey_Front_Ears_Up_9': 102092887067201906
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

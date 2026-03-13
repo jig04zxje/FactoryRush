@@ -39,7 +39,7 @@ namespace FactoryRush.Scripts.Production
             }
         }
 
-        private void Start()
+        public void Init()
         {
             // Wire InventoryManager delegates
             if (InventoryManager.Instance != null)

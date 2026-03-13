@@ -30,6 +30,12 @@ namespace FactoryRush.Scripts.Inventory
             }
         }
 
+        public void Init()
+        {
+            // Reserved for future setup logic (like pre-loading items)
+            Debug.Log("[InventoryManager] Initialized.");
+        }
+
         // Added AddItem(ItemSO) overload to match MachineController.AddItemDelegate signature
         /// <summary>
         /// Overload used by MachineController.AddItemDelegate — adds 1 unit of an item.

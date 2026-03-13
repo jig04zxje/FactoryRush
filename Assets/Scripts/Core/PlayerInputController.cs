@@ -1,6 +1,7 @@
 using UnityEngine;
 using FactoryRush.Scripts.Production;
 using FactoryRush.Scripts.Core;
+using FactoryRush.Scripts.Map;
 
 namespace FactoryRush.Scripts.Core
 {

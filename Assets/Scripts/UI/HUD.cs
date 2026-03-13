@@ -1,6 +1,7 @@
 using UnityEngine;
 using TMPro;
 using FactoryRush.Scripts.Core;
+using FactoryRush.Scripts.Timer;
 
 namespace FactoryRush.Scripts.UI
 {

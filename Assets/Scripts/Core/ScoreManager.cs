@@ -25,7 +25,7 @@ namespace FactoryRush.Scripts.Core
             }
         }
 
-        private void Start()
+        public void Init()
         {
             // Reset gold when a new game starts.
             if (GameStateManager.Instance != null)

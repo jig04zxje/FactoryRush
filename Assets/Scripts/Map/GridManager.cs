@@ -1,53 +1,22 @@
 using UnityEngine;
+using System.Collections.Generic;
 
-public class GridManager : MonoBehaviour
+namespace FactoryRush.Scripts.Map
 {
-    [Header("Grid Settings")]
-    public int width = 5;
-    public int height = 4;
-    public float cellSize = 1.1f; // Cell gap
-
-    [Header("References")]
-    public GameObject slotPrefab;
-
-    // 2D array storing GridSlots
-    private GridSlot[,] gridArray;
-
-    void Start()
+    public class GridManager : MonoBehaviour
     {
-        GenerateGrid();
-    }
+        [Header("Manual Map Layout")]
+        [Tooltip("Kéo thả các GridSlot trên scene vào đây, hoặc để trống nó sẽ tự tìm.")]
+        public List<GridSlot> allSlots = new List<GridSlot>();
 
-    void GenerateGrid()
-    {
-        gridArray = new GridSlot[width, height];
-
-        for (int x = 0; x < width; x++)
+        void Start()
         {
-            for (int y = 0; y < height; y++)
+          
+            if (allSlots.Count == 0)
             {
-                // Calculate spawn position
-                Vector2 spawnPosition = new Vector2(x * cellSize, y * cellSize);
-
-                GameObject spawnedSlotObj = Instantiate(slotPrefab, spawnPosition, Quaternion.identity);
-
-                spawnedSlotObj.name = $"Slot_{x}_{y}";
-
-                spawnedSlotObj.transform.SetParent(this.transform);
-
-                GridSlot slotScript = spawnedSlotObj.GetComponent<GridSlot>();
-                gridArray[x, y] = slotScript;
+                allSlots = new List<GridSlot>(GetComponentsInChildren<GridSlot>());
+                Debug.Log($"[GridManager] Đã tự động tìm thấy {allSlots.Count} slots trên bản đồ.");
             }
         }
-    }
-
-    // Get information of a specific GridSlot
-    public GridSlot GetSlotAt(int x, int y)
-    {
-        if (x >= 0 && x < width && y >= 0 && y < height)
-        {
-            return gridArray[x, y];
-        }
-        return null;
     }
 }

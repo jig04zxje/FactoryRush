@@ -1,13 +1,25 @@
 fileFormatVersion: 2
-guid: 8ae48331c1c10244f947e407e72d1847
+guid: 6014ae01841ec924a9856a9b8c0725c6
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5007890911550175907
-    second: building_cake_bakery_0
+      213: 6417003545902390595
+    second: building_mill_animation_0
   - first:
-      213: 4943380727478866330
-    second: building_cake_bakery_1
+      213: -8098521156382223731
+    second: building_mill_animation_1
+  - first:
+      213: -2869304307690812673
+    second: building_mill_animation_2
+  - first:
+      213: 8272372274138218275
+    second: building_mill_animation_3
+  - first:
+      213: -4466188271205140506
+    second: building_mill_animation_4
+  - first:
+      213: 2031629671768903189
+    second: building_mill_animation_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -54,7 +66,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 256
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -78,7 +90,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -116,13 +128,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: building_cake_bakery_0
+      name: building_mill_animation_0
       rect:
         serializedVersion: 2
-        x: 10
-        y: 0
-        width: 118
-        height: 76
+        x: 31
+        y: 121
+        width: 202
+        height: 234
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,20 +143,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d550527bfb5608ab0800000000000000
-      internalID: -5007890911550175907
+      spriteID: 34d1febe9b6cd0950800000000000000
+      internalID: 6417003545902390595
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: building_cake_bakery_1
+      name: building_mill_animation_1
       rect:
         serializedVersion: 2
-        x: 138
-        y: 0
-        width: 110
-        height: 76
+        x: 299
+        y: 121
+        width: 202
+        height: 234
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,8 +165,96 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a91d3ea949a6a9440800000000000000
-      internalID: 4943380727478866330
+      spriteID: d821ad38ae54c9f80800000000000000
+      internalID: -8098521156382223731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_mill_animation_2
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 121
+        width: 202
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa47933fee2e28d0800000000000000
+      internalID: -2869304307690812673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_mill_animation_3
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 121
+        width: 202
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f7cc121ce5dc270800000000000000
+      internalID: 8272372274138218275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_mill_animation_4
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 121
+        width: 202
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e73dc22e69e402c0800000000000000
+      internalID: -4466188271205140506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_mill_animation_5
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 121
+        width: 202
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ecde42c6cc13c10800000000000000
+      internalID: 2031629671768903189
       vertices: []
       indices: 
       edges: []
@@ -173,8 +273,12 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      building_cake_bakery_0: -5007890911550175907
-      building_cake_bakery_1: 4943380727478866330
+      building_mill_animation_0: 6417003545902390595
+      building_mill_animation_1: -8098521156382223731
+      building_mill_animation_2: -2869304307690812673
+      building_mill_animation_3: 8272372274138218275
+      building_mill_animation_4: -4466188271205140506
+      building_mill_animation_5: 2031629671768903189
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: dccf546a3f0a0c143855b4bb855a7fec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5780489767321722380
+    second: building_cake_bakery_animation_0
+  - first:
+      213: 5051775353995835902
+    second: building_cake_bakery_animation_1
+  - first:
+      213: 2188284167589961881
+    second: building_cake_bakery_animation_2
+  - first:
+      213: 4484166705406063590
+    second: building_cake_bakery_animation_3
+  - first:
+      213: -6920053064568190873
+    second: building_cake_bakery_animation_4
+  - first:
+      213: -7884883900616151561
+    second: building_cake_bakery_animation_5
+  - first:
+      213: 7864453497345127242
+    second: building_cake_bakery_animation_6
+  - first:
+      213: -9113329114217205905
+    second: building_cake_bakery_animation_7
+  - first:
+      213: 7472036467699711340
+    second: building_cake_bakery_animation_8
+  - first:
+      213: -7877270243552556197
+    second: building_cake_bakery_animation_9
+  - first:
+      213: -5089347552907036120
+    second: building_cake_bakery_animation_10
+  - first:
+      213: 2347239384360763239
+    second: building_cake_bakery_animation_11
+  - first:
+      213: 6272957768603126783
+    second: building_cake_bakery_animation_12
+  - first:
+      213: -1591911483923434633
+    second: building_cake_bakery_animation_13
+  - first:
+      213: 6845574721219713068
+    second: building_cake_bakery_animation_14
+  - first:
+      213: 5074217296144166045
+    second: building_cake_bakery_animation_15
+  - first:
+      213: -8245052916653353799
+    second: building_cake_bakery_animation_16
+  - first:
+      213: 7290031657156636769
+    second: building_cake_bakery_animation_17
+  - first:
+      213: 972426642019764206
+    second: building_cake_bakery_animation_18
+  - first:
+      213: -7061078182203499721
+    second: building_cake_bakery_animation_19
+  - first:
+      213: -5538305304859773318
+    second: building_cake_bakery_animation_20
+  - first:
+      213: 7266813713697386208
+    second: building_cake_bakery_animation_21
+  - first:
+      213: -6750749365200386079
+    second: building_cake_bakery_animation_22
+  - first:
+      213: -8336338162075006502
+    second: building_cake_bakery_animation_23
+  - first:
+      213: 8281220444868224450
+    second: building_cake_bakery_animation_24
+  - first:
+      213: -1188393752492210048
+    second: building_cake_bakery_animation_25
+  - first:
+      213: 200486827778060378
+    second: building_cake_bakery_animation_26
+  - first:
+      213: 8556028554753858375
+    second: building_cake_bakery_animation_27
+  - first:
+      213: -8533443294873457399
+    second: building_cake_bakery_animation_28
+  - first:
+      213: 2943915126379956528
+    second: building_cake_bakery_animation_29
+  - first:
+      213: -2124226450756742286
+    second: building_cake_bakery_animation_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: building_cake_bakery_animation_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 108
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f12207de2397cfa0800000000000000
+      internalID: -5780489767321722380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_cake_bakery_animation_1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 108
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9bef34be28b1640800000000000000
+      internalID: 5051775353995835902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_cake_bakery_animation_2
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 0
+        width: 108
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990afcc3bd85e5e10800000000000000
+      internalID: 2188284167589961881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_cake_bakery_animation_3
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 0
+        width: 108
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3bc554cd5fa3e30800000000000000
+      internalID: 4484166705406063590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_cake_bakery_animation_4
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 0
+        width: 108
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7684f8bd66807ff90800000000000000
+      internalID: -6920053064568190873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_cake_bakery_animation_5
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 0
+        width: 108
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fde3984ed3439290800000000000000
+      internalID: -7884883900616151561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_cake_bakery_animation_6
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 0
+        width: 108
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43b5d5c9c6242d60800000000000000
+      internalID: 7864453497345127242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_cake_bakery_animation_7
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 0
+        width: 108
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6fabd18473f68180800000000000000
+      internalID: -9113329114217205905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_cake_bakery_animation_8
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 0
+        width: 108
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d710e249102b760800000000000000
+      internalID: 7472036467699711340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_cake_bakery_animation_9
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 0
+        width: 108
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b8b45f2705ea290800000000000000
+      internalID: -7877270243552556197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_cake_bakery_animation_10
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 0
+        width: 108
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82af87a7d510f59b0800000000000000
+      internalID: -5089347552907036120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_cake_bakery_animation_11
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 0
+        width: 108
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f31aba8c1139020800000000000000
+      internalID: 2347239384360763239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_cake_bakery_animation_12
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 0
+        width: 108
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbcd90ead50e0750800000000000000
+      internalID: 6272957768603126783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_cake_bakery_animation_13
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 0
+        width: 108
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773f0ee80f468e9e0800000000000000
+      internalID: -1591911483923434633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_cake_bakery_animation_14
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 0
+        width: 108
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28d1b580fd500f50800000000000000
+      internalID: 6845574721219713068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_cake_bakery_animation_15
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 0
+        width: 108
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ce0d91fbd3b6640800000000000000
+      internalID: 5074217296144166045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_cake_bakery_animation_16
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 0
+        width: 108
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b414947e00b39d80800000000000000
+      internalID: -8245052916653353799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_cake_bakery_animation_17
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 0
+        width: 108
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1607c2efa256b2560800000000000000
+      internalID: 7290031657156636769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_cake_bakery_animation_18
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 0
+        width: 108
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7c6b7f0e0ce7d00800000000000000
+      internalID: 972426642019764206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_cake_bakery_animation_19
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 0
+        width: 108
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73bdf72fdc2020e90800000000000000
+      internalID: -7061078182203499721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_cake_bakery_animation_20
+      rect:
+        serializedVersion: 2
+        x: 2579
+        y: 0
+        width: 108
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76fb2e1bacf323b0800000000000000
+      internalID: -5538305304859773318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_cake_bakery_animation_21
+      rect:
+        serializedVersion: 2
+        x: 2707
+        y: 0
+        width: 108
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eeaed54298e8d460800000000000000
+      internalID: 7266813713697386208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_cake_bakery_animation_22
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 0
+        width: 108
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7898728358052a0800000000000000
+      internalID: -6750749365200386079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_cake_bakery_animation_23
+      rect:
+        serializedVersion: 2
+        x: 2963
+        y: 0
+        width: 108
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad98cf10c906f4c80800000000000000
+      internalID: -8336338162075006502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_cake_bakery_animation_24
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 0
+        width: 108
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5a21b6e1ecce270800000000000000
+      internalID: 8281220444868224450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_cake_bakery_animation_25
+      rect:
+        serializedVersion: 2
+        x: 3219
+        y: 0
+        width: 108
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0888861bd2af18fe0800000000000000
+      internalID: -1188393752492210048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_cake_bakery_animation_26
+      rect:
+        serializedVersion: 2
+        x: 3347
+        y: 0
+        width: 108
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a503bd725b548c200800000000000000
+      internalID: 200486827778060378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_cake_bakery_animation_27
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 0
+        width: 108
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74bd33683ae1db670800000000000000
+      internalID: 8556028554753858375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_cake_bakery_animation_28
+      rect:
+        serializedVersion: 2
+        x: 3603
+        y: 0
+        width: 108
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90de022198e139980800000000000000
+      internalID: -8533443294873457399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_cake_bakery_animation_29
+      rect:
+        serializedVersion: 2
+        x: 3731
+        y: 0
+        width: 108
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039c6ccb533ead820800000000000000
+      internalID: 2943915126379956528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_cake_bakery_animation_30
+      rect:
+        serializedVersion: 2
+        x: 3859
+        y: 0
+        width: 108
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273d7243c4b3582e0800000000000000
+      internalID: -2124226450756742286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      building_cake_bakery_animation_0: -5780489767321722380
+      building_cake_bakery_animation_1: 5051775353995835902
+      building_cake_bakery_animation_10: -5089347552907036120
+      building_cake_bakery_animation_11: 2347239384360763239
+      building_cake_bakery_animation_12: 6272957768603126783
+      building_cake_bakery_animation_13: -1591911483923434633
+      building_cake_bakery_animation_14: 6845574721219713068
+      building_cake_bakery_animation_15: 5074217296144166045
+      building_cake_bakery_animation_16: -8245052916653353799
+      building_cake_bakery_animation_17: 7290031657156636769
+      building_cake_bakery_animation_18: 972426642019764206
+      building_cake_bakery_animation_19: -7061078182203499721
+      building_cake_bakery_animation_2: 2188284167589961881
+      building_cake_bakery_animation_20: -5538305304859773318
+      building_cake_bakery_animation_21: 7266813713697386208
+      building_cake_bakery_animation_22: -6750749365200386079
+      building_cake_bakery_animation_23: -8336338162075006502
+      building_cake_bakery_animation_24: 8281220444868224450
+      building_cake_bakery_animation_25: -1188393752492210048
+      building_cake_bakery_animation_26: 200486827778060378
+      building_cake_bakery_animation_27: 8556028554753858375
+      building_cake_bakery_animation_28: -8533443294873457399
+      building_cake_bakery_animation_29: 2943915126379956528
+      building_cake_bakery_animation_3: 4484166705406063590
+      building_cake_bakery_animation_30: -2124226450756742286
+      building_cake_bakery_animation_4: -6920053064568190873
+      building_cake_bakery_animation_5: -7884883900616151561
+      building_cake_bakery_animation_6: 7864453497345127242
+      building_cake_bakery_animation_7: -9113329114217205905
+      building_cake_bakery_animation_8: 7472036467699711340
+      building_cake_bakery_animation_9: -7877270243552556197
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

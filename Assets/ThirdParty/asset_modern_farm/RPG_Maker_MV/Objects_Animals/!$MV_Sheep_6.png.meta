@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: e6e7cff26df3a1848a7652175ec3c139
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3523816366230161470
+    second: '!$MV_Sheep_6_0'
+  - first:
+      213: 1849205506494998989
+    second: '!$MV_Sheep_6_1'
+  - first:
+      213: 2466698484254828524
+    second: '!$MV_Sheep_6_2'
+  - first:
+      213: 1978595386212851787
+    second: '!$MV_Sheep_6_3'
+  - first:
+      213: 4295474303659920732
+    second: '!$MV_Sheep_6_4'
+  - first:
+      213: 6161329627449418882
+    second: '!$MV_Sheep_6_5'
+  - first:
+      213: 2325354736281233611
+    second: '!$MV_Sheep_6_6'
+  - first:
+      213: -3049705542454607772
+    second: '!$MV_Sheep_6_7'
+  - first:
+      213: -7818765176546613744
+    second: '!$MV_Sheep_6_8'
+  - first:
+      213: -3539008654838737613
+    second: '!$MV_Sheep_6_9'
+  - first:
+      213: -6520558192675824042
+    second: '!$MV_Sheep_6_10'
+  - first:
+      213: -8928611980195515517
+    second: '!$MV_Sheep_6_11'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!$MV_Sheep_6_0'
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 287
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7b4255fa3e81fc0800000000000000
+      internalID: -3523816366230161470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Sheep_6_1'
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 290
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9a4535c92b9a910800000000000000
+      internalID: 1849205506494998989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Sheep_6_2'
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 287
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7e00ac3397b3220800000000000000
+      internalID: 2466698484254828524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Sheep_6_3'
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 191
+        width: 80
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40a17d4502657b10800000000000000
+      internalID: 1978595386212851787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Sheep_6_4'
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 191
+        width: 80
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5dc77bee179c9b30800000000000000
+      internalID: 4295474303659920732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Sheep_6_5'
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 191
+        width: 80
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284663ce6a0718550800000000000000
+      internalID: 6161329627449418882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Sheep_6_6'
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 95
+        width: 80
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8a0d8ffc1554020800000000000000
+      internalID: 2325354736281233611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Sheep_6_7'
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 95
+        width: 80
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460047897f44da5d0800000000000000
+      internalID: -3049705542454607772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Sheep_6_8'
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 95
+        width: 80
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016aebd5f7a2e7390800000000000000
+      internalID: -7818765176546613744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Sheep_6_9'
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 56
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335dd4ff06ae2eec0800000000000000
+      internalID: -3539008654838737613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Sheep_6_10'
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 2
+        width: 56
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e5b440fd25285a0800000000000000
+      internalID: -6520558192675824042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Sheep_6_11'
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 56
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3833627b5b2371480800000000000000
+      internalID: -8928611980195515517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '!$MV_Sheep_6_0': -3523816366230161470
+      '!$MV_Sheep_6_1': 1849205506494998989
+      '!$MV_Sheep_6_10': -6520558192675824042
+      '!$MV_Sheep_6_11': -8928611980195515517
+      '!$MV_Sheep_6_2': 2466698484254828524
+      '!$MV_Sheep_6_3': 1978595386212851787
+      '!$MV_Sheep_6_4': 4295474303659920732
+      '!$MV_Sheep_6_5': 6161329627449418882
+      '!$MV_Sheep_6_6': 2325354736281233611
+      '!$MV_Sheep_6_7': -3049705542454607772
+      '!$MV_Sheep_6_8': -7818765176546613744
+      '!$MV_Sheep_6_9': -3539008654838737613
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

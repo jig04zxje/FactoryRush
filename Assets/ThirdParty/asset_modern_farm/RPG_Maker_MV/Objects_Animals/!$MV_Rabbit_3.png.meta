@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 2227a5f85601d7a48a6ea64a926a64b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8670023590754361822
+    second: '!$MV_Rabbit_3_0'
+  - first:
+      213: 3611338162418227981
+    second: '!$MV_Rabbit_3_1'
+  - first:
+      213: 6961042818291516296
+    second: '!$MV_Rabbit_3_2'
+  - first:
+      213: 2925686859562726865
+    second: '!$MV_Rabbit_3_3'
+  - first:
+      213: 3180198634621597401
+    second: '!$MV_Rabbit_3_4'
+  - first:
+      213: 664182776770846003
+    second: '!$MV_Rabbit_3_5'
+  - first:
+      213: -4032354511957981275
+    second: '!$MV_Rabbit_3_6'
+  - first:
+      213: 1855139315907841083
+    second: '!$MV_Rabbit_3_7'
+  - first:
+      213: -4804866853709141897
+    second: '!$MV_Rabbit_3_8'
+  - first:
+      213: 7872000812534159451
+    second: '!$MV_Rabbit_3_9'
+  - first:
+      213: -238545473690847242
+    second: '!$MV_Rabbit_3_10'
+  - first:
+      213: 7319701401329807107
+    second: '!$MV_Rabbit_3_11'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!$MV_Rabbit_3_0'
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 287
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1ab21258c125870800000000000000
+      internalID: 8670023590754361822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Rabbit_3_1'
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 287
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b10ceccec0e1230800000000000000
+      internalID: 3611338162418227981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Rabbit_3_2'
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 287
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883cc82ef879a9060800000000000000
+      internalID: 6961042818291516296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Rabbit_3_3'
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 191
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5b344a2b02a9820800000000000000
+      internalID: 2925686859562726865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Rabbit_3_4'
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 191
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d67dcb0fc5522c20800000000000000
+      internalID: 3180198634621597401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Rabbit_3_5'
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 191
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ddb5b67b6a73900800000000000000
+      internalID: 664182776770846003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Rabbit_3_6'
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 95
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a70d4a8fe23a08c0800000000000000
+      internalID: -4032354511957981275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Rabbit_3_7'
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 95
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c4c8df067ceb910800000000000000
+      internalID: 1855139315907841083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Rabbit_3_8'
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 95
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7782e97cd0fa15db0800000000000000
+      internalID: -4804866853709141897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Rabbit_3_9'
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b585fa60807fe3d60800000000000000
+      internalID: 7872000812534159451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Rabbit_3_10'
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f731e1d72480bcf0800000000000000
+      internalID: -238545473690847242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Rabbit_3_11'
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 0
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f2130a4adc49560800000000000000
+      internalID: 7319701401329807107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '!$MV_Rabbit_3_0': 8670023590754361822
+      '!$MV_Rabbit_3_1': 3611338162418227981
+      '!$MV_Rabbit_3_10': -238545473690847242
+      '!$MV_Rabbit_3_11': 7319701401329807107
+      '!$MV_Rabbit_3_2': 6961042818291516296
+      '!$MV_Rabbit_3_3': 2925686859562726865
+      '!$MV_Rabbit_3_4': 3180198634621597401
+      '!$MV_Rabbit_3_5': 664182776770846003
+      '!$MV_Rabbit_3_6': -4032354511957981275
+      '!$MV_Rabbit_3_7': 1855139315907841083
+      '!$MV_Rabbit_3_8': -4804866853709141897
+      '!$MV_Rabbit_3_9': 7872000812534159451
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

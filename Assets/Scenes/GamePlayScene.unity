@@ -287,11 +287,35 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1670443760570363720, guid: 57368a2e601627f40a09b7bea0d01426, type: 3}
       propertyPath: m_fontColor32.rgba
-      value: 4283422207
+      value: 4283422172
       objectReference: {fileID: 0}
     - target: {fileID: 2455288163368033349, guid: 57368a2e601627f40a09b7bea0d01426, type: 3}
       propertyPath: m_Name
       value: FinalScoreText
+      objectReference: {fileID: 0}
+    - target: {fileID: 2590290339627503486, guid: 57368a2e601627f40a09b7bea0d01426, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2590290339627503486, guid: 57368a2e601627f40a09b7bea0d01426, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2590290339627503486, guid: 57368a2e601627f40a09b7bea0d01426, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2590290339627503486, guid: 57368a2e601627f40a09b7bea0d01426, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2590290339627503486, guid: 57368a2e601627f40a09b7bea0d01426, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2590290339627503486, guid: 57368a2e601627f40a09b7bea0d01426, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3028215918152428820, guid: 57368a2e601627f40a09b7bea0d01426, type: 3}
       propertyPath: m_Color.b
@@ -744,15 +768,15 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 5929625672321506901, guid: 57368a2e601627f40a09b7bea0d01426, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1022537999}
+    - targetCorrespondingSourceObject: {fileID: 8954579807359166542, guid: 57368a2e601627f40a09b7bea0d01426, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 173746678}
     - targetCorrespondingSourceObject: {fileID: 4286035507359912001, guid: 57368a2e601627f40a09b7bea0d01426, type: 3}
       insertIndex: -1
       addedObject: {fileID: 173746676}
     - targetCorrespondingSourceObject: {fileID: 4286035507359912001, guid: 57368a2e601627f40a09b7bea0d01426, type: 3}
       insertIndex: -1
       addedObject: {fileID: 173746679}
-    - targetCorrespondingSourceObject: {fileID: 8954579807359166542, guid: 57368a2e601627f40a09b7bea0d01426, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 173746678}
   m_SourcePrefab: {fileID: 100100000, guid: 57368a2e601627f40a09b7bea0d01426, type: 3}
 --- !u!1 &173746674 stripped
 GameObject:

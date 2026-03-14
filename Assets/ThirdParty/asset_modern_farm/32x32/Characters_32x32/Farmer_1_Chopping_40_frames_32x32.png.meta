@@ -1,0 +1,1586 @@
+fileFormatVersion: 2
+guid: 271e66c11fadd584ab9cc42226ed7f69
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8566857929361909680
+    second: Farmer_1_Chopping_40_frames_32x32_0
+  - first:
+      213: 1141043881825060936
+    second: Farmer_1_Chopping_40_frames_32x32_1
+  - first:
+      213: -2964910802427163103
+    second: Farmer_1_Chopping_40_frames_32x32_2
+  - first:
+      213: -5914671029789931973
+    second: Farmer_1_Chopping_40_frames_32x32_3
+  - first:
+      213: 2299867964895305377
+    second: Farmer_1_Chopping_40_frames_32x32_4
+  - first:
+      213: 7053501257670821949
+    second: Farmer_1_Chopping_40_frames_32x32_5
+  - first:
+      213: 2247562619137271923
+    second: Farmer_1_Chopping_40_frames_32x32_6
+  - first:
+      213: -1512882672374215878
+    second: Farmer_1_Chopping_40_frames_32x32_7
+  - first:
+      213: -8683548196659484322
+    second: Farmer_1_Chopping_40_frames_32x32_8
+  - first:
+      213: 1091329588816330179
+    second: Farmer_1_Chopping_40_frames_32x32_9
+  - first:
+      213: -7091567490458562052
+    second: Farmer_1_Chopping_40_frames_32x32_10
+  - first:
+      213: -5597460153109920311
+    second: Farmer_1_Chopping_40_frames_32x32_11
+  - first:
+      213: -7340572591061641734
+    second: Farmer_1_Chopping_40_frames_32x32_12
+  - first:
+      213: -4189252918847254904
+    second: Farmer_1_Chopping_40_frames_32x32_13
+  - first:
+      213: 2044390544879350666
+    second: Farmer_1_Chopping_40_frames_32x32_14
+  - first:
+      213: -5607902066105913296
+    second: Farmer_1_Chopping_40_frames_32x32_15
+  - first:
+      213: 1699275033549230556
+    second: Farmer_1_Chopping_40_frames_32x32_16
+  - first:
+      213: 7294725236059946012
+    second: Farmer_1_Chopping_40_frames_32x32_17
+  - first:
+      213: -6815140368045662730
+    second: Farmer_1_Chopping_40_frames_32x32_18
+  - first:
+      213: 6298698656721651447
+    second: Farmer_1_Chopping_40_frames_32x32_19
+  - first:
+      213: -6967468298642884966
+    second: Farmer_1_Chopping_40_frames_32x32_20
+  - first:
+      213: 623325229642240597
+    second: Farmer_1_Chopping_40_frames_32x32_21
+  - first:
+      213: 4131303471755350857
+    second: Farmer_1_Chopping_40_frames_32x32_22
+  - first:
+      213: -5699655534529136276
+    second: Farmer_1_Chopping_40_frames_32x32_23
+  - first:
+      213: -3477122377733422579
+    second: Farmer_1_Chopping_40_frames_32x32_24
+  - first:
+      213: -5526184647542797020
+    second: Farmer_1_Chopping_40_frames_32x32_25
+  - first:
+      213: 9198121145560638078
+    second: Farmer_1_Chopping_40_frames_32x32_26
+  - first:
+      213: 6930438231410035703
+    second: Farmer_1_Chopping_40_frames_32x32_27
+  - first:
+      213: -3131698355190647436
+    second: Farmer_1_Chopping_40_frames_32x32_28
+  - first:
+      213: 8824250632371585452
+    second: Farmer_1_Chopping_40_frames_32x32_29
+  - first:
+      213: 6460591296729122791
+    second: Farmer_1_Chopping_40_frames_32x32_30
+  - first:
+      213: 6502265672740171894
+    second: Farmer_1_Chopping_40_frames_32x32_31
+  - first:
+      213: 2835151148223064016
+    second: Farmer_1_Chopping_40_frames_32x32_32
+  - first:
+      213: 4865373948919748449
+    second: Farmer_1_Chopping_40_frames_32x32_33
+  - first:
+      213: 4945642971253834730
+    second: Farmer_1_Chopping_40_frames_32x32_34
+  - first:
+      213: -15087793030637760
+    second: Farmer_1_Chopping_40_frames_32x32_35
+  - first:
+      213: 3672675544276223959
+    second: Farmer_1_Chopping_40_frames_32x32_36
+  - first:
+      213: 3671999589580859074
+    second: Farmer_1_Chopping_40_frames_32x32_37
+  - first:
+      213: 7172193991221696779
+    second: Farmer_1_Chopping_40_frames_32x32_38
+  - first:
+      213: -3917149275364487038
+    second: Farmer_1_Chopping_40_frames_32x32_39
+  - first:
+      213: -1979063642031245972
+    second: Farmer_1_Chopping_40_frames_32x32_40
+  - first:
+      213: -1650947395775907014
+    second: Farmer_1_Chopping_40_frames_32x32_41
+  - first:
+      213: -7130068001782448735
+    second: Farmer_1_Chopping_40_frames_32x32_42
+  - first:
+      213: 1917611180538333256
+    second: Farmer_1_Chopping_40_frames_32x32_43
+  - first:
+      213: 7249584931350118686
+    second: Farmer_1_Chopping_40_frames_32x32_44
+  - first:
+      213: -1544189875326570760
+    second: Farmer_1_Chopping_40_frames_32x32_45
+  - first:
+      213: -5089562842831564661
+    second: Farmer_1_Chopping_40_frames_32x32_46
+  - first:
+      213: 9202370448128399480
+    second: Farmer_1_Chopping_40_frames_32x32_47
+  - first:
+      213: 377916575639702582
+    second: Farmer_1_Chopping_40_frames_32x32_48
+  - first:
+      213: -4346990452378321191
+    second: Farmer_1_Chopping_40_frames_32x32_49
+  - first:
+      213: 4995691944774149657
+    second: Farmer_1_Chopping_40_frames_32x32_50
+  - first:
+      213: 1157935066667479517
+    second: Farmer_1_Chopping_40_frames_32x32_51
+  - first:
+      213: -1519218334654838210
+    second: Farmer_1_Chopping_40_frames_32x32_52
+  - first:
+      213: 4186127258757108046
+    second: Farmer_1_Chopping_40_frames_32x32_53
+  - first:
+      213: 7756827259676415534
+    second: Farmer_1_Chopping_40_frames_32x32_54
+  - first:
+      213: -2983947830823314755
+    second: Farmer_1_Chopping_40_frames_32x32_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 75
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7ead8c5e793e670800000000000000
+      internalID: 8566857929361909680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 71
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848c0517d5dc5df00800000000000000
+      internalID: 1141043881825060936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 65
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e4c9e75558ad6d0800000000000000
+      internalID: -2964910802427163103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 63
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36c312290edaeda0800000000000000
+      internalID: -5914671029789931973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 67
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae92e59ab5caef10800000000000000
+      internalID: 2299867964895305377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 69
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d388d36d50213e160800000000000000
+      internalID: 7053501257670821949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 69
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378af144b42f03f10800000000000000
+      internalID: 2247562619137271923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 67
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b8a4e9939210be0800000000000000
+      internalID: -1512882672374215878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 69
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59a02c2ce6dd7780800000000000000
+      internalID: -8683548196659484322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 75
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd354a9a7e252f00800000000000000
+      internalID: 1091329588816330179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 73
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1528ea0f0b59d90800000000000000
+      internalID: -7091567490458562052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 73
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5ca79b5a3d152b0800000000000000
+      internalID: -5597460153109920311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 73
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af55dc5de1c012a90800000000000000
+      internalID: -7340572591061641734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 73
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e47d97aa8ccd5c0800000000000000
+      internalID: -4189252918847254904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 69
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8373b17e522f5c10800000000000000
+      internalID: 2044390544879350666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 65
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030f39668cabc22b0800000000000000
+      internalID: -5607902066105913296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 63
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1546ec3a9059710800000000000000
+      internalID: 1699275033549230556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 73
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c3e6df3f11c3560800000000000000
+      internalID: 7294725236059946012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 73
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd963481f1cb61a0800000000000000
+      internalID: -6815140368045662730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 73
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6cf1d6e09796750800000000000000
+      internalID: 6298698656721651447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 75
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9678936f749e4f90800000000000000
+      internalID: -6967468298642884966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 71
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5525d5c6efe76a800800000000000000
+      internalID: 623325229642240597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 65
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943d0557e96555930800000000000000
+      internalID: 4131303471755350857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 63
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c693d4a4d71c6e0b0800000000000000
+      internalID: -5699655534529136276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 67
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0243aabe97cebfc0800000000000000
+      internalID: -3477122377733422579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 69
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d8eff875c0f43b0800000000000000
+      internalID: -5526184647542797020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 69
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72a62ab27a46af70800000000000000
+      internalID: 9198121145560638078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 67
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb4bf83adcdd2060800000000000000
+      internalID: 6930438231410035703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 69
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475bf2b30f8f984d0800000000000000
+      internalID: -3131698355190647436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 75
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1468f7239067a70800000000000000
+      internalID: 8824250632371585452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_30
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 77
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e705800e81a8a950800000000000000
+      internalID: 6460591296729122791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_31
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 79
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670f4eacd20bc3a50800000000000000
+      internalID: 6502265672740171894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_32
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 79
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d76062b2fa785720800000000000000
+      internalID: 2835151148223064016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_33
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 81
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1671dc424d7458340800000000000000
+      internalID: 4865373948919748449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_34
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 81
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae30e77441472a440800000000000000
+      internalID: 4945642971253834730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_35
+      rect:
+        serializedVersion: 2
+        x: 2255
+        y: 81
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047d6ff6bb56acff0800000000000000
+      internalID: -15087793030637760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_36
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 81
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d749d7e2f6f7f230800000000000000
+      internalID: 3672675544276223959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_37
+      rect:
+        serializedVersion: 2
+        x: 2383
+        y: 65
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6e850fb2095f230800000000000000
+      internalID: 3671999589580859074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_38
+      rect:
+        serializedVersion: 2
+        x: 2447
+        y: 63
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09d5f26f60c88360800000000000000
+      internalID: 7172193991221696779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_39
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 65
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28098bdec7d73a9c0800000000000000
+      internalID: -3917149275364487038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_40
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 31
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6536d46a14f884e0800000000000000
+      internalID: -1979063642031245972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_41
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 31
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3bbbe33718a619e0800000000000000
+      internalID: -1650947395775907014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_42
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 31
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1adb069dde8ec0d90800000000000000
+      internalID: -7130068001782448735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_43
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 23
+        width: 310
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8480e417539bc9a10800000000000000
+      internalID: 1917611180538333256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_44
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 31
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11062ac513bb9460800000000000000
+      internalID: 7249584931350118686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_45
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 31
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fea7676d7fe19ae0800000000000000
+      internalID: -1544189875326570760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_46
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 31
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b805ff26f8d3e59b0800000000000000
+      internalID: -5089562842831564661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_47
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 23
+        width: 310
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878de349a2365bf70800000000000000
+      internalID: 9202370448128399480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_48
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 31
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c8cbd8f11ae3500800000000000000
+      internalID: 377916575639702582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_49
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 31
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9deb9f307336ca3c0800000000000000
+      internalID: -4346990452378321191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_50
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 31
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9162b8ffa53445540800000000000000
+      internalID: 4995691944774149657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_51
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 23
+        width: 310
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1fea1eecfc11010800000000000000
+      internalID: 1157935066667479517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_52
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 31
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a43aa49f6aaeae0800000000000000
+      internalID: -1519218334654838210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_53
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 31
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e411cc2109c181a30800000000000000
+      internalID: 4186127258757108046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_54
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 31
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2654159b49c5ab60800000000000000
+      internalID: 7756827259676415534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_1_Chopping_40_frames_32x32_55
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 23
+        width: 310
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba9a7be143e696d0800000000000000
+      internalID: -2983947830823314755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Farmer_1_Chopping_40_frames_32x32_0: 8566857929361909680
+      Farmer_1_Chopping_40_frames_32x32_1: 1141043881825060936
+      Farmer_1_Chopping_40_frames_32x32_10: -7091567490458562052
+      Farmer_1_Chopping_40_frames_32x32_11: -5597460153109920311
+      Farmer_1_Chopping_40_frames_32x32_12: -7340572591061641734
+      Farmer_1_Chopping_40_frames_32x32_13: -4189252918847254904
+      Farmer_1_Chopping_40_frames_32x32_14: 2044390544879350666
+      Farmer_1_Chopping_40_frames_32x32_15: -5607902066105913296
+      Farmer_1_Chopping_40_frames_32x32_16: 1699275033549230556
+      Farmer_1_Chopping_40_frames_32x32_17: 7294725236059946012
+      Farmer_1_Chopping_40_frames_32x32_18: -6815140368045662730
+      Farmer_1_Chopping_40_frames_32x32_19: 6298698656721651447
+      Farmer_1_Chopping_40_frames_32x32_2: -2964910802427163103
+      Farmer_1_Chopping_40_frames_32x32_20: -6967468298642884966
+      Farmer_1_Chopping_40_frames_32x32_21: 623325229642240597
+      Farmer_1_Chopping_40_frames_32x32_22: 4131303471755350857
+      Farmer_1_Chopping_40_frames_32x32_23: -5699655534529136276
+      Farmer_1_Chopping_40_frames_32x32_24: -3477122377733422579
+      Farmer_1_Chopping_40_frames_32x32_25: -5526184647542797020
+      Farmer_1_Chopping_40_frames_32x32_26: 9198121145560638078
+      Farmer_1_Chopping_40_frames_32x32_27: 6930438231410035703
+      Farmer_1_Chopping_40_frames_32x32_28: -3131698355190647436
+      Farmer_1_Chopping_40_frames_32x32_29: 8824250632371585452
+      Farmer_1_Chopping_40_frames_32x32_3: -5914671029789931973
+      Farmer_1_Chopping_40_frames_32x32_30: 6460591296729122791
+      Farmer_1_Chopping_40_frames_32x32_31: 6502265672740171894
+      Farmer_1_Chopping_40_frames_32x32_32: 2835151148223064016
+      Farmer_1_Chopping_40_frames_32x32_33: 4865373948919748449
+      Farmer_1_Chopping_40_frames_32x32_34: 4945642971253834730
+      Farmer_1_Chopping_40_frames_32x32_35: -15087793030637760
+      Farmer_1_Chopping_40_frames_32x32_36: 3672675544276223959
+      Farmer_1_Chopping_40_frames_32x32_37: 3671999589580859074
+      Farmer_1_Chopping_40_frames_32x32_38: 7172193991221696779
+      Farmer_1_Chopping_40_frames_32x32_39: -3917149275364487038
+      Farmer_1_Chopping_40_frames_32x32_4: 2299867964895305377
+      Farmer_1_Chopping_40_frames_32x32_40: -1979063642031245972
+      Farmer_1_Chopping_40_frames_32x32_41: -1650947395775907014
+      Farmer_1_Chopping_40_frames_32x32_42: -7130068001782448735
+      Farmer_1_Chopping_40_frames_32x32_43: 1917611180538333256
+      Farmer_1_Chopping_40_frames_32x32_44: 7249584931350118686
+      Farmer_1_Chopping_40_frames_32x32_45: -1544189875326570760
+      Farmer_1_Chopping_40_frames_32x32_46: -5089562842831564661
+      Farmer_1_Chopping_40_frames_32x32_47: 9202370448128399480
+      Farmer_1_Chopping_40_frames_32x32_48: 377916575639702582
+      Farmer_1_Chopping_40_frames_32x32_49: -4346990452378321191
+      Farmer_1_Chopping_40_frames_32x32_5: 7053501257670821949
+      Farmer_1_Chopping_40_frames_32x32_50: 4995691944774149657
+      Farmer_1_Chopping_40_frames_32x32_51: 1157935066667479517
+      Farmer_1_Chopping_40_frames_32x32_52: -1519218334654838210
+      Farmer_1_Chopping_40_frames_32x32_53: 4186127258757108046
+      Farmer_1_Chopping_40_frames_32x32_54: 7756827259676415534
+      Farmer_1_Chopping_40_frames_32x32_55: -2983947830823314755
+      Farmer_1_Chopping_40_frames_32x32_6: 2247562619137271923
+      Farmer_1_Chopping_40_frames_32x32_7: -1512882672374215878
+      Farmer_1_Chopping_40_frames_32x32_8: -8683548196659484322
+      Farmer_1_Chopping_40_frames_32x32_9: 1091329588816330179
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

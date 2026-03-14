@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: 7418e9acb1a752b40b42a7d68a9ba83f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5518618381282850959
+    second: Farmer_2_No_Hat_Dig_36_frames_32x32_0
+  - first:
+      213: -6243225492705415322
+    second: Farmer_2_No_Hat_Dig_36_frames_32x32_1
+  - first:
+      213: 8072611232539545097
+    second: Farmer_2_No_Hat_Dig_36_frames_32x32_2
+  - first:
+      213: 6097553675811346856
+    second: Farmer_2_No_Hat_Dig_36_frames_32x32_3
+  - first:
+      213: 8721754420460152611
+    second: Farmer_2_No_Hat_Dig_36_frames_32x32_4
+  - first:
+      213: 6938437258642655145
+    second: Farmer_2_No_Hat_Dig_36_frames_32x32_5
+  - first:
+      213: 7084741523573563743
+    second: Farmer_2_No_Hat_Dig_36_frames_32x32_6
+  - first:
+      213: 6970161103839873840
+    second: Farmer_2_No_Hat_Dig_36_frames_32x32_7
+  - first:
+      213: -7455877857606587212
+    second: Farmer_2_No_Hat_Dig_36_frames_32x32_8
+  - first:
+      213: 1896352343290592786
+    second: Farmer_2_No_Hat_Dig_36_frames_32x32_9
+  - first:
+      213: 506073697707189061
+    second: Farmer_2_No_Hat_Dig_36_frames_32x32_10
+  - first:
+      213: 4938920302433745349
+    second: Farmer_2_No_Hat_Dig_36_frames_32x32_11
+  - first:
+      213: 4135002481953369025
+    second: Farmer_2_No_Hat_Dig_36_frames_32x32_12
+  - first:
+      213: 8756719654126202998
+    second: Farmer_2_No_Hat_Dig_36_frames_32x32_13
+  - first:
+      213: 5099421210025457299
+    second: Farmer_2_No_Hat_Dig_36_frames_32x32_14
+  - first:
+      213: 5898542369332711034
+    second: Farmer_2_No_Hat_Dig_36_frames_32x32_15
+  - first:
+      213: -4091698890141141535
+    second: Farmer_2_No_Hat_Dig_36_frames_32x32_16
+  - first:
+      213: -8444439291211254352
+    second: Farmer_2_No_Hat_Dig_36_frames_32x32_17
+  - first:
+      213: 6095142628285870301
+    second: Farmer_2_No_Hat_Dig_36_frames_32x32_18
+  - first:
+      213: 8953547553448132482
+    second: Farmer_2_No_Hat_Dig_36_frames_32x32_19
+  - first:
+      213: -2854713535765581958
+    second: Farmer_2_No_Hat_Dig_36_frames_32x32_20
+  - first:
+      213: -4872912928137587016
+    second: Farmer_2_No_Hat_Dig_36_frames_32x32_21
+  - first:
+      213: -7222198594947429799
+    second: Farmer_2_No_Hat_Dig_36_frames_32x32_22
+  - first:
+      213: -7132992724559751633
+    second: Farmer_2_No_Hat_Dig_36_frames_32x32_23
+  - first:
+      213: -8515359475818763643
+    second: Farmer_2_No_Hat_Dig_36_frames_32x32_24
+  - first:
+      213: 3804119984409264456
+    second: Farmer_2_No_Hat_Dig_36_frames_32x32_25
+  - first:
+      213: 5355445273083303027
+    second: Farmer_2_No_Hat_Dig_36_frames_32x32_26
+  - first:
+      213: -5888304996738700820
+    second: Farmer_2_No_Hat_Dig_36_frames_32x32_27
+  - first:
+      213: 7281565554915435778
+    second: Farmer_2_No_Hat_Dig_36_frames_32x32_28
+  - first:
+      213: 6434629588812715839
+    second: Farmer_2_No_Hat_Dig_36_frames_32x32_29
+  - first:
+      213: 175734721434864556
+    second: Farmer_2_No_Hat_Dig_36_frames_32x32_30
+  - first:
+      213: -6389875006956793108
+    second: Farmer_2_No_Hat_Dig_36_frames_32x32_31
+  - first:
+      213: 2824313684493009164
+    second: Farmer_2_No_Hat_Dig_36_frames_32x32_32
+  - first:
+      213: -5239688368600795338
+    second: Farmer_2_No_Hat_Dig_36_frames_32x32_33
+  - first:
+      213: -6566155831870154040
+    second: Farmer_2_No_Hat_Dig_36_frames_32x32_34
+  - first:
+      213: -695901841408061386
+    second: Farmer_2_No_Hat_Dig_36_frames_32x32_35
+  - first:
+      213: -4507417501444966326
+    second: Farmer_2_No_Hat_Dig_36_frames_32x32_36
+  - first:
+      213: -7830012906644238359
+    second: Farmer_2_No_Hat_Dig_36_frames_32x32_37
+  - first:
+      213: 4193240491849232915
+    second: Farmer_2_No_Hat_Dig_36_frames_32x32_38
+  - first:
+      213: 320951867270850610
+    second: Farmer_2_No_Hat_Dig_36_frames_32x32_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Dig_36_frames_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f883e4bcd22169c40800000000000000
+      internalID: 5518618381282850959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Dig_36_frames_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f61ae0e7b9b59a0800000000000000
+      internalID: -6243225492705415322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Dig_36_frames_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e095d352da70070800000000000000
+      internalID: 8072611232539545097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Dig_36_frames_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9dc9d03ccde9450800000000000000
+      internalID: 6097553675811346856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Dig_36_frames_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 0
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32768b18f65e90970800000000000000
+      internalID: 8721754420460152611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Dig_36_frames_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 0
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a70bb1ece74a4060800000000000000
+      internalID: 6938437258642655145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Dig_36_frames_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 0
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51ef0e01ee025260800000000000000
+      internalID: 7084741523573563743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Dig_36_frames_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 25
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03bce9d289cfab060800000000000000
+      internalID: 6970161103839873840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Dig_36_frames_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 0
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bca8a86796678890800000000000000
+      internalID: -7455877857606587212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Dig_36_frames_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 23
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21eb0dea862315a10800000000000000
+      internalID: 1896352343290592786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Dig_36_frames_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 0
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5436106c85fe50700800000000000000
+      internalID: 506073697707189061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Dig_36_frames_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 3
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c93788f8d19a8440800000000000000
+      internalID: 4938920302433745349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Dig_36_frames_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 3
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb603269da726930800000000000000
+      internalID: 4135002481953369025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Dig_36_frames_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 3
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670bfdd512e168970800000000000000
+      internalID: 8756719654126202998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Dig_36_frames_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 3
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396f8a79298c4c640800000000000000
+      internalID: 5099421210025457299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Dig_36_frames_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 3
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ecaa87805dbd150800000000000000
+      internalID: 5898542369332711034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Dig_36_frames_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 3
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5f645c98d5737c0800000000000000
+      internalID: -4091698890141141535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Dig_36_frames_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 3
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5700884335fca80800000000000000
+      internalID: -8444439291211254352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Dig_36_frames_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 3
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0f15e4deb469450800000000000000
+      internalID: 6095142628285870301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Dig_36_frames_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 3
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ff7dadf04614c70800000000000000
+      internalID: 8953547553448132482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Dig_36_frames_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 0
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f61350a250268d0800000000000000
+      internalID: -2854713535765581958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Dig_36_frames_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 0
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b653f8728fef5cb0800000000000000
+      internalID: -4872912928137587016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Dig_36_frames_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 0
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a45da84a895cb90800000000000000
+      internalID: -7222198594947429799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Dig_36_frames_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 0
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f269b23c8e4820d90800000000000000
+      internalID: -7132992724559751633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Dig_36_frames_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 0
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ae01d4cad53d980800000000000000
+      internalID: -8515359475818763643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Dig_36_frames_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 0
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841cda188f2fac430800000000000000
+      internalID: 3804119984409264456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Dig_36_frames_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 0
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374dc2cf91d525a40800000000000000
+      internalID: 5355445273083303027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Dig_36_frames_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 0
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce96b349dc9884ea0800000000000000
+      internalID: -5888304996738700820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Dig_36_frames_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 25
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2056475fa415d0560800000000000000
+      internalID: 7281565554915435778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Dig_36_frames_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 0
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f375666d4856c4950800000000000000
+      internalID: 6434629588812715839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Dig_36_frames_32x32_30
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 23
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabc3dd4cc5507200800000000000000
+      internalID: 175734721434864556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Dig_36_frames_32x32_31
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 1
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce29133498a9257a0800000000000000
+      internalID: -6389875006956793108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Dig_36_frames_32x32_32
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 1
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c010b7a055af13720800000000000000
+      internalID: 2824313684493009164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Dig_36_frames_32x32_33
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 0
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637bdc79033e847b0800000000000000
+      internalID: -5239688368600795338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Dig_36_frames_32x32_34
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 13
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca15855f0450e4a0800000000000000
+      internalID: -6566155831870154040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Dig_36_frames_32x32_35
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 13
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630155856f8a756f0800000000000000
+      internalID: -695901841408061386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Dig_36_frames_32x32_36
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 13
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a487efbe9af6271c0800000000000000
+      internalID: -4507417501444966326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Dig_36_frames_32x32_37
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 13
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef0fb02fb4365390800000000000000
+      internalID: -7830012906644238359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Dig_36_frames_32x32_38
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 13
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3123576b202613a30800000000000000
+      internalID: 4193240491849232915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Dig_36_frames_32x32_39
+      rect:
+        serializedVersion: 2
+        x: 2255
+        y: 11
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2386da6d500447400800000000000000
+      internalID: 320951867270850610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Farmer_2_No_Hat_Dig_36_frames_32x32_0: 5518618381282850959
+      Farmer_2_No_Hat_Dig_36_frames_32x32_1: -6243225492705415322
+      Farmer_2_No_Hat_Dig_36_frames_32x32_10: 506073697707189061
+      Farmer_2_No_Hat_Dig_36_frames_32x32_11: 4938920302433745349
+      Farmer_2_No_Hat_Dig_36_frames_32x32_12: 4135002481953369025
+      Farmer_2_No_Hat_Dig_36_frames_32x32_13: 8756719654126202998
+      Farmer_2_No_Hat_Dig_36_frames_32x32_14: 5099421210025457299
+      Farmer_2_No_Hat_Dig_36_frames_32x32_15: 5898542369332711034
+      Farmer_2_No_Hat_Dig_36_frames_32x32_16: -4091698890141141535
+      Farmer_2_No_Hat_Dig_36_frames_32x32_17: -8444439291211254352
+      Farmer_2_No_Hat_Dig_36_frames_32x32_18: 6095142628285870301
+      Farmer_2_No_Hat_Dig_36_frames_32x32_19: 8953547553448132482
+      Farmer_2_No_Hat_Dig_36_frames_32x32_2: 8072611232539545097
+      Farmer_2_No_Hat_Dig_36_frames_32x32_20: -2854713535765581958
+      Farmer_2_No_Hat_Dig_36_frames_32x32_21: -4872912928137587016
+      Farmer_2_No_Hat_Dig_36_frames_32x32_22: -7222198594947429799
+      Farmer_2_No_Hat_Dig_36_frames_32x32_23: -7132992724559751633
+      Farmer_2_No_Hat_Dig_36_frames_32x32_24: -8515359475818763643
+      Farmer_2_No_Hat_Dig_36_frames_32x32_25: 3804119984409264456
+      Farmer_2_No_Hat_Dig_36_frames_32x32_26: 5355445273083303027
+      Farmer_2_No_Hat_Dig_36_frames_32x32_27: -5888304996738700820
+      Farmer_2_No_Hat_Dig_36_frames_32x32_28: 7281565554915435778
+      Farmer_2_No_Hat_Dig_36_frames_32x32_29: 6434629588812715839
+      Farmer_2_No_Hat_Dig_36_frames_32x32_3: 6097553675811346856
+      Farmer_2_No_Hat_Dig_36_frames_32x32_30: 175734721434864556
+      Farmer_2_No_Hat_Dig_36_frames_32x32_31: -6389875006956793108
+      Farmer_2_No_Hat_Dig_36_frames_32x32_32: 2824313684493009164
+      Farmer_2_No_Hat_Dig_36_frames_32x32_33: -5239688368600795338
+      Farmer_2_No_Hat_Dig_36_frames_32x32_34: -6566155831870154040
+      Farmer_2_No_Hat_Dig_36_frames_32x32_35: -695901841408061386
+      Farmer_2_No_Hat_Dig_36_frames_32x32_36: -4507417501444966326
+      Farmer_2_No_Hat_Dig_36_frames_32x32_37: -7830012906644238359
+      Farmer_2_No_Hat_Dig_36_frames_32x32_38: 4193240491849232915
+      Farmer_2_No_Hat_Dig_36_frames_32x32_39: 320951867270850610
+      Farmer_2_No_Hat_Dig_36_frames_32x32_4: 8721754420460152611
+      Farmer_2_No_Hat_Dig_36_frames_32x32_5: 6938437258642655145
+      Farmer_2_No_Hat_Dig_36_frames_32x32_6: 7084741523573563743
+      Farmer_2_No_Hat_Dig_36_frames_32x32_7: 6970161103839873840
+      Farmer_2_No_Hat_Dig_36_frames_32x32_8: -7455877857606587212
+      Farmer_2_No_Hat_Dig_36_frames_32x32_9: 1896352343290592786
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

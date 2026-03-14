@@ -1,0 +1,1534 @@
+fileFormatVersion: 2
+guid: bbc23dcc84e70ae499227c2ec777b137
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5750788413444654141
+    second: Tileset_Pick_Ups_0
+  - first:
+      213: 2640354068457386983
+    second: Tileset_Pick_Ups_1
+  - first:
+      213: -2829453644128723922
+    second: Tileset_Pick_Ups_2
+  - first:
+      213: -3419853051258761952
+    second: Tileset_Pick_Ups_3
+  - first:
+      213: -7098819347134614534
+    second: Tileset_Pick_Ups_4
+  - first:
+      213: -162079399015359653
+    second: Tileset_Pick_Ups_5
+  - first:
+      213: -3101816587600375691
+    second: Tileset_Pick_Ups_6
+  - first:
+      213: 9096608554945247855
+    second: Tileset_Pick_Ups_7
+  - first:
+      213: 4789902166465201866
+    second: Tileset_Pick_Ups_8
+  - first:
+      213: 5058413449778619908
+    second: Tileset_Pick_Ups_9
+  - first:
+      213: 6078932267318518605
+    second: Tileset_Pick_Ups_10
+  - first:
+      213: 6701701078422310625
+    second: Tileset_Pick_Ups_11
+  - first:
+      213: 2018474529886719441
+    second: Tileset_Pick_Ups_12
+  - first:
+      213: -601174664531914193
+    second: Tileset_Pick_Ups_13
+  - first:
+      213: -8832496697183063339
+    second: Tileset_Pick_Ups_14
+  - first:
+      213: 5000464487063079649
+    second: Tileset_Pick_Ups_15
+  - first:
+      213: 193616405729323563
+    second: Tileset_Pick_Ups_16
+  - first:
+      213: 8776550951475956875
+    second: Tileset_Pick_Ups_17
+  - first:
+      213: -1019123196343834400
+    second: Tileset_Pick_Ups_18
+  - first:
+      213: 4057452823608388682
+    second: Tileset_Pick_Ups_19
+  - first:
+      213: -1487139356078047798
+    second: Tileset_Pick_Ups_20
+  - first:
+      213: -4515121878914336828
+    second: Tileset_Pick_Ups_21
+  - first:
+      213: -4541577305775483320
+    second: Tileset_Pick_Ups_22
+  - first:
+      213: -4692068501049971879
+    second: Tileset_Pick_Ups_23
+  - first:
+      213: -7256444122488037730
+    second: Tileset_Pick_Ups_24
+  - first:
+      213: 1509194623549538065
+    second: Tileset_Pick_Ups_25
+  - first:
+      213: 8661997026485800675
+    second: Tileset_Pick_Ups_26
+  - first:
+      213: 8633118349411338821
+    second: Tileset_Pick_Ups_27
+  - first:
+      213: 1289404451446708932
+    second: Tileset_Pick_Ups_28
+  - first:
+      213: 7184395281371746225
+    second: Tileset_Pick_Ups_29
+  - first:
+      213: -2712945663465444051
+    second: Tileset_Pick_Ups_30
+  - first:
+      213: -5139496188623660012
+    second: Tileset_Pick_Ups_31
+  - first:
+      213: -5497106811845581311
+    second: Tileset_Pick_Ups_32
+  - first:
+      213: 6088766290396283617
+    second: Tileset_Pick_Ups_33
+  - first:
+      213: 7194920645960105444
+    second: Tileset_Pick_Ups_34
+  - first:
+      213: 959120795872542622
+    second: Tileset_Pick_Ups_35
+  - first:
+      213: -4972390661719741898
+    second: Tileset_Pick_Ups_36
+  - first:
+      213: 6144980637337857048
+    second: Tileset_Pick_Ups_37
+  - first:
+      213: -5879434460439605732
+    second: Tileset_Pick_Ups_38
+  - first:
+      213: 8198247104209148119
+    second: Tileset_Pick_Ups_39
+  - first:
+      213: -5312817337025046013
+    second: Tileset_Pick_Ups_40
+  - first:
+      213: 3276188397928277305
+    second: Tileset_Pick_Ups_41
+  - first:
+      213: -8667769706376628899
+    second: Tileset_Pick_Ups_42
+  - first:
+      213: 7820857025720198861
+    second: Tileset_Pick_Ups_43
+  - first:
+      213: 1421607949312280786
+    second: Tileset_Pick_Ups_44
+  - first:
+      213: -2670829019764244477
+    second: Tileset_Pick_Ups_45
+  - first:
+      213: -2844219297767693599
+    second: Tileset_Pick_Ups_46
+  - first:
+      213: 5660474788171864032
+    second: Tileset_Pick_Ups_47
+  - first:
+      213: 255776544677907082
+    second: Tileset_Pick_Ups_48
+  - first:
+      213: -13859414659038153
+    second: Tileset_Pick_Ups_49
+  - first:
+      213: 5049561646501439697
+    second: Tileset_Pick_Ups_50
+  - first:
+      213: 3442278660565034590
+    second: Tileset_Pick_Ups_51
+  - first:
+      213: -923589779913863782
+    second: Tileset_Pick_Ups_52
+  - first:
+      213: -7585091985008117298
+    second: Tileset_Pick_Ups_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 722
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d340dc1d797eecf40800000000000000
+      internalID: 5750788413444654141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 722
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3f8ab390c64a420800000000000000
+      internalID: 2640354068457386983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 722
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2cd549d6e2cbb8d0800000000000000
+      internalID: -2829453644128723922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 722
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d8fafd4cd3a80d0800000000000000
+      internalID: -3419853051258761952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 722
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3fe593a6deb7d90800000000000000
+      internalID: -7098819347134614534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 722
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bd74435ad20cdf0800000000000000
+      internalID: -162079399015359653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5705aa96f3224f4d0800000000000000
+      internalID: -3101816587600375691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a7a4ae845ad3e70800000000000000
+      internalID: 9096608554945247855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_8
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 725
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6480574a6297240800000000000000
+      internalID: 4789902166465201866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 725
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406ec116b38133640800000000000000
+      internalID: 5058413449778619908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_10
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 725
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d432e2780b4bc5450800000000000000
+      internalID: 6078932267318518605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_11
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 725
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eec63aaf99310d50800000000000000
+      internalID: 6701701078422310625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_12
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 725
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd421ef3ef030c10800000000000000
+      internalID: 2018474529886719441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_13
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 725
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f225c98e3d238a7f0800000000000000
+      internalID: -601174664531914193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 677
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2b79cec0bac6580800000000000000
+      internalID: -8832496697183063339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_15
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 677
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eac95715f7356540800000000000000
+      internalID: 5000464487063079649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_16
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 677
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a2f2e581ddfa200800000000000000
+      internalID: 193616405729323563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_17
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 677
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c47d717929cc970800000000000000
+      internalID: 8776550951475956875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_18
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 677
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8a09b3ad85bd1f0800000000000000
+      internalID: -1019123196343834400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_19
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 677
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c651488d7fe4830800000000000000
+      internalID: 4057452823608388682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_20
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 677
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acdf67582ae9c5be0800000000000000
+      internalID: -1487139356078047798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_21
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 677
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c777b1c2901751c0800000000000000
+      internalID: -4515121878914336828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_22
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 677
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846d641b08319f0c0800000000000000
+      internalID: -4541577305775483320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_23
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 677
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95bed15de8c62eeb0800000000000000
+      internalID: -4692068501049971879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_24
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 677
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e11a2548eeb4b90800000000000000
+      internalID: -7256444122488037730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_25
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 677
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f7999938cb1f410800000000000000
+      internalID: 1509194623549538065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_26
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 680
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee0d210768953870800000000000000
+      internalID: 8661997026485800675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_27
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 680
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ac198066ffec770800000000000000
+      internalID: 8633118349411338821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_28
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 632
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cad94c5482e4e110800000000000000
+      internalID: 1289404451446708932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_29
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 632
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfc720a17914b360800000000000000
+      internalID: 7184395281371746225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_30
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 626
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2da43afa4ea95ad0800000000000000
+      internalID: -2712945663465444051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_31
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 626
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41cdc985277dca8b0800000000000000
+      internalID: -5139496188623660012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_32
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 623
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1066093ca7a56b3b0800000000000000
+      internalID: -5497106811845581311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_33
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 623
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e281737ea4af7450800000000000000
+      internalID: 6088766290396283617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_34
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 626
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed7399053e79d360800000000000000
+      internalID: 7194920645960105444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_35
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 626
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f3cae384b7f4d00800000000000000
+      internalID: 959120795872542622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_36
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 626
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63aa9bbb9058efab0800000000000000
+      internalID: -4972390661719741898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_37
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 626
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c2d28055b574550800000000000000
+      internalID: 6144980637337857048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_38
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 533
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e8e41428d086ea0800000000000000
+      internalID: -5879434460439605732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_39
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 533
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8d24b1e4606c170800000000000000
+      internalID: 8198247104209148119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_40
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 539
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ad51ec7c41546b0800000000000000
+      internalID: -5312817337025046013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_41
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 536
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93565cb6dfb577d20800000000000000
+      internalID: 3276188397928277305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 536
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5577883065e5b780800000000000000
+      internalID: -8667769706376628899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_43
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 539
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6ab293704498c60800000000000000
+      internalID: 7820857025720198861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_44
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 539
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d841acd5e09ab310800000000000000
+      internalID: 1421607949312280786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 434
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300c52d382f4fead0800000000000000
+      internalID: -2670829019764244477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_46
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 437
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2ee353e9d4788d0800000000000000
+      internalID: -2844219297767693599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_47
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 434
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7d90154db0e8e40800000000000000
+      internalID: 5660474788171864032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_48
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 437
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a47678963bc8300800000000000000
+      internalID: 255776544677907082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_49
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 434
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73404709fe2cecff0800000000000000
+      internalID: -13859414659038153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_50
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 434
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8a7235095a31640800000000000000
+      internalID: 5049561646501439697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 338
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56e2ec243e65cf20800000000000000
+      internalID: 3442278660565034590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_52
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 347
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d8d021dffbe23f0800000000000000
+      internalID: -923589779913863782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Pick_Ups_53
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 344
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9bde4f6075cb690800000000000000
+      internalID: -7585091985008117298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tileset_Pick_Ups_0: 5750788413444654141
+      Tileset_Pick_Ups_1: 2640354068457386983
+      Tileset_Pick_Ups_10: 6078932267318518605
+      Tileset_Pick_Ups_11: 6701701078422310625
+      Tileset_Pick_Ups_12: 2018474529886719441
+      Tileset_Pick_Ups_13: -601174664531914193
+      Tileset_Pick_Ups_14: -8832496697183063339
+      Tileset_Pick_Ups_15: 5000464487063079649
+      Tileset_Pick_Ups_16: 193616405729323563
+      Tileset_Pick_Ups_17: 8776550951475956875
+      Tileset_Pick_Ups_18: -1019123196343834400
+      Tileset_Pick_Ups_19: 4057452823608388682
+      Tileset_Pick_Ups_2: -2829453644128723922
+      Tileset_Pick_Ups_20: -1487139356078047798
+      Tileset_Pick_Ups_21: -4515121878914336828
+      Tileset_Pick_Ups_22: -4541577305775483320
+      Tileset_Pick_Ups_23: -4692068501049971879
+      Tileset_Pick_Ups_24: -7256444122488037730
+      Tileset_Pick_Ups_25: 1509194623549538065
+      Tileset_Pick_Ups_26: 8661997026485800675
+      Tileset_Pick_Ups_27: 8633118349411338821
+      Tileset_Pick_Ups_28: 1289404451446708932
+      Tileset_Pick_Ups_29: 7184395281371746225
+      Tileset_Pick_Ups_3: -3419853051258761952
+      Tileset_Pick_Ups_30: -2712945663465444051
+      Tileset_Pick_Ups_31: -5139496188623660012
+      Tileset_Pick_Ups_32: -5497106811845581311
+      Tileset_Pick_Ups_33: 6088766290396283617
+      Tileset_Pick_Ups_34: 7194920645960105444
+      Tileset_Pick_Ups_35: 959120795872542622
+      Tileset_Pick_Ups_36: -4972390661719741898
+      Tileset_Pick_Ups_37: 6144980637337857048
+      Tileset_Pick_Ups_38: -5879434460439605732
+      Tileset_Pick_Ups_39: 8198247104209148119
+      Tileset_Pick_Ups_4: -7098819347134614534
+      Tileset_Pick_Ups_40: -5312817337025046013
+      Tileset_Pick_Ups_41: 3276188397928277305
+      Tileset_Pick_Ups_42: -8667769706376628899
+      Tileset_Pick_Ups_43: 7820857025720198861
+      Tileset_Pick_Ups_44: 1421607949312280786
+      Tileset_Pick_Ups_45: -2670829019764244477
+      Tileset_Pick_Ups_46: -2844219297767693599
+      Tileset_Pick_Ups_47: 5660474788171864032
+      Tileset_Pick_Ups_48: 255776544677907082
+      Tileset_Pick_Ups_49: -13859414659038153
+      Tileset_Pick_Ups_5: -162079399015359653
+      Tileset_Pick_Ups_50: 5049561646501439697
+      Tileset_Pick_Ups_51: 3442278660565034590
+      Tileset_Pick_Ups_52: -923589779913863782
+      Tileset_Pick_Ups_53: -7585091985008117298
+      Tileset_Pick_Ups_6: -3101816587600375691
+      Tileset_Pick_Ups_7: 9096608554945247855
+      Tileset_Pick_Ups_8: 4789902166465201866
+      Tileset_Pick_Ups_9: 5058413449778619908
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

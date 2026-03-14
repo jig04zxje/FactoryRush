@@ -1,0 +1,1664 @@
+fileFormatVersion: 2
+guid: e118f4a00243571418d149cad0aea789
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1637611894844815511
+    second: Tileset_Crops_Crates_0
+  - first:
+      213: 5063389720230853158
+    second: Tileset_Crops_Crates_1
+  - first:
+      213: -1587618813421116814
+    second: Tileset_Crops_Crates_2
+  - first:
+      213: 5649717169418713899
+    second: Tileset_Crops_Crates_3
+  - first:
+      213: -1378711653954944217
+    second: Tileset_Crops_Crates_4
+  - first:
+      213: 186941468618580421
+    second: Tileset_Crops_Crates_5
+  - first:
+      213: -7582449113961077902
+    second: Tileset_Crops_Crates_6
+  - first:
+      213: -8003577332941376534
+    second: Tileset_Crops_Crates_7
+  - first:
+      213: 5715085270150479154
+    second: Tileset_Crops_Crates_8
+  - first:
+      213: -2326287393666595597
+    second: Tileset_Crops_Crates_9
+  - first:
+      213: -3709315667104132289
+    second: Tileset_Crops_Crates_10
+  - first:
+      213: 7552444818875401754
+    second: Tileset_Crops_Crates_11
+  - first:
+      213: 420232604508718627
+    second: Tileset_Crops_Crates_12
+  - first:
+      213: -2397223199588139371
+    second: Tileset_Crops_Crates_13
+  - first:
+      213: -8515348594181113251
+    second: Tileset_Crops_Crates_14
+  - first:
+      213: -7382916085806802371
+    second: Tileset_Crops_Crates_15
+  - first:
+      213: -9191952219086798011
+    second: Tileset_Crops_Crates_16
+  - first:
+      213: 4451400313728193867
+    second: Tileset_Crops_Crates_17
+  - first:
+      213: -5094996446469099483
+    second: Tileset_Crops_Crates_18
+  - first:
+      213: -4852036904079069757
+    second: Tileset_Crops_Crates_19
+  - first:
+      213: 5207113024467167540
+    second: Tileset_Crops_Crates_20
+  - first:
+      213: -7551348838029077777
+    second: Tileset_Crops_Crates_21
+  - first:
+      213: -83471047785090714
+    second: Tileset_Crops_Crates_22
+  - first:
+      213: -7684441307662781163
+    second: Tileset_Crops_Crates_23
+  - first:
+      213: 3435108635101704042
+    second: Tileset_Crops_Crates_24
+  - first:
+      213: 97264183027515957
+    second: Tileset_Crops_Crates_25
+  - first:
+      213: -7061898965973935583
+    second: Tileset_Crops_Crates_26
+  - first:
+      213: -8794254678106071559
+    second: Tileset_Crops_Crates_27
+  - first:
+      213: -7669425211372897366
+    second: Tileset_Crops_Crates_28
+  - first:
+      213: -8555766072050105415
+    second: Tileset_Crops_Crates_29
+  - first:
+      213: 764451090385624858
+    second: Tileset_Crops_Crates_30
+  - first:
+      213: -5263779212554712645
+    second: Tileset_Crops_Crates_31
+  - first:
+      213: -3509541769026330345
+    second: Tileset_Crops_Crates_32
+  - first:
+      213: -1020712978600485805
+    second: Tileset_Crops_Crates_33
+  - first:
+      213: 7149686225378518193
+    second: Tileset_Crops_Crates_34
+  - first:
+      213: -3917634228901405109
+    second: Tileset_Crops_Crates_35
+  - first:
+      213: 8922486271921215650
+    second: Tileset_Crops_Crates_36
+  - first:
+      213: -1408259471792135584
+    second: Tileset_Crops_Crates_37
+  - first:
+      213: -2117131895877742335
+    second: Tileset_Crops_Crates_38
+  - first:
+      213: -670273949360397669
+    second: Tileset_Crops_Crates_39
+  - first:
+      213: 5777162672785828177
+    second: Tileset_Crops_Crates_40
+  - first:
+      213: 7749659335101594431
+    second: Tileset_Crops_Crates_41
+  - first:
+      213: 5857681693796205145
+    second: Tileset_Crops_Crates_42
+  - first:
+      213: -2299315628555410894
+    second: Tileset_Crops_Crates_43
+  - first:
+      213: -5810258768009174417
+    second: Tileset_Crops_Crates_44
+  - first:
+      213: -9090940386855879015
+    second: Tileset_Crops_Crates_45
+  - first:
+      213: 8070475153140974404
+    second: Tileset_Crops_Crates_46
+  - first:
+      213: -967044971138419551
+    second: Tileset_Crops_Crates_47
+  - first:
+      213: 5147805334091839837
+    second: Tileset_Crops_Crates_48
+  - first:
+      213: -7128471234769576412
+    second: Tileset_Crops_Crates_49
+  - first:
+      213: -6594822721382304788
+    second: Tileset_Crops_Crates_50
+  - first:
+      213: 2752923686988285490
+    second: Tileset_Crops_Crates_51
+  - first:
+      213: 4546399430221720963
+    second: Tileset_Crops_Crates_52
+  - first:
+      213: 3931124285152494440
+    second: Tileset_Crops_Crates_53
+  - first:
+      213: -4932036627297365363
+    second: Tileset_Crops_Crates_54
+  - first:
+      213: -3966016627020583544
+    second: Tileset_Crops_Crates_55
+  - first:
+      213: 7470212172421386562
+    second: Tileset_Crops_Crates_56
+  - first:
+      213: 5905142768984405753
+    second: Tileset_Crops_Crates_57
+  - first:
+      213: 6322076228926452010
+    second: Tileset_Crops_Crates_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 674
+        width: 92
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96702d778a80649e0800000000000000
+      internalID: -1637611894844815511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 671
+        width: 98
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a79b1af16c44640800000000000000
+      internalID: 5063389720230853158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_2
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 722
+        width: 95
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272ae4bc915a7f9e0800000000000000
+      internalID: -1587618813421116814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_3
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 722
+        width: 95
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2bb0a405d3d76e40800000000000000
+      internalID: 5649717169418713899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_4
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 722
+        width: 95
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72303523e05dddce0800000000000000
+      internalID: -1378711653954944217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_5
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 722
+        width: 94
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1ecc67646289200800000000000000
+      internalID: 186941468618580421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 626
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273efd254bab5c690800000000000000
+      internalID: -7582449113961077902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 626
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae339a902d49de090800000000000000
+      internalID: -8003577332941376534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_8
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 623
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23df26cf5cf005f40800000000000000
+      internalID: 5715085270150479154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_9
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 626
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4880fc0fd57bfd0800000000000000
+      internalID: -2326287393666595597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_10
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 626
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f339776bd0dd58cc0800000000000000
+      internalID: -3709315667104132289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_11
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 626
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16cec65c8cafc860800000000000000
+      internalID: 7552444818875401754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_12
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 626
+        width: 94
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32687cac357f4d500800000000000000
+      internalID: 420232604508718627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 530
+        width: 92
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e3935733a5bbed0800000000000000
+      internalID: -2397223199588139371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 530
+        width: 92
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a7631e19763d980800000000000000
+      internalID: -8515348594181113251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_15
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 530
+        width: 95
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ad7f2bfec9a8990800000000000000
+      internalID: -7382916085806802371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_16
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 530
+        width: 95
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543c7f46820af6080800000000000000
+      internalID: -9191952219086798011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_17
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 530
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45d4d4300d86cd30800000000000000
+      internalID: 4451400313728193867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_18
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 530
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520f454f9bfea49b0800000000000000
+      internalID: -5094996446469099483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_19
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 530
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cde747942a1aacb0800000000000000
+      internalID: -4852036904079069757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_20
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 530
+        width: 94
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439eca015b1634840800000000000000
+      internalID: 5207113024467167540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 434
+        width: 95
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2d7369d38343790800000000000000
+      internalID: -7551348838029077777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_22
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 434
+        width: 95
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6617db7368377def0800000000000000
+      internalID: -83471047785090714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_23
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 434
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515fb6738516b5590800000000000000
+      internalID: -7684441307662781163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_24
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 434
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f2d188a15fbaf20800000000000000
+      internalID: 3435108635101704042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_25
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 434
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53249b6524d895100800000000000000
+      internalID: 97264183027515957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_26
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 434
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12adc655e481ffd90800000000000000
+      internalID: -7061898965973935583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_27
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 434
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd9b27d6f784f580800000000000000
+      internalID: -8794254678106071559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_28
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 434
+        width: 94
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab71b4976ab09590800000000000000
+      internalID: -7669425211372897366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 338
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b34d1e7610d34980800000000000000
+      internalID: -8555766072050105415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_30
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 338
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f589a6730eb9a00800000000000000
+      internalID: 764451090385624858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_31
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 338
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb94793e1bc43f6b0800000000000000
+      internalID: -5263779212554712645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_32
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 338
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7112accfa5a9b4fc0800000000000000
+      internalID: -3509541769026330345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_33
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 338
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c13e434f2b5d1f0800000000000000
+      internalID: -1020712978600485805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_34
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 338
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4a037cdb9c83360800000000000000
+      internalID: 7149686225378518193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_35
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 338
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e9b62ec64c1a9c0800000000000000
+      internalID: -3917634228901405109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_36
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 338
+        width: 94
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8d92fadf903db70800000000000000
+      internalID: 8922486271921215650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 242
+        width: 97
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0622040c87bd47ce0800000000000000
+      internalID: -1408259471792135584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_38
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 242
+        width: 95
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101de8bf1cf6e92e0800000000000000
+      internalID: -2117131895877742335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_39
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 242
+        width: 98
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92ec22f465b2b6f0800000000000000
+      internalID: -670273949360397669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_40
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 239
+        width: 188
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159ab0997da9c2050800000000000000
+      internalID: 5777162672785828177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_41
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 191
+        width: 239
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b35071b125c8b60800000000000000
+      internalID: 7749659335101594431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_42
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 287
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9520806177aaa4150800000000000000
+      internalID: 5857681693796205145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_43
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 287
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232637d3e903710e0800000000000000
+      internalID: -2299315628555410894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_44
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 146
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62e6bf3f60dd5fa0800000000000000
+      internalID: -5810258768009174417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_45
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 146
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ef33f42ed76d180800000000000000
+      internalID: -9090940386855879015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_46
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 146
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443859f7466100070800000000000000
+      internalID: 8070475153140974404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_47
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 146
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4777de8bd5492f0800000000000000
+      internalID: -967044971138419551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_48
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 191
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59b7675dada07740800000000000000
+      internalID: 5147805334091839837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_49
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 191
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e18f32e25921d90800000000000000
+      internalID: -7128471234769576412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_50
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 191
+        width: 47
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3355ffcab7a74a0800000000000000
+      internalID: -6594822721382304788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_51
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 50
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23602b8f189543620800000000000000
+      internalID: 2752923686988285490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_52
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 50
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d6765a13e081f30800000000000000
+      internalID: 4546399430221720963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_53
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 50
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8630d6895b82e8630800000000000000
+      internalID: 3931124285152494440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_54
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 50
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8299ba81d2ed8bb0800000000000000
+      internalID: -4932036627297365363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_55
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 92
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d252df3e0e5f8c0800000000000000
+      internalID: -3966016627020583544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_56
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 92
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241d9f554668ba760800000000000000
+      internalID: 7470212172421386562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_57
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 92
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f63845cf0843f150800000000000000
+      internalID: 5905142768984405753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Crops_Crates_58
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 92
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a213a1c95d68cb750800000000000000
+      internalID: 6322076228926452010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tileset_Crops_Crates_0: -1637611894844815511
+      Tileset_Crops_Crates_1: 5063389720230853158
+      Tileset_Crops_Crates_10: -3709315667104132289
+      Tileset_Crops_Crates_11: 7552444818875401754
+      Tileset_Crops_Crates_12: 420232604508718627
+      Tileset_Crops_Crates_13: -2397223199588139371
+      Tileset_Crops_Crates_14: -8515348594181113251
+      Tileset_Crops_Crates_15: -7382916085806802371
+      Tileset_Crops_Crates_16: -9191952219086798011
+      Tileset_Crops_Crates_17: 4451400313728193867
+      Tileset_Crops_Crates_18: -5094996446469099483
+      Tileset_Crops_Crates_19: -4852036904079069757
+      Tileset_Crops_Crates_2: -1587618813421116814
+      Tileset_Crops_Crates_20: 5207113024467167540
+      Tileset_Crops_Crates_21: -7551348838029077777
+      Tileset_Crops_Crates_22: -83471047785090714
+      Tileset_Crops_Crates_23: -7684441307662781163
+      Tileset_Crops_Crates_24: 3435108635101704042
+      Tileset_Crops_Crates_25: 97264183027515957
+      Tileset_Crops_Crates_26: -7061898965973935583
+      Tileset_Crops_Crates_27: -8794254678106071559
+      Tileset_Crops_Crates_28: -7669425211372897366
+      Tileset_Crops_Crates_29: -8555766072050105415
+      Tileset_Crops_Crates_3: 5649717169418713899
+      Tileset_Crops_Crates_30: 764451090385624858
+      Tileset_Crops_Crates_31: -5263779212554712645
+      Tileset_Crops_Crates_32: -3509541769026330345
+      Tileset_Crops_Crates_33: -1020712978600485805
+      Tileset_Crops_Crates_34: 7149686225378518193
+      Tileset_Crops_Crates_35: -3917634228901405109
+      Tileset_Crops_Crates_36: 8922486271921215650
+      Tileset_Crops_Crates_37: -1408259471792135584
+      Tileset_Crops_Crates_38: -2117131895877742335
+      Tileset_Crops_Crates_39: -670273949360397669
+      Tileset_Crops_Crates_4: -1378711653954944217
+      Tileset_Crops_Crates_40: 5777162672785828177
+      Tileset_Crops_Crates_41: 7749659335101594431
+      Tileset_Crops_Crates_42: 5857681693796205145
+      Tileset_Crops_Crates_43: -2299315628555410894
+      Tileset_Crops_Crates_44: -5810258768009174417
+      Tileset_Crops_Crates_45: -9090940386855879015
+      Tileset_Crops_Crates_46: 8070475153140974404
+      Tileset_Crops_Crates_47: -967044971138419551
+      Tileset_Crops_Crates_48: 5147805334091839837
+      Tileset_Crops_Crates_49: -7128471234769576412
+      Tileset_Crops_Crates_5: 186941468618580421
+      Tileset_Crops_Crates_50: -6594822721382304788
+      Tileset_Crops_Crates_51: 2752923686988285490
+      Tileset_Crops_Crates_52: 4546399430221720963
+      Tileset_Crops_Crates_53: 3931124285152494440
+      Tileset_Crops_Crates_54: -4932036627297365363
+      Tileset_Crops_Crates_55: -3966016627020583544
+      Tileset_Crops_Crates_56: 7470212172421386562
+      Tileset_Crops_Crates_57: 5905142768984405753
+      Tileset_Crops_Crates_58: 6322076228926452010
+      Tileset_Crops_Crates_6: -7582449113961077902
+      Tileset_Crops_Crates_7: -8003577332941376534
+      Tileset_Crops_Crates_8: 5715085270150479154
+      Tileset_Crops_Crates_9: -2326287393666595597
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

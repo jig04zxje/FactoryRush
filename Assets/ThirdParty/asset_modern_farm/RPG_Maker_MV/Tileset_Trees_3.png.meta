@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 5b436e5703a9b5e49889aff2bcadf205
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2387502089627433884
+    second: Tileset_Trees_3_0
+  - first:
+      213: -2532628399754385552
+    second: Tileset_Trees_3_1
+  - first:
+      213: -7319790094164539951
+    second: Tileset_Trees_3_2
+  - first:
+      213: -9038459511548190618
+    second: Tileset_Trees_3_3
+  - first:
+      213: -8078752860902879092
+    second: Tileset_Trees_3_4
+  - first:
+      213: -5488377630213372803
+    second: Tileset_Trees_3_5
+  - first:
+      213: 2554104963076969861
+    second: Tileset_Trees_3_6
+  - first:
+      213: -4818500035936076988
+    second: Tileset_Trees_3_7
+  - first:
+      213: -4876379619646695248
+    second: Tileset_Trees_3_8
+  - first:
+      213: 3932132953573627225
+    second: Tileset_Trees_3_9
+  - first:
+      213: 6065847098279463579
+    second: Tileset_Trees_3_10
+  - first:
+      213: 4811471722665471250
+    second: Tileset_Trees_3_11
+  - first:
+      213: -5155939720310025721
+    second: Tileset_Trees_3_12
+  - first:
+      213: 5503807489215227474
+    second: Tileset_Trees_3_13
+  - first:
+      213: 5069155228760495278
+    second: Tileset_Trees_3_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset_Trees_3_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 575
+        width: 131
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bfeb0408c122120800000000000000
+      internalID: 2387502089627433884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Trees_3_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 575
+        width: 131
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077e29c83eb4adcd0800000000000000
+      internalID: -2532628399754385552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Trees_3_2
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 575
+        width: 173
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d546e6f0b1ea6a90800000000000000
+      internalID: -7319790094164539951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Trees_3_3
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 575
+        width: 173
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6606b6946f0f09280800000000000000
+      internalID: -9038459511548190618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Trees_3_4
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 335
+        width: 152
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8096b9731182ef80800000000000000
+      internalID: -8078752860902879092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Trees_3_5
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 335
+        width: 152
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d748eedbf9d55d3b0800000000000000
+      internalID: -5488377630213372803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Trees_3_6
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 287
+        width: 173
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585d3438ee0027320800000000000000
+      internalID: 2554104963076969861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Trees_3_7
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 287
+        width: 173
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bb2df2fbf312db0800000000000000
+      internalID: -4818500035936076988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Trees_3_8
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 95
+        width: 152
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b81105729e935cb0800000000000000
+      internalID: -4876379619646695248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Trees_3_9
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 95
+        width: 152
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9551d53861eb19630800000000000000
+      internalID: 3932132953573627225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Trees_3_10
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 191
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a08c23cc73e2450800000000000000
+      internalID: 6065847098279463579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Trees_3_11
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 191
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21def4c1a08c5c240800000000000000
+      internalID: 4811471722665471250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Trees_3_12
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 191
+        width: 62
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7021897442c6278b0800000000000000
+      internalID: -5155939720310025721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Trees_3_13
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 86
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256eec240c3716c40800000000000000
+      internalID: 5503807489215227474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Trees_3_14
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 86
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea45591b2d1495640800000000000000
+      internalID: 5069155228760495278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tileset_Trees_3_0: 2387502089627433884
+      Tileset_Trees_3_1: -2532628399754385552
+      Tileset_Trees_3_10: 6065847098279463579
+      Tileset_Trees_3_11: 4811471722665471250
+      Tileset_Trees_3_12: -5155939720310025721
+      Tileset_Trees_3_13: 5503807489215227474
+      Tileset_Trees_3_14: 5069155228760495278
+      Tileset_Trees_3_2: -7319790094164539951
+      Tileset_Trees_3_3: -9038459511548190618
+      Tileset_Trees_3_4: -8078752860902879092
+      Tileset_Trees_3_5: -5488377630213372803
+      Tileset_Trees_3_6: 2554104963076969861
+      Tileset_Trees_3_7: -4818500035936076988
+      Tileset_Trees_3_8: -4876379619646695248
+      Tileset_Trees_3_9: 3932132953573627225
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

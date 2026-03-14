@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 2437e47633e2ea8439a8fd5ae66a420b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2319175966435885283
+    second: '!$MV_Dog_Basenji_0'
+  - first:
+      213: -3148096862775901370
+    second: '!$MV_Dog_Basenji_1'
+  - first:
+      213: 2845185007894729840
+    second: '!$MV_Dog_Basenji_2'
+  - first:
+      213: 4349846477856748654
+    second: '!$MV_Dog_Basenji_3'
+  - first:
+      213: 391045517137695485
+    second: '!$MV_Dog_Basenji_4'
+  - first:
+      213: -6283287823065285486
+    second: '!$MV_Dog_Basenji_5'
+  - first:
+      213: 4948354593936109242
+    second: '!$MV_Dog_Basenji_6'
+  - first:
+      213: -8726382546579035891
+    second: '!$MV_Dog_Basenji_7'
+  - first:
+      213: 8717697056476031006
+    second: '!$MV_Dog_Basenji_8'
+  - first:
+      213: 7590849087876269128
+    second: '!$MV_Dog_Basenji_9'
+  - first:
+      213: 7671582270926392762
+    second: '!$MV_Dog_Basenji_10'
+  - first:
+      213: -3044292914790125642
+    second: '!$MV_Dog_Basenji_11'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!$MV_Dog_Basenji_0'
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 293
+        width: 35
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0c803014e5f2020800000000000000
+      internalID: 2319175966435885283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Dog_Basenji_1'
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 293
+        width: 35
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64388b72596bf44d0800000000000000
+      internalID: -3148096862775901370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Dog_Basenji_2'
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 293
+        width: 35
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07415d3b0b02c7720800000000000000
+      internalID: 2845185007894729840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Dog_Basenji_3'
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 194
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64b22c3352cd5c30800000000000000
+      internalID: 4349846477856748654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Dog_Basenji_4'
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 194
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2500473d54d6500800000000000000
+      internalID: 391045517137695485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Dog_Basenji_5'
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 194
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cf7a4e3074dc8a0800000000000000
+      internalID: -6283287823065285486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Dog_Basenji_6'
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 98
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abeeb3229461ca440800000000000000
+      internalID: 4948354593936109242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Dog_Basenji_7'
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 98
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09ecf8ee49a5e680800000000000000
+      internalID: -8726382546579035891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Dog_Basenji_8'
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 98
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18e8b6d84b7bf870800000000000000
+      internalID: 8717697056476031006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Dog_Basenji_9'
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2
+        width: 35
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8448672070d185960800000000000000
+      internalID: 7590849087876269128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Dog_Basenji_10'
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2
+        width: 35
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd80cbfd6fe67a60800000000000000
+      internalID: 7671582270926392762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Dog_Basenji_11'
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 2
+        width: 35
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf22bd29bf70c5d0800000000000000
+      internalID: -3044292914790125642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '!$MV_Dog_Basenji_0': 2319175966435885283
+      '!$MV_Dog_Basenji_1': -3148096862775901370
+      '!$MV_Dog_Basenji_10': 7671582270926392762
+      '!$MV_Dog_Basenji_11': -3044292914790125642
+      '!$MV_Dog_Basenji_2': 2845185007894729840
+      '!$MV_Dog_Basenji_3': 4349846477856748654
+      '!$MV_Dog_Basenji_4': 391045517137695485
+      '!$MV_Dog_Basenji_5': -6283287823065285486
+      '!$MV_Dog_Basenji_6': 4948354593936109242
+      '!$MV_Dog_Basenji_7': -8726382546579035891
+      '!$MV_Dog_Basenji_8': 8717697056476031006
+      '!$MV_Dog_Basenji_9': 7590849087876269128
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

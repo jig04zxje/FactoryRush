@@ -1,0 +1,6812 @@
+fileFormatVersion: 2
+guid: 98ecd981b2e84fa41a80fb6581791cd6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6942407912618522912
+    second: Body_2_Fishing_Animation_32x32_0
+  - first:
+      213: 3888020067553658125
+    second: Body_2_Fishing_Animation_32x32_1
+  - first:
+      213: 3241106266470796344
+    second: Body_2_Fishing_Animation_32x32_2
+  - first:
+      213: -8513331461732213300
+    second: Body_2_Fishing_Animation_32x32_3
+  - first:
+      213: 4047341605799146447
+    second: Body_2_Fishing_Animation_32x32_4
+  - first:
+      213: -3110705107650967725
+    second: Body_2_Fishing_Animation_32x32_5
+  - first:
+      213: -2443072265049090650
+    second: Body_2_Fishing_Animation_32x32_6
+  - first:
+      213: -1385468464424026816
+    second: Body_2_Fishing_Animation_32x32_7
+  - first:
+      213: -3776683151438140532
+    second: Body_2_Fishing_Animation_32x32_8
+  - first:
+      213: -314990245446147517
+    second: Body_2_Fishing_Animation_32x32_9
+  - first:
+      213: -1659637878866792201
+    second: Body_2_Fishing_Animation_32x32_10
+  - first:
+      213: -4234804483518899335
+    second: Body_2_Fishing_Animation_32x32_11
+  - first:
+      213: 4940881410310350366
+    second: Body_2_Fishing_Animation_32x32_12
+  - first:
+      213: -6800471364526060513
+    second: Body_2_Fishing_Animation_32x32_13
+  - first:
+      213: -2493043280386102630
+    second: Body_2_Fishing_Animation_32x32_14
+  - first:
+      213: -4162744692480853582
+    second: Body_2_Fishing_Animation_32x32_15
+  - first:
+      213: -1301967387067514084
+    second: Body_2_Fishing_Animation_32x32_16
+  - first:
+      213: 676763589834008099
+    second: Body_2_Fishing_Animation_32x32_17
+  - first:
+      213: -8278812075382266349
+    second: Body_2_Fishing_Animation_32x32_18
+  - first:
+      213: -6355581598272500460
+    second: Body_2_Fishing_Animation_32x32_19
+  - first:
+      213: -1414778732712424663
+    second: Body_2_Fishing_Animation_32x32_20
+  - first:
+      213: 2097426439822143455
+    second: Body_2_Fishing_Animation_32x32_21
+  - first:
+      213: 6906627379223819669
+    second: Body_2_Fishing_Animation_32x32_22
+  - first:
+      213: 6261261025017011253
+    second: Body_2_Fishing_Animation_32x32_23
+  - first:
+      213: -1507957966604219339
+    second: Body_2_Fishing_Animation_32x32_24
+  - first:
+      213: -8886903410140732294
+    second: Body_2_Fishing_Animation_32x32_25
+  - first:
+      213: -7960364817171688472
+    second: Body_2_Fishing_Animation_32x32_26
+  - first:
+      213: -2520826546311328361
+    second: Body_2_Fishing_Animation_32x32_27
+  - first:
+      213: -3510379085159298244
+    second: Body_2_Fishing_Animation_32x32_28
+  - first:
+      213: 8283107182488167607
+    second: Body_2_Fishing_Animation_32x32_29
+  - first:
+      213: 2714908512953919657
+    second: Body_2_Fishing_Animation_32x32_30
+  - first:
+      213: -3633622013115363319
+    second: Body_2_Fishing_Animation_32x32_31
+  - first:
+      213: 8636974866955008
+    second: Body_2_Fishing_Animation_32x32_32
+  - first:
+      213: -2502073769232585006
+    second: Body_2_Fishing_Animation_32x32_33
+  - first:
+      213: -8588067122192797374
+    second: Body_2_Fishing_Animation_32x32_34
+  - first:
+      213: 235231009996981744
+    second: Body_2_Fishing_Animation_32x32_35
+  - first:
+      213: -4785458062376333057
+    second: Body_2_Fishing_Animation_32x32_36
+  - first:
+      213: 5916846159496133497
+    second: Body_2_Fishing_Animation_32x32_37
+  - first:
+      213: 3124838100793486319
+    second: Body_2_Fishing_Animation_32x32_38
+  - first:
+      213: 2313792595337609738
+    second: Body_2_Fishing_Animation_32x32_39
+  - first:
+      213: 2403592081782080681
+    second: Body_2_Fishing_Animation_32x32_40
+  - first:
+      213: -1480209641881199039
+    second: Body_2_Fishing_Animation_32x32_41
+  - first:
+      213: -1665529203686196815
+    second: Body_2_Fishing_Animation_32x32_42
+  - first:
+      213: -8381418976384712547
+    second: Body_2_Fishing_Animation_32x32_43
+  - first:
+      213: 752147821791826340
+    second: Body_2_Fishing_Animation_32x32_44
+  - first:
+      213: -549209008590418176
+    second: Body_2_Fishing_Animation_32x32_45
+  - first:
+      213: -7393605774347135475
+    second: Body_2_Fishing_Animation_32x32_46
+  - first:
+      213: 4765325282795041982
+    second: Body_2_Fishing_Animation_32x32_47
+  - first:
+      213: 8645303532088356781
+    second: Body_2_Fishing_Animation_32x32_48
+  - first:
+      213: -5971942220343051951
+    second: Body_2_Fishing_Animation_32x32_49
+  - first:
+      213: -5364129623846446271
+    second: Body_2_Fishing_Animation_32x32_50
+  - first:
+      213: -8679616274358671932
+    second: Body_2_Fishing_Animation_32x32_51
+  - first:
+      213: -1627548974433453927
+    second: Body_2_Fishing_Animation_32x32_52
+  - first:
+      213: 1976296384629132167
+    second: Body_2_Fishing_Animation_32x32_53
+  - first:
+      213: -7379398065250750682
+    second: Body_2_Fishing_Animation_32x32_54
+  - first:
+      213: 769982366838962137
+    second: Body_2_Fishing_Animation_32x32_55
+  - first:
+      213: 4293429690472711319
+    second: Body_2_Fishing_Animation_32x32_56
+  - first:
+      213: 7988438541336819824
+    second: Body_2_Fishing_Animation_32x32_57
+  - first:
+      213: -7715048222118123800
+    second: Body_2_Fishing_Animation_32x32_58
+  - first:
+      213: -6919462398820692666
+    second: Body_2_Fishing_Animation_32x32_59
+  - first:
+      213: 2557210403201646473
+    second: Body_2_Fishing_Animation_32x32_60
+  - first:
+      213: 3371069137228572183
+    second: Body_2_Fishing_Animation_32x32_61
+  - first:
+      213: -1283909602316941440
+    second: Body_2_Fishing_Animation_32x32_62
+  - first:
+      213: -1002001856042556638
+    second: Body_2_Fishing_Animation_32x32_63
+  - first:
+      213: -1420898812151143718
+    second: Body_2_Fishing_Animation_32x32_64
+  - first:
+      213: 5770756426142657859
+    second: Body_2_Fishing_Animation_32x32_65
+  - first:
+      213: -6983608091967453217
+    second: Body_2_Fishing_Animation_32x32_66
+  - first:
+      213: -8219770857837403032
+    second: Body_2_Fishing_Animation_32x32_67
+  - first:
+      213: 6238759673244216555
+    second: Body_2_Fishing_Animation_32x32_68
+  - first:
+      213: 226375439672906161
+    second: Body_2_Fishing_Animation_32x32_69
+  - first:
+      213: 8358320634577907968
+    second: Body_2_Fishing_Animation_32x32_70
+  - first:
+      213: 5116752046860918788
+    second: Body_2_Fishing_Animation_32x32_71
+  - first:
+      213: -2438794742204824649
+    second: Body_2_Fishing_Animation_32x32_72
+  - first:
+      213: -1589692754294601851
+    second: Body_2_Fishing_Animation_32x32_73
+  - first:
+      213: 8213099561652510227
+    second: Body_2_Fishing_Animation_32x32_74
+  - first:
+      213: -1630644564480999846
+    second: Body_2_Fishing_Animation_32x32_75
+  - first:
+      213: 4087274130695170824
+    second: Body_2_Fishing_Animation_32x32_76
+  - first:
+      213: -7033766038657632824
+    second: Body_2_Fishing_Animation_32x32_77
+  - first:
+      213: 3355486605499870798
+    second: Body_2_Fishing_Animation_32x32_78
+  - first:
+      213: -7521666753722194587
+    second: Body_2_Fishing_Animation_32x32_79
+  - first:
+      213: -1445506061647544523
+    second: Body_2_Fishing_Animation_32x32_80
+  - first:
+      213: -8919277690707899583
+    second: Body_2_Fishing_Animation_32x32_81
+  - first:
+      213: 3772178996821302825
+    second: Body_2_Fishing_Animation_32x32_82
+  - first:
+      213: 5313789250147923007
+    second: Body_2_Fishing_Animation_32x32_83
+  - first:
+      213: 4824876875910177901
+    second: Body_2_Fishing_Animation_32x32_84
+  - first:
+      213: -7775352580671386404
+    second: Body_2_Fishing_Animation_32x32_85
+  - first:
+      213: 290789889560744913
+    second: Body_2_Fishing_Animation_32x32_86
+  - first:
+      213: 4562403055010176481
+    second: Body_2_Fishing_Animation_32x32_87
+  - first:
+      213: 7967535719890358484
+    second: Body_2_Fishing_Animation_32x32_88
+  - first:
+      213: -1954499177827468935
+    second: Body_2_Fishing_Animation_32x32_89
+  - first:
+      213: -6345311873828751599
+    second: Body_2_Fishing_Animation_32x32_90
+  - first:
+      213: -7428918071700419713
+    second: Body_2_Fishing_Animation_32x32_91
+  - first:
+      213: -1959610630819548832
+    second: Body_2_Fishing_Animation_32x32_92
+  - first:
+      213: -8289361712430261715
+    second: Body_2_Fishing_Animation_32x32_93
+  - first:
+      213: -8814187039388147571
+    second: Body_2_Fishing_Animation_32x32_94
+  - first:
+      213: 4018091705627837128
+    second: Body_2_Fishing_Animation_32x32_95
+  - first:
+      213: -8369634661305531263
+    second: Body_2_Fishing_Animation_32x32_96
+  - first:
+      213: -7790251489509908514
+    second: Body_2_Fishing_Animation_32x32_97
+  - first:
+      213: -5608837208728611445
+    second: Body_2_Fishing_Animation_32x32_98
+  - first:
+      213: 8204025035135657554
+    second: Body_2_Fishing_Animation_32x32_99
+  - first:
+      213: 7645345642575272100
+    second: Body_2_Fishing_Animation_32x32_100
+  - first:
+      213: 8017697764461613729
+    second: Body_2_Fishing_Animation_32x32_101
+  - first:
+      213: 4709306330654143258
+    second: Body_2_Fishing_Animation_32x32_102
+  - first:
+      213: -57207719003345964
+    second: Body_2_Fishing_Animation_32x32_103
+  - first:
+      213: 4854368888918650781
+    second: Body_2_Fishing_Animation_32x32_104
+  - first:
+      213: -3231904536444421696
+    second: Body_2_Fishing_Animation_32x32_105
+  - first:
+      213: -3291259024891012377
+    second: Body_2_Fishing_Animation_32x32_106
+  - first:
+      213: -3894939442267754744
+    second: Body_2_Fishing_Animation_32x32_107
+  - first:
+      213: -5758067632298255009
+    second: Body_2_Fishing_Animation_32x32_108
+  - first:
+      213: 8538145631153155594
+    second: Body_2_Fishing_Animation_32x32_109
+  - first:
+      213: 5643575860999725173
+    second: Body_2_Fishing_Animation_32x32_110
+  - first:
+      213: -6692188125206681163
+    second: Body_2_Fishing_Animation_32x32_111
+  - first:
+      213: -6339290910347576513
+    second: Body_2_Fishing_Animation_32x32_112
+  - first:
+      213: 1976632832618689356
+    second: Body_2_Fishing_Animation_32x32_113
+  - first:
+      213: -8415323859515927720
+    second: Body_2_Fishing_Animation_32x32_114
+  - first:
+      213: 5809140837469260157
+    second: Body_2_Fishing_Animation_32x32_115
+  - first:
+      213: 5940403609880852115
+    second: Body_2_Fishing_Animation_32x32_116
+  - first:
+      213: -5268516420960117529
+    second: Body_2_Fishing_Animation_32x32_117
+  - first:
+      213: -5601995241046764269
+    second: Body_2_Fishing_Animation_32x32_118
+  - first:
+      213: 7581772481312643692
+    second: Body_2_Fishing_Animation_32x32_119
+  - first:
+      213: 941045009444374602
+    second: Body_2_Fishing_Animation_32x32_120
+  - first:
+      213: 7680632245048532448
+    second: Body_2_Fishing_Animation_32x32_121
+  - first:
+      213: -7428486650447198743
+    second: Body_2_Fishing_Animation_32x32_122
+  - first:
+      213: 5756976393122240762
+    second: Body_2_Fishing_Animation_32x32_123
+  - first:
+      213: -6706360192965416801
+    second: Body_2_Fishing_Animation_32x32_124
+  - first:
+      213: -7717788596927898800
+    second: Body_2_Fishing_Animation_32x32_125
+  - first:
+      213: -4417636134372345635
+    second: Body_2_Fishing_Animation_32x32_126
+  - first:
+      213: -3207873073600159921
+    second: Body_2_Fishing_Animation_32x32_127
+  - first:
+      213: -7923947407190630304
+    second: Body_2_Fishing_Animation_32x32_128
+  - first:
+      213: -1014653113638908313
+    second: Body_2_Fishing_Animation_32x32_129
+  - first:
+      213: 8760779867713079986
+    second: Body_2_Fishing_Animation_32x32_130
+  - first:
+      213: -6162989396107129634
+    second: Body_2_Fishing_Animation_32x32_131
+  - first:
+      213: 3555362746516528317
+    second: Body_2_Fishing_Animation_32x32_132
+  - first:
+      213: -6772714828885642407
+    second: Body_2_Fishing_Animation_32x32_133
+  - first:
+      213: -6875967746821932103
+    second: Body_2_Fishing_Animation_32x32_134
+  - first:
+      213: 761134599945804652
+    second: Body_2_Fishing_Animation_32x32_135
+  - first:
+      213: -7351462568720747804
+    second: Body_2_Fishing_Animation_32x32_136
+  - first:
+      213: 5583567674189615679
+    second: Body_2_Fishing_Animation_32x32_137
+  - first:
+      213: 7918117133831870351
+    second: Body_2_Fishing_Animation_32x32_138
+  - first:
+      213: -4920577450073671090
+    second: Body_2_Fishing_Animation_32x32_139
+  - first:
+      213: -8384470296669146414
+    second: Body_2_Fishing_Animation_32x32_140
+  - first:
+      213: 3753576709826063154
+    second: Body_2_Fishing_Animation_32x32_141
+  - first:
+      213: -8747334021879321050
+    second: Body_2_Fishing_Animation_32x32_142
+  - first:
+      213: -976215144460266921
+    second: Body_2_Fishing_Animation_32x32_143
+  - first:
+      213: 2771472546769928279
+    second: Body_2_Fishing_Animation_32x32_144
+  - first:
+      213: 3913312870210144679
+    second: Body_2_Fishing_Animation_32x32_145
+  - first:
+      213: -7673858298468706745
+    second: Body_2_Fishing_Animation_32x32_146
+  - first:
+      213: -4466413939487597947
+    second: Body_2_Fishing_Animation_32x32_147
+  - first:
+      213: 2699075810295339135
+    second: Body_2_Fishing_Animation_32x32_148
+  - first:
+      213: -1197137273802263348
+    second: Body_2_Fishing_Animation_32x32_149
+  - first:
+      213: 6517993429257281336
+    second: Body_2_Fishing_Animation_32x32_150
+  - first:
+      213: 4777511032005551168
+    second: Body_2_Fishing_Animation_32x32_151
+  - first:
+      213: -6523212695659296837
+    second: Body_2_Fishing_Animation_32x32_152
+  - first:
+      213: -8044328648459571409
+    second: Body_2_Fishing_Animation_32x32_153
+  - first:
+      213: 4280828050537310784
+    second: Body_2_Fishing_Animation_32x32_154
+  - first:
+      213: -3257140803016759660
+    second: Body_2_Fishing_Animation_32x32_155
+  - first:
+      213: -1434424270814670183
+    second: Body_2_Fishing_Animation_32x32_156
+  - first:
+      213: 3537554739076944841
+    second: Body_2_Fishing_Animation_32x32_157
+  - first:
+      213: -6844499969015343567
+    second: Body_2_Fishing_Animation_32x32_158
+  - first:
+      213: 1952664095927304315
+    second: Body_2_Fishing_Animation_32x32_159
+  - first:
+      213: 5907875247197243131
+    second: Body_2_Fishing_Animation_32x32_160
+  - first:
+      213: -2173152111472856301
+    second: Body_2_Fishing_Animation_32x32_161
+  - first:
+      213: 383965456596100883
+    second: Body_2_Fishing_Animation_32x32_162
+  - first:
+      213: -5420160619855400509
+    second: Body_2_Fishing_Animation_32x32_163
+  - first:
+      213: -1201209477329876150
+    second: Body_2_Fishing_Animation_32x32_164
+  - first:
+      213: -3496603033563663808
+    second: Body_2_Fishing_Animation_32x32_165
+  - first:
+      213: -6354866785021269034
+    second: Body_2_Fishing_Animation_32x32_166
+  - first:
+      213: 8291078045071403512
+    second: Body_2_Fishing_Animation_32x32_167
+  - first:
+      213: 8672751183928059689
+    second: Body_2_Fishing_Animation_32x32_168
+  - first:
+      213: -7321058845542220001
+    second: Body_2_Fishing_Animation_32x32_169
+  - first:
+      213: -664596247545002463
+    second: Body_2_Fishing_Animation_32x32_170
+  - first:
+      213: -3539426222630114775
+    second: Body_2_Fishing_Animation_32x32_171
+  - first:
+      213: 8034787517274105267
+    second: Body_2_Fishing_Animation_32x32_172
+  - first:
+      213: -3692239804482058416
+    second: Body_2_Fishing_Animation_32x32_173
+  - first:
+      213: -6207159108648417770
+    second: Body_2_Fishing_Animation_32x32_174
+  - first:
+      213: 1250820173045833104
+    second: Body_2_Fishing_Animation_32x32_175
+  - first:
+      213: -210757273475410965
+    second: Body_2_Fishing_Animation_32x32_176
+  - first:
+      213: 1040432637039749878
+    second: Body_2_Fishing_Animation_32x32_177
+  - first:
+      213: -8100211630399633936
+    second: Body_2_Fishing_Animation_32x32_178
+  - first:
+      213: -5997756337132772853
+    second: Body_2_Fishing_Animation_32x32_179
+  - first:
+      213: 1254398575342854713
+    second: Body_2_Fishing_Animation_32x32_180
+  - first:
+      213: -8060865271672760887
+    second: Body_2_Fishing_Animation_32x32_181
+  - first:
+      213: 8329964065320518702
+    second: Body_2_Fishing_Animation_32x32_182
+  - first:
+      213: 303274045817890453
+    second: Body_2_Fishing_Animation_32x32_183
+  - first:
+      213: 4955996248082984347
+    second: Body_2_Fishing_Animation_32x32_184
+  - first:
+      213: 2060961972776273254
+    second: Body_2_Fishing_Animation_32x32_185
+  - first:
+      213: -730347592690203478
+    second: Body_2_Fishing_Animation_32x32_186
+  - first:
+      213: 3122060382169415054
+    second: Body_2_Fishing_Animation_32x32_187
+  - first:
+      213: 4136146580734680359
+    second: Body_2_Fishing_Animation_32x32_188
+  - first:
+      213: -7030110118665324951
+    second: Body_2_Fishing_Animation_32x32_189
+  - first:
+      213: -2830344560858550271
+    second: Body_2_Fishing_Animation_32x32_190
+  - first:
+      213: 888683394656295757
+    second: Body_2_Fishing_Animation_32x32_191
+  - first:
+      213: 4575582930289885158
+    second: Body_2_Fishing_Animation_32x32_192
+  - first:
+      213: -5077248569970234527
+    second: Body_2_Fishing_Animation_32x32_193
+  - first:
+      213: -5976560516911950188
+    second: Body_2_Fishing_Animation_32x32_194
+  - first:
+      213: -6765733270959137086
+    second: Body_2_Fishing_Animation_32x32_195
+  - first:
+      213: 8509392354758924683
+    second: Body_2_Fishing_Animation_32x32_196
+  - first:
+      213: -5514072417350734762
+    second: Body_2_Fishing_Animation_32x32_197
+  - first:
+      213: -10517416595930722
+    second: Body_2_Fishing_Animation_32x32_198
+  - first:
+      213: -1553911670480735419
+    second: Body_2_Fishing_Animation_32x32_199
+  - first:
+      213: -8859832482113932923
+    second: Body_2_Fishing_Animation_32x32_200
+  - first:
+      213: -5059099691367732942
+    second: Body_2_Fishing_Animation_32x32_201
+  - first:
+      213: -2550631271490208290
+    second: Body_2_Fishing_Animation_32x32_202
+  - first:
+      213: -3118817286567640439
+    second: Body_2_Fishing_Animation_32x32_203
+  - first:
+      213: 1589885871993519948
+    second: Body_2_Fishing_Animation_32x32_204
+  - first:
+      213: 9053535030323922161
+    second: Body_2_Fishing_Animation_32x32_205
+  - first:
+      213: -8039736223942324741
+    second: Body_2_Fishing_Animation_32x32_206
+  - first:
+      213: -8013984717492647857
+    second: Body_2_Fishing_Animation_32x32_207
+  - first:
+      213: -4452180558991640090
+    second: Body_2_Fishing_Animation_32x32_208
+  - first:
+      213: 9088973861286086051
+    second: Body_2_Fishing_Animation_32x32_209
+  - first:
+      213: 6433933514815541841
+    second: Body_2_Fishing_Animation_32x32_210
+  - first:
+      213: -1241402295892341735
+    second: Body_2_Fishing_Animation_32x32_211
+  - first:
+      213: -3814216057755184443
+    second: Body_2_Fishing_Animation_32x32_212
+  - first:
+      213: -3942593073759542700
+    second: Body_2_Fishing_Animation_32x32_213
+  - first:
+      213: 7437708357262061735
+    second: Body_2_Fishing_Animation_32x32_214
+  - first:
+      213: 8442576851594954920
+    second: Body_2_Fishing_Animation_32x32_215
+  - first:
+      213: -5295304398423451954
+    second: Body_2_Fishing_Animation_32x32_216
+  - first:
+      213: -5489486635364739037
+    second: Body_2_Fishing_Animation_32x32_217
+  - first:
+      213: 7741991136412127559
+    second: Body_2_Fishing_Animation_32x32_218
+  - first:
+      213: -3781944622625079170
+    second: Body_2_Fishing_Animation_32x32_219
+  - first:
+      213: -3283103142198907452
+    second: Body_2_Fishing_Animation_32x32_220
+  - first:
+      213: -4444834230605604649
+    second: Body_2_Fishing_Animation_32x32_221
+  - first:
+      213: 2903155128697951434
+    second: Body_2_Fishing_Animation_32x32_222
+  - first:
+      213: -5552045565885540350
+    second: Body_2_Fishing_Animation_32x32_223
+  - first:
+      213: -6941937110956004983
+    second: Body_2_Fishing_Animation_32x32_224
+  - first:
+      213: -8480283166440104738
+    second: Body_2_Fishing_Animation_32x32_225
+  - first:
+      213: 3604558286720985319
+    second: Body_2_Fishing_Animation_32x32_226
+  - first:
+      213: 8202565766510537338
+    second: Body_2_Fishing_Animation_32x32_227
+  - first:
+      213: -7184884131572655312
+    second: Body_2_Fishing_Animation_32x32_228
+  - first:
+      213: -7587895491702333463
+    second: Body_2_Fishing_Animation_32x32_229
+  - first:
+      213: -39678752112902366
+    second: Body_2_Fishing_Animation_32x32_230
+  - first:
+      213: -6120966619887473426
+    second: Body_2_Fishing_Animation_32x32_231
+  - first:
+      213: 4130107176594520788
+    second: Body_2_Fishing_Animation_32x32_232
+  - first:
+      213: 5017529840404062130
+    second: Body_2_Fishing_Animation_32x32_233
+  - first:
+      213: -4216166702643807872
+    second: Body_2_Fishing_Animation_32x32_234
+  - first:
+      213: -6926190722706180382
+    second: Body_2_Fishing_Animation_32x32_235
+  - first:
+      213: -2867100289475124898
+    second: Body_2_Fishing_Animation_32x32_236
+  - first:
+      213: -5437500240565469408
+    second: Body_2_Fishing_Animation_32x32_237
+  - first:
+      213: 3618274459292874194
+    second: Body_2_Fishing_Animation_32x32_238
+  - first:
+      213: -2289576178048587949
+    second: Body_2_Fishing_Animation_32x32_239
+  - first:
+      213: -514678980839011661
+    second: Body_2_Fishing_Animation_32x32_240
+  - first:
+      213: -121452325112346856
+    second: Body_2_Fishing_Animation_32x32_241
+  - first:
+      213: 3494275125746630582
+    second: Body_2_Fishing_Animation_32x32_242
+  - first:
+      213: 2820509425748574391
+    second: Body_2_Fishing_Animation_32x32_243
+  - first:
+      213: -1613784180086218676
+    second: Body_2_Fishing_Animation_32x32_244
+  - first:
+      213: 6088648775381800448
+    second: Body_2_Fishing_Animation_32x32_245
+  - first:
+      213: -4437385126442468446
+    second: Body_2_Fishing_Animation_32x32_246
+  - first:
+      213: -9028691739637606723
+    second: Body_2_Fishing_Animation_32x32_247
+  - first:
+      213: -7843271244358525954
+    second: Body_2_Fishing_Animation_32x32_248
+  - first:
+      213: 8161440815195643887
+    second: Body_2_Fishing_Animation_32x32_249
+  - first:
+      213: -9014853318157106862
+    second: Body_2_Fishing_Animation_32x32_250
+  - first:
+      213: 3239769149224328943
+    second: Body_2_Fishing_Animation_32x32_251
+  - first:
+      213: -1134130553368686806
+    second: Body_2_Fishing_Animation_32x32_252
+  - first:
+      213: -9080228136155728640
+    second: Body_2_Fishing_Animation_32x32_253
+  - first:
+      213: 7791355603371797922
+    second: Body_2_Fishing_Animation_32x32_254
+  - first:
+      213: 8370469835349705995
+    second: Body_2_Fishing_Animation_32x32_255
+  - first:
+      213: 542833657581241389
+    second: Body_2_Fishing_Animation_32x32_256
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 145
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029fc7dc633685060800000000000000
+      internalID: 6942407912618522912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 147
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05402ed6a505f530800000000000000
+      internalID: 3888020067553658125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 147
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83cc84c2af8bafc20800000000000000
+      internalID: 3241106266470796344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 147
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd5b4024229ad980800000000000000
+      internalID: -8513331461732213300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 147
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3315a2fbb0b2830800000000000000
+      internalID: 4047341605799146447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 147
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35788719f2e84d4d0800000000000000
+      internalID: -3110705107650967725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 147
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5d32908b6781ed0800000000000000
+      internalID: -2443072265049090650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 147
+        width: 76
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04dff7aa5c3d5cce0800000000000000
+      internalID: -1385468464424026816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 143
+        width: 88
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ba359fea6869bc0800000000000000
+      internalID: -3776683151438140532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 131
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34228786a0ee0abf0800000000000000
+      internalID: -314990245446147517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 131
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0bc5e6428c7f8e0800000000000000
+      internalID: -1659637878866792201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 129
+        width: 88
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bdf9a52c3fa35c0800000000000000
+      internalID: -4234804483518899335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 129
+        width: 90
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1621eaf679819440800000000000000
+      internalID: 4940881410310350366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 129
+        width: 92
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c453c035fdf91a0800000000000000
+      internalID: -6800471364526060513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 127
+        width: 94
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a69ee585ee66dd0800000000000000
+      internalID: -2493043280386102630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 131
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b93902e1c5fa36c0800000000000000
+      internalID: -4162744692480853582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 131
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1382b04f8b7eede0800000000000000
+      internalID: -1301967387067514084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 131
+        width: 88
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32669f836e8546900800000000000000
+      internalID: 676763589834008099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 131
+        width: 88
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31620acc740cb1d80800000000000000
+      internalID: -8278812075382266349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 131
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d45fda5307cc7a0800000000000000
+      internalID: -6355581598272500460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 131
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b06e80d32bd5ce0800000000000000
+      internalID: -1414778732712424663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 131
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf6c100c3e8b1d10800000000000000
+      internalID: 2097426439822143455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 133
+        width: 88
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5957f9e220549df50800000000000000
+      internalID: 6906627379223819669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 137
+        width: 86
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c132a8ab774e650800000000000000
+      internalID: 6261261025017011253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 147
+        width: 78
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cc5580838a21be0800000000000000
+      internalID: -1507957966604219339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 147
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74aa5dee606ba480800000000000000
+      internalID: -8886903410140732294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 147
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3d6f5ef5a178190800000000000000
+      internalID: -7960364817171688472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 147
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d0dbeac99340dd0800000000000000
+      internalID: -2520826546311328361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 2691
+        y: 147
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b8e1222d0a84fc0800000000000000
+      internalID: -3510379085159298244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 2787
+        y: 147
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4a1b0c81283f270800000000000000
+      internalID: 8283107182488167607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_30
+      rect:
+        serializedVersion: 2
+        x: 2883
+        y: 147
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a86d4888ea4da520800000000000000
+      internalID: 2714908512953919657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_31
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 147
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9001834e708c29dc0800000000000000
+      internalID: -3633622013115363319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_32
+      rect:
+        serializedVersion: 2
+        x: 3489
+        y: 127
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00bf0ea684fae1000800000000000000
+      internalID: 8636974866955008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_33
+      rect:
+        serializedVersion: 2
+        x: 3585
+        y: 127
+        width: 36
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dea117d929d64dd0800000000000000
+      internalID: -2502073769232585006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_34
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 127
+        width: 30
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241bc72347e01d880800000000000000
+      internalID: -8588067122192797374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_35
+      rect:
+        serializedVersion: 2
+        x: 3777
+        y: 127
+        width: 30
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5c6077b55b34300800000000000000
+      internalID: 235231009996981744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_36
+      rect:
+        serializedVersion: 2
+        x: 3873
+        y: 127
+        width: 30
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff097882f33a69db0800000000000000
+      internalID: -4785458062376333057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_37
+      rect:
+        serializedVersion: 2
+        x: 3969
+        y: 127
+        width: 30
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bb667bb3cdc1250800000000000000
+      internalID: 5916846159496133497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_38
+      rect:
+        serializedVersion: 2
+        x: 4065
+        y: 127
+        width: 30
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febe66252b7ad5b20800000000000000
+      internalID: 3124838100793486319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_39
+      rect:
+        serializedVersion: 2
+        x: 4161
+        y: 127
+        width: 30
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0207014b1e3c1020800000000000000
+      internalID: 2313792595337609738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_40
+      rect:
+        serializedVersion: 2
+        x: 4257
+        y: 127
+        width: 30
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4009b73464b5120800000000000000
+      internalID: 2403592081782080681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_41
+      rect:
+        serializedVersion: 2
+        x: 4353
+        y: 127
+        width: 30
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e10965c2d357be0800000000000000
+      internalID: -1480209641881199039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_42
+      rect:
+        serializedVersion: 2
+        x: 4449
+        y: 127
+        width: 30
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9be3b730ad2e8e0800000000000000
+      internalID: -1665529203686196815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_43
+      rect:
+        serializedVersion: 2
+        x: 4545
+        y: 127
+        width: 30
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d900fdef8d73fab80800000000000000
+      internalID: -8381418976384712547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_44
+      rect:
+        serializedVersion: 2
+        x: 4641
+        y: 127
+        width: 30
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a15c78757a207a00800000000000000
+      internalID: 752147821791826340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_45
+      rect:
+        serializedVersion: 2
+        x: 4737
+        y: 127
+        width: 30
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f06870151d068f0800000000000000
+      internalID: -549209008590418176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_46
+      rect:
+        serializedVersion: 2
+        x: 4833
+        y: 127
+        width: 30
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0613c2a8b2a46990800000000000000
+      internalID: -7393605774347135475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_47
+      rect:
+        serializedVersion: 2
+        x: 4929
+        y: 127
+        width: 30
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4bf20d816d12240800000000000000
+      internalID: 4765325282795041982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_48
+      rect:
+        serializedVersion: 2
+        x: 5025
+        y: 127
+        width: 30
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf6e85f1c94af770800000000000000
+      internalID: 8645303532088356781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_49
+      rect:
+        serializedVersion: 2
+        x: 5121
+        y: 127
+        width: 34
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1597b49f0366f1da0800000000000000
+      internalID: -5971942220343051951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_50
+      rect:
+        serializedVersion: 2
+        x: 5217
+        y: 127
+        width: 34
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b9b790788ce85b0800000000000000
+      internalID: -5364129623846446271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_51
+      rect:
+        serializedVersion: 2
+        x: 5305
+        y: 127
+        width: 38
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5e62c2cfecb8780800000000000000
+      internalID: -8679616274358671932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_52
+      rect:
+        serializedVersion: 2
+        x: 5393
+        y: 127
+        width: 46
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998b754b4d8c969e0800000000000000
+      internalID: -1627548974433453927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_53
+      rect:
+        serializedVersion: 2
+        x: 5483
+        y: 127
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b45b847173d6b10800000000000000
+      internalID: 1976296384629132167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_54
+      rect:
+        serializedVersion: 2
+        x: 5579
+        y: 127
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f2680be8c179990800000000000000
+      internalID: -7379398065250750682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_55
+      rect:
+        serializedVersion: 2
+        x: 6209
+        y: 145
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d730c212e68faa00800000000000000
+      internalID: 769982366838962137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_56
+      rect:
+        serializedVersion: 2
+        x: 6305
+        y: 147
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794cdb05e83559b30800000000000000
+      internalID: 4293429690472711319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_57
+      rect:
+        serializedVersion: 2
+        x: 6401
+        y: 147
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078bb6e5782acde60800000000000000
+      internalID: 7988438541336819824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_58
+      rect:
+        serializedVersion: 2
+        x: 6487
+        y: 147
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6e3af9484aee490800000000000000
+      internalID: -7715048222118123800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_59
+      rect:
+        serializedVersion: 2
+        x: 6563
+        y: 147
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64dce91fb9129ff90800000000000000
+      internalID: -6919462398820692666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_60
+      rect:
+        serializedVersion: 2
+        x: 6647
+        y: 147
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f74c220590d7320800000000000000
+      internalID: 2557210403201646473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_61
+      rect:
+        serializedVersion: 2
+        x: 6743
+        y: 147
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716aac5058178ce20800000000000000
+      internalID: 3371069137228572183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_62
+      rect:
+        serializedVersion: 2
+        x: 6833
+        y: 147
+        width: 76
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0878f26e403ae2ee0800000000000000
+      internalID: -1283909602316941440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_63
+      rect:
+        serializedVersion: 2
+        x: 6917
+        y: 143
+        width: 88
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2232d4aee9c2812f0800000000000000
+      internalID: -1002001856042556638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_64
+      rect:
+        serializedVersion: 2
+        x: 7013
+        y: 131
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2e4fffe04f74ce0800000000000000
+      internalID: -1420898812151143718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_65
+      rect:
+        serializedVersion: 2
+        x: 7109
+        y: 131
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d29811568d51050800000000000000
+      internalID: 5770756426142657859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_66
+      rect:
+        serializedVersion: 2
+        x: 7205
+        y: 129
+        width: 88
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd78cbbe07d351f90800000000000000
+      internalID: -6983608091967453217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_67
+      rect:
+        serializedVersion: 2
+        x: 7299
+        y: 129
+        width: 90
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8646e7b74f18ded80800000000000000
+      internalID: -8219770857837403032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_68
+      rect:
+        serializedVersion: 2
+        x: 7393
+        y: 129
+        width: 92
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bece0c25ed6849650800000000000000
+      internalID: 6238759673244216555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_69
+      rect:
+        serializedVersion: 2
+        x: 7487
+        y: 127
+        width: 94
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b19393534f342300800000000000000
+      internalID: 226375439672906161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_70
+      rect:
+        serializedVersion: 2
+        x: 7589
+        y: 131
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00175d63558bef370800000000000000
+      internalID: 8358320634577907968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_71
+      rect:
+        serializedVersion: 2
+        x: 7685
+        y: 131
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400e5ec70ea520740800000000000000
+      internalID: 5116752046860918788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_72
+      rect:
+        serializedVersion: 2
+        x: 7781
+        y: 131
+        width: 88
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b38ace6a19a72ed0800000000000000
+      internalID: -2438794742204824649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_73
+      rect:
+        serializedVersion: 2
+        x: 7877
+        y: 131
+        width: 88
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587024eccd640f9e0800000000000000
+      internalID: -1589692754294601851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_74
+      rect:
+        serializedVersion: 2
+        x: 7973
+        y: 131
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ed635598acaf170800000000000000
+      internalID: 8213099561652510227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_75
+      rect:
+        serializedVersion: 2
+        x: 8069
+        y: 131
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e303b7869ce59e0800000000000000
+      internalID: -1630644564480999846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_76
+      rect:
+        serializedVersion: 2
+        x: 8165
+        y: 131
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80baab3aa2ae8b830800000000000000
+      internalID: 4087274130695170824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_77
+      rect:
+        serializedVersion: 2
+        x: 8261
+        y: 133
+        width: 88
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5fa98ed0b036e90800000000000000
+      internalID: -7033766038657632824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_78
+      rect:
+        serializedVersion: 2
+        x: 8361
+        y: 137
+        width: 86
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ea6612a45119e20800000000000000
+      internalID: 3355486605499870798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_79
+      rect:
+        serializedVersion: 2
+        x: 8465
+        y: 147
+        width: 78
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565e58160fbad9790800000000000000
+      internalID: -7521666753722194587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_80
+      rect:
+        serializedVersion: 2
+        x: 8577
+        y: 147
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ff2d245e780fbe0800000000000000
+      internalID: -1445506061647544523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_81
+      rect:
+        serializedVersion: 2
+        x: 8677
+        y: 147
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b0a48523c583480800000000000000
+      internalID: -8919277690707899583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_82
+      rect:
+        serializedVersion: 2
+        x: 8787
+        y: 147
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e19becfc8795430800000000000000
+      internalID: 3772178996821302825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_83
+      rect:
+        serializedVersion: 2
+        x: 8893
+        y: 147
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f343b5a5b2f5eb940800000000000000
+      internalID: 5313789250147923007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_84
+      rect:
+        serializedVersion: 2
+        x: 8989
+        y: 147
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d646f9194f765f240800000000000000
+      internalID: 4824876875910177901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_85
+      rect:
+        serializedVersion: 2
+        x: 9085
+        y: 147
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc4aa10606681490800000000000000
+      internalID: -7775352580671386404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_86
+      rect:
+        serializedVersion: 2
+        x: 9181
+        y: 147
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d31b872dd7190400800000000000000
+      internalID: 290789889560744913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_87
+      rect:
+        serializedVersion: 2
+        x: 9239
+        y: 187
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1edd908e769e05f30800000000000000
+      internalID: 4562403055010176481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_88
+      rect:
+        serializedVersion: 2
+        x: 9335
+        y: 189
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d01d4ff58f529e60800000000000000
+      internalID: 7967535719890358484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_89
+      rect:
+        serializedVersion: 2
+        x: 9431
+        y: 191
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979fcc76a5930e4e0800000000000000
+      internalID: -1954499177827468935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_90
+      rect:
+        serializedVersion: 2
+        x: 9533
+        y: 181
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1177e5b387ce0f7a0800000000000000
+      internalID: -6345311873828751599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_91
+      rect:
+        serializedVersion: 2
+        x: 9633
+        y: 169
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b01d6bf5e27e890800000000000000
+      internalID: -7428918071700419713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_92
+      rect:
+        serializedVersion: 2
+        x: 9729
+        y: 163
+        width: 30
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061fbe383801ec4e0800000000000000
+      internalID: -1959610630819548832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_93
+      rect:
+        serializedVersion: 2
+        x: 9825
+        y: 149
+        width: 30
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2aded3017546fc80800000000000000
+      internalID: -8289361712430261715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_94
+      rect:
+        serializedVersion: 2
+        x: 9921
+        y: 131
+        width: 30
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80ea655697bda580800000000000000
+      internalID: -8814187039388147571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_95
+      rect:
+        serializedVersion: 2
+        x: 10017
+        y: 131
+        width: 30
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c204e41e1123c730800000000000000
+      internalID: 4018091705627837128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_96
+      rect:
+        serializedVersion: 2
+        x: 10113
+        y: 131
+        width: 30
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1844619ae9519db80800000000000000
+      internalID: -8369634661305531263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_97
+      rect:
+        serializedVersion: 2
+        x: 10209
+        y: 131
+        width: 30
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edfddc87b8773e390800000000000000
+      internalID: -7790251489509908514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_98
+      rect:
+        serializedVersion: 2
+        x: 10305
+        y: 129
+        width: 30
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85dcba86486922b0800000000000000
+      internalID: -5608837208728611445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_99
+      rect:
+        serializedVersion: 2
+        x: 10401
+        y: 129
+        width: 30
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2562cab7d4d8ad170800000000000000
+      internalID: 8204025035135657554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_100
+      rect:
+        serializedVersion: 2
+        x: 10497
+        y: 129
+        width: 30
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a897caea59b91a60800000000000000
+      internalID: 7645345642575272100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_101
+      rect:
+        serializedVersion: 2
+        x: 10593
+        y: 131
+        width: 30
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a29d2f13a5944f60800000000000000
+      internalID: 8017697764461613729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_102
+      rect:
+        serializedVersion: 2
+        x: 10689
+        y: 131
+        width: 30
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1373212821da5140800000000000000
+      internalID: 4709306330654143258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_103
+      rect:
+        serializedVersion: 2
+        x: 10785
+        y: 131
+        width: 30
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db2566f1e1c43ff0800000000000000
+      internalID: -57207719003345964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_104
+      rect:
+        serializedVersion: 2
+        x: 10881
+        y: 131
+        width: 30
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f24b0f8ce2e5340800000000000000
+      internalID: 4854368888918650781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_105
+      rect:
+        serializedVersion: 2
+        x: 10977
+        y: 131
+        width: 30
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9b14d82f7f523d0800000000000000
+      internalID: -3231904536444421696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_106
+      rect:
+        serializedVersion: 2
+        x: 11073
+        y: 131
+        width: 30
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea929dca591352d0800000000000000
+      internalID: -3291259024891012377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_107
+      rect:
+        serializedVersion: 2
+        x: 11169
+        y: 131
+        width: 30
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fe8f9a63562f9c0800000000000000
+      internalID: -3894939442267754744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_108
+      rect:
+        serializedVersion: 2
+        x: 11261
+        y: 131
+        width: 34
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d1038fefb3710b0800000000000000
+      internalID: -5758067632298255009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_109
+      rect:
+        serializedVersion: 2
+        x: 11357
+        y: 133
+        width: 34
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0eef69e6369d7670800000000000000
+      internalID: 8538145631153155594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_110
+      rect:
+        serializedVersion: 2
+        x: 11455
+        y: 149
+        width: 34
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570abd93852025e40800000000000000
+      internalID: 5643575860999725173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_111
+      rect:
+        serializedVersion: 2
+        x: 11541
+        y: 189
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9e7fa5b529023a0800000000000000
+      internalID: -6692188125206681163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_112
+      rect:
+        serializedVersion: 2
+        x: 11643
+        y: 191
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3bbed801805608a0800000000000000
+      internalID: -6339290910347576513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_113
+      rect:
+        serializedVersion: 2
+        x: 11743
+        y: 191
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c437c9fa6196e6b10800000000000000
+      internalID: 1976632832618689356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_114
+      rect:
+        serializedVersion: 2
+        x: 11839
+        y: 191
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8531fab3983c63b80800000000000000
+      internalID: -8415323859515927720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_115
+      rect:
+        serializedVersion: 2
+        x: 11935
+        y: 191
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79029340d63e9050800000000000000
+      internalID: 5809140837469260157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_116
+      rect:
+        serializedVersion: 2
+        x: 12031
+        y: 189
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396756d0c9d807250800000000000000
+      internalID: 5940403609880852115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_117
+      rect:
+        serializedVersion: 2
+        x: 12127
+        y: 189
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec1c5b9a3872e6b0800000000000000
+      internalID: -5268516420960117529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_118
+      rect:
+        serializedVersion: 2
+        x: 12223
+        y: 189
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3159af74207b142b0800000000000000
+      internalID: -5601995241046764269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ad87cd6edd73960800000000000000
+      internalID: 7581772481312643692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_120
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 95
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48069143734f0d00800000000000000
+      internalID: 941045009444374602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_121
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 95
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed57884556179a60800000000000000
+      internalID: 7680632245048532448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_122
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 95
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e50d5dcfb6b8e890800000000000000
+      internalID: -7428486650447198743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_123
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 95
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af85c5c1783e4ef40800000000000000
+      internalID: 5756976393122240762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_124
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 95
+        width: 504
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98e972bfe83ee2a0800000000000000
+      internalID: -6706360192965416801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_125
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 95
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b5d846928e4e490800000000000000
+      internalID: -7717788596927898800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_126
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 95
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd87ec7675761b2c0800000000000000
+      internalID: -4417636134372345635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_127
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 95
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f95838f685b73d0800000000000000
+      internalID: -3207873073600159921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_128
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 95
+        width: 506
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0606687e0db780290800000000000000
+      internalID: -7923947407190630304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_129
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 95
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e0f477e5a3be1f0800000000000000
+      internalID: -1014653113638908313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_130
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 95
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba8e628fda849970800000000000000
+      internalID: 8760779867713079986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_131
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 95
+        width: 714
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc09821cc9a87aa0800000000000000
+      internalID: -6162989396107129634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_132
+      rect:
+        serializedVersion: 2
+        x: 3071
+        y: 95
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc56c1b49f275130800000000000000
+      internalID: 3555362746516528317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_133
+      rect:
+        serializedVersion: 2
+        x: 3095
+        y: 95
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953304b1fbb7202a0800000000000000
+      internalID: -6772714828885642407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_134
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 127
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bbb2a3c3c7a390a0800000000000000
+      internalID: -6875967746821932103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_135
+      rect:
+        serializedVersion: 2
+        x: 3201
+        y: 127
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b5700d2e7109a00800000000000000
+      internalID: 761134599945804652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_136
+      rect:
+        serializedVersion: 2
+        x: 3297
+        y: 127
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2b1d35ebb5af990800000000000000
+      internalID: -7351462568720747804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_137
+      rect:
+        serializedVersion: 2
+        x: 3393
+        y: 127
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f321d677731dc7d40800000000000000
+      internalID: 5583567674189615679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_138
+      rect:
+        serializedVersion: 2
+        x: 3937
+        y: 95
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f879bfbc49dc2ed60800000000000000
+      internalID: 7918117133831870351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_139
+      rect:
+        serializedVersion: 2
+        x: 3947
+        y: 95
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4abf8621e896bbb0800000000000000
+      internalID: -4920577450073671090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_140
+      rect:
+        serializedVersion: 2
+        x: 3971
+        y: 95
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2b83120b064ab80800000000000000
+      internalID: -8384470296669146414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_141
+      rect:
+        serializedVersion: 2
+        x: 4009
+        y: 95
+        width: 504
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23bac5a5122671430800000000000000
+      internalID: 3753576709826063154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_142
+      rect:
+        serializedVersion: 2
+        x: 4513
+        y: 95
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ea13e6d0a3b9680800000000000000
+      internalID: -8747334021879321050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_143
+      rect:
+        serializedVersion: 2
+        x: 4523
+        y: 95
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752d6129f79c372f0800000000000000
+      internalID: -976215144460266921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_144
+      rect:
+        serializedVersion: 2
+        x: 4547
+        y: 95
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75008fee89f367620800000000000000
+      internalID: 2771472546769928279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_145
+      rect:
+        serializedVersion: 2
+        x: 4583
+        y: 95
+        width: 506
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a907d36251ee4630800000000000000
+      internalID: 3913312870210144679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_146
+      rect:
+        serializedVersion: 2
+        x: 5281
+        y: 95
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746d61f098af08590800000000000000
+      internalID: -7673858298468706745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_147
+      rect:
+        serializedVersion: 2
+        x: 5377
+        y: 95
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a1df4af2c1402c0800000000000000
+      internalID: -4466413939487597947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_148
+      rect:
+        serializedVersion: 2
+        x: 5399
+        y: 95
+        width: 714
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78d08e262b057520800000000000000
+      internalID: 2699075810295339135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_149
+      rect:
+        serializedVersion: 2
+        x: 5681
+        y: 127
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4f2affdf9e26fe0800000000000000
+      internalID: -1197137273802263348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_150
+      rect:
+        serializedVersion: 2
+        x: 5781
+        y: 127
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fd5377d70947a50800000000000000
+      internalID: 6517993429257281336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_151
+      rect:
+        serializedVersion: 2
+        x: 5879
+        y: 127
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0446335a8f02d4240800000000000000
+      internalID: 4777511032005551168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_152
+      rect:
+        serializedVersion: 2
+        x: 5977
+        y: 127
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7c8e06d94e875a0800000000000000
+      internalID: -6523212695659296837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_153
+      rect:
+        serializedVersion: 2
+        x: 6073
+        y: 127
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2fa11407bdcc5090800000000000000
+      internalID: -8044328648459571409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_154
+      rect:
+        serializedVersion: 2
+        x: 6143
+        y: 95
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04aedc06e6e886b30800000000000000
+      internalID: 4280828050537310784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_155
+      rect:
+        serializedVersion: 2
+        x: 6167
+        y: 95
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49661cc52bf4cc2d0800000000000000
+      internalID: -3257140803016759660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_156
+      rect:
+        serializedVersion: 2
+        x: 7009
+        y: 95
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99294e0c9b6e71ce0800000000000000
+      internalID: -1434424270814670183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_157
+      rect:
+        serializedVersion: 2
+        x: 7019
+        y: 95
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c35e2cda4be71130800000000000000
+      internalID: 3537554739076944841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_158
+      rect:
+        serializedVersion: 2
+        x: 7043
+        y: 95
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1361ba9ba837301a0800000000000000
+      internalID: -6844499969015343567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_159
+      rect:
+        serializedVersion: 2
+        x: 7081
+        y: 95
+        width: 504
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70086b46a1491b10800000000000000
+      internalID: 1952664095927304315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_160
+      rect:
+        serializedVersion: 2
+        x: 7585
+        y: 95
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6c38e6c3dfcf150800000000000000
+      internalID: 5907875247197243131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_161
+      rect:
+        serializedVersion: 2
+        x: 7595
+        y: 95
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31335c02ba967d1e0800000000000000
+      internalID: -2173152111472856301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_162
+      rect:
+        serializedVersion: 2
+        x: 7619
+        y: 95
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3176e666c8e145500800000000000000
+      internalID: 383965456596100883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_163
+      rect:
+        serializedVersion: 2
+        x: 7655
+        y: 95
+        width: 506
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c135fb22a8b7c4b0800000000000000
+      internalID: -5420160619855400509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_164
+      rect:
+        serializedVersion: 2
+        x: 8353
+        y: 95
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b8bea3852745fe0800000000000000
+      internalID: -1201209477329876150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_165
+      rect:
+        serializedVersion: 2
+        x: 8449
+        y: 95
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04272e71112997fc0800000000000000
+      internalID: -3496603033563663808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_166
+      rect:
+        serializedVersion: 2
+        x: 8471
+        y: 95
+        width: 714
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbe0eb145afec7a0800000000000000
+      internalID: -6354866785021269034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_167
+      rect:
+        serializedVersion: 2
+        x: 9215
+        y: 95
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f96581dd83df0370800000000000000
+      internalID: 8291078045071403512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_168
+      rect:
+        serializedVersion: 2
+        x: 9239
+        y: 95
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9276167604dcb5870800000000000000
+      internalID: 8672751183928059689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_169
+      rect:
+        serializedVersion: 2
+        x: 10081
+        y: 95
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f79b3c4cf566a90800000000000000
+      internalID: -7321058845542220001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_170
+      rect:
+        serializedVersion: 2
+        x: 10091
+        y: 95
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126c50aeb31e6c6f0800000000000000
+      internalID: -664596247545002463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_171
+      rect:
+        serializedVersion: 2
+        x: 10115
+        y: 95
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92aed6b6a9e61eec0800000000000000
+      internalID: -3539426222630114775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_172
+      rect:
+        serializedVersion: 2
+        x: 10153
+        y: 95
+        width: 504
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5add44dac418f60800000000000000
+      internalID: 8034787517274105267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_173
+      rect:
+        serializedVersion: 2
+        x: 10601
+        y: 127
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0570a4cc57782ccc0800000000000000
+      internalID: -3692239804482058416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_174
+      rect:
+        serializedVersion: 2
+        x: 10657
+        y: 95
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6164ea87dadbbd9a0800000000000000
+      internalID: -6207159108648417770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_175
+      rect:
+        serializedVersion: 2
+        x: 10667
+        y: 95
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d1a4cf15ecb5110800000000000000
+      internalID: 1250820173045833104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_176
+      rect:
+        serializedVersion: 2
+        x: 10691
+        y: 95
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be31bac506d331df0800000000000000
+      internalID: -210757273475410965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_177
+      rect:
+        serializedVersion: 2
+        x: 10727
+        y: 95
+        width: 506
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa2a7f88fb507e00800000000000000
+      internalID: 1040432637039749878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_178
+      rect:
+        serializedVersion: 2
+        x: 11425
+        y: 95
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5ca8c5074469f80800000000000000
+      internalID: -8100211630399633936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_179
+      rect:
+        serializedVersion: 2
+        x: 11521
+        y: 95
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b026adb8360b3cca0800000000000000
+      internalID: -5997756337132772853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_180
+      rect:
+        serializedVersion: 2
+        x: 11543
+        y: 95
+        width: 714
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9322112bbd4886110800000000000000
+      internalID: 1254398575342854713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_181
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 95
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c599a36ebd022090800000000000000
+      internalID: -8060865271672760887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_182
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 95
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24c231fe2af99370800000000000000
+      internalID: 8329964065320518702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_183
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 95
+        width: 780
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596229a4322753400800000000000000
+      internalID: 303274045817890453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_184
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 95
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9da723645c37c440800000000000000
+      internalID: 4955996248082984347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_185
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 95
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6650beaaef10a9c10800000000000000
+      internalID: 2060961972776273254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_186
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 95
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa48327ebb84dd5f0800000000000000
+      internalID: -730347592690203478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_187
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 95
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d378e4069c35b20800000000000000
+      internalID: 3122060382169415054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_188
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 95
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d13a3a66b866930800000000000000
+      internalID: 4136146580734680359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_189
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 95
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966f21d1818007e90800000000000000
+      internalID: -7030110118665324951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_190
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 95
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10031122e9898b8d0800000000000000
+      internalID: -2830344560858550271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_191
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 95
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4bd648c6dc355c00800000000000000
+      internalID: 888683394656295757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_192
+      rect:
+        serializedVersion: 2
+        x: 2111
+        y: 95
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eff440ce6cbf7f30800000000000000
+      internalID: 4575582930289885158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_193
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 95
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b6096735df989b0800000000000000
+      internalID: -5077248569970234527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_194
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 95
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49696d200edfe0da0800000000000000
+      internalID: -5976560516911950188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_195
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 95
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce507bbf694b12a0800000000000000
+      internalID: -6765733270959137086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_196
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 95
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8994df034f671670800000000000000
+      internalID: 8509392354758924683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_197
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 95
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ca70ae9541a73b0800000000000000
+      internalID: -5514072417350734762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_198
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 95
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9148df1772aadff0800000000000000
+      internalID: -10517416595930722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_199
+      rect:
+        serializedVersion: 2
+        x: 2281
+        y: 87
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54379a491956f6ae0800000000000000
+      internalID: -1553911670480735419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_200
+      rect:
+        serializedVersion: 2
+        x: 3119
+        y: 95
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581b1268c4d8b0580800000000000000
+      internalID: -8859832482113932923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_201
+      rect:
+        serializedVersion: 2
+        x: 3135
+        y: 95
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239ecbc82a77ac9b0800000000000000
+      internalID: -5059099691367732942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_202
+      rect:
+        serializedVersion: 2
+        x: 3157
+        y: 95
+        width: 780
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddb2d55f565a9cd0800000000000000
+      internalID: -2550631271490208290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_203
+      rect:
+        serializedVersion: 2
+        x: 3983
+        y: 95
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982c9cab33cb7b4d0800000000000000
+      internalID: -3118817286567640439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_204
+      rect:
+        serializedVersion: 2
+        x: 4559
+        y: 95
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ff599e6c8601610800000000000000
+      internalID: 1589885871993519948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_205
+      rect:
+        serializedVersion: 2
+        x: 5087
+        y: 95
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f44304742e94ad70800000000000000
+      internalID: 9053535030323922161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_206
+      rect:
+        serializedVersion: 2
+        x: 5101
+        y: 95
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdc31c208e1d6090800000000000000
+      internalID: -8039736223942324741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_207
+      rect:
+        serializedVersion: 2
+        x: 5115
+        y: 95
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48017efb5b98c090800000000000000
+      internalID: -8013984717492647857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_208
+      rect:
+        serializedVersion: 2
+        x: 5141
+        y: 95
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e93769ce5da632c0800000000000000
+      internalID: -4452180558991640090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_209
+      rect:
+        serializedVersion: 2
+        x: 5159
+        y: 95
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a584c64295822e70800000000000000
+      internalID: 9088973861286086051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_210
+      rect:
+        serializedVersion: 2
+        x: 5169
+        y: 95
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1529f0b717ce94950800000000000000
+      internalID: 6433933514815541841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_211
+      rect:
+        serializedVersion: 2
+        x: 5183
+        y: 95
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c8bf96037a5cee0800000000000000
+      internalID: -1241402295892341735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_212
+      rect:
+        serializedVersion: 2
+        x: 5203
+        y: 95
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c259ec34be211bc0800000000000000
+      internalID: -3814216057755184443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_213
+      rect:
+        serializedVersion: 2
+        x: 5217
+        y: 95
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452a5a8fc781949c0800000000000000
+      internalID: -3942593073759542700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_214
+      rect:
+        serializedVersion: 2
+        x: 5231
+        y: 95
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a03f81285c083760800000000000000
+      internalID: 7437708357262061735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_215
+      rect:
+        serializedVersion: 2
+        x: 5237
+        y: 95
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8c0447aee0a2570800000000000000
+      internalID: 8442576851594954920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_216
+      rect:
+        serializedVersion: 2
+        x: 5309
+        y: 95
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6186294bc4386b0800000000000000
+      internalID: -5295304398423451954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_217
+      rect:
+        serializedVersion: 2
+        x: 5331
+        y: 95
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32894db5dfc61d3b0800000000000000
+      internalID: -5489486635364739037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_218
+      rect:
+        serializedVersion: 2
+        x: 5353
+        y: 87
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74151147be3117b60800000000000000
+      internalID: 7741991136412127559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_219
+      rect:
+        serializedVersion: 2
+        x: 6191
+        y: 95
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70cb304765d38bc0800000000000000
+      internalID: -3781944622625079170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_220
+      rect:
+        serializedVersion: 2
+        x: 6207
+        y: 95
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cde34836131072d0800000000000000
+      internalID: -3283103142198907452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_221
+      rect:
+        serializedVersion: 2
+        x: 6229
+        y: 95
+        width: 780
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8914721d6c052c0800000000000000
+      internalID: -4444834230605604649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_222
+      rect:
+        serializedVersion: 2
+        x: 7055
+        y: 95
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac415ed35341a4820800000000000000
+      internalID: 2903155128697951434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_223
+      rect:
+        serializedVersion: 2
+        x: 7631
+        y: 95
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2081c9c49fb23f2b0800000000000000
+      internalID: -5552045565885540350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_224
+      rect:
+        serializedVersion: 2
+        x: 8159
+        y: 95
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989ad504af849af90800000000000000
+      internalID: -6941937110956004983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_225
+      rect:
+        serializedVersion: 2
+        x: 8173
+        y: 95
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edcdc9df36bff4a80800000000000000
+      internalID: -8480283166440104738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_226
+      rect:
+        serializedVersion: 2
+        x: 8187
+        y: 95
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8e13cf9a6f50230800000000000000
+      internalID: 3604558286720985319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_227
+      rect:
+        serializedVersion: 2
+        x: 8213
+        y: 95
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ae3a70b1e55d170800000000000000
+      internalID: 8202565766510537338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_228
+      rect:
+        serializedVersion: 2
+        x: 8231
+        y: 95
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b554113f92a4c90800000000000000
+      internalID: -7184884131572655312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_229
+      rect:
+        serializedVersion: 2
+        x: 8241
+        y: 95
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef5b40b04162b690800000000000000
+      internalID: -7587895491702333463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_230
+      rect:
+        serializedVersion: 2
+        x: 8255
+        y: 95
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ffd2b9268037ff0800000000000000
+      internalID: -39678752112902366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_231
+      rect:
+        serializedVersion: 2
+        x: 8275
+        y: 95
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec659b1a45fd0ba0800000000000000
+      internalID: -6120966619887473426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_232
+      rect:
+        serializedVersion: 2
+        x: 8289
+        y: 95
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da35394896115930800000000000000
+      internalID: 4130107176594520788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_233
+      rect:
+        serializedVersion: 2
+        x: 8303
+        y: 95
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfd43b4ec8d1a540800000000000000
+      internalID: 5017529840404062130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_234
+      rect:
+        serializedVersion: 2
+        x: 8309
+        y: 95
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089f51fd8ba2d75c0800000000000000
+      internalID: -4216166702643807872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_235
+      rect:
+        serializedVersion: 2
+        x: 8381
+        y: 95
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6fd76fb3a31ef90800000000000000
+      internalID: -6926190722706180382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_236
+      rect:
+        serializedVersion: 2
+        x: 8403
+        y: 95
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e516a6e2a730638d0800000000000000
+      internalID: -2867100289475124898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_237
+      rect:
+        serializedVersion: 2
+        x: 8425
+        y: 87
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f7efe175e1a84b0800000000000000
+      internalID: -5437500240565469408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_238
+      rect:
+        serializedVersion: 2
+        x: 9263
+        y: 95
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d535064371b63230800000000000000
+      internalID: 3618274459292874194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_239
+      rect:
+        serializedVersion: 2
+        x: 9279
+        y: 95
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357a735c89ac930e0800000000000000
+      internalID: -2289576178048587949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_240
+      rect:
+        serializedVersion: 2
+        x: 9301
+        y: 95
+        width: 780
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba0bbd913e7bd8f0800000000000000
+      internalID: -514678980839011661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_241
+      rect:
+        serializedVersion: 2
+        x: 10127
+        y: 95
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8178888f0c3805ef0800000000000000
+      internalID: -121452325112346856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_242
+      rect:
+        serializedVersion: 2
+        x: 10703
+        y: 95
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf7c91a6b82e7030800000000000000
+      internalID: 3494275125746630582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_243
+      rect:
+        serializedVersion: 2
+        x: 11231
+        y: 95
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b082670166742720800000000000000
+      internalID: 2820509425748574391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_244
+      rect:
+        serializedVersion: 2
+        x: 11245
+        y: 95
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40e0d1a6dfaa99e0800000000000000
+      internalID: -1613784180086218676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_245
+      rect:
+        serializedVersion: 2
+        x: 11259
+        y: 95
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006dfba5dc93f7450800000000000000
+      internalID: 6088648775381800448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_246
+      rect:
+        serializedVersion: 2
+        x: 11285
+        y: 95
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab7bcedcbd3b62c0800000000000000
+      internalID: -4437385126442468446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_247
+      rect:
+        serializedVersion: 2
+        x: 11303
+        y: 95
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db69568e2b4a3b280800000000000000
+      internalID: -9028691739637606723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_248
+      rect:
+        serializedVersion: 2
+        x: 11313
+        y: 95
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb59f2db5a172390800000000000000
+      internalID: -7843271244358525954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_249
+      rect:
+        serializedVersion: 2
+        x: 11327
+        y: 95
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef5c152e23434170800000000000000
+      internalID: 8161440815195643887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_250
+      rect:
+        serializedVersion: 2
+        x: 11347
+        y: 95
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2518efc7baec4e280800000000000000
+      internalID: -9014853318157106862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_251
+      rect:
+        serializedVersion: 2
+        x: 11361
+        y: 95
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee19cd40e8f5fc20800000000000000
+      internalID: 3239769149224328943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_252
+      rect:
+        serializedVersion: 2
+        x: 11375
+        y: 95
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2fca854542c240f0800000000000000
+      internalID: -1134130553368686806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_253
+      rect:
+        serializedVersion: 2
+        x: 11381
+        y: 95
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0053ee88e9c8cf180800000000000000
+      internalID: -9080228136155728640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_254
+      rect:
+        serializedVersion: 2
+        x: 11453
+        y: 95
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ada9b114a4702c60800000000000000
+      internalID: 7791355603371797922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_255
+      rect:
+        serializedVersion: 2
+        x: 11475
+        y: 95
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05442377f1e92470800000000000000
+      internalID: 8370469835349705995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Fishing_Animation_32x32_256
+      rect:
+        serializedVersion: 2
+        x: 11497
+        y: 87
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d248144e558888700800000000000000
+      internalID: 542833657581241389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Body_2_Fishing_Animation_32x32_0: 6942407912618522912
+      Body_2_Fishing_Animation_32x32_1: 3888020067553658125
+      Body_2_Fishing_Animation_32x32_10: -1659637878866792201
+      Body_2_Fishing_Animation_32x32_100: 7645345642575272100
+      Body_2_Fishing_Animation_32x32_101: 8017697764461613729
+      Body_2_Fishing_Animation_32x32_102: 4709306330654143258
+      Body_2_Fishing_Animation_32x32_103: -57207719003345964
+      Body_2_Fishing_Animation_32x32_104: 4854368888918650781
+      Body_2_Fishing_Animation_32x32_105: -3231904536444421696
+      Body_2_Fishing_Animation_32x32_106: -3291259024891012377
+      Body_2_Fishing_Animation_32x32_107: -3894939442267754744
+      Body_2_Fishing_Animation_32x32_108: -5758067632298255009
+      Body_2_Fishing_Animation_32x32_109: 8538145631153155594
+      Body_2_Fishing_Animation_32x32_11: -4234804483518899335
+      Body_2_Fishing_Animation_32x32_110: 5643575860999725173
+      Body_2_Fishing_Animation_32x32_111: -6692188125206681163
+      Body_2_Fishing_Animation_32x32_112: -6339290910347576513
+      Body_2_Fishing_Animation_32x32_113: 1976632832618689356
+      Body_2_Fishing_Animation_32x32_114: -8415323859515927720
+      Body_2_Fishing_Animation_32x32_115: 5809140837469260157
+      Body_2_Fishing_Animation_32x32_116: 5940403609880852115
+      Body_2_Fishing_Animation_32x32_117: -5268516420960117529
+      Body_2_Fishing_Animation_32x32_118: -5601995241046764269
+      Body_2_Fishing_Animation_32x32_119: 7581772481312643692
+      Body_2_Fishing_Animation_32x32_12: 4940881410310350366
+      Body_2_Fishing_Animation_32x32_120: 941045009444374602
+      Body_2_Fishing_Animation_32x32_121: 7680632245048532448
+      Body_2_Fishing_Animation_32x32_122: -7428486650447198743
+      Body_2_Fishing_Animation_32x32_123: 5756976393122240762
+      Body_2_Fishing_Animation_32x32_124: -6706360192965416801
+      Body_2_Fishing_Animation_32x32_125: -7717788596927898800
+      Body_2_Fishing_Animation_32x32_126: -4417636134372345635
+      Body_2_Fishing_Animation_32x32_127: -3207873073600159921
+      Body_2_Fishing_Animation_32x32_128: -7923947407190630304
+      Body_2_Fishing_Animation_32x32_129: -1014653113638908313
+      Body_2_Fishing_Animation_32x32_13: -6800471364526060513
+      Body_2_Fishing_Animation_32x32_130: 8760779867713079986
+      Body_2_Fishing_Animation_32x32_131: -6162989396107129634
+      Body_2_Fishing_Animation_32x32_132: 3555362746516528317
+      Body_2_Fishing_Animation_32x32_133: -6772714828885642407
+      Body_2_Fishing_Animation_32x32_134: -6875967746821932103
+      Body_2_Fishing_Animation_32x32_135: 761134599945804652
+      Body_2_Fishing_Animation_32x32_136: -7351462568720747804
+      Body_2_Fishing_Animation_32x32_137: 5583567674189615679
+      Body_2_Fishing_Animation_32x32_138: 7918117133831870351
+      Body_2_Fishing_Animation_32x32_139: -4920577450073671090
+      Body_2_Fishing_Animation_32x32_14: -2493043280386102630
+      Body_2_Fishing_Animation_32x32_140: -8384470296669146414
+      Body_2_Fishing_Animation_32x32_141: 3753576709826063154
+      Body_2_Fishing_Animation_32x32_142: -8747334021879321050
+      Body_2_Fishing_Animation_32x32_143: -976215144460266921
+      Body_2_Fishing_Animation_32x32_144: 2771472546769928279
+      Body_2_Fishing_Animation_32x32_145: 3913312870210144679
+      Body_2_Fishing_Animation_32x32_146: -7673858298468706745
+      Body_2_Fishing_Animation_32x32_147: -4466413939487597947
+      Body_2_Fishing_Animation_32x32_148: 2699075810295339135
+      Body_2_Fishing_Animation_32x32_149: -1197137273802263348
+      Body_2_Fishing_Animation_32x32_15: -4162744692480853582
+      Body_2_Fishing_Animation_32x32_150: 6517993429257281336
+      Body_2_Fishing_Animation_32x32_151: 4777511032005551168
+      Body_2_Fishing_Animation_32x32_152: -6523212695659296837
+      Body_2_Fishing_Animation_32x32_153: -8044328648459571409
+      Body_2_Fishing_Animation_32x32_154: 4280828050537310784
+      Body_2_Fishing_Animation_32x32_155: -3257140803016759660
+      Body_2_Fishing_Animation_32x32_156: -1434424270814670183
+      Body_2_Fishing_Animation_32x32_157: 3537554739076944841
+      Body_2_Fishing_Animation_32x32_158: -6844499969015343567
+      Body_2_Fishing_Animation_32x32_159: 1952664095927304315
+      Body_2_Fishing_Animation_32x32_16: -1301967387067514084
+      Body_2_Fishing_Animation_32x32_160: 5907875247197243131
+      Body_2_Fishing_Animation_32x32_161: -2173152111472856301
+      Body_2_Fishing_Animation_32x32_162: 383965456596100883
+      Body_2_Fishing_Animation_32x32_163: -5420160619855400509
+      Body_2_Fishing_Animation_32x32_164: -1201209477329876150
+      Body_2_Fishing_Animation_32x32_165: -3496603033563663808
+      Body_2_Fishing_Animation_32x32_166: -6354866785021269034
+      Body_2_Fishing_Animation_32x32_167: 8291078045071403512
+      Body_2_Fishing_Animation_32x32_168: 8672751183928059689
+      Body_2_Fishing_Animation_32x32_169: -7321058845542220001
+      Body_2_Fishing_Animation_32x32_17: 676763589834008099
+      Body_2_Fishing_Animation_32x32_170: -664596247545002463
+      Body_2_Fishing_Animation_32x32_171: -3539426222630114775
+      Body_2_Fishing_Animation_32x32_172: 8034787517274105267
+      Body_2_Fishing_Animation_32x32_173: -3692239804482058416
+      Body_2_Fishing_Animation_32x32_174: -6207159108648417770
+      Body_2_Fishing_Animation_32x32_175: 1250820173045833104
+      Body_2_Fishing_Animation_32x32_176: -210757273475410965
+      Body_2_Fishing_Animation_32x32_177: 1040432637039749878
+      Body_2_Fishing_Animation_32x32_178: -8100211630399633936
+      Body_2_Fishing_Animation_32x32_179: -5997756337132772853
+      Body_2_Fishing_Animation_32x32_18: -8278812075382266349
+      Body_2_Fishing_Animation_32x32_180: 1254398575342854713
+      Body_2_Fishing_Animation_32x32_181: -8060865271672760887
+      Body_2_Fishing_Animation_32x32_182: 8329964065320518702
+      Body_2_Fishing_Animation_32x32_183: 303274045817890453
+      Body_2_Fishing_Animation_32x32_184: 4955996248082984347
+      Body_2_Fishing_Animation_32x32_185: 2060961972776273254
+      Body_2_Fishing_Animation_32x32_186: -730347592690203478
+      Body_2_Fishing_Animation_32x32_187: 3122060382169415054
+      Body_2_Fishing_Animation_32x32_188: 4136146580734680359
+      Body_2_Fishing_Animation_32x32_189: -7030110118665324951
+      Body_2_Fishing_Animation_32x32_19: -6355581598272500460
+      Body_2_Fishing_Animation_32x32_190: -2830344560858550271
+      Body_2_Fishing_Animation_32x32_191: 888683394656295757
+      Body_2_Fishing_Animation_32x32_192: 4575582930289885158
+      Body_2_Fishing_Animation_32x32_193: -5077248569970234527
+      Body_2_Fishing_Animation_32x32_194: -5976560516911950188
+      Body_2_Fishing_Animation_32x32_195: -6765733270959137086
+      Body_2_Fishing_Animation_32x32_196: 8509392354758924683
+      Body_2_Fishing_Animation_32x32_197: -5514072417350734762
+      Body_2_Fishing_Animation_32x32_198: -10517416595930722
+      Body_2_Fishing_Animation_32x32_199: -1553911670480735419
+      Body_2_Fishing_Animation_32x32_2: 3241106266470796344
+      Body_2_Fishing_Animation_32x32_20: -1414778732712424663
+      Body_2_Fishing_Animation_32x32_200: -8859832482113932923
+      Body_2_Fishing_Animation_32x32_201: -5059099691367732942
+      Body_2_Fishing_Animation_32x32_202: -2550631271490208290
+      Body_2_Fishing_Animation_32x32_203: -3118817286567640439
+      Body_2_Fishing_Animation_32x32_204: 1589885871993519948
+      Body_2_Fishing_Animation_32x32_205: 9053535030323922161
+      Body_2_Fishing_Animation_32x32_206: -8039736223942324741
+      Body_2_Fishing_Animation_32x32_207: -8013984717492647857
+      Body_2_Fishing_Animation_32x32_208: -4452180558991640090
+      Body_2_Fishing_Animation_32x32_209: 9088973861286086051
+      Body_2_Fishing_Animation_32x32_21: 2097426439822143455
+      Body_2_Fishing_Animation_32x32_210: 6433933514815541841
+      Body_2_Fishing_Animation_32x32_211: -1241402295892341735
+      Body_2_Fishing_Animation_32x32_212: -3814216057755184443
+      Body_2_Fishing_Animation_32x32_213: -3942593073759542700
+      Body_2_Fishing_Animation_32x32_214: 7437708357262061735
+      Body_2_Fishing_Animation_32x32_215: 8442576851594954920
+      Body_2_Fishing_Animation_32x32_216: -5295304398423451954
+      Body_2_Fishing_Animation_32x32_217: -5489486635364739037
+      Body_2_Fishing_Animation_32x32_218: 7741991136412127559
+      Body_2_Fishing_Animation_32x32_219: -3781944622625079170
+      Body_2_Fishing_Animation_32x32_22: 6906627379223819669
+      Body_2_Fishing_Animation_32x32_220: -3283103142198907452
+      Body_2_Fishing_Animation_32x32_221: -4444834230605604649
+      Body_2_Fishing_Animation_32x32_222: 2903155128697951434
+      Body_2_Fishing_Animation_32x32_223: -5552045565885540350
+      Body_2_Fishing_Animation_32x32_224: -6941937110956004983
+      Body_2_Fishing_Animation_32x32_225: -8480283166440104738
+      Body_2_Fishing_Animation_32x32_226: 3604558286720985319
+      Body_2_Fishing_Animation_32x32_227: 8202565766510537338
+      Body_2_Fishing_Animation_32x32_228: -7184884131572655312
+      Body_2_Fishing_Animation_32x32_229: -7587895491702333463
+      Body_2_Fishing_Animation_32x32_23: 6261261025017011253
+      Body_2_Fishing_Animation_32x32_230: -39678752112902366
+      Body_2_Fishing_Animation_32x32_231: -6120966619887473426
+      Body_2_Fishing_Animation_32x32_232: 4130107176594520788
+      Body_2_Fishing_Animation_32x32_233: 5017529840404062130
+      Body_2_Fishing_Animation_32x32_234: -4216166702643807872
+      Body_2_Fishing_Animation_32x32_235: -6926190722706180382
+      Body_2_Fishing_Animation_32x32_236: -2867100289475124898
+      Body_2_Fishing_Animation_32x32_237: -5437500240565469408
+      Body_2_Fishing_Animation_32x32_238: 3618274459292874194
+      Body_2_Fishing_Animation_32x32_239: -2289576178048587949
+      Body_2_Fishing_Animation_32x32_24: -1507957966604219339
+      Body_2_Fishing_Animation_32x32_240: -514678980839011661
+      Body_2_Fishing_Animation_32x32_241: -121452325112346856
+      Body_2_Fishing_Animation_32x32_242: 3494275125746630582
+      Body_2_Fishing_Animation_32x32_243: 2820509425748574391
+      Body_2_Fishing_Animation_32x32_244: -1613784180086218676
+      Body_2_Fishing_Animation_32x32_245: 6088648775381800448
+      Body_2_Fishing_Animation_32x32_246: -4437385126442468446
+      Body_2_Fishing_Animation_32x32_247: -9028691739637606723
+      Body_2_Fishing_Animation_32x32_248: -7843271244358525954
+      Body_2_Fishing_Animation_32x32_249: 8161440815195643887
+      Body_2_Fishing_Animation_32x32_25: -8886903410140732294
+      Body_2_Fishing_Animation_32x32_250: -9014853318157106862
+      Body_2_Fishing_Animation_32x32_251: 3239769149224328943
+      Body_2_Fishing_Animation_32x32_252: -1134130553368686806
+      Body_2_Fishing_Animation_32x32_253: -9080228136155728640
+      Body_2_Fishing_Animation_32x32_254: 7791355603371797922
+      Body_2_Fishing_Animation_32x32_255: 8370469835349705995
+      Body_2_Fishing_Animation_32x32_256: 542833657581241389
+      Body_2_Fishing_Animation_32x32_26: -7960364817171688472
+      Body_2_Fishing_Animation_32x32_27: -2520826546311328361
+      Body_2_Fishing_Animation_32x32_28: -3510379085159298244
+      Body_2_Fishing_Animation_32x32_29: 8283107182488167607
+      Body_2_Fishing_Animation_32x32_3: -8513331461732213300
+      Body_2_Fishing_Animation_32x32_30: 2714908512953919657
+      Body_2_Fishing_Animation_32x32_31: -3633622013115363319
+      Body_2_Fishing_Animation_32x32_32: 8636974866955008
+      Body_2_Fishing_Animation_32x32_33: -2502073769232585006
+      Body_2_Fishing_Animation_32x32_34: -8588067122192797374
+      Body_2_Fishing_Animation_32x32_35: 235231009996981744
+      Body_2_Fishing_Animation_32x32_36: -4785458062376333057
+      Body_2_Fishing_Animation_32x32_37: 5916846159496133497
+      Body_2_Fishing_Animation_32x32_38: 3124838100793486319
+      Body_2_Fishing_Animation_32x32_39: 2313792595337609738
+      Body_2_Fishing_Animation_32x32_4: 4047341605799146447
+      Body_2_Fishing_Animation_32x32_40: 2403592081782080681
+      Body_2_Fishing_Animation_32x32_41: -1480209641881199039
+      Body_2_Fishing_Animation_32x32_42: -1665529203686196815
+      Body_2_Fishing_Animation_32x32_43: -8381418976384712547
+      Body_2_Fishing_Animation_32x32_44: 752147821791826340
+      Body_2_Fishing_Animation_32x32_45: -549209008590418176
+      Body_2_Fishing_Animation_32x32_46: -7393605774347135475
+      Body_2_Fishing_Animation_32x32_47: 4765325282795041982
+      Body_2_Fishing_Animation_32x32_48: 8645303532088356781
+      Body_2_Fishing_Animation_32x32_49: -5971942220343051951
+      Body_2_Fishing_Animation_32x32_5: -3110705107650967725
+      Body_2_Fishing_Animation_32x32_50: -5364129623846446271
+      Body_2_Fishing_Animation_32x32_51: -8679616274358671932
+      Body_2_Fishing_Animation_32x32_52: -1627548974433453927
+      Body_2_Fishing_Animation_32x32_53: 1976296384629132167
+      Body_2_Fishing_Animation_32x32_54: -7379398065250750682
+      Body_2_Fishing_Animation_32x32_55: 769982366838962137
+      Body_2_Fishing_Animation_32x32_56: 4293429690472711319
+      Body_2_Fishing_Animation_32x32_57: 7988438541336819824
+      Body_2_Fishing_Animation_32x32_58: -7715048222118123800
+      Body_2_Fishing_Animation_32x32_59: -6919462398820692666
+      Body_2_Fishing_Animation_32x32_6: -2443072265049090650
+      Body_2_Fishing_Animation_32x32_60: 2557210403201646473
+      Body_2_Fishing_Animation_32x32_61: 3371069137228572183
+      Body_2_Fishing_Animation_32x32_62: -1283909602316941440
+      Body_2_Fishing_Animation_32x32_63: -1002001856042556638
+      Body_2_Fishing_Animation_32x32_64: -1420898812151143718
+      Body_2_Fishing_Animation_32x32_65: 5770756426142657859
+      Body_2_Fishing_Animation_32x32_66: -6983608091967453217
+      Body_2_Fishing_Animation_32x32_67: -8219770857837403032
+      Body_2_Fishing_Animation_32x32_68: 6238759673244216555
+      Body_2_Fishing_Animation_32x32_69: 226375439672906161
+      Body_2_Fishing_Animation_32x32_7: -1385468464424026816
+      Body_2_Fishing_Animation_32x32_70: 8358320634577907968
+      Body_2_Fishing_Animation_32x32_71: 5116752046860918788
+      Body_2_Fishing_Animation_32x32_72: -2438794742204824649
+      Body_2_Fishing_Animation_32x32_73: -1589692754294601851
+      Body_2_Fishing_Animation_32x32_74: 8213099561652510227
+      Body_2_Fishing_Animation_32x32_75: -1630644564480999846
+      Body_2_Fishing_Animation_32x32_76: 4087274130695170824
+      Body_2_Fishing_Animation_32x32_77: -7033766038657632824
+      Body_2_Fishing_Animation_32x32_78: 3355486605499870798
+      Body_2_Fishing_Animation_32x32_79: -7521666753722194587
+      Body_2_Fishing_Animation_32x32_8: -3776683151438140532
+      Body_2_Fishing_Animation_32x32_80: -1445506061647544523
+      Body_2_Fishing_Animation_32x32_81: -8919277690707899583
+      Body_2_Fishing_Animation_32x32_82: 3772178996821302825
+      Body_2_Fishing_Animation_32x32_83: 5313789250147923007
+      Body_2_Fishing_Animation_32x32_84: 4824876875910177901
+      Body_2_Fishing_Animation_32x32_85: -7775352580671386404
+      Body_2_Fishing_Animation_32x32_86: 290789889560744913
+      Body_2_Fishing_Animation_32x32_87: 4562403055010176481
+      Body_2_Fishing_Animation_32x32_88: 7967535719890358484
+      Body_2_Fishing_Animation_32x32_89: -1954499177827468935
+      Body_2_Fishing_Animation_32x32_9: -314990245446147517
+      Body_2_Fishing_Animation_32x32_90: -6345311873828751599
+      Body_2_Fishing_Animation_32x32_91: -7428918071700419713
+      Body_2_Fishing_Animation_32x32_92: -1959610630819548832
+      Body_2_Fishing_Animation_32x32_93: -8289361712430261715
+      Body_2_Fishing_Animation_32x32_94: -8814187039388147571
+      Body_2_Fishing_Animation_32x32_95: 4018091705627837128
+      Body_2_Fishing_Animation_32x32_96: -8369634661305531263
+      Body_2_Fishing_Animation_32x32_97: -7790251489509908514
+      Body_2_Fishing_Animation_32x32_98: -5608837208728611445
+      Body_2_Fishing_Animation_32x32_99: 8204025035135657554
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

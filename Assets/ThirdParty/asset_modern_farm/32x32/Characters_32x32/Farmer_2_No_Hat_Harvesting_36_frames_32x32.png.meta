@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: 183445ee0582560408791eec9c939d7c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6106473662535596164
+    second: Farmer_2_No_Hat_Harvesting_36_frames_32x32_0
+  - first:
+      213: 9078087751571943930
+    second: Farmer_2_No_Hat_Harvesting_36_frames_32x32_1
+  - first:
+      213: -5481281197846284193
+    second: Farmer_2_No_Hat_Harvesting_36_frames_32x32_2
+  - first:
+      213: 589697464801901208
+    second: Farmer_2_No_Hat_Harvesting_36_frames_32x32_3
+  - first:
+      213: 97790462526946823
+    second: Farmer_2_No_Hat_Harvesting_36_frames_32x32_4
+  - first:
+      213: -5844873680662889307
+    second: Farmer_2_No_Hat_Harvesting_36_frames_32x32_5
+  - first:
+      213: -3561195442663774839
+    second: Farmer_2_No_Hat_Harvesting_36_frames_32x32_6
+  - first:
+      213: -340670194565676858
+    second: Farmer_2_No_Hat_Harvesting_36_frames_32x32_7
+  - first:
+      213: -2154750122253564182
+    second: Farmer_2_No_Hat_Harvesting_36_frames_32x32_8
+  - first:
+      213: 3578498829956340157
+    second: Farmer_2_No_Hat_Harvesting_36_frames_32x32_9
+  - first:
+      213: -7208256740230459057
+    second: Farmer_2_No_Hat_Harvesting_36_frames_32x32_10
+  - first:
+      213: 6353375470106450516
+    second: Farmer_2_No_Hat_Harvesting_36_frames_32x32_11
+  - first:
+      213: 9204001615638421577
+    second: Farmer_2_No_Hat_Harvesting_36_frames_32x32_12
+  - first:
+      213: -3818757447058172062
+    second: Farmer_2_No_Hat_Harvesting_36_frames_32x32_13
+  - first:
+      213: -7765240023280730824
+    second: Farmer_2_No_Hat_Harvesting_36_frames_32x32_14
+  - first:
+      213: -6818756731857164439
+    second: Farmer_2_No_Hat_Harvesting_36_frames_32x32_15
+  - first:
+      213: 5022874890241732952
+    second: Farmer_2_No_Hat_Harvesting_36_frames_32x32_16
+  - first:
+      213: 5745414398988649239
+    second: Farmer_2_No_Hat_Harvesting_36_frames_32x32_17
+  - first:
+      213: -592340111782764156
+    second: Farmer_2_No_Hat_Harvesting_36_frames_32x32_18
+  - first:
+      213: -6949935577345658029
+    second: Farmer_2_No_Hat_Harvesting_36_frames_32x32_19
+  - first:
+      213: -6284176773491494506
+    second: Farmer_2_No_Hat_Harvesting_36_frames_32x32_20
+  - first:
+      213: 4278333461336030893
+    second: Farmer_2_No_Hat_Harvesting_36_frames_32x32_21
+  - first:
+      213: -407251444500616546
+    second: Farmer_2_No_Hat_Harvesting_36_frames_32x32_22
+  - first:
+      213: -6452637247395454844
+    second: Farmer_2_No_Hat_Harvesting_36_frames_32x32_23
+  - first:
+      213: -4380114356632228825
+    second: Farmer_2_No_Hat_Harvesting_36_frames_32x32_24
+  - first:
+      213: 5768382407950891874
+    second: Farmer_2_No_Hat_Harvesting_36_frames_32x32_25
+  - first:
+      213: -5635439804986779856
+    second: Farmer_2_No_Hat_Harvesting_36_frames_32x32_26
+  - first:
+      213: -5546999894039835439
+    second: Farmer_2_No_Hat_Harvesting_36_frames_32x32_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Harvesting_36_frames_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c778942be82714ba0800000000000000
+      internalID: -6106473662535596164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Harvesting_36_frames_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1354856b8dbfd70800000000000000
+      internalID: 9078087751571943930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Harvesting_36_frames_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f583858aac39ee3b0800000000000000
+      internalID: -5481281197846284193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Harvesting_36_frames_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a377a48b60f2800800000000000000
+      internalID: 589697464801901208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Harvesting_36_frames_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ef65558eb6b5100800000000000000
+      internalID: 97790462526946823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Harvesting_36_frames_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5acfe0bda56d2eea0800000000000000
+      internalID: -5844873680662889307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Harvesting_36_frames_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9852948ec97149ec0800000000000000
+      internalID: -3561195442663774839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Harvesting_36_frames_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c089535342b54bf0800000000000000
+      internalID: -340670194565676858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Harvesting_36_frames_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6c85f1e2ac812e0800000000000000
+      internalID: -2154750122253564182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Harvesting_36_frames_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 0
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9d2b4e9b169a130800000000000000
+      internalID: 3578498829956340157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Harvesting_36_frames_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f419fbc8fa027fb90800000000000000
+      internalID: -7208256740230459057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Harvesting_36_frames_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 0
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a10641459bb2850800000000000000
+      internalID: 6353375470106450516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Harvesting_36_frames_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 0
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940ef3c54be2bbf70800000000000000
+      internalID: 9204001615638421577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Harvesting_36_frames_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 0
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26758b4a55c010bc0800000000000000
+      internalID: -3818757447058172062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Harvesting_36_frames_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 0
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83db4b047535c3490800000000000000
+      internalID: -7765240023280730824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Harvesting_36_frames_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 0
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967a9d331e8ee51a0800000000000000
+      internalID: -6818756731857164439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Harvesting_36_frames_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 0
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8517610b916d4b540800000000000000
+      internalID: 5022874890241732952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Harvesting_36_frames_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 0
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713022394ffcbbf40800000000000000
+      internalID: 5745414398988649239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Harvesting_36_frames_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 0
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48129f28ec597c7f0800000000000000
+      internalID: -592340111782764156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Harvesting_36_frames_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 0
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353767c2a6edc8f90800000000000000
+      internalID: -6949935577345658029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Harvesting_36_frames_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 0
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691774ef48e1ac8a0800000000000000
+      internalID: -6284176773491494506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Harvesting_36_frames_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 0
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daef9919d91bf5b30800000000000000
+      internalID: 4278333461336030893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Harvesting_36_frames_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 0
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9aa64c08f6295af0800000000000000
+      internalID: -407251444500616546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Harvesting_36_frames_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 0
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4802a8c6c90a376a0800000000000000
+      internalID: -6452637247395454844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Harvesting_36_frames_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 0
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ce8511335b633c0800000000000000
+      internalID: -4380114356632228825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Harvesting_36_frames_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 0
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b7682ec396d0050800000000000000
+      internalID: 5768382407950891874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Harvesting_36_frames_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 0
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0379aaeea55eac1b0800000000000000
+      internalID: -5635439804986779856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmer_2_No_Hat_Harvesting_36_frames_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 0
+        width: 289
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc40a25cf81503b0800000000000000
+      internalID: -5546999894039835439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Farmer_2_No_Hat_Harvesting_36_frames_32x32_0: -6106473662535596164
+      Farmer_2_No_Hat_Harvesting_36_frames_32x32_1: 9078087751571943930
+      Farmer_2_No_Hat_Harvesting_36_frames_32x32_10: -7208256740230459057
+      Farmer_2_No_Hat_Harvesting_36_frames_32x32_11: 6353375470106450516
+      Farmer_2_No_Hat_Harvesting_36_frames_32x32_12: 9204001615638421577
+      Farmer_2_No_Hat_Harvesting_36_frames_32x32_13: -3818757447058172062
+      Farmer_2_No_Hat_Harvesting_36_frames_32x32_14: -7765240023280730824
+      Farmer_2_No_Hat_Harvesting_36_frames_32x32_15: -6818756731857164439
+      Farmer_2_No_Hat_Harvesting_36_frames_32x32_16: 5022874890241732952
+      Farmer_2_No_Hat_Harvesting_36_frames_32x32_17: 5745414398988649239
+      Farmer_2_No_Hat_Harvesting_36_frames_32x32_18: -592340111782764156
+      Farmer_2_No_Hat_Harvesting_36_frames_32x32_19: -6949935577345658029
+      Farmer_2_No_Hat_Harvesting_36_frames_32x32_2: -5481281197846284193
+      Farmer_2_No_Hat_Harvesting_36_frames_32x32_20: -6284176773491494506
+      Farmer_2_No_Hat_Harvesting_36_frames_32x32_21: 4278333461336030893
+      Farmer_2_No_Hat_Harvesting_36_frames_32x32_22: -407251444500616546
+      Farmer_2_No_Hat_Harvesting_36_frames_32x32_23: -6452637247395454844
+      Farmer_2_No_Hat_Harvesting_36_frames_32x32_24: -4380114356632228825
+      Farmer_2_No_Hat_Harvesting_36_frames_32x32_25: 5768382407950891874
+      Farmer_2_No_Hat_Harvesting_36_frames_32x32_26: -5635439804986779856
+      Farmer_2_No_Hat_Harvesting_36_frames_32x32_27: -5546999894039835439
+      Farmer_2_No_Hat_Harvesting_36_frames_32x32_3: 589697464801901208
+      Farmer_2_No_Hat_Harvesting_36_frames_32x32_4: 97790462526946823
+      Farmer_2_No_Hat_Harvesting_36_frames_32x32_5: -5844873680662889307
+      Farmer_2_No_Hat_Harvesting_36_frames_32x32_6: -3561195442663774839
+      Farmer_2_No_Hat_Harvesting_36_frames_32x32_7: -340670194565676858
+      Farmer_2_No_Hat_Harvesting_36_frames_32x32_8: -2154750122253564182
+      Farmer_2_No_Hat_Harvesting_36_frames_32x32_9: 3578498829956340157
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

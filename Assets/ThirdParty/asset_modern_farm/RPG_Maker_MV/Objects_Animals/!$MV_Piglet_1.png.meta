@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: ecff12056f45e14428051fe94d8900b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5434773747604776479
+    second: '!$MV_Piglet_1_0'
+  - first:
+      213: -2294016921716130444
+    second: '!$MV_Piglet_1_1'
+  - first:
+      213: 28429241334409175
+    second: '!$MV_Piglet_1_2'
+  - first:
+      213: 4845496204744541086
+    second: '!$MV_Piglet_1_3'
+  - first:
+      213: -7204936218775754280
+    second: '!$MV_Piglet_1_4'
+  - first:
+      213: 7315300030869827373
+    second: '!$MV_Piglet_1_5'
+  - first:
+      213: 2164069790334195317
+    second: '!$MV_Piglet_1_6'
+  - first:
+      213: -8109064140841445844
+    second: '!$MV_Piglet_1_7'
+  - first:
+      213: 4178081044430895814
+    second: '!$MV_Piglet_1_8'
+  - first:
+      213: 2855341687540768745
+    second: '!$MV_Piglet_1_9'
+  - first:
+      213: -4025974873622605758
+    second: '!$MV_Piglet_1_10'
+  - first:
+      213: 4283661747123159060
+    second: '!$MV_Piglet_1_11'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!$MV_Piglet_1_0'
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 287
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16e994cde13c6b40800000000000000
+      internalID: 5434773747604776479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Piglet_1_1'
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 293
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47dff5093c30a20e0800000000000000
+      internalID: -2294016921716130444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Piglet_1_2'
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 287
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7a8fe8e30056000800000000000000
+      internalID: 28429241334409175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Piglet_1_3'
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 191
+        width: 59
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e934d4c2029ae3340800000000000000
+      internalID: 4845496204744541086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Piglet_1_4'
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 191
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d96682beace20c90800000000000000
+      internalID: -7204936218775754280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Piglet_1_5'
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 191
+        width: 59
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f6665be9a258560800000000000000
+      internalID: 7315300030869827373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Piglet_1_6'
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 95
+        width: 59
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57616023202580e10800000000000000
+      internalID: 2164069790334195317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Piglet_1_7'
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 95
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c269948a021d67f80800000000000000
+      internalID: -8109064140841445844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Piglet_1_8'
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 95
+        width: 59
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cab810d2968bf930800000000000000
+      internalID: 4178081044430895814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Piglet_1_9'
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 0
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef5b36f22630a720800000000000000
+      internalID: 2855341687540768745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Piglet_1_10'
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 0
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2409317de2dd028c0800000000000000
+      internalID: -4025974873622605758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Piglet_1_11'
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 0
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4108437c9af927b30800000000000000
+      internalID: 4283661747123159060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '!$MV_Piglet_1_0': 5434773747604776479
+      '!$MV_Piglet_1_1': -2294016921716130444
+      '!$MV_Piglet_1_10': -4025974873622605758
+      '!$MV_Piglet_1_11': 4283661747123159060
+      '!$MV_Piglet_1_2': 28429241334409175
+      '!$MV_Piglet_1_3': 4845496204744541086
+      '!$MV_Piglet_1_4': -7204936218775754280
+      '!$MV_Piglet_1_5': 7315300030869827373
+      '!$MV_Piglet_1_6': 2164069790334195317
+      '!$MV_Piglet_1_7': -8109064140841445844
+      '!$MV_Piglet_1_8': 4178081044430895814
+      '!$MV_Piglet_1_9': 2855341687540768745
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

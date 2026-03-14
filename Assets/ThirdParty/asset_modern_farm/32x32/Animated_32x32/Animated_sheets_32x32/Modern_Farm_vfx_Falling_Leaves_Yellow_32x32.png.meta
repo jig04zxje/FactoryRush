@@ -1,0 +1,3224 @@
+fileFormatVersion: 2
+guid: d578f830664f8504ca04c16f2147ffad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7262642361919154391
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_0
+  - first:
+      213: -5516534570519031056
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_1
+  - first:
+      213: -1968502006616339148
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_2
+  - first:
+      213: 7985512215068292843
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_3
+  - first:
+      213: -495461510892872574
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_4
+  - first:
+      213: -4600396445044271616
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_5
+  - first:
+      213: 713784788814683334
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_6
+  - first:
+      213: -5205160062977829401
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_7
+  - first:
+      213: 6006930858692808995
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_8
+  - first:
+      213: -6085268347040226788
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_9
+  - first:
+      213: 1660611609008936107
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_10
+  - first:
+      213: -8927269196343955861
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_11
+  - first:
+      213: 1213186581979951485
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_12
+  - first:
+      213: 3868408174890382563
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_13
+  - first:
+      213: -7913094245983569499
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_14
+  - first:
+      213: 8544264326455104499
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_15
+  - first:
+      213: 2124161228918856059
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_16
+  - first:
+      213: -9008708463362869483
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_17
+  - first:
+      213: -7788635290994409370
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_18
+  - first:
+      213: 320496925878345728
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_19
+  - first:
+      213: 6989161265658690121
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_20
+  - first:
+      213: -5315250073982509242
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_21
+  - first:
+      213: -6972496267613073333
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_22
+  - first:
+      213: -6730016033613118303
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_23
+  - first:
+      213: -6964840859340490381
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_24
+  - first:
+      213: 1846856824909026989
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_25
+  - first:
+      213: 167380949401061667
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_26
+  - first:
+      213: 8851741934032888536
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_27
+  - first:
+      213: 4274277492656966946
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_28
+  - first:
+      213: -2492352859006426163
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_29
+  - first:
+      213: 5986957151087831913
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_30
+  - first:
+      213: -6852659009173755819
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_31
+  - first:
+      213: 1455846389605993953
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_32
+  - first:
+      213: 3117099621621931667
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_33
+  - first:
+      213: 2295918314885959989
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_34
+  - first:
+      213: -2227186864915838259
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_35
+  - first:
+      213: 8714212145797025141
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_36
+  - first:
+      213: 943152941513322187
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_37
+  - first:
+      213: 6486898436134874020
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_38
+  - first:
+      213: 6139067695171730083
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_39
+  - first:
+      213: 1217271752331797217
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_40
+  - first:
+      213: -6233043168747009152
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_41
+  - first:
+      213: -5087791871003336928
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_42
+  - first:
+      213: -6722260730086535084
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_43
+  - first:
+      213: 1732747023034092309
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_44
+  - first:
+      213: 5350848749676217829
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_45
+  - first:
+      213: 2983207745342255006
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_46
+  - first:
+      213: 7765521078152535544
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_47
+  - first:
+      213: -5523644114227149366
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_48
+  - first:
+      213: 4685873540563490395
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_49
+  - first:
+      213: 3028806146223561307
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_50
+  - first:
+      213: -2624674048869224895
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_51
+  - first:
+      213: -3197004468128974355
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_52
+  - first:
+      213: 3234724809418493965
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_53
+  - first:
+      213: 3002083089037134560
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_54
+  - first:
+      213: 2007600715835532141
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_55
+  - first:
+      213: 4578063377358777249
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_56
+  - first:
+      213: -103405797736658088
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_57
+  - first:
+      213: 2247727349913975958
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_58
+  - first:
+      213: 7724689392906738668
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_59
+  - first:
+      213: -6743023789188638596
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_60
+  - first:
+      213: 4601209466160914397
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_61
+  - first:
+      213: -906128956376282740
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_62
+  - first:
+      213: -2708760167791058514
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_63
+  - first:
+      213: -3451218345839516521
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_64
+  - first:
+      213: 875254121100464752
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_65
+  - first:
+      213: 5568465675982326303
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_66
+  - first:
+      213: -6150266395950777760
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_67
+  - first:
+      213: 934125076723770237
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_68
+  - first:
+      213: -1895017142554275386
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_69
+  - first:
+      213: -3118604293508827271
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_70
+  - first:
+      213: 4142280026739000141
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_71
+  - first:
+      213: 8002479483455274250
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_72
+  - first:
+      213: -5903126799787784295
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_73
+  - first:
+      213: 6866018822410817520
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_74
+  - first:
+      213: 8107212698641889551
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_75
+  - first:
+      213: 64746858189040696
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_76
+  - first:
+      213: -1986349492789823884
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_77
+  - first:
+      213: -4649711406251437043
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_78
+  - first:
+      213: -7236868994872458054
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_79
+  - first:
+      213: 2765161066470095683
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_80
+  - first:
+      213: -883494907027010615
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_81
+  - first:
+      213: -8583842410209058272
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_82
+  - first:
+      213: 2738796561769816402
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_83
+  - first:
+      213: -623172750635151863
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_84
+  - first:
+      213: 1371079653201678813
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_85
+  - first:
+      213: -6989376160938569888
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_86
+  - first:
+      213: 3320000974457378487
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_87
+  - first:
+      213: -1454505085098387917
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_88
+  - first:
+      213: 5283565441372254421
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_89
+  - first:
+      213: -9170406878731759487
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_90
+  - first:
+      213: -6424346741939682981
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_91
+  - first:
+      213: -1182884687859914568
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_92
+  - first:
+      213: 4606437171864945202
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_93
+  - first:
+      213: -6742486977915221797
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_94
+  - first:
+      213: 4991349208950816235
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_95
+  - first:
+      213: 5718784107612378198
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_96
+  - first:
+      213: -2974556270345281398
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_97
+  - first:
+      213: 7733863901287164066
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_98
+  - first:
+      213: 4899910032129057063
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_99
+  - first:
+      213: 446856638522244815
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_100
+  - first:
+      213: 7778388595470809109
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_101
+  - first:
+      213: -7909579862879342972
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_102
+  - first:
+      213: -8362430367613957427
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_103
+  - first:
+      213: 4233555689148552385
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_104
+  - first:
+      213: -667210598107161562
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_105
+  - first:
+      213: -5969965012193505933
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_106
+  - first:
+      213: -4334404072801137468
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_107
+  - first:
+      213: -7977242628867502481
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_108
+  - first:
+      213: 1342810494157834636
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_109
+  - first:
+      213: -1654752078193525602
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_110
+  - first:
+      213: 7000879831176624147
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_111
+  - first:
+      213: -8803880973369384502
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_112
+  - first:
+      213: 3500015886201437482
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_113
+  - first:
+      213: 1905332800792559526
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_114
+  - first:
+      213: -7708347627976329903
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_115
+  - first:
+      213: 6157510025496567976
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_116
+  - first:
+      213: -8148060847811932129
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_117
+  - first:
+      213: -8599105671376410256
+    second: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_118
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 59
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d825e0cfb61ac460800000000000000
+      internalID: 7262642361919154391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 65
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f21d0539055173b0800000000000000
+      internalID: -5516534570519031056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 57
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d4df3cad97ea4e0800000000000000
+      internalID: -1968502006616339148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 63
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be630b0fc0d32de60800000000000000
+      internalID: 7985512215068292843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 61
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c1a538164cf19f0800000000000000
+      internalID: -495461510892872574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 53
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0069a23aecb1820c0800000000000000
+      internalID: -4600396445044271616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 57
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc506fcb7fd7e900800000000000000
+      internalID: 713784788814683334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 57
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e51827308e83c7b0800000000000000
+      internalID: -5205160062977829401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 57
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32197b63ac7ec5350800000000000000
+      internalID: 6006930858692808995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 55
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c122db3fda8cc8ba0800000000000000
+      internalID: -6085268347040226788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 53
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba41ed8c57dab0710800000000000000
+      internalID: 1660611609008936107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 51
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ea1a1f6f7fb1480800000000000000
+      internalID: -8927269196343955861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 51
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d717f21c4ca16d010800000000000000
+      internalID: 1213186581979951485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 55
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4fe864db85fa530800000000000000
+      internalID: 3868408174890382563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 51
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a936f965ba0f2290800000000000000
+      internalID: -7913094245983569499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 49
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3166da223539670800000000000000
+      internalID: 8544264326455104499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 53
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b799d5722698a7d10800000000000000
+      internalID: 2124161228918856059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 49
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517733cf163aaf280800000000000000
+      internalID: -9008708463362869483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 55
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6600533087539e390800000000000000
+      internalID: -7788635290994409370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 51
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000659a8142a27400800000000000000
+      internalID: 320496925878345728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 53
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a7185142d7ef060800000000000000
+      internalID: 6989161265658690121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 49
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f57e718307c36b0800000000000000
+      internalID: -5315250073982509242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 51
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b409f232697bc3f90800000000000000
+      internalID: -6972496267613073333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 49
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a48ec7131e2a92a0800000000000000
+      internalID: -6730016033613118303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 49
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37932e5c32ae75f90800000000000000
+      internalID: -6964840859340490381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 51
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da655b74f7a51a910800000000000000
+      internalID: 1846856824909026989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 51
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329c73f2618a25200800000000000000
+      internalID: 167380949401061667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 49
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2a575f364b7da70800000000000000
+      internalID: 8851741934032888536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d0445cbb8415b30800000000000000
+      internalID: 4274277492656966946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 43
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc32eff9742696dd0800000000000000
+      internalID: -2492352859006426163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_30
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 41
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b23140fc1f51350800000000000000
+      internalID: 5986957151087831913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_31
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 47
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558615720f676e0a0800000000000000
+      internalID: -6852659009173755819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_32
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 47
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed0004f394343410800000000000000
+      internalID: 1455846389605993953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_33
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 45
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e974c3799224b20800000000000000
+      internalID: 3117099621621931667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_34
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 45
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53157180b8dbcdf10800000000000000
+      internalID: 2295918314885959989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_35
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca8644b8517711e0800000000000000
+      internalID: -2227186864915838259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_36
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 43
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d40a7d6c91fe870800000000000000
+      internalID: 8714212145797025141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_37
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 43
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce24cf6a90c61d00800000000000000
+      internalID: 943152941513322187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_38
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 47
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab2bd332c7160a50800000000000000
+      internalID: 6486898436134874020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_39
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 45
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa79c6ea89523550800000000000000
+      internalID: 6139067695171730083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_40
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 41
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2aad8953e94e010800000000000000
+      internalID: 1217271752331797217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_41
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 45
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08bc8291348cf79a0800000000000000
+      internalID: -6233043168747009152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_42
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 45
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fd9b5ef388469b0800000000000000
+      internalID: -5087791871003336928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_43
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 43
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45052a76b7bb5b2a0800000000000000
+      internalID: -6722260730086535084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_44
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 43
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b0099ac34fb0810800000000000000
+      internalID: 1732747023034092309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_45
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 41
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e54b4b7698024a40800000000000000
+      internalID: 5350848749676217829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_46
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 41
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fa15083ab766920800000000000000
+      internalID: 2983207745342255006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_47
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 47
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd171fe64ca4cb60800000000000000
+      internalID: 7765521078152535544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_48
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 43
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac540d191f21853b0800000000000000
+      internalID: -5523644114227149366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_49
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 45
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5650b78821970140800000000000000
+      internalID: 4685873540563490395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_50
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 43
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5adc27842b780a20800000000000000
+      internalID: 3028806146223561307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_51
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 41
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ea6f1dbd8439bd0800000000000000
+      internalID: -2624674048869224895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_52
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 33
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9f5dbef55f1a3d0800000000000000
+      internalID: -3197004468128974355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_53
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 31
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00588b631d04ec20800000000000000
+      internalID: 3234724809418493965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_54
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea044ce9aa89a920800000000000000
+      internalID: 3002083089037134560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_55
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 35
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63623ed63e6cdb10800000000000000
+      internalID: 2007600715835532141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_56
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 33
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abe1b6d26c888f30800000000000000
+      internalID: 4578063377358777249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_57
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 39
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85bc03e89f0a09ef0800000000000000
+      internalID: -103405797736658088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_58
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 37
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c7d83ad18813f10800000000000000
+      internalID: 2247727349913975958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_59
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb1f60631c933b60800000000000000
+      internalID: 7724689392906738668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_60
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 35
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78176df697fb62a0800000000000000
+      internalID: -6743023789188638596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_61
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 33
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf9fa791a7cadf30800000000000000
+      internalID: 4601209466160914397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_62
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 39
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c890f7ad388cc63f0800000000000000
+      internalID: -906128956376282740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_63
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 37
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea12611aafc886ad0800000000000000
+      internalID: -2708760167791058514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_64
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 39
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794ace5233fca10d0800000000000000
+      internalID: -3451218345839516521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_65
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 39
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072d3606cf6852c00800000000000000
+      internalID: 875254121100464752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_66
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 39
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ac1e0870a274d40800000000000000
+      internalID: 5568465675982326303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_67
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 37
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06af4536c4dd5aaa0800000000000000
+      internalID: -6150266395950777760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_68
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 35
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73a7eddecda6fc00800000000000000
+      internalID: 934125076723770237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_69
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 39
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1d6c6f2fb83b5e0800000000000000
+      internalID: -1895017142554275386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_70
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 33
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977f56a0bed78b4d0800000000000000
+      internalID: -3118604293508827271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_71
+      rect:
+        serializedVersion: 2
+        x: 2273
+        y: 37
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4349f1dcb55c7930800000000000000
+      internalID: 4142280026739000141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_72
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 29
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0df3b5f0b48e0f60800000000000000
+      internalID: 8002479483455274250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_73
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 27
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9978f82a371e31ea0800000000000000
+      internalID: -5903126799787784295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_74
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 25
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff41f2cdbff84f50800000000000000
+      internalID: 6866018822410817520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_75
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 25
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09f51ddefa928070800000000000000
+      internalID: 8107212698641889551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_76
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 31
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c2eaaace606e000800000000000000
+      internalID: 64746858189040696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_77
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 29
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4763c7219a11f64e0800000000000000
+      internalID: -1986349492789823884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_78
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 29
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d041d4a7c18e87fb0800000000000000
+      internalID: -4649711406251437043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_79
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 27
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4c692edf9719b90800000000000000
+      internalID: -7236868994872458054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_80
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 25
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bb0b9e653df5620800000000000000
+      internalID: 2765161066470095683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_81
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 31
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbc9c120123db3f0800000000000000
+      internalID: -883494907027010615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_82
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 29
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0226e8b9ec010e880800000000000000
+      internalID: -8583842410209058272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_83
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 31
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251e95056f8220620800000000000000
+      internalID: 2738796561769816402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_84
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 31
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e40bc5fab0a57f0800000000000000
+      internalID: -623172750635151863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_85
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 29
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd11ad72ead070310800000000000000
+      internalID: 1371079653201678813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_86
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 27
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f4ca5b96fb00f90800000000000000
+      internalID: -6989376160938569888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_87
+      rect:
+        serializedVersion: 2
+        x: 2281
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b69b70db43031e20800000000000000
+      internalID: 3320000974457378487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_88
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33616b6d45f80dbe0800000000000000
+      internalID: -1454505085098387917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_89
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 17
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0f58086cef25940800000000000000
+      internalID: 5283565441372254421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_90
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 15
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180156bd78b2cb080800000000000000
+      internalID: -9170406878731759487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_91
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 23
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b514fb40da228d6a0800000000000000
+      internalID: -6424346741939682981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_92
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 21
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b86cd1c4ac859fe0800000000000000
+      internalID: -1182884687859914568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_93
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 19
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2324a2da33a5def30800000000000000
+      internalID: 4606437171864945202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_94
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 17
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd88aaa11dfdd62a0800000000000000
+      internalID: -6742486977915221797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_95
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 19
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedb07509a5d44540800000000000000
+      internalID: 4991349208950816235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_96
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 23
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6549261b8d33d5f40800000000000000
+      internalID: 5718784107612378198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_97
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 19
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80a8adf4d048b6d0800000000000000
+      internalID: -2974556270345281398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_98
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 21
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a820711e34345b60800000000000000
+      internalID: 7733863901287164066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_99
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 17
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721ec60a63afff340800000000000000
+      internalID: 4899910032129057063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_100
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 23
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fceb4a4cebd833600800000000000000
+      internalID: 446856638522244815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_101
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 23
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518bcf5473362fb60800000000000000
+      internalID: 7778388595470809109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_102
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 21
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e6e7e75078b3290800000000000000
+      internalID: -7909579862879342972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_103
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 19
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca4e6ff2eda2fb80800000000000000
+      internalID: -8362430367613957427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_104
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 17
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4988c087c90ca30800000000000000
+      internalID: 4233555689148552385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_105
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 13
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c527dfe779db6f0800000000000000
+      internalID: -667210598107161562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_106
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 11
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d02be937c662da0800000000000000
+      internalID: -5969965012193505933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_107
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 11
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc8eafd57a19d3c0800000000000000
+      internalID: -4334404072801137468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_108
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 9
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ecf3328142b4190800000000000000
+      internalID: -7977242628867502481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_109
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 15
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89c1f8a70f92a210800000000000000
+      internalID: 1342810494157834636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_110
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 13
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c7feb80c32909e0800000000000000
+      internalID: -1654752078193525602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_111
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 7
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318ba7c3d1f182160800000000000000
+      internalID: 7000879831176624147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_112
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 5
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac16f7156e452d580800000000000000
+      internalID: -8803880973369384502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_113
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 3
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2db24597ed829030800000000000000
+      internalID: 3500015886201437482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_114
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 5
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aff322661a117a10800000000000000
+      internalID: 1905332800792559526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_115
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 5
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155fe354ca2760590800000000000000
+      internalID: -7708347627976329903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_116
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 3
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a021aa8ebed37550800000000000000
+      internalID: 6157510025496567976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_117
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 1
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10d6e544d54cee80800000000000000
+      internalID: -8148060847811932129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_118
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 0
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079ef8fa3f6d9a880800000000000000
+      internalID: -8599105671376410256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_0: 7262642361919154391
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_1: -5516534570519031056
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_10: 1660611609008936107
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_100: 446856638522244815
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_101: 7778388595470809109
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_102: -7909579862879342972
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_103: -8362430367613957427
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_104: 4233555689148552385
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_105: -667210598107161562
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_106: -5969965012193505933
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_107: -4334404072801137468
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_108: -7977242628867502481
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_109: 1342810494157834636
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_11: -8927269196343955861
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_110: -1654752078193525602
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_111: 7000879831176624147
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_112: -8803880973369384502
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_113: 3500015886201437482
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_114: 1905332800792559526
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_115: -7708347627976329903
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_116: 6157510025496567976
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_117: -8148060847811932129
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_118: -8599105671376410256
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_12: 1213186581979951485
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_13: 3868408174890382563
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_14: -7913094245983569499
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_15: 8544264326455104499
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_16: 2124161228918856059
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_17: -9008708463362869483
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_18: -7788635290994409370
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_19: 320496925878345728
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_2: -1968502006616339148
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_20: 6989161265658690121
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_21: -5315250073982509242
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_22: -6972496267613073333
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_23: -6730016033613118303
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_24: -6964840859340490381
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_25: 1846856824909026989
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_26: 167380949401061667
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_27: 8851741934032888536
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_28: 4274277492656966946
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_29: -2492352859006426163
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_3: 7985512215068292843
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_30: 5986957151087831913
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_31: -6852659009173755819
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_32: 1455846389605993953
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_33: 3117099621621931667
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_34: 2295918314885959989
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_35: -2227186864915838259
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_36: 8714212145797025141
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_37: 943152941513322187
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_38: 6486898436134874020
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_39: 6139067695171730083
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_4: -495461510892872574
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_40: 1217271752331797217
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_41: -6233043168747009152
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_42: -5087791871003336928
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_43: -6722260730086535084
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_44: 1732747023034092309
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_45: 5350848749676217829
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_46: 2983207745342255006
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_47: 7765521078152535544
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_48: -5523644114227149366
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_49: 4685873540563490395
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_5: -4600396445044271616
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_50: 3028806146223561307
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_51: -2624674048869224895
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_52: -3197004468128974355
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_53: 3234724809418493965
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_54: 3002083089037134560
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_55: 2007600715835532141
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_56: 4578063377358777249
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_57: -103405797736658088
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_58: 2247727349913975958
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_59: 7724689392906738668
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_6: 713784788814683334
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_60: -6743023789188638596
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_61: 4601209466160914397
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_62: -906128956376282740
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_63: -2708760167791058514
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_64: -3451218345839516521
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_65: 875254121100464752
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_66: 5568465675982326303
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_67: -6150266395950777760
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_68: 934125076723770237
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_69: -1895017142554275386
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_7: -5205160062977829401
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_70: -3118604293508827271
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_71: 4142280026739000141
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_72: 8002479483455274250
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_73: -5903126799787784295
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_74: 6866018822410817520
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_75: 8107212698641889551
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_76: 64746858189040696
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_77: -1986349492789823884
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_78: -4649711406251437043
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_79: -7236868994872458054
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_8: 6006930858692808995
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_80: 2765161066470095683
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_81: -883494907027010615
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_82: -8583842410209058272
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_83: 2738796561769816402
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_84: -623172750635151863
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_85: 1371079653201678813
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_86: -6989376160938569888
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_87: 3320000974457378487
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_88: -1454505085098387917
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_89: 5283565441372254421
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_9: -6085268347040226788
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_90: -9170406878731759487
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_91: -6424346741939682981
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_92: -1182884687859914568
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_93: 4606437171864945202
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_94: -6742486977915221797
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_95: 4991349208950816235
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_96: 5718784107612378198
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_97: -2974556270345281398
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_98: 7733863901287164066
+      Modern_Farm_vfx_Falling_Leaves_Yellow_32x32_99: 4899910032129057063
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

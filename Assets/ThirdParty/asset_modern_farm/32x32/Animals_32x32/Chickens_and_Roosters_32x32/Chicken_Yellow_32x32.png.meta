@@ -1,0 +1,2028 @@
+fileFormatVersion: 2
+guid: a705254208c89ea4e963a40b3c432b08
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1875372360229354195
+    second: Chicken_Yellow_32x32_0
+  - first:
+      213: 1702632288099371323
+    second: Chicken_Yellow_32x32_1
+  - first:
+      213: 5294954632600107367
+    second: Chicken_Yellow_32x32_2
+  - first:
+      213: 3516317670836023572
+    second: Chicken_Yellow_32x32_3
+  - first:
+      213: -911676167895089597
+    second: Chicken_Yellow_32x32_4
+  - first:
+      213: -8387171732011454218
+    second: Chicken_Yellow_32x32_5
+  - first:
+      213: 2116047865153340207
+    second: Chicken_Yellow_32x32_6
+  - first:
+      213: 5734218926378146672
+    second: Chicken_Yellow_32x32_7
+  - first:
+      213: -3869533178469917440
+    second: Chicken_Yellow_32x32_8
+  - first:
+      213: 2987316430697497258
+    second: Chicken_Yellow_32x32_9
+  - first:
+      213: 8378129421667146626
+    second: Chicken_Yellow_32x32_10
+  - first:
+      213: 5458943612987749030
+    second: Chicken_Yellow_32x32_11
+  - first:
+      213: -783597126669068985
+    second: Chicken_Yellow_32x32_12
+  - first:
+      213: 2984541563049396342
+    second: Chicken_Yellow_32x32_13
+  - first:
+      213: 6935031169545563941
+    second: Chicken_Yellow_32x32_14
+  - first:
+      213: 7925552621612951025
+    second: Chicken_Yellow_32x32_15
+  - first:
+      213: -5286258034560827362
+    second: Chicken_Yellow_32x32_16
+  - first:
+      213: -4341196119513098260
+    second: Chicken_Yellow_32x32_17
+  - first:
+      213: 8120606552536399626
+    second: Chicken_Yellow_32x32_18
+  - first:
+      213: -2802496598342357909
+    second: Chicken_Yellow_32x32_19
+  - first:
+      213: 4301938656172695222
+    second: Chicken_Yellow_32x32_20
+  - first:
+      213: 8481915469527612400
+    second: Chicken_Yellow_32x32_21
+  - first:
+      213: -5470558234521013024
+    second: Chicken_Yellow_32x32_22
+  - first:
+      213: 4114646929567258572
+    second: Chicken_Yellow_32x32_23
+  - first:
+      213: -4622319953177577955
+    second: Chicken_Yellow_32x32_24
+  - first:
+      213: 3523533566847256144
+    second: Chicken_Yellow_32x32_25
+  - first:
+      213: -8087048829744963165
+    second: Chicken_Yellow_32x32_26
+  - first:
+      213: -6559242764110331073
+    second: Chicken_Yellow_32x32_27
+  - first:
+      213: -5209005014607625719
+    second: Chicken_Yellow_32x32_28
+  - first:
+      213: -1559596094704283767
+    second: Chicken_Yellow_32x32_29
+  - first:
+      213: -6518629370926428543
+    second: Chicken_Yellow_32x32_30
+  - first:
+      213: -1432435630854793082
+    second: Chicken_Yellow_32x32_31
+  - first:
+      213: 5418409065828756776
+    second: Chicken_Yellow_32x32_32
+  - first:
+      213: 2028767840477537940
+    second: Chicken_Yellow_32x32_33
+  - first:
+      213: 6473228418619109160
+    second: Chicken_Yellow_32x32_34
+  - first:
+      213: -6004714728521075133
+    second: Chicken_Yellow_32x32_35
+  - first:
+      213: -1790659793005821431
+    second: Chicken_Yellow_32x32_36
+  - first:
+      213: -1667299275303158020
+    second: Chicken_Yellow_32x32_37
+  - first:
+      213: -3908820375330877410
+    second: Chicken_Yellow_32x32_38
+  - first:
+      213: 7868754547651963690
+    second: Chicken_Yellow_32x32_39
+  - first:
+      213: -6399358821098860988
+    second: Chicken_Yellow_32x32_40
+  - first:
+      213: -4605152487105371921
+    second: Chicken_Yellow_32x32_41
+  - first:
+      213: -92155066602708652
+    second: Chicken_Yellow_32x32_42
+  - first:
+      213: 2696310739117517347
+    second: Chicken_Yellow_32x32_43
+  - first:
+      213: 8889582589629586765
+    second: Chicken_Yellow_32x32_44
+  - first:
+      213: 2026786934806197871
+    second: Chicken_Yellow_32x32_45
+  - first:
+      213: 4114640419400934113
+    second: Chicken_Yellow_32x32_46
+  - first:
+      213: 4962250856964029558
+    second: Chicken_Yellow_32x32_47
+  - first:
+      213: 5784123725667657543
+    second: Chicken_Yellow_32x32_48
+  - first:
+      213: 7848982214925371991
+    second: Chicken_Yellow_32x32_49
+  - first:
+      213: -3199847206381240639
+    second: Chicken_Yellow_32x32_50
+  - first:
+      213: 4828764158333841019
+    second: Chicken_Yellow_32x32_51
+  - first:
+      213: 9078792244751099008
+    second: Chicken_Yellow_32x32_52
+  - first:
+      213: 1249857964078654183
+    second: Chicken_Yellow_32x32_53
+  - first:
+      213: -708817913693729201
+    second: Chicken_Yellow_32x32_54
+  - first:
+      213: 2881213102067584915
+    second: Chicken_Yellow_32x32_55
+  - first:
+      213: -311291489273998185
+    second: Chicken_Yellow_32x32_56
+  - first:
+      213: 1311789905277442531
+    second: Chicken_Yellow_32x32_57
+  - first:
+      213: -9046056644808965393
+    second: Chicken_Yellow_32x32_58
+  - first:
+      213: -4783971622313499326
+    second: Chicken_Yellow_32x32_59
+  - first:
+      213: -3496532354750387740
+    second: Chicken_Yellow_32x32_60
+  - first:
+      213: 2966601474698716663
+    second: Chicken_Yellow_32x32_61
+  - first:
+      213: 3554036547984560338
+    second: Chicken_Yellow_32x32_62
+  - first:
+      213: -5055383934795943805
+    second: Chicken_Yellow_32x32_63
+  - first:
+      213: 231493936777726845
+    second: Chicken_Yellow_32x32_64
+  - first:
+      213: 6472744350471995295
+    second: Chicken_Yellow_32x32_65
+  - first:
+      213: -2219815375818753145
+    second: Chicken_Yellow_32x32_66
+  - first:
+      213: 4288708710899231967
+    second: Chicken_Yellow_32x32_67
+  - first:
+      213: 1851853278221369754
+    second: Chicken_Yellow_32x32_68
+  - first:
+      213: -2722850152423679474
+    second: Chicken_Yellow_32x32_69
+  - first:
+      213: 6979671649001590478
+    second: Chicken_Yellow_32x32_70
+  - first:
+      213: -4890819435435717374
+    second: Chicken_Yellow_32x32_71
+  - first:
+      213: -3067626344628798518
+    second: Chicken_Yellow_32x32_72
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 97
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2581f646c659f5e0800000000000000
+      internalID: -1875372360229354195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 97
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39064b8b07f0a710800000000000000
+      internalID: 1702632288099371323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 97
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76930f93f257b7940800000000000000
+      internalID: 5294954632600107367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 97
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4113c979a487cc030800000000000000
+      internalID: 3516317670836023572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 95
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e7c660b531953f0800000000000000
+      internalID: -911676167895089597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 95
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f072433fb7ca9b80800000000000000
+      internalID: -8387171732011454218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 95
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2340327256bd5d10800000000000000
+      internalID: 2116047865153340207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 105
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b571b7bb9049f40800000000000000
+      internalID: 5734218926378146672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 95
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d56ba6318ac4ac0800000000000000
+      internalID: -3869533178469917440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 95
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2896b5774157920800000000000000
+      internalID: 2987316430697497258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 95
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b18bcd158154470800000000000000
+      internalID: 8378129421667146626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 95
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2b5051b4012cb40800000000000000
+      internalID: 5458943612987749030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 105
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7459fd1a09a1025f0800000000000000
+      internalID: -783597126669068985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 95
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678c2f22db83b6920800000000000000
+      internalID: 2984541563049396342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 95
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f6607fa1e2e3060800000000000000
+      internalID: 6935031169545563941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 65
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5e7e33e183dfd60800000000000000
+      internalID: 7925552621612951025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 65
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1082fa435073a6b0800000000000000
+      internalID: -5286258034560827362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 95
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce71e144129f0c3c0800000000000000
+      internalID: -4341196119513098260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 65
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f34ac72a032b070800000000000000
+      internalID: 8120606552536399626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 65
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c209b21388b19d0800000000000000
+      internalID: -2802496598342357909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 65
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bed1b64a6e83bb30800000000000000
+      internalID: 4301938656172695222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 95
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb75103e21d5b570800000000000000
+      internalID: 8481915469527612400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 65
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4794c154ca414b0800000000000000
+      internalID: -5470558234521013024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 65
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7120505992a1930800000000000000
+      internalID: 4114646929567258572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 65
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1676a02e783adfb0800000000000000
+      internalID: -4622319953177577955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 65
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056881e4c1b16e030800000000000000
+      internalID: 3523533566847256144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 65
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a120d5bfe705cf80800000000000000
+      internalID: -8087048829744963165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 65
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3307a95573e8f4a0800000000000000
+      internalID: -6559242764110331073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 65
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9028517a985e5b7b0800000000000000
+      internalID: -5209005014607625719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 65
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f801e6d933b5ae0800000000000000
+      internalID: -1559596094704283767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_30
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 65
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e8083df1d2985a0800000000000000
+      internalID: -6518629370926428543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_31
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 65
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68899431267fe1ce0800000000000000
+      internalID: -1432435630854793082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_32
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 65
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82daa70665e023b40800000000000000
+      internalID: 5418409065828756776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 65
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496666f1a91a72c10800000000000000
+      internalID: 2028767840477537940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_34
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 65
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f61c933f685d950800000000000000
+      internalID: 6473228418619109160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_35
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 65
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346f1fcc4c7faaca0800000000000000
+      internalID: -6004714728521075133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_36
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 65
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9024054d76c4627e0800000000000000
+      internalID: -1790659793005821431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_37
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 31
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfef94194209cd8e0800000000000000
+      internalID: -1667299275303158020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_38
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 31
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e101895149411c9c0800000000000000
+      internalID: -3908820375330877410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_39
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 65
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2be885129e633d60800000000000000
+      internalID: 7868754547651963690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_40
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 65
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ec326be09e037a0800000000000000
+      internalID: -6399358821098860988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_41
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 65
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0e39d46363710c0800000000000000
+      internalID: -4605152487105371921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_42
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 65
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451a4e6847998bef0800000000000000
+      internalID: -92155066602708652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_43
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 33
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32aab21e4583b6520800000000000000
+      internalID: 2696310739117517347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_44
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 33
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d5e5824442e5b70800000000000000
+      internalID: 8889582589629586765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_45
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 33
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66b6849af7902c10800000000000000
+      internalID: 2026786934806197871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_46
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 33
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e26bd049a32a1930800000000000000
+      internalID: 4114640419400934113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_47
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 33
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67cf7bffcd47dd440800000000000000
+      internalID: 4962250856964029558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_48
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 33
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747645502e5554050800000000000000
+      internalID: 5784123725667657543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_49
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 33
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a4cf02dbf2dec60800000000000000
+      internalID: 7848982214925371991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_50
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cebe185bebd793d0800000000000000
+      internalID: -3199847206381240639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_51
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 31
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e60a90b67330340800000000000000
+      internalID: 4828764158333841019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_52
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 33
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084e5f1f1795efd70800000000000000
+      internalID: 9078792244751099008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_53
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 31
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2e9904233685110800000000000000
+      internalID: 1249857964078654183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_54
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 33
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e0adbecd5c926f0800000000000000
+      internalID: -708817913693729201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_55
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 33
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f80fe0d002cf720800000000000000
+      internalID: 2881213102067584915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_56
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 33
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79498303a021eabf0800000000000000
+      internalID: -311291489273998185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_57
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 33
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9510cf7f9643210800000000000000
+      internalID: 1311789905277442531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_58
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 33
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2891cd863f57280800000000000000
+      internalID: -9046056644808965393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_59
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 33
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2456474f72beb9db0800000000000000
+      internalID: -4783971622313499326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_60
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 33
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e961794952d97fc0800000000000000
+      internalID: -3496532354750387740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_61
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 33
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f52191d25c7b2920800000000000000
+      internalID: 2966601474698716663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_62
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 31
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d010690969725130800000000000000
+      internalID: 3554036547984560338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_63
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 33
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380754b881ba7d9b0800000000000000
+      internalID: -5055383934795943805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_64
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 33
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b0b4d428e663300800000000000000
+      internalID: 231493936777726845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_65
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 31
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9fbcc351bec3d950800000000000000
+      internalID: 6472744350471995295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_66
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b7f514da1a131e0800000000000000
+      internalID: -2219815375818753145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_67
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdca54a99dd848b30800000000000000
+      internalID: 4288708710899231967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_68
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a910788beba13b910800000000000000
+      internalID: 1851853278221369754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_69
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a1b20763e763ad0800000000000000
+      internalID: -2722850152423679474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_70
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ececa978266ccd060800000000000000
+      internalID: 6979671649001590478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_71
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d074ad2a1502cb0800000000000000
+      internalID: -4890819435435717374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Yellow_32x32_72
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb35c0b71a9d65d0800000000000000
+      internalID: -3067626344628798518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Chicken_Yellow_32x32_0: -1875372360229354195
+      Chicken_Yellow_32x32_1: 1702632288099371323
+      Chicken_Yellow_32x32_10: 8378129421667146626
+      Chicken_Yellow_32x32_11: 5458943612987749030
+      Chicken_Yellow_32x32_12: -783597126669068985
+      Chicken_Yellow_32x32_13: 2984541563049396342
+      Chicken_Yellow_32x32_14: 6935031169545563941
+      Chicken_Yellow_32x32_15: 7925552621612951025
+      Chicken_Yellow_32x32_16: -5286258034560827362
+      Chicken_Yellow_32x32_17: -4341196119513098260
+      Chicken_Yellow_32x32_18: 8120606552536399626
+      Chicken_Yellow_32x32_19: -2802496598342357909
+      Chicken_Yellow_32x32_2: 5294954632600107367
+      Chicken_Yellow_32x32_20: 4301938656172695222
+      Chicken_Yellow_32x32_21: 8481915469527612400
+      Chicken_Yellow_32x32_22: -5470558234521013024
+      Chicken_Yellow_32x32_23: 4114646929567258572
+      Chicken_Yellow_32x32_24: -4622319953177577955
+      Chicken_Yellow_32x32_25: 3523533566847256144
+      Chicken_Yellow_32x32_26: -8087048829744963165
+      Chicken_Yellow_32x32_27: -6559242764110331073
+      Chicken_Yellow_32x32_28: -5209005014607625719
+      Chicken_Yellow_32x32_29: -1559596094704283767
+      Chicken_Yellow_32x32_3: 3516317670836023572
+      Chicken_Yellow_32x32_30: -6518629370926428543
+      Chicken_Yellow_32x32_31: -1432435630854793082
+      Chicken_Yellow_32x32_32: 5418409065828756776
+      Chicken_Yellow_32x32_33: 2028767840477537940
+      Chicken_Yellow_32x32_34: 6473228418619109160
+      Chicken_Yellow_32x32_35: -6004714728521075133
+      Chicken_Yellow_32x32_36: -1790659793005821431
+      Chicken_Yellow_32x32_37: -1667299275303158020
+      Chicken_Yellow_32x32_38: -3908820375330877410
+      Chicken_Yellow_32x32_39: 7868754547651963690
+      Chicken_Yellow_32x32_4: -911676167895089597
+      Chicken_Yellow_32x32_40: -6399358821098860988
+      Chicken_Yellow_32x32_41: -4605152487105371921
+      Chicken_Yellow_32x32_42: -92155066602708652
+      Chicken_Yellow_32x32_43: 2696310739117517347
+      Chicken_Yellow_32x32_44: 8889582589629586765
+      Chicken_Yellow_32x32_45: 2026786934806197871
+      Chicken_Yellow_32x32_46: 4114640419400934113
+      Chicken_Yellow_32x32_47: 4962250856964029558
+      Chicken_Yellow_32x32_48: 5784123725667657543
+      Chicken_Yellow_32x32_49: 7848982214925371991
+      Chicken_Yellow_32x32_5: -8387171732011454218
+      Chicken_Yellow_32x32_50: -3199847206381240639
+      Chicken_Yellow_32x32_51: 4828764158333841019
+      Chicken_Yellow_32x32_52: 9078792244751099008
+      Chicken_Yellow_32x32_53: 1249857964078654183
+      Chicken_Yellow_32x32_54: -708817913693729201
+      Chicken_Yellow_32x32_55: 2881213102067584915
+      Chicken_Yellow_32x32_56: -311291489273998185
+      Chicken_Yellow_32x32_57: 1311789905277442531
+      Chicken_Yellow_32x32_58: -9046056644808965393
+      Chicken_Yellow_32x32_59: -4783971622313499326
+      Chicken_Yellow_32x32_6: 2116047865153340207
+      Chicken_Yellow_32x32_60: -3496532354750387740
+      Chicken_Yellow_32x32_61: 2966601474698716663
+      Chicken_Yellow_32x32_62: 3554036547984560338
+      Chicken_Yellow_32x32_63: -5055383934795943805
+      Chicken_Yellow_32x32_64: 231493936777726845
+      Chicken_Yellow_32x32_65: 6472744350471995295
+      Chicken_Yellow_32x32_66: -2219815375818753145
+      Chicken_Yellow_32x32_67: 4288708710899231967
+      Chicken_Yellow_32x32_68: 1851853278221369754
+      Chicken_Yellow_32x32_69: -2722850152423679474
+      Chicken_Yellow_32x32_7: 5734218926378146672
+      Chicken_Yellow_32x32_70: 6979671649001590478
+      Chicken_Yellow_32x32_71: -4890819435435717374
+      Chicken_Yellow_32x32_72: -3067626344628798518
+      Chicken_Yellow_32x32_8: -3869533178469917440
+      Chicken_Yellow_32x32_9: 2987316430697497258
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

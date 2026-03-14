@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 7475243ee85c16b43aef26b54468f70c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7598851446813792099
+    second: '!$MV_Farmer_1_Harvest_0'
+  - first:
+      213: -769907299991517128
+    second: '!$MV_Farmer_1_Harvest_1'
+  - first:
+      213: -4536467226441272801
+    second: '!$MV_Farmer_1_Harvest_2'
+  - first:
+      213: 5866877620154526676
+    second: '!$MV_Farmer_1_Harvest_3'
+  - first:
+      213: 2209723192308317220
+    second: '!$MV_Farmer_1_Harvest_4'
+  - first:
+      213: 5201928357936779241
+    second: '!$MV_Farmer_1_Harvest_5'
+  - first:
+      213: -7450568355734069616
+    second: '!$MV_Farmer_1_Harvest_6'
+  - first:
+      213: -8931345811671352240
+    second: '!$MV_Farmer_1_Harvest_7'
+  - first:
+      213: -6143607201145516802
+    second: '!$MV_Farmer_1_Harvest_8'
+  - first:
+      213: 1914630951695017979
+    second: '!$MV_Farmer_1_Harvest_9'
+  - first:
+      213: -6059194494479351236
+    second: '!$MV_Farmer_1_Harvest_10'
+  - first:
+      213: -3436137721279680939
+    second: '!$MV_Farmer_1_Harvest_11'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!$MV_Farmer_1_Harvest_0'
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 287
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3679c44612b847960800000000000000
+      internalID: 7598851446813792099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Farmer_1_Harvest_1'
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 290
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838860ac36db055f0800000000000000
+      internalID: -769907299991517128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Farmer_1_Harvest_2'
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 290
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1234c0c71b3b01c0800000000000000
+      internalID: -4536467226441272801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Farmer_1_Harvest_3'
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 191
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbeff98c165b6150800000000000000
+      internalID: 5866877620154526676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Farmer_1_Harvest_4'
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 191
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42cba7929838aae10800000000000000
+      internalID: 2209723192308317220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Farmer_1_Harvest_5'
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 191
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef4ad1d746f03840800000000000000
+      internalID: 5201928357936779241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Farmer_1_Harvest_6'
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 95
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e54b52e834a9890800000000000000
+      internalID: -7450568355734069616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Farmer_1_Harvest_7'
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 95
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05cf729fd4c7d0480800000000000000
+      internalID: -8931345811671352240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Farmer_1_Harvest_8'
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 95
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc80300dc58dbaa0800000000000000
+      internalID: -6143607201145516802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Farmer_1_Harvest_9'
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7efb7d4b2229a10800000000000000
+      internalID: 1914630951695017979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Farmer_1_Harvest_10'
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c324e83d5ba69eba0800000000000000
+      internalID: -6059194494479351236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Farmer_1_Harvest_11'
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55eedcba2f26050d0800000000000000
+      internalID: -3436137721279680939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '!$MV_Farmer_1_Harvest_0': 7598851446813792099
+      '!$MV_Farmer_1_Harvest_1': -769907299991517128
+      '!$MV_Farmer_1_Harvest_10': -6059194494479351236
+      '!$MV_Farmer_1_Harvest_11': -3436137721279680939
+      '!$MV_Farmer_1_Harvest_2': -4536467226441272801
+      '!$MV_Farmer_1_Harvest_3': 5866877620154526676
+      '!$MV_Farmer_1_Harvest_4': 2209723192308317220
+      '!$MV_Farmer_1_Harvest_5': 5201928357936779241
+      '!$MV_Farmer_1_Harvest_6': -7450568355734069616
+      '!$MV_Farmer_1_Harvest_7': -8931345811671352240
+      '!$MV_Farmer_1_Harvest_8': -6143607201145516802
+      '!$MV_Farmer_1_Harvest_9': 1914630951695017979
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

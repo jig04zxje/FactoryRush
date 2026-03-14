@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: f0ef61ac893d796438ccd77fa9c6d9a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5188118177034597429
+    second: '!$MV_Rabbit_Baby_3_0'
+  - first:
+      213: 3436454021189680286
+    second: '!$MV_Rabbit_Baby_3_1'
+  - first:
+      213: -8463841762025859106
+    second: '!$MV_Rabbit_Baby_3_2'
+  - first:
+      213: -8494730427770482693
+    second: '!$MV_Rabbit_Baby_3_3'
+  - first:
+      213: -4226447912805340771
+    second: '!$MV_Rabbit_Baby_3_4'
+  - first:
+      213: -1365444406860440396
+    second: '!$MV_Rabbit_Baby_3_5'
+  - first:
+      213: -152928906030273879
+    second: '!$MV_Rabbit_Baby_3_6'
+  - first:
+      213: 4821816342823070220
+    second: '!$MV_Rabbit_Baby_3_7'
+  - first:
+      213: -6424533282129265037
+    second: '!$MV_Rabbit_Baby_3_8'
+  - first:
+      213: 7616911446095639778
+    second: '!$MV_Rabbit_Baby_3_9'
+  - first:
+      213: 7724573266216477947
+    second: '!$MV_Rabbit_Baby_3_10'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!$MV_Rabbit_Baby_3_0'
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 146
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb0b1d710a1008b0800000000000000
+      internalID: -5188118177034597429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Rabbit_Baby_3_1'
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 149
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c39f3a9bcb0bf20800000000000000
+      internalID: 3436454021189680286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Rabbit_Baby_3_2'
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 152
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed71553c2c46a8a80800000000000000
+      internalID: -8463841762025859106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Rabbit_Baby_3_3'
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 95
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffc906dea7ac1a80800000000000000
+      internalID: -8494730427770482693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Rabbit_Baby_3_4'
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 95
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99eb871404a855c0800000000000000
+      internalID: -4226447912805340771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Rabbit_Baby_3_5'
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 95
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc1a80eb87fc0de0800000000000000
+      internalID: -1365444406860440396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Rabbit_Baby_3_6'
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 44
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa2d2068ffa0edf0800000000000000
+      internalID: -152928906030273879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Rabbit_Baby_3_7'
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 47
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a642eaa688ae240800000000000000
+      internalID: 4821816342823070220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Rabbit_Baby_3_8'
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 47
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37eb20fb40977d6a0800000000000000
+      internalID: -6424533282129265037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Rabbit_Baby_3_9'
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e43326aa94b4b960800000000000000
+      internalID: 7616911446095639778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Rabbit_Baby_3_10'
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 8
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4ef468572333b60800000000000000
+      internalID: 7724573266216477947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '!$MV_Rabbit_Baby_3_0': -5188118177034597429
+      '!$MV_Rabbit_Baby_3_1': 3436454021189680286
+      '!$MV_Rabbit_Baby_3_10': 7724573266216477947
+      '!$MV_Rabbit_Baby_3_2': -8463841762025859106
+      '!$MV_Rabbit_Baby_3_3': -8494730427770482693
+      '!$MV_Rabbit_Baby_3_4': -4226447912805340771
+      '!$MV_Rabbit_Baby_3_5': -1365444406860440396
+      '!$MV_Rabbit_Baby_3_6': -152928906030273879
+      '!$MV_Rabbit_Baby_3_7': 4821816342823070220
+      '!$MV_Rabbit_Baby_3_8': -6424533282129265037
+      '!$MV_Rabbit_Baby_3_9': 7616911446095639778
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

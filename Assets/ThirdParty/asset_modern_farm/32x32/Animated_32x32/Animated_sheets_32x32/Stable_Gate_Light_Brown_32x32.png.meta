@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 32e502367b769c34392c2cd95f58dbb7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1380769506815136332
+    second: Stable_Gate_Light_Brown_32x32_0
+  - first:
+      213: 2161781896731143329
+    second: Stable_Gate_Light_Brown_32x32_1
+  - first:
+      213: -3746490733227075505
+    second: Stable_Gate_Light_Brown_32x32_2
+  - first:
+      213: 9208946558554992636
+    second: Stable_Gate_Light_Brown_32x32_3
+  - first:
+      213: -692870258213289823
+    second: Stable_Gate_Light_Brown_32x32_4
+  - first:
+      213: -4407156777930043158
+    second: Stable_Gate_Light_Brown_32x32_5
+  - first:
+      213: -2065465994575710826
+    second: Stable_Gate_Light_Brown_32x32_6
+  - first:
+      213: 667193807343521413
+    second: Stable_Gate_Light_Brown_32x32_7
+  - first:
+      213: -7670627968883563127
+    second: Stable_Gate_Light_Brown_32x32_8
+  - first:
+      213: -3338554218580127918
+    second: Stable_Gate_Light_Brown_32x32_9
+  - first:
+      213: -7835324220371969065
+    second: Stable_Gate_Light_Brown_32x32_10
+  - first:
+      213: 5279639319207237800
+    second: Stable_Gate_Light_Brown_32x32_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stable_Gate_Light_Brown_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 95
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4258620d8a792310800000000000000
+      internalID: 1380769506815136332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stable_Gate_Light_Brown_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 60
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aca7847e21300e10800000000000000
+      internalID: 2161781896731143329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stable_Gate_Light_Brown_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4815b3278ac10cc0800000000000000
+      internalID: -3746490733227075505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stable_Gate_Light_Brown_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 0
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffe93a9a10cccf70800000000000000
+      internalID: 9208946558554992636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stable_Gate_Light_Brown_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 0
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a083cfcb2e6266f0800000000000000
+      internalID: -692870258213289823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stable_Gate_Light_Brown_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 0
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae05606b242a6d2c0800000000000000
+      internalID: -4407156777930043158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stable_Gate_Light_Brown_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 0
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6957aa90f9df553e0800000000000000
+      internalID: -2065465994575710826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stable_Gate_Light_Brown_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 0
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e0d0b9b39524900800000000000000
+      internalID: 667193807343521413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stable_Gate_Light_Brown_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 0
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985e486c0847c8590800000000000000
+      internalID: -7670627968883563127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stable_Gate_Light_Brown_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 0
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f462a60a21ba1d0800000000000000
+      internalID: -3338554218580127918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stable_Gate_Light_Brown_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 0
+        width: 60
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dbd6b88226534390800000000000000
+      internalID: -7835324220371969065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stable_Gate_Light_Brown_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 0
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a85883fcfb054940800000000000000
+      internalID: 5279639319207237800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Stable_Gate_Light_Brown_32x32_0: 1380769506815136332
+      Stable_Gate_Light_Brown_32x32_1: 2161781896731143329
+      Stable_Gate_Light_Brown_32x32_10: -7835324220371969065
+      Stable_Gate_Light_Brown_32x32_11: 5279639319207237800
+      Stable_Gate_Light_Brown_32x32_2: -3746490733227075505
+      Stable_Gate_Light_Brown_32x32_3: 9208946558554992636
+      Stable_Gate_Light_Brown_32x32_4: -692870258213289823
+      Stable_Gate_Light_Brown_32x32_5: -4407156777930043158
+      Stable_Gate_Light_Brown_32x32_6: -2065465994575710826
+      Stable_Gate_Light_Brown_32x32_7: 667193807343521413
+      Stable_Gate_Light_Brown_32x32_8: -7670627968883563127
+      Stable_Gate_Light_Brown_32x32_9: -3338554218580127918
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

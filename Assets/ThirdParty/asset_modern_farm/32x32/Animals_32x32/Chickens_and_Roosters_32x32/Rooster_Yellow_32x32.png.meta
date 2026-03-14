@@ -1,0 +1,2028 @@
+fileFormatVersion: 2
+guid: b7022d6a642edbb479297823f3dbb3a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1861828162377704164
+    second: Rooster_Yellow_32x32_0
+  - first:
+      213: -5423337721196867533
+    second: Rooster_Yellow_32x32_1
+  - first:
+      213: 220522518215994493
+    second: Rooster_Yellow_32x32_2
+  - first:
+      213: -6530551443983549135
+    second: Rooster_Yellow_32x32_3
+  - first:
+      213: -3728981042348434358
+    second: Rooster_Yellow_32x32_4
+  - first:
+      213: 7873293191488911942
+    second: Rooster_Yellow_32x32_5
+  - first:
+      213: 875282890784204440
+    second: Rooster_Yellow_32x32_6
+  - first:
+      213: 1669268641672916482
+    second: Rooster_Yellow_32x32_7
+  - first:
+      213: 3199471683469944500
+    second: Rooster_Yellow_32x32_8
+  - first:
+      213: 9069774751942664950
+    second: Rooster_Yellow_32x32_9
+  - first:
+      213: 4351133467080263068
+    second: Rooster_Yellow_32x32_10
+  - first:
+      213: 9060332928360773585
+    second: Rooster_Yellow_32x32_11
+  - first:
+      213: -524554665676441172
+    second: Rooster_Yellow_32x32_12
+  - first:
+      213: 9188515149031408675
+    second: Rooster_Yellow_32x32_13
+  - first:
+      213: -8424326495056984745
+    second: Rooster_Yellow_32x32_14
+  - first:
+      213: -7748091976929750456
+    second: Rooster_Yellow_32x32_15
+  - first:
+      213: 2139620743693018957
+    second: Rooster_Yellow_32x32_16
+  - first:
+      213: 7350406967732781087
+    second: Rooster_Yellow_32x32_17
+  - first:
+      213: 7551989512158343162
+    second: Rooster_Yellow_32x32_18
+  - first:
+      213: 664364046764724831
+    second: Rooster_Yellow_32x32_19
+  - first:
+      213: 9090805788382149719
+    second: Rooster_Yellow_32x32_20
+  - first:
+      213: 4133264790887400321
+    second: Rooster_Yellow_32x32_21
+  - first:
+      213: 8662309816018893346
+    second: Rooster_Yellow_32x32_22
+  - first:
+      213: -2795625919059679435
+    second: Rooster_Yellow_32x32_23
+  - first:
+      213: 5397475845549365378
+    second: Rooster_Yellow_32x32_24
+  - first:
+      213: 2600954486467543137
+    second: Rooster_Yellow_32x32_25
+  - first:
+      213: 2694757158785224906
+    second: Rooster_Yellow_32x32_26
+  - first:
+      213: 8550549509892211059
+    second: Rooster_Yellow_32x32_27
+  - first:
+      213: -4264361530582121112
+    second: Rooster_Yellow_32x32_28
+  - first:
+      213: -2673347024271576890
+    second: Rooster_Yellow_32x32_29
+  - first:
+      213: 6125274314401625030
+    second: Rooster_Yellow_32x32_30
+  - first:
+      213: 2921556326782915820
+    second: Rooster_Yellow_32x32_31
+  - first:
+      213: -7312796503951947448
+    second: Rooster_Yellow_32x32_32
+  - first:
+      213: -8425268158333208600
+    second: Rooster_Yellow_32x32_33
+  - first:
+      213: 982394518206553524
+    second: Rooster_Yellow_32x32_34
+  - first:
+      213: 2706117831855442320
+    second: Rooster_Yellow_32x32_35
+  - first:
+      213: -7726162942971538138
+    second: Rooster_Yellow_32x32_36
+  - first:
+      213: -469751824448241507
+    second: Rooster_Yellow_32x32_37
+  - first:
+      213: -8127517559463989075
+    second: Rooster_Yellow_32x32_38
+  - first:
+      213: 6603423328654184029
+    second: Rooster_Yellow_32x32_39
+  - first:
+      213: 970874060599813067
+    second: Rooster_Yellow_32x32_40
+  - first:
+      213: -6402575869312708025
+    second: Rooster_Yellow_32x32_41
+  - first:
+      213: -5248683340031473224
+    second: Rooster_Yellow_32x32_42
+  - first:
+      213: -3341730277365656384
+    second: Rooster_Yellow_32x32_43
+  - first:
+      213: -2699453421286816564
+    second: Rooster_Yellow_32x32_44
+  - first:
+      213: 7913523348350865632
+    second: Rooster_Yellow_32x32_45
+  - first:
+      213: 6401082755828486939
+    second: Rooster_Yellow_32x32_46
+  - first:
+      213: 4797238568802533944
+    second: Rooster_Yellow_32x32_47
+  - first:
+      213: -8961971331089031430
+    second: Rooster_Yellow_32x32_48
+  - first:
+      213: -4707863631284866167
+    second: Rooster_Yellow_32x32_49
+  - first:
+      213: -5416848126754711862
+    second: Rooster_Yellow_32x32_50
+  - first:
+      213: -6741826856584167929
+    second: Rooster_Yellow_32x32_51
+  - first:
+      213: 2291729705763611575
+    second: Rooster_Yellow_32x32_52
+  - first:
+      213: 7786514389250775431
+    second: Rooster_Yellow_32x32_53
+  - first:
+      213: -2326200503238194165
+    second: Rooster_Yellow_32x32_54
+  - first:
+      213: 8276379189475395930
+    second: Rooster_Yellow_32x32_55
+  - first:
+      213: -5002548449317445476
+    second: Rooster_Yellow_32x32_56
+  - first:
+      213: 7237531781639675075
+    second: Rooster_Yellow_32x32_57
+  - first:
+      213: 518439910063109507
+    second: Rooster_Yellow_32x32_58
+  - first:
+      213: -7485719672225476145
+    second: Rooster_Yellow_32x32_59
+  - first:
+      213: -2410758644922751131
+    second: Rooster_Yellow_32x32_60
+  - first:
+      213: -5333395955745920592
+    second: Rooster_Yellow_32x32_61
+  - first:
+      213: -5504442077436242785
+    second: Rooster_Yellow_32x32_62
+  - first:
+      213: 3776756254831261391
+    second: Rooster_Yellow_32x32_63
+  - first:
+      213: 1498035797784906728
+    second: Rooster_Yellow_32x32_64
+  - first:
+      213: -5560666709877485035
+    second: Rooster_Yellow_32x32_65
+  - first:
+      213: -7975419592724284
+    second: Rooster_Yellow_32x32_66
+  - first:
+      213: -8773493187289323089
+    second: Rooster_Yellow_32x32_67
+  - first:
+      213: 3493668901998289314
+    second: Rooster_Yellow_32x32_68
+  - first:
+      213: 5703626185771511441
+    second: Rooster_Yellow_32x32_69
+  - first:
+      213: 4619001716257302146
+    second: Rooster_Yellow_32x32_70
+  - first:
+      213: -1889955320364825505
+    second: Rooster_Yellow_32x32_71
+  - first:
+      213: 8610947241851648120
+    second: Rooster_Yellow_32x32_72
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 191
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d98a496257926e0800000000000000
+      internalID: -1861828162377704164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 191
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330951f931f6cb4b0800000000000000
+      internalID: -5423337721196867533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 191
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c2d3bdf047f0300800000000000000
+      internalID: 220522518215994493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 191
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d32f1ef02de55a0800000000000000
+      internalID: -6530551443983549135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 193
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4cd7acbf7fff3cc0800000000000000
+      internalID: -3728981042348434358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 193
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ab233717e834d60800000000000000
+      internalID: 7873293191488911942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 193
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8966b27d621a52c00800000000000000
+      internalID: 875282890784204440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 203
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20eec954cfe6a2710800000000000000
+      internalID: 1669268641672916482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 193
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6a52a6b8ec66c20800000000000000
+      internalID: 3199471683469944500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 193
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2695a45105edd70800000000000000
+      internalID: 9069774751942664950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 193
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9502a3c5d4526c30800000000000000
+      internalID: 4351133467080263068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 193
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7f7bd6bc4ccbd70800000000000000
+      internalID: 9060332928360773585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 203
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9f41f8f4868b8f0800000000000000
+      internalID: -524554665676441172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 193
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324005f58d9248f70800000000000000
+      internalID: 9188515149031408675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 193
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755873ecfa7c61b80800000000000000
+      internalID: -8424326495056984745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 193
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8425c0ce56f397490800000000000000
+      internalID: -7748091976929750456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 193
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4721edeab571bd10800000000000000
+      internalID: 2139620743693018957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 127
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10c44a6134e10660800000000000000
+      internalID: 7350406967732781087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 127
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff6cabf27e0ec860800000000000000
+      internalID: 7551989512158343162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 127
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52d3f0a49b483900800000000000000
+      internalID: 664364046764724831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 127
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c359a03b7092e70800000000000000
+      internalID: 9090805788382149719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 127
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1830977ad6e4c5930800000000000000
+      internalID: 4133264790887400321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 127
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a7f2ef1e4b63870800000000000000
+      internalID: 8662309816018893346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 127
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537a299d901f339d0800000000000000
+      internalID: -2795625919059679435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 127
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28898b93fafa7ea40800000000000000
+      internalID: 5397475845549365378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 127
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1604bd23352781420800000000000000
+      internalID: 2600954486467543137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 127
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac09555cb53b56520800000000000000
+      internalID: 2694757158785224906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 127
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371048bf977a9a670800000000000000
+      internalID: 8550549509892211059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 127
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865cfcf08c1f1d4c0800000000000000
+      internalID: -4264361530582121112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 127
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0f1f0ab0d56ead0800000000000000
+      internalID: -2673347024271576890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_30
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 127
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3bbbd2988510550800000000000000
+      internalID: 6125274314401625030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_31
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 127
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4d03900047b8820800000000000000
+      internalID: 2921556326782915820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_32
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 127
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849c933135ab38a90800000000000000
+      internalID: -7312796503951947448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_33
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 127
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7b32dbf3f631b80800000000000000
+      internalID: -8425268158333208600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_34
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 127
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd1efefb9a22ad00800000000000000
+      internalID: 982394518206553524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_35
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 127
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099081894df0e8520800000000000000
+      internalID: 2706117831855442320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_36
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 127
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62515630db727c490800000000000000
+      internalID: -7726162942971538138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_37
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 127
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90cb2b543b1b79f0800000000000000
+      internalID: -469751824448241507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_38
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 127
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0366257d1453f80800000000000000
+      internalID: -8127517559463989075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_39
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 127
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ec5fde78214ab50800000000000000
+      internalID: 6603423328654184029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_40
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 127
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc361bf60dc397d00800000000000000
+      internalID: 970874060599813067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_41
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 63
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742d02e4b2b7527a0800000000000000
+      internalID: -6402575869312708025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_42
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 63
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9c9ea9f4ee827b0800000000000000
+      internalID: -5248683340031473224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_43
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 63
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4d37a940acf91d0800000000000000
+      internalID: -3341730277365656384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_44
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 63
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc48c786a6d998ad0800000000000000
+      internalID: -2699453421286816564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_45
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 63
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e09634ce8b72dd60800000000000000
+      internalID: 7913523348350865632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_46
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 63
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13190f1ad635d850800000000000000
+      internalID: 6401082755828486939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_47
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 65
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832474cbf07339240800000000000000
+      internalID: 4797238568802533944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_48
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 63
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe14339e8ea0a380800000000000000
+      internalID: -8961971331089031430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_49
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 63
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983f84e78fe4aaeb0800000000000000
+      internalID: -4707863631284866167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_50
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 65
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac69b82145d73d4b0800000000000000
+      internalID: -5416848126754711862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_51
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 63
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ebc1491383072a0800000000000000
+      internalID: -6741826856584167929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_52
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 63
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b32049760cddcf10800000000000000
+      internalID: 2291729705763611575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_53
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 63
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78992c115914f0c60800000000000000
+      internalID: 7786514389250775431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_54
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 63
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c072097fca7bfd0800000000000000
+      internalID: -2326200503238194165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_55
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 63
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59cd1fc50b9bd270800000000000000
+      internalID: 8276379189475395930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_56
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 63
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90a0c2a0b0639ab0800000000000000
+      internalID: -5002548449317445476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_57
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 63
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc9b3f2fc0e07460800000000000000
+      internalID: 7237531781639675075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_58
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 63
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38572b4f95ed13700800000000000000
+      internalID: 518439910063109507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_59
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 65
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1d8d08e916d1890800000000000000
+      internalID: -7485719672225476145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_60
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 65
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5676d2209c34b8ed0800000000000000
+      internalID: -2410758644922751131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_61
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 63
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b96243c2a8fbf5b0800000000000000
+      internalID: -5333395955745920592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_62
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 65
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9413b7281b4c93b0800000000000000
+      internalID: -5504442077436242785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_63
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 65
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6b37cbdcbb96430800000000000000
+      internalID: 3776756254831261391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_64
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 63
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebc9c30f971ac410800000000000000
+      internalID: 1498035797784906728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_65
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512996bc61b84d2b0800000000000000
+      internalID: -5560666709877485035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_66
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0bd3ce56aa3eff0800000000000000
+      internalID: -7975419592724284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_67
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa96f4c1e6a4e3680800000000000000
+      internalID: -8773493187289323089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_68
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1ef6a2b510c7030800000000000000
+      internalID: 3493668901998289314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_69
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ee68efbc9572f40800000000000000
+      internalID: 5703626185771511441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_70
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286af62a69df91040800000000000000
+      internalID: 4619001716257302146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_71
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f548b4846a785c5e0800000000000000
+      internalID: -1889955320364825505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Yellow_32x32_72
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878723ac4ea308770800000000000000
+      internalID: 8610947241851648120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rooster_Yellow_32x32_0: -1861828162377704164
+      Rooster_Yellow_32x32_1: -5423337721196867533
+      Rooster_Yellow_32x32_10: 4351133467080263068
+      Rooster_Yellow_32x32_11: 9060332928360773585
+      Rooster_Yellow_32x32_12: -524554665676441172
+      Rooster_Yellow_32x32_13: 9188515149031408675
+      Rooster_Yellow_32x32_14: -8424326495056984745
+      Rooster_Yellow_32x32_15: -7748091976929750456
+      Rooster_Yellow_32x32_16: 2139620743693018957
+      Rooster_Yellow_32x32_17: 7350406967732781087
+      Rooster_Yellow_32x32_18: 7551989512158343162
+      Rooster_Yellow_32x32_19: 664364046764724831
+      Rooster_Yellow_32x32_2: 220522518215994493
+      Rooster_Yellow_32x32_20: 9090805788382149719
+      Rooster_Yellow_32x32_21: 4133264790887400321
+      Rooster_Yellow_32x32_22: 8662309816018893346
+      Rooster_Yellow_32x32_23: -2795625919059679435
+      Rooster_Yellow_32x32_24: 5397475845549365378
+      Rooster_Yellow_32x32_25: 2600954486467543137
+      Rooster_Yellow_32x32_26: 2694757158785224906
+      Rooster_Yellow_32x32_27: 8550549509892211059
+      Rooster_Yellow_32x32_28: -4264361530582121112
+      Rooster_Yellow_32x32_29: -2673347024271576890
+      Rooster_Yellow_32x32_3: -6530551443983549135
+      Rooster_Yellow_32x32_30: 6125274314401625030
+      Rooster_Yellow_32x32_31: 2921556326782915820
+      Rooster_Yellow_32x32_32: -7312796503951947448
+      Rooster_Yellow_32x32_33: -8425268158333208600
+      Rooster_Yellow_32x32_34: 982394518206553524
+      Rooster_Yellow_32x32_35: 2706117831855442320
+      Rooster_Yellow_32x32_36: -7726162942971538138
+      Rooster_Yellow_32x32_37: -469751824448241507
+      Rooster_Yellow_32x32_38: -8127517559463989075
+      Rooster_Yellow_32x32_39: 6603423328654184029
+      Rooster_Yellow_32x32_4: -3728981042348434358
+      Rooster_Yellow_32x32_40: 970874060599813067
+      Rooster_Yellow_32x32_41: -6402575869312708025
+      Rooster_Yellow_32x32_42: -5248683340031473224
+      Rooster_Yellow_32x32_43: -3341730277365656384
+      Rooster_Yellow_32x32_44: -2699453421286816564
+      Rooster_Yellow_32x32_45: 7913523348350865632
+      Rooster_Yellow_32x32_46: 6401082755828486939
+      Rooster_Yellow_32x32_47: 4797238568802533944
+      Rooster_Yellow_32x32_48: -8961971331089031430
+      Rooster_Yellow_32x32_49: -4707863631284866167
+      Rooster_Yellow_32x32_5: 7873293191488911942
+      Rooster_Yellow_32x32_50: -5416848126754711862
+      Rooster_Yellow_32x32_51: -6741826856584167929
+      Rooster_Yellow_32x32_52: 2291729705763611575
+      Rooster_Yellow_32x32_53: 7786514389250775431
+      Rooster_Yellow_32x32_54: -2326200503238194165
+      Rooster_Yellow_32x32_55: 8276379189475395930
+      Rooster_Yellow_32x32_56: -5002548449317445476
+      Rooster_Yellow_32x32_57: 7237531781639675075
+      Rooster_Yellow_32x32_58: 518439910063109507
+      Rooster_Yellow_32x32_59: -7485719672225476145
+      Rooster_Yellow_32x32_6: 875282890784204440
+      Rooster_Yellow_32x32_60: -2410758644922751131
+      Rooster_Yellow_32x32_61: -5333395955745920592
+      Rooster_Yellow_32x32_62: -5504442077436242785
+      Rooster_Yellow_32x32_63: 3776756254831261391
+      Rooster_Yellow_32x32_64: 1498035797784906728
+      Rooster_Yellow_32x32_65: -5560666709877485035
+      Rooster_Yellow_32x32_66: -7975419592724284
+      Rooster_Yellow_32x32_67: -8773493187289323089
+      Rooster_Yellow_32x32_68: 3493668901998289314
+      Rooster_Yellow_32x32_69: 5703626185771511441
+      Rooster_Yellow_32x32_7: 1669268641672916482
+      Rooster_Yellow_32x32_70: 4619001716257302146
+      Rooster_Yellow_32x32_71: -1889955320364825505
+      Rooster_Yellow_32x32_72: 8610947241851648120
+      Rooster_Yellow_32x32_8: 3199471683469944500
+      Rooster_Yellow_32x32_9: 9069774751942664950
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

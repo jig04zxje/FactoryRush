@@ -129,7 +129,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 108727776055254121, guid: b4be082022d452b4da951763b5dae27c, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 10.76
+      value: 10.69
       objectReference: {fileID: 0}
     - target: {fileID: 108727776055254121, guid: b4be082022d452b4da951763b5dae27c, type: 3}
       propertyPath: m_LocalPosition.y
@@ -170,6 +170,10 @@ PrefabInstance:
     - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
       propertyPath: m_Name
       value: RiceFieldSlot (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -277,6 +281,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: RiceFieldSlot (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -338,6 +346,10 @@ PrefabInstance:
     - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
       propertyPath: m_Name
       value: RiceFieldSlot (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -483,7 +495,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8861755322677292797, guid: 57368a2e601627f40a09b7bea0d01426, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -18.273865
+      value: -18.273926
       objectReference: {fileID: 0}
     - target: {fileID: 8861755322677292797, guid: 57368a2e601627f40a09b7bea0d01426, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -558,6 +570,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: RiceFieldSlot (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -620,6 +636,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: RiceFieldSlot (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -681,6 +701,10 @@ PrefabInstance:
     - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
       propertyPath: m_Name
       value: RiceFieldSlot (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -753,6 +777,10 @@ PrefabInstance:
     - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
       propertyPath: m_Name
       value: RiceFieldSlot (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -862,6 +890,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MachineSlot (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -956,6 +988,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: RiceFieldSlot (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1017,6 +1053,10 @@ PrefabInstance:
     - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
       propertyPath: m_Name
       value: MachineSlot (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1198,6 +1238,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: RiceFieldSlot (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1254,6 +1298,10 @@ PrefabInstance:
     - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
       propertyPath: m_Name
       value: RiceFieldSlot (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1348,7 +1396,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::FactoryRush.Scripts.Core.PlayerInputController
   machineLayer:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 8
 --- !u!4 &741372127
 Transform:
   m_ObjectHideFlags: 0
@@ -1375,7 +1423,7 @@ GameObject:
   - component: {fileID: 741779114}
   - component: {fileID: 741779115}
   - component: {fileID: 741779116}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: _BuildingPlacer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1476,6 +1524,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: RiceFieldSlot (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1532,6 +1584,10 @@ PrefabInstance:
     - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
       propertyPath: m_Name
       value: RiceFieldSlot (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1595,6 +1651,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: RiceFieldSlot (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1656,6 +1716,10 @@ PrefabInstance:
     - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
       propertyPath: m_Name
       value: RiceFieldSlot (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1740,6 +1804,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: RiceFieldSlot (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1806,6 +1874,10 @@ PrefabInstance:
     - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
       propertyPath: m_Name
       value: MachineSlot (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2037,6 +2109,10 @@ PrefabInstance:
     - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
       propertyPath: m_Name
       value: MachineSlot (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -119725,6 +119801,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: RiceFieldSlot (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -119791,6 +119871,10 @@ PrefabInstance:
     - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
       propertyPath: m_Name
       value: RiceFieldSlot(2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -119883,7 +119967,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 108727776055254121, guid: b4be082022d452b4da951763b5dae27c, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 4.97
+      value: 5.09
       objectReference: {fileID: 0}
     - target: {fileID: 108727776055254121, guid: b4be082022d452b4da951763b5dae27c, type: 3}
       propertyPath: m_LocalPosition.y
@@ -119924,6 +120008,10 @@ PrefabInstance:
     - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
       propertyPath: m_Name
       value: RiceFieldSlot(5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -119981,6 +120069,10 @@ PrefabInstance:
     - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
       propertyPath: m_Name
       value: MachineSlot (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -120044,6 +120136,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MachineSlot (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -120106,6 +120202,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: RiceFieldSlot (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -120167,6 +120267,10 @@ PrefabInstance:
     - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
       propertyPath: m_Name
       value: RiceFieldSlot(1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -120338,6 +120442,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MachineSlot (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -120395,6 +120503,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MachineSlot (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -120451,6 +120563,10 @@ PrefabInstance:
     - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
       propertyPath: m_Name
       value: MachineSlot (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -122836,7 +122952,7 @@ GameObject:
   - component: {fileID: 1732388280}
   - component: {fileID: 1732388279}
   - component: {fileID: 1732388278}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: _GameManagers
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -122852,7 +122968,7 @@ Transform:
   m_GameObject: {fileID: 1732388276}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -331.2999, y: -203.8094, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -123011,6 +123127,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: RiceFieldSlot (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -123163,11 +123283,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 108727776055254121, guid: b4be082022d452b4da951763b5dae27c, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 4.9
+      value: 5.18
       objectReference: {fileID: 0}
     - target: {fileID: 108727776055254121, guid: b4be082022d452b4da951763b5dae27c, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.45
+      value: 0.25
       objectReference: {fileID: 0}
     - target: {fileID: 108727776055254121, guid: b4be082022d452b4da951763b5dae27c, type: 3}
       propertyPath: m_LocalPosition.z
@@ -123204,6 +123324,10 @@ PrefabInstance:
     - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
       propertyPath: m_Name
       value: RiceFieldSlot (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -123261,6 +123385,10 @@ PrefabInstance:
     - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
       propertyPath: m_Name
       value: RiceFieldSlot (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -123329,6 +123457,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MachineSlot (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -123395,6 +123527,10 @@ PrefabInstance:
     - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
       propertyPath: m_Name
       value: MachineSlot (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -123474,6 +123610,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MachineSlot (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -123530,6 +123670,10 @@ PrefabInstance:
     - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
       propertyPath: m_Name
       value: RiceFieldSlot (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -123812,6 +123956,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MachineSlot (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 2896017290329524161, guid: b4be082022d452b4da951763b5dae27c, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -124049,7 +124197,7 @@ PrefabInstance:
       objectReference: {fileID: 11400000, guid: 454b837376fe0284d9c925bed146bf22, type: 2}
     - target: {fileID: 4856219534771399875, guid: 4a84ec2bd73694545aa28bc328afc312, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0.00019700016
+      value: 0.00014468693
       objectReference: {fileID: 0}
     - target: {fileID: 5287330245049995017, guid: 4a84ec2bd73694545aa28bc328afc312, type: 3}
       propertyPath: m_AnchorMax.x

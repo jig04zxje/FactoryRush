@@ -85,7 +85,7 @@ namespace FactoryRush.Scripts.Timer
         /// Lắng nghe event khi game bắt đầu để tự động start timer.
         /// Đồng thời đăng ký EndGame khi timer kết thúc.
         /// </summary>
-        private void Start()
+        public  void Start()
         {
             if (GameStateManager.Instance != null)
             {

@@ -20,7 +20,7 @@ namespace FactoryRush.Scripts.Core
 
             // 2. Initialize dependent/reactive systems
             if (ProductionManager.Instance != null) ProductionManager.Instance.Init();
-            if (TimerManager.Instance != null) TimerManager.Instance.Init();
+            if (TimerManager.Instance != null) TimerManager.Instance.Start();
 
             // 3. All logic systems ready. Trigger the game start sequence.
             if (GameStateManager.Instance != null)

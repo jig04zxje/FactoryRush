@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using FactoryRush.Scripts.Core;
+using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.SceneManagement;
 
@@ -67,6 +68,12 @@ public class GameStateManager : MonoBehaviour
     {
         if (state != GameState.Playing) return;
         state = GameState.GameOver;
+
+        if (ScoreManager.Instance != null)
+        {
+            SaveSystem.SubmitScore(ScoreManager.Instance.GetGold());
+        }
+
         OnGameOver?.Invoke();
     }
 

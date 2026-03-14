@@ -44,7 +44,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7e1cf09ca2f96a94fbbbfc9c91c69c9e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TimerManager
-  defaultDurationSeconds: 10
+  defaultDurationSeconds: 300
   warningThresholdSeconds: 30
   timeRemaining: 0
   OnTimerWarning:

@@ -1,0 +1,2600 @@
+fileFormatVersion: 2
+guid: 7831fa27b112dc94d962bc812dcb4748
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2200423438077276652
+    second: Body_2_Watering_56_frames_32x32_0
+  - first:
+      213: 3775062804569156720
+    second: Body_2_Watering_56_frames_32x32_1
+  - first:
+      213: 2514426963407570093
+    second: Body_2_Watering_56_frames_32x32_2
+  - first:
+      213: -3365419819343984291
+    second: Body_2_Watering_56_frames_32x32_3
+  - first:
+      213: 5168807421590449297
+    second: Body_2_Watering_56_frames_32x32_4
+  - first:
+      213: -1745760382753239294
+    second: Body_2_Watering_56_frames_32x32_5
+  - first:
+      213: 7816458955614568639
+    second: Body_2_Watering_56_frames_32x32_6
+  - first:
+      213: 778827365832406745
+    second: Body_2_Watering_56_frames_32x32_7
+  - first:
+      213: 4949365681853212037
+    second: Body_2_Watering_56_frames_32x32_8
+  - first:
+      213: -2758173415141527227
+    second: Body_2_Watering_56_frames_32x32_9
+  - first:
+      213: -4307973130613686474
+    second: Body_2_Watering_56_frames_32x32_10
+  - first:
+      213: -2205903445417382653
+    second: Body_2_Watering_56_frames_32x32_11
+  - first:
+      213: 5062805425728675587
+    second: Body_2_Watering_56_frames_32x32_12
+  - first:
+      213: -2459175733580715167
+    second: Body_2_Watering_56_frames_32x32_13
+  - first:
+      213: 4964856555138534010
+    second: Body_2_Watering_56_frames_32x32_14
+  - first:
+      213: -9002354812779839485
+    second: Body_2_Watering_56_frames_32x32_15
+  - first:
+      213: 6743740595963724596
+    second: Body_2_Watering_56_frames_32x32_16
+  - first:
+      213: -114285570728509826
+    second: Body_2_Watering_56_frames_32x32_17
+  - first:
+      213: 2190732895718364829
+    second: Body_2_Watering_56_frames_32x32_18
+  - first:
+      213: 3246167390986787888
+    second: Body_2_Watering_56_frames_32x32_19
+  - first:
+      213: -4623677059326329049
+    second: Body_2_Watering_56_frames_32x32_20
+  - first:
+      213: -2410756681017756225
+    second: Body_2_Watering_56_frames_32x32_21
+  - first:
+      213: 1339264929872592914
+    second: Body_2_Watering_56_frames_32x32_22
+  - first:
+      213: 2995644807126285716
+    second: Body_2_Watering_56_frames_32x32_23
+  - first:
+      213: -4937847581202939254
+    second: Body_2_Watering_56_frames_32x32_24
+  - first:
+      213: 2537266741522555503
+    second: Body_2_Watering_56_frames_32x32_25
+  - first:
+      213: -4973154161856710996
+    second: Body_2_Watering_56_frames_32x32_26
+  - first:
+      213: -2429073192587807251
+    second: Body_2_Watering_56_frames_32x32_27
+  - first:
+      213: -8343772777785548713
+    second: Body_2_Watering_56_frames_32x32_28
+  - first:
+      213: -6363665700091177987
+    second: Body_2_Watering_56_frames_32x32_29
+  - first:
+      213: 2878349171661963449
+    second: Body_2_Watering_56_frames_32x32_30
+  - first:
+      213: 2253720019124767904
+    second: Body_2_Watering_56_frames_32x32_31
+  - first:
+      213: -1788761287278314557
+    second: Body_2_Watering_56_frames_32x32_32
+  - first:
+      213: -8722658042144470655
+    second: Body_2_Watering_56_frames_32x32_33
+  - first:
+      213: 1943318335990196915
+    second: Body_2_Watering_56_frames_32x32_34
+  - first:
+      213: 6432189103127417062
+    second: Body_2_Watering_56_frames_32x32_35
+  - first:
+      213: 7083256248568373682
+    second: Body_2_Watering_56_frames_32x32_36
+  - first:
+      213: 3054137252478527688
+    second: Body_2_Watering_56_frames_32x32_37
+  - first:
+      213: 4118869210650459053
+    second: Body_2_Watering_56_frames_32x32_38
+  - first:
+      213: 7703637287669042832
+    second: Body_2_Watering_56_frames_32x32_39
+  - first:
+      213: -2961514747418456221
+    second: Body_2_Watering_56_frames_32x32_40
+  - first:
+      213: 2154014026269418259
+    second: Body_2_Watering_56_frames_32x32_41
+  - first:
+      213: -4497663881869907525
+    second: Body_2_Watering_56_frames_32x32_42
+  - first:
+      213: 765564815377706989
+    second: Body_2_Watering_56_frames_32x32_43
+  - first:
+      213: -2975533024722085861
+    second: Body_2_Watering_56_frames_32x32_44
+  - first:
+      213: -9071573510563330141
+    second: Body_2_Watering_56_frames_32x32_45
+  - first:
+      213: -3274528153727897964
+    second: Body_2_Watering_56_frames_32x32_46
+  - first:
+      213: -5423502767902509486
+    second: Body_2_Watering_56_frames_32x32_47
+  - first:
+      213: 8487658195312302580
+    second: Body_2_Watering_56_frames_32x32_48
+  - first:
+      213: 4615740848446240190
+    second: Body_2_Watering_56_frames_32x32_49
+  - first:
+      213: -327327638625495193
+    second: Body_2_Watering_56_frames_32x32_50
+  - first:
+      213: -7896745241966430493
+    second: Body_2_Watering_56_frames_32x32_51
+  - first:
+      213: 7373243408435557979
+    second: Body_2_Watering_56_frames_32x32_52
+  - first:
+      213: 2083086465753416252
+    second: Body_2_Watering_56_frames_32x32_53
+  - first:
+      213: 6590072725143394833
+    second: Body_2_Watering_56_frames_32x32_54
+  - first:
+      213: 6970483079901051101
+    second: Body_2_Watering_56_frames_32x32_55
+  - first:
+      213: -4828307335453469924
+    second: Body_2_Watering_56_frames_32x32_56
+  - first:
+      213: -4296394422540560931
+    second: Body_2_Watering_56_frames_32x32_57
+  - first:
+      213: -1839700354978823726
+    second: Body_2_Watering_56_frames_32x32_58
+  - first:
+      213: 7275685425487132296
+    second: Body_2_Watering_56_frames_32x32_59
+  - first:
+      213: 6058281580140895617
+    second: Body_2_Watering_56_frames_32x32_60
+  - first:
+      213: -6022209318923420869
+    second: Body_2_Watering_56_frames_32x32_61
+  - first:
+      213: -92380146256757768
+    second: Body_2_Watering_56_frames_32x32_62
+  - first:
+      213: 7124541676520418764
+    second: Body_2_Watering_56_frames_32x32_63
+  - first:
+      213: 2689120457852334275
+    second: Body_2_Watering_56_frames_32x32_64
+  - first:
+      213: -3034986527393325615
+    second: Body_2_Watering_56_frames_32x32_65
+  - first:
+      213: -2367120730710953757
+    second: Body_2_Watering_56_frames_32x32_66
+  - first:
+      213: -1599133330478763259
+    second: Body_2_Watering_56_frames_32x32_67
+  - first:
+      213: 6884073076343385457
+    second: Body_2_Watering_56_frames_32x32_68
+  - first:
+      213: -18023295486981528
+    second: Body_2_Watering_56_frames_32x32_69
+  - first:
+      213: -2048590586308888957
+    second: Body_2_Watering_56_frames_32x32_70
+  - first:
+      213: 4510009376206277001
+    second: Body_2_Watering_56_frames_32x32_71
+  - first:
+      213: 3878435454526948977
+    second: Body_2_Watering_56_frames_32x32_72
+  - first:
+      213: -480008118559631605
+    second: Body_2_Watering_56_frames_32x32_73
+  - first:
+      213: -5891779653840639192
+    second: Body_2_Watering_56_frames_32x32_74
+  - first:
+      213: 7126490428506959457
+    second: Body_2_Watering_56_frames_32x32_75
+  - first:
+      213: -5829131812988726892
+    second: Body_2_Watering_56_frames_32x32_76
+  - first:
+      213: -3398331582590633621
+    second: Body_2_Watering_56_frames_32x32_77
+  - first:
+      213: -7901485925277106459
+    second: Body_2_Watering_56_frames_32x32_78
+  - first:
+      213: 6205694846194790464
+    second: Body_2_Watering_56_frames_32x32_79
+  - first:
+      213: -7542747127227340286
+    second: Body_2_Watering_56_frames_32x32_80
+  - first:
+      213: 2818235675606493454
+    second: Body_2_Watering_56_frames_32x32_81
+  - first:
+      213: -5503031032163797185
+    second: Body_2_Watering_56_frames_32x32_82
+  - first:
+      213: 6543003050680097900
+    second: Body_2_Watering_56_frames_32x32_83
+  - first:
+      213: 8529360385547519551
+    second: Body_2_Watering_56_frames_32x32_84
+  - first:
+      213: 3416914922861808676
+    second: Body_2_Watering_56_frames_32x32_85
+  - first:
+      213: 5366307085065646672
+    second: Body_2_Watering_56_frames_32x32_86
+  - first:
+      213: 1296046824493509465
+    second: Body_2_Watering_56_frames_32x32_87
+  - first:
+      213: -6103944753819755235
+    second: Body_2_Watering_56_frames_32x32_88
+  - first:
+      213: 8241245339640263095
+    second: Body_2_Watering_56_frames_32x32_89
+  - first:
+      213: -6956180975334416808
+    second: Body_2_Watering_56_frames_32x32_90
+  - first:
+      213: -5244274918227523129
+    second: Body_2_Watering_56_frames_32x32_91
+  - first:
+      213: 6778038446007756416
+    second: Body_2_Watering_56_frames_32x32_92
+  - first:
+      213: -465709425834258504
+    second: Body_2_Watering_56_frames_32x32_93
+  - first:
+      213: -6479614878470526864
+    second: Body_2_Watering_56_frames_32x32_94
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 97
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ec5f99a868671e0800000000000000
+      internalID: -2200423438077276652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 97
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c622f9e97b36430800000000000000
+      internalID: 3775062804569156720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 97
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4829f400a05e220800000000000000
+      internalID: 2514426963407570093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5941fb4180ab41d0800000000000000
+      internalID: -3365419819343984291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c2d44e6fa4bb740800000000000000
+      internalID: 5168807421590449297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 97
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f0b0b6e20d5c7e0800000000000000
+      internalID: -1745760382753239294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 97
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0c3dab104a97c60800000000000000
+      internalID: 7816458955614568639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 97
+        width: 70
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d63bc1ec53feca00800000000000000
+      internalID: 778827365832406745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 97
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585ae526dddafa440800000000000000
+      internalID: 4949365681853212037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 97
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541309174eff8b9d0800000000000000
+      internalID: -2758173415141527227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 97
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ff7d723410734c0800000000000000
+      internalID: -4307973130613686474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 97
+        width: 70
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d2617f08e0361e0800000000000000
+      internalID: -2205903445417382653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 97
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f5a77f5b2b24640800000000000000
+      internalID: 5062805425728675587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 97
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b29a713b04fddd0800000000000000
+      internalID: -2459175733580715167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 95
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a4dc16bb6b6e440800000000000000
+      internalID: 4964856555138534010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 95
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300ca3a8ef5311380800000000000000
+      internalID: -9002354812779839485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 95
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4338cc79754969d50800000000000000
+      internalID: 6743740595963724596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 95
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e36c101e9f96ef0800000000000000
+      internalID: -114285570728509826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 95
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d965e0f26fb076e10800000000000000
+      internalID: 2190732895718364829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 95
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c593d0b04bc0d20800000000000000
+      internalID: 3246167390986787888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 95
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f3bba363665dfb0800000000000000
+      internalID: -4623677059326329049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 95
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5790442954b8ed0800000000000000
+      internalID: -2410756681017756225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 95
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210c135ab56069210800000000000000
+      internalID: 1339264929872592914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 137
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d710a941ba29920800000000000000
+      internalID: 2995644807126285716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 95
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82806769cd397bb0800000000000000
+      internalID: -4937847581202939254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 137
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f626ddc88ae263320800000000000000
+      internalID: 2537266741522555503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 95
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6764183aecbfab0800000000000000
+      internalID: -4973154161856710996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 2427
+        y: 95
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de531661dc23a4ed0800000000000000
+      internalID: -2429073192587807251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 2529
+        y: 95
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750a485add6f43c80800000000000000
+      internalID: -8343772777785548713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 95
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df35abc03c7bfa7a0800000000000000
+      internalID: -6363665700091177987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_30
+      rect:
+        serializedVersion: 2
+        x: 2653
+        y: 137
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0837c4253f1f720800000000000000
+      internalID: 2878349171661963449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_31
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 97
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac4e1baa62d64f10800000000000000
+      internalID: 2253720019124767904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_32
+      rect:
+        serializedVersion: 2
+        x: 2815
+        y: 97
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb3ec3261b0d27e0800000000000000
+      internalID: -1788761287278314557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_33
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 97
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18946cca9b4e2f680800000000000000
+      internalID: -8722658042144470655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_34
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bae23efabd08fa10800000000000000
+      internalID: 1943318335990196915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_35
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e05c0cf8e9b34950800000000000000
+      internalID: 6432189103127417062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_36
+      rect:
+        serializedVersion: 2
+        x: 3195
+        y: 97
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1ebf48708cc4260800000000000000
+      internalID: 7083256248568373682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_37
+      rect:
+        serializedVersion: 2
+        x: 3275
+        y: 97
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8254d46a9726a20800000000000000
+      internalID: 3054137252478527688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_38
+      rect:
+        serializedVersion: 2
+        x: 3369
+        y: 97
+        width: 70
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab3d1179b9292930800000000000000
+      internalID: 4118869210650459053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_39
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 97
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e87f92c41d8ea60800000000000000
+      internalID: 7703637287669042832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_40
+      rect:
+        serializedVersion: 2
+        x: 3571
+        y: 97
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fca0b270696e6d0800000000000000
+      internalID: -2961514747418456221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_41
+      rect:
+        serializedVersion: 2
+        x: 3659
+        y: 97
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3136ffc285894ed10800000000000000
+      internalID: 2154014026269418259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_42
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 97
+        width: 70
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb92a0277861591c0800000000000000
+      internalID: -4497663881869907525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_43
+      rect:
+        serializedVersion: 2
+        x: 3859
+        y: 97
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def2029b425df9a00800000000000000
+      internalID: 765564815377706989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_44
+      rect:
+        serializedVersion: 2
+        x: 3955
+        y: 97
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b181ff3aa78c4b6d0800000000000000
+      internalID: -2975533024722085861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_45
+      rect:
+        serializedVersion: 2
+        x: 4065
+        y: 123
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7870594fb4b1280800000000000000
+      internalID: -9071573510563330141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_46
+      rect:
+        serializedVersion: 2
+        x: 4161
+        y: 123
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e680e4ef98e82d0800000000000000
+      internalID: -3274528153727897964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_47
+      rect:
+        serializedVersion: 2
+        x: 4257
+        y: 123
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256b2d0b7f8dbb4b0800000000000000
+      internalID: -5423502767902509486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_48
+      rect:
+        serializedVersion: 2
+        x: 4353
+        y: 125
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9d58ab8283ac570800000000000000
+      internalID: 8487658195312302580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_49
+      rect:
+        serializedVersion: 2
+        x: 4449
+        y: 125
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5f5eea8d76e0040800000000000000
+      internalID: 4615740848446240190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_50
+      rect:
+        serializedVersion: 2
+        x: 4545
+        y: 123
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7675f863f39157bf0800000000000000
+      internalID: -327327638625495193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_51
+      rect:
+        serializedVersion: 2
+        x: 4639
+        y: 103
+        width: 36
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6b5da8a00296290800000000000000
+      internalID: -7896745241966430493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_52
+      rect:
+        serializedVersion: 2
+        x: 4737
+        y: 103
+        width: 30
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56ba4a90d5035660800000000000000
+      internalID: 7373243408435557979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_53
+      rect:
+        serializedVersion: 2
+        x: 4833
+        y: 107
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3208ab9a1c98ec10800000000000000
+      internalID: 2083086465753416252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_54
+      rect:
+        serializedVersion: 2
+        x: 4929
+        y: 107
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a99225a34a47b50800000000000000
+      internalID: 6590072725143394833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_55
+      rect:
+        serializedVersion: 2
+        x: 5023
+        y: 103
+        width: 36
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd87f521e612cb060800000000000000
+      internalID: 6970483079901051101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_56
+      rect:
+        serializedVersion: 2
+        x: 5121
+        y: 103
+        width: 30
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1312e35f086efcb0800000000000000
+      internalID: -4828307335453469924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_57
+      rect:
+        serializedVersion: 2
+        x: 5217
+        y: 107
+        width: 30
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5108539042064c0800000000000000
+      internalID: -4296394422540560931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_58
+      rect:
+        serializedVersion: 2
+        x: 5313
+        y: 107
+        width: 30
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1c35836421876e0800000000000000
+      internalID: -1839700354978823726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_59
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 101
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886b5a3a85d68f460800000000000000
+      internalID: 7275685425487132296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_60
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 101
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d179dbff6531450800000000000000
+      internalID: 6058281580140895617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_61
+      rect:
+        serializedVersion: 2
+        x: 3565
+        y: 101
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bb58e0880dc6ca0800000000000000
+      internalID: -6022209318923420869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_62
+      rect:
+        serializedVersion: 2
+        x: 3949
+        y: 101
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb31161fbcc7bef0800000000000000
+      internalID: -92380146256757768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_63
+      rect:
+        serializedVersion: 2
+        x: 4857
+        y: 105
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd277848e47fd260800000000000000
+      internalID: 7124541676520418764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_64
+      rect:
+        serializedVersion: 2
+        x: 4939
+        y: 101
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c036801fcca15520800000000000000
+      internalID: 2689120457852334275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_65
+      rect:
+        serializedVersion: 2
+        x: 4955
+        y: 107
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dddf9855df81e5d0800000000000000
+      internalID: -3034986527393325615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_66
+      rect:
+        serializedVersion: 2
+        x: 5241
+        y: 105
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0b289ac3c462fd0800000000000000
+      internalID: -2367120730710953757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_67
+      rect:
+        serializedVersion: 2
+        x: 5323
+        y: 101
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503735065bcbec9e0800000000000000
+      internalID: -1599133330478763259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_68
+      rect:
+        serializedVersion: 2
+        x: 5339
+        y: 107
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d27435df3298f50800000000000000
+      internalID: 6884073076343385457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_69
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 95
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a01d288e7ffbff0800000000000000
+      internalID: -18023295486981528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_70
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 99
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38679d437b1f193e0800000000000000
+      internalID: -2048590586308888957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_71
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 95
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989c472f1a5c69e30800000000000000
+      internalID: 4510009376206277001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_72
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 99
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1760c5f3f78f2d530800000000000000
+      internalID: 3878435454526948977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_73
+      rect:
+        serializedVersion: 2
+        x: 3471
+        y: 99
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0713fbc82ba659f0800000000000000
+      internalID: -480008118559631605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_74
+      rect:
+        serializedVersion: 2
+        x: 3479
+        y: 95
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b64fdee913c3ea0800000000000000
+      internalID: -5891779653840639192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_75
+      rect:
+        serializedVersion: 2
+        x: 3855
+        y: 99
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ee066794166e260800000000000000
+      internalID: 7126490428506959457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_76
+      rect:
+        serializedVersion: 2
+        x: 3863
+        y: 95
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491d0e90083ca1fa0800000000000000
+      internalID: -5829131812988726892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_77
+      rect:
+        serializedVersion: 2
+        x: 4845
+        y: 99
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69b1b64e63b6d0d0800000000000000
+      internalID: -3398331582590633621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_78
+      rect:
+        serializedVersion: 2
+        x: 5229
+        y: 99
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eefb123a68485290800000000000000
+      internalID: -7901485925277106459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_79
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 21
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040b9eb559e0f1650800000000000000
+      internalID: 6205694846194790464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_80
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 21
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a24037377c25790800000000000000
+      internalID: -7542747127227340286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_81
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 21
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09abd15a626c1720800000000000000
+      internalID: 2818235675606493454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_82
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 13
+        width: 694
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37fcebbe6e41a3b0800000000000000
+      internalID: -5503031032163797185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_83
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 21
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c9518bb9a6dca50800000000000000
+      internalID: 6543003050680097900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_84
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 21
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3649d584106e5670800000000000000
+      internalID: 8529360385547519551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_85
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 21
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42cc8ecc4025b6f20800000000000000
+      internalID: 3416914922861808676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_86
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 13
+        width: 694
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052fff8acd3f87a40800000000000000
+      internalID: 5366307085065646672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_87
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 21
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b653a58bb7cf110800000000000000
+      internalID: 1296046824493509465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_88
+      rect:
+        serializedVersion: 2
+        x: 3287
+        y: 21
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1dd6f3269e6a4ba0800000000000000
+      internalID: -6103944753819755235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_89
+      rect:
+        serializedVersion: 2
+        x: 3311
+        y: 21
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1f910f8f8ce5270800000000000000
+      internalID: 8241245339640263095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_90
+      rect:
+        serializedVersion: 2
+        x: 3335
+        y: 13
+        width: 694
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e9cd3224ea67f90800000000000000
+      internalID: -6956180975334416808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_91
+      rect:
+        serializedVersion: 2
+        x: 4607
+        y: 21
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9ce8a4fb79837b0800000000000000
+      internalID: -5244274918227523129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_92
+      rect:
+        serializedVersion: 2
+        x: 4631
+        y: 21
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086ab381e0e601e50800000000000000
+      internalID: 6778038446007756416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_93
+      rect:
+        serializedVersion: 2
+        x: 4655
+        y: 21
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf0990aeb77989f0800000000000000
+      internalID: -465709425834258504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Watering_56_frames_32x32_94
+      rect:
+        serializedVersion: 2
+        x: 4679
+        y: 13
+        width: 694
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078ad673998c316a0800000000000000
+      internalID: -6479614878470526864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Body_2_Watering_56_frames_32x32_0: -2200423438077276652
+      Body_2_Watering_56_frames_32x32_1: 3775062804569156720
+      Body_2_Watering_56_frames_32x32_10: -4307973130613686474
+      Body_2_Watering_56_frames_32x32_11: -2205903445417382653
+      Body_2_Watering_56_frames_32x32_12: 5062805425728675587
+      Body_2_Watering_56_frames_32x32_13: -2459175733580715167
+      Body_2_Watering_56_frames_32x32_14: 4964856555138534010
+      Body_2_Watering_56_frames_32x32_15: -9002354812779839485
+      Body_2_Watering_56_frames_32x32_16: 6743740595963724596
+      Body_2_Watering_56_frames_32x32_17: -114285570728509826
+      Body_2_Watering_56_frames_32x32_18: 2190732895718364829
+      Body_2_Watering_56_frames_32x32_19: 3246167390986787888
+      Body_2_Watering_56_frames_32x32_2: 2514426963407570093
+      Body_2_Watering_56_frames_32x32_20: -4623677059326329049
+      Body_2_Watering_56_frames_32x32_21: -2410756681017756225
+      Body_2_Watering_56_frames_32x32_22: 1339264929872592914
+      Body_2_Watering_56_frames_32x32_23: 2995644807126285716
+      Body_2_Watering_56_frames_32x32_24: -4937847581202939254
+      Body_2_Watering_56_frames_32x32_25: 2537266741522555503
+      Body_2_Watering_56_frames_32x32_26: -4973154161856710996
+      Body_2_Watering_56_frames_32x32_27: -2429073192587807251
+      Body_2_Watering_56_frames_32x32_28: -8343772777785548713
+      Body_2_Watering_56_frames_32x32_29: -6363665700091177987
+      Body_2_Watering_56_frames_32x32_3: -3365419819343984291
+      Body_2_Watering_56_frames_32x32_30: 2878349171661963449
+      Body_2_Watering_56_frames_32x32_31: 2253720019124767904
+      Body_2_Watering_56_frames_32x32_32: -1788761287278314557
+      Body_2_Watering_56_frames_32x32_33: -8722658042144470655
+      Body_2_Watering_56_frames_32x32_34: 1943318335990196915
+      Body_2_Watering_56_frames_32x32_35: 6432189103127417062
+      Body_2_Watering_56_frames_32x32_36: 7083256248568373682
+      Body_2_Watering_56_frames_32x32_37: 3054137252478527688
+      Body_2_Watering_56_frames_32x32_38: 4118869210650459053
+      Body_2_Watering_56_frames_32x32_39: 7703637287669042832
+      Body_2_Watering_56_frames_32x32_4: 5168807421590449297
+      Body_2_Watering_56_frames_32x32_40: -2961514747418456221
+      Body_2_Watering_56_frames_32x32_41: 2154014026269418259
+      Body_2_Watering_56_frames_32x32_42: -4497663881869907525
+      Body_2_Watering_56_frames_32x32_43: 765564815377706989
+      Body_2_Watering_56_frames_32x32_44: -2975533024722085861
+      Body_2_Watering_56_frames_32x32_45: -9071573510563330141
+      Body_2_Watering_56_frames_32x32_46: -3274528153727897964
+      Body_2_Watering_56_frames_32x32_47: -5423502767902509486
+      Body_2_Watering_56_frames_32x32_48: 8487658195312302580
+      Body_2_Watering_56_frames_32x32_49: 4615740848446240190
+      Body_2_Watering_56_frames_32x32_5: -1745760382753239294
+      Body_2_Watering_56_frames_32x32_50: -327327638625495193
+      Body_2_Watering_56_frames_32x32_51: -7896745241966430493
+      Body_2_Watering_56_frames_32x32_52: 7373243408435557979
+      Body_2_Watering_56_frames_32x32_53: 2083086465753416252
+      Body_2_Watering_56_frames_32x32_54: 6590072725143394833
+      Body_2_Watering_56_frames_32x32_55: 6970483079901051101
+      Body_2_Watering_56_frames_32x32_56: -4828307335453469924
+      Body_2_Watering_56_frames_32x32_57: -4296394422540560931
+      Body_2_Watering_56_frames_32x32_58: -1839700354978823726
+      Body_2_Watering_56_frames_32x32_59: 7275685425487132296
+      Body_2_Watering_56_frames_32x32_6: 7816458955614568639
+      Body_2_Watering_56_frames_32x32_60: 6058281580140895617
+      Body_2_Watering_56_frames_32x32_61: -6022209318923420869
+      Body_2_Watering_56_frames_32x32_62: -92380146256757768
+      Body_2_Watering_56_frames_32x32_63: 7124541676520418764
+      Body_2_Watering_56_frames_32x32_64: 2689120457852334275
+      Body_2_Watering_56_frames_32x32_65: -3034986527393325615
+      Body_2_Watering_56_frames_32x32_66: -2367120730710953757
+      Body_2_Watering_56_frames_32x32_67: -1599133330478763259
+      Body_2_Watering_56_frames_32x32_68: 6884073076343385457
+      Body_2_Watering_56_frames_32x32_69: -18023295486981528
+      Body_2_Watering_56_frames_32x32_7: 778827365832406745
+      Body_2_Watering_56_frames_32x32_70: -2048590586308888957
+      Body_2_Watering_56_frames_32x32_71: 4510009376206277001
+      Body_2_Watering_56_frames_32x32_72: 3878435454526948977
+      Body_2_Watering_56_frames_32x32_73: -480008118559631605
+      Body_2_Watering_56_frames_32x32_74: -5891779653840639192
+      Body_2_Watering_56_frames_32x32_75: 7126490428506959457
+      Body_2_Watering_56_frames_32x32_76: -5829131812988726892
+      Body_2_Watering_56_frames_32x32_77: -3398331582590633621
+      Body_2_Watering_56_frames_32x32_78: -7901485925277106459
+      Body_2_Watering_56_frames_32x32_79: 6205694846194790464
+      Body_2_Watering_56_frames_32x32_8: 4949365681853212037
+      Body_2_Watering_56_frames_32x32_80: -7542747127227340286
+      Body_2_Watering_56_frames_32x32_81: 2818235675606493454
+      Body_2_Watering_56_frames_32x32_82: -5503031032163797185
+      Body_2_Watering_56_frames_32x32_83: 6543003050680097900
+      Body_2_Watering_56_frames_32x32_84: 8529360385547519551
+      Body_2_Watering_56_frames_32x32_85: 3416914922861808676
+      Body_2_Watering_56_frames_32x32_86: 5366307085065646672
+      Body_2_Watering_56_frames_32x32_87: 1296046824493509465
+      Body_2_Watering_56_frames_32x32_88: -6103944753819755235
+      Body_2_Watering_56_frames_32x32_89: 8241245339640263095
+      Body_2_Watering_56_frames_32x32_9: -2758173415141527227
+      Body_2_Watering_56_frames_32x32_90: -6956180975334416808
+      Body_2_Watering_56_frames_32x32_91: -5244274918227523129
+      Body_2_Watering_56_frames_32x32_92: 6778038446007756416
+      Body_2_Watering_56_frames_32x32_93: -465709425834258504
+      Body_2_Watering_56_frames_32x32_94: -6479614878470526864
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

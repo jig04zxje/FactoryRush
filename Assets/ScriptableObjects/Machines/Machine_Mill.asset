@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e96d00c70d40dd1449d27a923fab9402, type: 3}
+  m_Name: Machine_Mill
+  m_EditorClassIdentifier: Assembly-CSharp::FactoryRush.Scripts.ScriptableObjects.Definitions.MachineSO
+  machineName: Mill
+  purchasePrice: 120
+  visualPrefab: {fileID: 3323816482591321259, guid: 0ac07f69bc780b24a80a384510270058, type: 3}
+  requiredInputs:
+  - {fileID: 11400000, guid: a81a18871f48c0b488d119d56dc965d5, type: 2}
+  - {fileID: 11400000, guid: a81a18871f48c0b488d119d56dc965d5, type: 2}
+  - {fileID: 11400000, guid: a81a18871f48c0b488d119d56dc965d5, type: 2}
+  outputItem: {fileID: 11400000, guid: 200b45ac36a7f904594842b42d54badb, type: 2}
+  productionTime: 30
+  description: 

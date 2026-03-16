@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 4171c66755b9eef4fa9ea232e7e93e00
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4162227018326866577
+    second: '!$MV_Cow_Big_4_0'
+  - first:
+      213: 7481888444884795015
+    second: '!$MV_Cow_Big_4_1'
+  - first:
+      213: -9023231980555746018
+    second: '!$MV_Cow_Big_4_2'
+  - first:
+      213: 7295820948335567628
+    second: '!$MV_Cow_Big_4_3'
+  - first:
+      213: 403013406198966768
+    second: '!$MV_Cow_Big_4_4'
+  - first:
+      213: -48070185776314370
+    second: '!$MV_Cow_Big_4_5'
+  - first:
+      213: 8633490473030308169
+    second: '!$MV_Cow_Big_4_6'
+  - first:
+      213: 1963375438987705515
+    second: '!$MV_Cow_Big_4_7'
+  - first:
+      213: -6463740040180735505
+    second: '!$MV_Cow_Big_4_8'
+  - first:
+      213: 2565228181423126205
+    second: '!$MV_Cow_Big_4_9'
+  - first:
+      213: -7538378496090625461
+    second: '!$MV_Cow_Big_4_10'
+  - first:
+      213: -3355235159073822752
+    second: '!$MV_Cow_Big_4_11'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!$MV_Cow_Big_4_0'
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 434
+        width: 59
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65081a449ccc36c0800000000000000
+      internalID: -4162227018326866577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Cow_Big_4_1'
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 434
+        width: 59
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e357e56e105d760800000000000000
+      internalID: 7481888444884795015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Cow_Big_4_2'
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 434
+        width: 59
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15c701225a07c280800000000000000
+      internalID: -9023231980555746018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Cow_Big_4_3'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 145
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0325626f76ff3560800000000000000
+      internalID: 7295820948335567628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Cow_Big_4_4'
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 287
+        width: 146
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9a534ce8ac79500800000000000000
+      internalID: 403013406198966768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Cow_Big_4_5'
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 287
+        width: 145
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef70484bb68355ff0800000000000000
+      internalID: -48070185776314370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Cow_Big_4_6'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 145
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941d0b0d7d150d770800000000000000
+      internalID: 8633490473030308169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Cow_Big_4_7'
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 143
+        width: 146
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bacb6913f8f4f3b10800000000000000
+      internalID: 1963375438987705515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Cow_Big_4_8'
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 143
+        width: 144
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1ee880eae2c46a0800000000000000
+      internalID: -6463740040180735505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Cow_Big_4_9'
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 5
+        width: 59
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6fb899075899320800000000000000
+      internalID: 2565228181423126205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Cow_Big_4_10'
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 5
+        width: 59
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a2316a2bc426790800000000000000
+      internalID: -7538378496090625461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Cow_Big_4_11'
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 5
+        width: 59
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7e08d466fcf61d0800000000000000
+      internalID: -3355235159073822752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '!$MV_Cow_Big_4_0': -4162227018326866577
+      '!$MV_Cow_Big_4_1': 7481888444884795015
+      '!$MV_Cow_Big_4_10': -7538378496090625461
+      '!$MV_Cow_Big_4_11': -3355235159073822752
+      '!$MV_Cow_Big_4_2': -9023231980555746018
+      '!$MV_Cow_Big_4_3': 7295820948335567628
+      '!$MV_Cow_Big_4_4': 403013406198966768
+      '!$MV_Cow_Big_4_5': -48070185776314370
+      '!$MV_Cow_Big_4_6': 8633490473030308169
+      '!$MV_Cow_Big_4_7': 1963375438987705515
+      '!$MV_Cow_Big_4_8': -6463740040180735505
+      '!$MV_Cow_Big_4_9': 2565228181423126205
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 27ee0734d7bbb7b47becaecdab375ce2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3479607514214011334
+    second: '!$MV_Dog_Shepherd_0'
+  - first:
+      213: -5821484869717842047
+    second: '!$MV_Dog_Shepherd_1'
+  - first:
+      213: 5798592758651690060
+    second: '!$MV_Dog_Shepherd_2'
+  - first:
+      213: -9179330127227883389
+    second: '!$MV_Dog_Shepherd_3'
+  - first:
+      213: -6567238459824840956
+    second: '!$MV_Dog_Shepherd_4'
+  - first:
+      213: 3507216773803777758
+    second: '!$MV_Dog_Shepherd_5'
+  - first:
+      213: -5191390919589960665
+    second: '!$MV_Dog_Shepherd_6'
+  - first:
+      213: -7232437478896471749
+    second: '!$MV_Dog_Shepherd_7'
+  - first:
+      213: -770712036319874976
+    second: '!$MV_Dog_Shepherd_8'
+  - first:
+      213: 7453927369973052692
+    second: '!$MV_Dog_Shepherd_9'
+  - first:
+      213: -7401669499709585237
+    second: '!$MV_Dog_Shepherd_10'
+  - first:
+      213: -4515734148987761152
+    second: '!$MV_Dog_Shepherd_11'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!$MV_Dog_Shepherd_0'
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 431
+        width: 50
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e6e7dc663f5bfc0800000000000000
+      internalID: -3479607514214011334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Dog_Shepherd_1'
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 431
+        width: 50
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1872823ca5ee53fa0800000000000000
+      internalID: -5821484869717842047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Dog_Shepherd_2'
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 431
+        width: 50
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c1698446db87050800000000000000
+      internalID: 5798592758651690060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Dog_Shepherd_3'
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 287
+        width: 113
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3807a8a22e77c9080800000000000000
+      internalID: -9179330127227883389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Dog_Shepherd_4'
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 287
+        width: 110
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f5bde5a6b7cd4a0800000000000000
+      internalID: -6567238459824840956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Dog_Shepherd_5'
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 287
+        width: 107
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede9dd0e2132ca030800000000000000
+      internalID: 3507216773803777758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Dog_Shepherd_6'
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 143
+        width: 113
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724e6abb67974f7b0800000000000000
+      internalID: -5191390919589960665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Dog_Shepherd_7'
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 143
+        width: 110
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31772a9e6831ab90800000000000000
+      internalID: -7232437478896471749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Dog_Shepherd_8'
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 143
+        width: 107
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06039038c71ed45f0800000000000000
+      internalID: -770712036319874976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Dog_Shepherd_9'
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 50
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4153ecc437ba17760800000000000000
+      internalID: 7453927369973052692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Dog_Shepherd_10'
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 50
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba887f44eccf74990800000000000000
+      internalID: -7401669499709585237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Dog_Shepherd_11'
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 0
+        width: 50
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ecb7587b3e451c0800000000000000
+      internalID: -4515734148987761152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '!$MV_Dog_Shepherd_0': -3479607514214011334
+      '!$MV_Dog_Shepherd_1': -5821484869717842047
+      '!$MV_Dog_Shepherd_10': -7401669499709585237
+      '!$MV_Dog_Shepherd_11': -4515734148987761152
+      '!$MV_Dog_Shepherd_2': 5798592758651690060
+      '!$MV_Dog_Shepherd_3': -9179330127227883389
+      '!$MV_Dog_Shepherd_4': -6567238459824840956
+      '!$MV_Dog_Shepherd_5': 3507216773803777758
+      '!$MV_Dog_Shepherd_6': -5191390919589960665
+      '!$MV_Dog_Shepherd_7': -7232437478896471749
+      '!$MV_Dog_Shepherd_8': -770712036319874976
+      '!$MV_Dog_Shepherd_9': 7453927369973052692
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

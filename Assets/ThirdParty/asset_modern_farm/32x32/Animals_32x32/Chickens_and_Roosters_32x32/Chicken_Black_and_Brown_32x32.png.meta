@@ -1,0 +1,2028 @@
+fileFormatVersion: 2
+guid: 4083cbf470926dc469fd5bc386b836eb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2747432635988096480
+    second: Chicken_Black_and_Brown_32x32_0
+  - first:
+      213: -1835562443407763560
+    second: Chicken_Black_and_Brown_32x32_1
+  - first:
+      213: -6448101235990536603
+    second: Chicken_Black_and_Brown_32x32_2
+  - first:
+      213: 2492198089464866272
+    second: Chicken_Black_and_Brown_32x32_3
+  - first:
+      213: 8549686062794983763
+    second: Chicken_Black_and_Brown_32x32_4
+  - first:
+      213: -8327789635786756848
+    second: Chicken_Black_and_Brown_32x32_5
+  - first:
+      213: -7924291890174953817
+    second: Chicken_Black_and_Brown_32x32_6
+  - first:
+      213: 2325242535064175824
+    second: Chicken_Black_and_Brown_32x32_7
+  - first:
+      213: 8313704324443860931
+    second: Chicken_Black_and_Brown_32x32_8
+  - first:
+      213: 355108546916256196
+    second: Chicken_Black_and_Brown_32x32_9
+  - first:
+      213: 1053443711756195366
+    second: Chicken_Black_and_Brown_32x32_10
+  - first:
+      213: 3058192591979513968
+    second: Chicken_Black_and_Brown_32x32_11
+  - first:
+      213: 902690764684722005
+    second: Chicken_Black_and_Brown_32x32_12
+  - first:
+      213: 5167456090744367613
+    second: Chicken_Black_and_Brown_32x32_13
+  - first:
+      213: -2890728741967511932
+    second: Chicken_Black_and_Brown_32x32_14
+  - first:
+      213: -2356256457322897314
+    second: Chicken_Black_and_Brown_32x32_15
+  - first:
+      213: -2486870203780949762
+    second: Chicken_Black_and_Brown_32x32_16
+  - first:
+      213: 2934540576916194242
+    second: Chicken_Black_and_Brown_32x32_17
+  - first:
+      213: 8584481698825066754
+    second: Chicken_Black_and_Brown_32x32_18
+  - first:
+      213: -3461516521340609529
+    second: Chicken_Black_and_Brown_32x32_19
+  - first:
+      213: -6207554105497222914
+    second: Chicken_Black_and_Brown_32x32_20
+  - first:
+      213: -5432926092790039875
+    second: Chicken_Black_and_Brown_32x32_21
+  - first:
+      213: -3396826726323695124
+    second: Chicken_Black_and_Brown_32x32_22
+  - first:
+      213: -615680504115552619
+    second: Chicken_Black_and_Brown_32x32_23
+  - first:
+      213: 3362523713977736397
+    second: Chicken_Black_and_Brown_32x32_24
+  - first:
+      213: 2735007591080449872
+    second: Chicken_Black_and_Brown_32x32_25
+  - first:
+      213: 8356438038113359460
+    second: Chicken_Black_and_Brown_32x32_26
+  - first:
+      213: -5204499631257770757
+    second: Chicken_Black_and_Brown_32x32_27
+  - first:
+      213: 4004491493465944412
+    second: Chicken_Black_and_Brown_32x32_28
+  - first:
+      213: -2286387565506334884
+    second: Chicken_Black_and_Brown_32x32_29
+  - first:
+      213: -6551222291571654564
+    second: Chicken_Black_and_Brown_32x32_30
+  - first:
+      213: 1102776107854223131
+    second: Chicken_Black_and_Brown_32x32_31
+  - first:
+      213: -1355911890825711851
+    second: Chicken_Black_and_Brown_32x32_32
+  - first:
+      213: -4046375772023650252
+    second: Chicken_Black_and_Brown_32x32_33
+  - first:
+      213: 1401991415545627281
+    second: Chicken_Black_and_Brown_32x32_34
+  - first:
+      213: 6101875677754860331
+    second: Chicken_Black_and_Brown_32x32_35
+  - first:
+      213: 9188745148064174062
+    second: Chicken_Black_and_Brown_32x32_36
+  - first:
+      213: 260781703730401986
+    second: Chicken_Black_and_Brown_32x32_37
+  - first:
+      213: -2047677420390143102
+    second: Chicken_Black_and_Brown_32x32_38
+  - first:
+      213: 9019358473788099808
+    second: Chicken_Black_and_Brown_32x32_39
+  - first:
+      213: -5697050492949480811
+    second: Chicken_Black_and_Brown_32x32_40
+  - first:
+      213: 4308453660486832000
+    second: Chicken_Black_and_Brown_32x32_41
+  - first:
+      213: -8919956735197020020
+    second: Chicken_Black_and_Brown_32x32_42
+  - first:
+      213: -5713928091123805518
+    second: Chicken_Black_and_Brown_32x32_43
+  - first:
+      213: 6753351686782889788
+    second: Chicken_Black_and_Brown_32x32_44
+  - first:
+      213: -9072272992052741144
+    second: Chicken_Black_and_Brown_32x32_45
+  - first:
+      213: 3315945113985876280
+    second: Chicken_Black_and_Brown_32x32_46
+  - first:
+      213: 1468585191752562671
+    second: Chicken_Black_and_Brown_32x32_47
+  - first:
+      213: 7702946089283160917
+    second: Chicken_Black_and_Brown_32x32_48
+  - first:
+      213: 2869244573294490970
+    second: Chicken_Black_and_Brown_32x32_49
+  - first:
+      213: 7222027834222474601
+    second: Chicken_Black_and_Brown_32x32_50
+  - first:
+      213: 213732986755392147
+    second: Chicken_Black_and_Brown_32x32_51
+  - first:
+      213: -9087028021233570097
+    second: Chicken_Black_and_Brown_32x32_52
+  - first:
+      213: 893075248641489609
+    second: Chicken_Black_and_Brown_32x32_53
+  - first:
+      213: 695933878178638362
+    second: Chicken_Black_and_Brown_32x32_54
+  - first:
+      213: -4241835364420915786
+    second: Chicken_Black_and_Brown_32x32_55
+  - first:
+      213: -3188103429762699871
+    second: Chicken_Black_and_Brown_32x32_56
+  - first:
+      213: 8132566604300060597
+    second: Chicken_Black_and_Brown_32x32_57
+  - first:
+      213: -5945742422514707085
+    second: Chicken_Black_and_Brown_32x32_58
+  - first:
+      213: -7987105999359696111
+    second: Chicken_Black_and_Brown_32x32_59
+  - first:
+      213: 539999945845434649
+    second: Chicken_Black_and_Brown_32x32_60
+  - first:
+      213: 4611189643319918693
+    second: Chicken_Black_and_Brown_32x32_61
+  - first:
+      213: 4614965019518330637
+    second: Chicken_Black_and_Brown_32x32_62
+  - first:
+      213: 8118437406549566535
+    second: Chicken_Black_and_Brown_32x32_63
+  - first:
+      213: 1577450257655504666
+    second: Chicken_Black_and_Brown_32x32_64
+  - first:
+      213: 4318018756952128685
+    second: Chicken_Black_and_Brown_32x32_65
+  - first:
+      213: 4460492966866026089
+    second: Chicken_Black_and_Brown_32x32_66
+  - first:
+      213: -7447223449428430145
+    second: Chicken_Black_and_Brown_32x32_67
+  - first:
+      213: 3354626414031106730
+    second: Chicken_Black_and_Brown_32x32_68
+  - first:
+      213: 4835821611340087117
+    second: Chicken_Black_and_Brown_32x32_69
+  - first:
+      213: 8161836396078023332
+    second: Chicken_Black_and_Brown_32x32_70
+  - first:
+      213: -8261131316512804596
+    second: Chicken_Black_and_Brown_32x32_71
+  - first:
+      213: 8209380330100946426
+    second: Chicken_Black_and_Brown_32x32_72
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 97
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5b2680d67d02620800000000000000
+      internalID: 2747432635988096480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 97
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897d1a5dea5c686e0800000000000000
+      internalID: -1835562443407763560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 97
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ed601e61eb386a0800000000000000
+      internalID: -6448101235990536603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 97
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5e57845f0169220800000000000000
+      internalID: 2492198089464866272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 95
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359c00a0d2696a670800000000000000
+      internalID: 8549686062794983763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 95
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d20c2e27fbd6c80800000000000000
+      internalID: -8327789635786756848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 95
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6fc95b282470290800000000000000
+      internalID: -7924291890174953817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 105
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4012714cbe44020800000000000000
+      internalID: 2325242535064175824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 95
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfea120906306370800000000000000
+      internalID: 8313704324443860931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 95
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c906ab87599de400800000000000000
+      internalID: 355108546916256196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 95
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626d81679759e9e00800000000000000
+      internalID: 1053443711756195366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 95
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0788bab95f1e07a20800000000000000
+      internalID: 3058192591979513968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 105
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ffe03c770078c00800000000000000
+      internalID: 902690764684722005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 95
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df92f39afed76b740800000000000000
+      internalID: 5167456090744367613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 95
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48eb301668112e7d0800000000000000
+      internalID: -2890728741967511932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 65
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e506c8d6c35ec4fd0800000000000000
+      internalID: -2356256457322897314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 65
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef81225c9bcdc7dd0800000000000000
+      internalID: -2486870203780949762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 95
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c34f0a5b1599b820800000000000000
+      internalID: 2934540576916194242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 65
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2095f4f5f94322770800000000000000
+      internalID: 8584481698825066754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 65
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cd851501936ffc0800000000000000
+      internalID: -3461516521340609529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 65
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef002d91e665ad9a0800000000000000
+      internalID: -6207554105497222914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 95
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba7c44e08e5a94b0800000000000000
+      internalID: -5432926092790039875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 65
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce15cede61c0cd0d0800000000000000
+      internalID: -3396826726323695124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 65
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e1f01f7d9a477f0800000000000000
+      internalID: -615680504115552619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 65
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc5870a0851aae20800000000000000
+      internalID: 3362523713977736397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 65
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057d854d9e2b4f520800000000000000
+      internalID: 2735007591080449872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 65
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4661f411f1808f370800000000000000
+      internalID: 8356438038113359460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 65
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4aa35f827e5c7b0800000000000000
+      internalID: -5204499631257770757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 65
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c517c1eebcfc29730800000000000000
+      internalID: 4004491493465944412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 65
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5fef1b7f9e1540e0800000000000000
+      internalID: -2286387565506334884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_30
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 65
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50404229026515a0800000000000000
+      internalID: -6551222291571654564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_31
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 65
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17507ff609dd4f00800000000000000
+      internalID: 1102776107854223131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_32
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 65
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fea98b155de2de0800000000000000
+      internalID: -1355911890825711851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 65
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43888c88ca268d7c0800000000000000
+      internalID: -4046375772023650252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_34
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 65
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1928ebda3cfd47310800000000000000
+      internalID: 1401991415545627281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_35
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 65
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23ac2c89973ea450800000000000000
+      internalID: 6101875677754860331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_36
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 65
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef85f1370bf48f70800000000000000
+      internalID: 9188745148064174062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_37
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 31
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c295cee39b7e9300800000000000000
+      internalID: 260781703730401986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_38
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 31
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28bae073c303593e0800000000000000
+      internalID: -2047677420390143102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_39
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 65
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec8c0cceb23b2d70800000000000000
+      internalID: 9019358473788099808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_40
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 65
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a384cc2c200f0b0800000000000000
+      internalID: -5697050492949480811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_41
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 65
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f8c8ce6c3bacb30800000000000000
+      internalID: 4308453660486832000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_42
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 65
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c808abafb92f53480800000000000000
+      internalID: -8919956735197020020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_43
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 33
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b29070ccac04b0b0800000000000000
+      internalID: -5713928091123805518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_44
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 33
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3faafd0499b8bd50800000000000000
+      internalID: 6753351686782889788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_45
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 33
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb735bd7cfc81280800000000000000
+      internalID: -9072272992052741144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_46
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 33
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83102d5338a940e20800000000000000
+      internalID: 3315945113985876280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_47
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 33
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe77fc47376716410800000000000000
+      internalID: 1468585191752562671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_48
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 33
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b05bff7ac56ea60800000000000000
+      internalID: 7702946089283160917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_49
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 33
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a557fecccba91d720800000000000000
+      internalID: 2869244573294490970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_50
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96570d02d0cc93460800000000000000
+      internalID: 7222027834222474601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_51
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 31
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392a650e40557f200800000000000000
+      internalID: 213732986755392147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_52
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 33
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce2a5ae82464e180800000000000000
+      internalID: -9087028021233570097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_53
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 31
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca38f8f437d46c00800000000000000
+      internalID: 893075248641489609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_54
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 33
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a6ffbcc2478a900800000000000000
+      internalID: 695933878178638362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_55
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 33
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd6004d539f125c0800000000000000
+      internalID: -4241835364420915786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_56
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 33
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad2ac962d491c3d0800000000000000
+      internalID: -3188103429762699871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_57
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 33
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b782890d3eacd070800000000000000
+      internalID: 8132566604300060597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_58
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 33
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3755a04c4ca7c7da0800000000000000
+      internalID: -5945742422514707085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_59
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 33
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11326cc3969182190800000000000000
+      internalID: -7987105999359696111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_60
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 33
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919e8d6f6177e7700800000000000000
+      internalID: 539999945845434649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_61
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 33
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5604b0aac8c3eff30800000000000000
+      internalID: 4611189643319918693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_62
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 31
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d076e3feb36ab0040800000000000000
+      internalID: 4614965019518330637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_63
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 33
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74461a4decb7aa070800000000000000
+      internalID: 8118437406549566535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_64
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 33
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f9762d6aa34e510800000000000000
+      internalID: 1577450257655504666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_65
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 31
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dacfa9d7e2faceb30800000000000000
+      internalID: 4318018756952128685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_66
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e7d2d78bad6ed30800000000000000
+      internalID: 4460492966866026089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_67
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2fbd5dab526a890800000000000000
+      internalID: -7447223449428430145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_68
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2777233f60e8e20800000000000000
+      internalID: 3354626414031106730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_69
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f351d522a4c1340800000000000000
+      internalID: 4835821611340087117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_70
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2c51f75faa44170800000000000000
+      internalID: 8161836396078023332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_71
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01366446d09a5d80800000000000000
+      internalID: -8261131316512804596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_Black_and_Brown_32x32_72
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5feb14ae39de170800000000000000
+      internalID: 8209380330100946426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Chicken_Black_and_Brown_32x32_0: 2747432635988096480
+      Chicken_Black_and_Brown_32x32_1: -1835562443407763560
+      Chicken_Black_and_Brown_32x32_10: 1053443711756195366
+      Chicken_Black_and_Brown_32x32_11: 3058192591979513968
+      Chicken_Black_and_Brown_32x32_12: 902690764684722005
+      Chicken_Black_and_Brown_32x32_13: 5167456090744367613
+      Chicken_Black_and_Brown_32x32_14: -2890728741967511932
+      Chicken_Black_and_Brown_32x32_15: -2356256457322897314
+      Chicken_Black_and_Brown_32x32_16: -2486870203780949762
+      Chicken_Black_and_Brown_32x32_17: 2934540576916194242
+      Chicken_Black_and_Brown_32x32_18: 8584481698825066754
+      Chicken_Black_and_Brown_32x32_19: -3461516521340609529
+      Chicken_Black_and_Brown_32x32_2: -6448101235990536603
+      Chicken_Black_and_Brown_32x32_20: -6207554105497222914
+      Chicken_Black_and_Brown_32x32_21: -5432926092790039875
+      Chicken_Black_and_Brown_32x32_22: -3396826726323695124
+      Chicken_Black_and_Brown_32x32_23: -615680504115552619
+      Chicken_Black_and_Brown_32x32_24: 3362523713977736397
+      Chicken_Black_and_Brown_32x32_25: 2735007591080449872
+      Chicken_Black_and_Brown_32x32_26: 8356438038113359460
+      Chicken_Black_and_Brown_32x32_27: -5204499631257770757
+      Chicken_Black_and_Brown_32x32_28: 4004491493465944412
+      Chicken_Black_and_Brown_32x32_29: -2286387565506334884
+      Chicken_Black_and_Brown_32x32_3: 2492198089464866272
+      Chicken_Black_and_Brown_32x32_30: -6551222291571654564
+      Chicken_Black_and_Brown_32x32_31: 1102776107854223131
+      Chicken_Black_and_Brown_32x32_32: -1355911890825711851
+      Chicken_Black_and_Brown_32x32_33: -4046375772023650252
+      Chicken_Black_and_Brown_32x32_34: 1401991415545627281
+      Chicken_Black_and_Brown_32x32_35: 6101875677754860331
+      Chicken_Black_and_Brown_32x32_36: 9188745148064174062
+      Chicken_Black_and_Brown_32x32_37: 260781703730401986
+      Chicken_Black_and_Brown_32x32_38: -2047677420390143102
+      Chicken_Black_and_Brown_32x32_39: 9019358473788099808
+      Chicken_Black_and_Brown_32x32_4: 8549686062794983763
+      Chicken_Black_and_Brown_32x32_40: -5697050492949480811
+      Chicken_Black_and_Brown_32x32_41: 4308453660486832000
+      Chicken_Black_and_Brown_32x32_42: -8919956735197020020
+      Chicken_Black_and_Brown_32x32_43: -5713928091123805518
+      Chicken_Black_and_Brown_32x32_44: 6753351686782889788
+      Chicken_Black_and_Brown_32x32_45: -9072272992052741144
+      Chicken_Black_and_Brown_32x32_46: 3315945113985876280
+      Chicken_Black_and_Brown_32x32_47: 1468585191752562671
+      Chicken_Black_and_Brown_32x32_48: 7702946089283160917
+      Chicken_Black_and_Brown_32x32_49: 2869244573294490970
+      Chicken_Black_and_Brown_32x32_5: -8327789635786756848
+      Chicken_Black_and_Brown_32x32_50: 7222027834222474601
+      Chicken_Black_and_Brown_32x32_51: 213732986755392147
+      Chicken_Black_and_Brown_32x32_52: -9087028021233570097
+      Chicken_Black_and_Brown_32x32_53: 893075248641489609
+      Chicken_Black_and_Brown_32x32_54: 695933878178638362
+      Chicken_Black_and_Brown_32x32_55: -4241835364420915786
+      Chicken_Black_and_Brown_32x32_56: -3188103429762699871
+      Chicken_Black_and_Brown_32x32_57: 8132566604300060597
+      Chicken_Black_and_Brown_32x32_58: -5945742422514707085
+      Chicken_Black_and_Brown_32x32_59: -7987105999359696111
+      Chicken_Black_and_Brown_32x32_6: -7924291890174953817
+      Chicken_Black_and_Brown_32x32_60: 539999945845434649
+      Chicken_Black_and_Brown_32x32_61: 4611189643319918693
+      Chicken_Black_and_Brown_32x32_62: 4614965019518330637
+      Chicken_Black_and_Brown_32x32_63: 8118437406549566535
+      Chicken_Black_and_Brown_32x32_64: 1577450257655504666
+      Chicken_Black_and_Brown_32x32_65: 4318018756952128685
+      Chicken_Black_and_Brown_32x32_66: 4460492966866026089
+      Chicken_Black_and_Brown_32x32_67: -7447223449428430145
+      Chicken_Black_and_Brown_32x32_68: 3354626414031106730
+      Chicken_Black_and_Brown_32x32_69: 4835821611340087117
+      Chicken_Black_and_Brown_32x32_7: 2325242535064175824
+      Chicken_Black_and_Brown_32x32_70: 8161836396078023332
+      Chicken_Black_and_Brown_32x32_71: -8261131316512804596
+      Chicken_Black_and_Brown_32x32_72: 8209380330100946426
+      Chicken_Black_and_Brown_32x32_8: 8313704324443860931
+      Chicken_Black_and_Brown_32x32_9: 355108546916256196
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

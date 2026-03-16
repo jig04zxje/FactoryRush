@@ -1,0 +1,2444 @@
+fileFormatVersion: 2
+guid: d6d7e9efdbd47ce439a7d2cb36f270d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9030455647872629675
+    second: Chick_32x32_0
+  - first:
+      213: -4080534207283382156
+    second: Chick_32x32_1
+  - first:
+      213: -8201650130886888455
+    second: Chick_32x32_2
+  - first:
+      213: 7466262752902143435
+    second: Chick_32x32_3
+  - first:
+      213: -8826374978548357335
+    second: Chick_32x32_4
+  - first:
+      213: 1640989506206174395
+    second: Chick_32x32_5
+  - first:
+      213: -8741008437461952835
+    second: Chick_32x32_6
+  - first:
+      213: 8004317986605430642
+    second: Chick_32x32_7
+  - first:
+      213: -2604980865652363135
+    second: Chick_32x32_8
+  - first:
+      213: -6948180117132055213
+    second: Chick_32x32_9
+  - first:
+      213: -6714462240525586686
+    second: Chick_32x32_10
+  - first:
+      213: 2910409707288427559
+    second: Chick_32x32_11
+  - first:
+      213: -5302775451048609540
+    second: Chick_32x32_12
+  - first:
+      213: -2366598648001623474
+    second: Chick_32x32_13
+  - first:
+      213: -8094981021714824970
+    second: Chick_32x32_14
+  - first:
+      213: -8550383609543823911
+    second: Chick_32x32_15
+  - first:
+      213: -520543657161797065
+    second: Chick_32x32_16
+  - first:
+      213: 6561039117714556569
+    second: Chick_32x32_17
+  - first:
+      213: -7088107209730769622
+    second: Chick_32x32_18
+  - first:
+      213: 5504339454971236356
+    second: Chick_32x32_19
+  - first:
+      213: -4907240589607055223
+    second: Chick_32x32_20
+  - first:
+      213: -2612992761861666722
+    second: Chick_32x32_21
+  - first:
+      213: 6135740510512526200
+    second: Chick_32x32_22
+  - first:
+      213: 175948332147490370
+    second: Chick_32x32_23
+  - first:
+      213: 4183233354919606052
+    second: Chick_32x32_24
+  - first:
+      213: -9174720099217774740
+    second: Chick_32x32_25
+  - first:
+      213: 8077132878711741395
+    second: Chick_32x32_26
+  - first:
+      213: -6700666429048720774
+    second: Chick_32x32_27
+  - first:
+      213: -5695970465806903936
+    second: Chick_32x32_28
+  - first:
+      213: -6910745168418505616
+    second: Chick_32x32_29
+  - first:
+      213: 5229530228915732835
+    second: Chick_32x32_30
+  - first:
+      213: -2175663780734692969
+    second: Chick_32x32_31
+  - first:
+      213: 5513893823210109927
+    second: Chick_32x32_32
+  - first:
+      213: 1035990485833625515
+    second: Chick_32x32_33
+  - first:
+      213: -5608102809207609633
+    second: Chick_32x32_34
+  - first:
+      213: 553913006306914619
+    second: Chick_32x32_35
+  - first:
+      213: 7344314513162587593
+    second: Chick_32x32_36
+  - first:
+      213: -4437719281240393578
+    second: Chick_32x32_37
+  - first:
+      213: -1225180152660234228
+    second: Chick_32x32_38
+  - first:
+      213: 79734081797850497
+    second: Chick_32x32_39
+  - first:
+      213: 7103837097482566410
+    second: Chick_32x32_40
+  - first:
+      213: 9100684340905400907
+    second: Chick_32x32_41
+  - first:
+      213: 2301752045253855819
+    second: Chick_32x32_42
+  - first:
+      213: 6481828716192549146
+    second: Chick_32x32_43
+  - first:
+      213: 6401713893991185660
+    second: Chick_32x32_44
+  - first:
+      213: 2051248519636128580
+    second: Chick_32x32_45
+  - first:
+      213: -143442392060132480
+    second: Chick_32x32_46
+  - first:
+      213: 507392180638648906
+    second: Chick_32x32_47
+  - first:
+      213: -3752981357138890013
+    second: Chick_32x32_48
+  - first:
+      213: 4597382845860539896
+    second: Chick_32x32_49
+  - first:
+      213: 6216362483032777517
+    second: Chick_32x32_50
+  - first:
+      213: -1109191821940280371
+    second: Chick_32x32_51
+  - first:
+      213: -6384026870270713475
+    second: Chick_32x32_52
+  - first:
+      213: -6441168699611425973
+    second: Chick_32x32_53
+  - first:
+      213: -6444017184697255430
+    second: Chick_32x32_54
+  - first:
+      213: 4891053264642328443
+    second: Chick_32x32_55
+  - first:
+      213: -6767283900631735225
+    second: Chick_32x32_56
+  - first:
+      213: 1135124982942589920
+    second: Chick_32x32_57
+  - first:
+      213: -1423611614957746359
+    second: Chick_32x32_58
+  - first:
+      213: -2052655243948117032
+    second: Chick_32x32_59
+  - first:
+      213: -2723344100867721977
+    second: Chick_32x32_60
+  - first:
+      213: -2322682405397488269
+    second: Chick_32x32_61
+  - first:
+      213: -2829153859056883841
+    second: Chick_32x32_62
+  - first:
+      213: 2018802020287038627
+    second: Chick_32x32_63
+  - first:
+      213: 7051482881328076167
+    second: Chick_32x32_64
+  - first:
+      213: 8419381137328497780
+    second: Chick_32x32_65
+  - first:
+      213: 4931553222088080792
+    second: Chick_32x32_66
+  - first:
+      213: -8571742433902860963
+    second: Chick_32x32_67
+  - first:
+      213: -6039602026174245287
+    second: Chick_32x32_68
+  - first:
+      213: -9201992243139558209
+    second: Chick_32x32_69
+  - first:
+      213: -3272714161913335702
+    second: Chick_32x32_70
+  - first:
+      213: -287906497044427546
+    second: Chick_32x32_71
+  - first:
+      213: -6734037484698527917
+    second: Chick_32x32_72
+  - first:
+      213: 986579586513669508
+    second: Chick_32x32_73
+  - first:
+      213: -2848936762602559277
+    second: Chick_32x32_74
+  - first:
+      213: -8395044060997847472
+    second: Chick_32x32_75
+  - first:
+      213: 6528850446373590607
+    second: Chick_32x32_76
+  - first:
+      213: 3458352898163840250
+    second: Chick_32x32_77
+  - first:
+      213: -1935650169349988915
+    second: Chick_32x32_78
+  - first:
+      213: 8772210861579152461
+    second: Chick_32x32_79
+  - first:
+      213: -7207260811935645465
+    second: Chick_32x32_80
+  - first:
+      213: 7172289172572286764
+    second: Chick_32x32_81
+  - first:
+      213: 6657435696275595431
+    second: Chick_32x32_82
+  - first:
+      213: 8535096027639257085
+    second: Chick_32x32_83
+  - first:
+      213: 3200813500264130236
+    second: Chick_32x32_84
+  - first:
+      213: -7900521264729967221
+    second: Chick_32x32_85
+  - first:
+      213: 953372177436389380
+    second: Chick_32x32_86
+  - first:
+      213: -2238921026166267591
+    second: Chick_32x32_87
+  - first:
+      213: -4723070397495372763
+    second: Chick_32x32_88
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chick_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 97
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554c1a40f606da280800000000000000
+      internalID: -9030455647872629675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 97
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4783b0112c70f57c0800000000000000
+      internalID: -4080534207283382156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 97
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3737009a2ed2e80800000000000000
+      internalID: -8201650130886888455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 99
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd56727a6e7d9760800000000000000
+      internalID: 7466262752902143435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 95
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927aa3d98ba628580800000000000000
+      internalID: -8826374978548357335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 95
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc0095f247f5c610800000000000000
+      internalID: 1640989506206174395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 95
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db653625323b1b680800000000000000
+      internalID: -8741008437461952835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 105
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277f2e4dccc051f60800000000000000
+      internalID: 8004317986605430642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 95
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180f91854bf39dbd0800000000000000
+      internalID: -2604980865652363135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 95
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d69ea1ffa139f90800000000000000
+      internalID: -6948180117132055213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 95
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20fe2bfba2071d2a0800000000000000
+      internalID: -6714462240525586686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 95
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c76c1753ad36820800000000000000
+      internalID: 2910409707288427559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 105
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8f59492d1c866b0800000000000000
+      internalID: -5302775451048609540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 95
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a81f38117282fd0800000000000000
+      internalID: -2366598648001623474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 95
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0c82956a9d8af80800000000000000
+      internalID: -8094981021714824970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 95
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd61d3b86fe65980800000000000000
+      internalID: -8550383609543823911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 95
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732d9c04d48a6c8f0800000000000000
+      internalID: -520543657161797065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 65
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99681d0d05e7d0b50800000000000000
+      internalID: 6561039117714556569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 65
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2dbc121c0cf1ad90800000000000000
+      internalID: -7088107209730769622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 65
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4005ab03297536c40800000000000000
+      internalID: 5504339454971236356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 65
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980d715feaaf5ebb0800000000000000
+      internalID: -4907240589607055223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 65
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5881946de8ccbbd0800000000000000
+      internalID: -2612992761861666722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 65
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873b21b5c77862550800000000000000
+      internalID: 6135740510512526200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 65
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e397c6318117200800000000000000
+      internalID: 175948332147490370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 65
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4277c849294dd0a30800000000000000
+      internalID: 4183233354919606052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 65
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67ec74fda8dca080800000000000000
+      internalID: -9174720099217774740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 65
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbdd370f8db71070800000000000000
+      internalID: 8077132878711741395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 65
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a727a2a62637203a0800000000000000
+      internalID: -6700666429048720774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 65
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08596763a09d3f0b0800000000000000
+      internalID: -5695970465806903936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 65
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cfa2f42e91810a0800000000000000
+      internalID: -6910745168418505616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_30
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 65
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36180b43906039840800000000000000
+      internalID: 5229530228915732835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_31
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 65
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79110ae815d7ec1e0800000000000000
+      internalID: -2175663780734692969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_32
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 65
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebb8a5e739458c40800000000000000
+      internalID: 5513893823210109927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_33
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 65
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf2cc2abd3906e00800000000000000
+      internalID: 1035990485833625515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_34
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 65
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd66f4145340c22b0800000000000000
+      internalID: -5608102809207609633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_35
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 67
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b317469c1f4efa700800000000000000
+      internalID: 553913006306914619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_36
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 67
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd4dcb432f3ce560800000000000000
+      internalID: 7344314513162587593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_37
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 67
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698b3c463dd0a62c0800000000000000
+      internalID: -4437719281240393578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_38
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 67
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00f3d674294ffee0800000000000000
+      internalID: -1225180152660234228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_39
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 69
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1858d0699b54b1100800000000000000
+      internalID: 79734081797850497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_40
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 69
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bb0b1d336e59260800000000000000
+      internalID: 7103837097482566410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_41
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 33
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a50a8c0302c4e70800000000000000
+      internalID: 9100684340905400907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_42
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 33
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a826a3a4771ff10800000000000000
+      internalID: 2301752045253855819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_43
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 33
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19459b00e414f950800000000000000
+      internalID: 6481828716192549146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_44
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 33
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfcf60d6ed477d850800000000000000
+      internalID: 6401713893991185660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_45
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 33
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44315fe19af777c10800000000000000
+      internalID: 2051248519636128580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_46
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 33
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083068787e3620ef0800000000000000
+      internalID: -143442392060132480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_47
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 33
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a07c0008e9a0700800000000000000
+      internalID: 507392180638648906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_48
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 33
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2b21ff65bbaebc0800000000000000
+      internalID: -3752981357138890013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_49
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 33
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fdedff175f2dcf30800000000000000
+      internalID: 4597382845860539896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_50
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 33
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23eb3c1eb4f44650800000000000000
+      internalID: 6216362483032777517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_51
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 33
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc33b792aeb5b90f0800000000000000
+      internalID: -1109191821940280371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_52
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 33
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7127f0b2616767a0800000000000000
+      internalID: -6384026870270713475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_53
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 33
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43db49c13f5c96a0800000000000000
+      internalID: -6441168699611425973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_54
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 33
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af97b9b23804296a0800000000000000
+      internalID: -6444017184697255430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_55
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 33
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b774580c70380e340800000000000000
+      internalID: 4891053264642328443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_56
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 33
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74420a0a527c512a0800000000000000
+      internalID: -6767283900631735225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_57
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 33
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3e6f76826c0cf00800000000000000
+      internalID: 1135124982942589920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_58
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 33
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947c25067c05e3ce0800000000000000
+      internalID: -1423611614957746359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_59
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 31
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3312a5ee08383e0800000000000000
+      internalID: -2052655243948117032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_60
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 33
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705bf9a18fcb43ad0800000000000000
+      internalID: -2723344100867721977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_61
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 31
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d9b3c88ac24cfd0800000000000000
+      internalID: -2322682405397488269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_62
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 33
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f772dfffd83dcb8d0800000000000000
+      internalID: -2829153859056883841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_63
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 31
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4cc0bcdb9340c10800000000000000
+      internalID: 2018802020287038627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_64
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 33
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785de49f156ebd160800000000000000
+      internalID: 7051482881328076167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_65
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474e61f5986a7d470800000000000000
+      internalID: 8419381137328497780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_66
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d3e79e685607440800000000000000
+      internalID: 4931553222088080792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_67
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55e311ebad0b0980800000000000000
+      internalID: -8571742433902860963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_68
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9569725d4f50f2ca0800000000000000
+      internalID: -6039602026174245287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_69
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb444c12fc4fb4080800000000000000
+      internalID: -9201992243139558209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_70
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60f3cf2fcbf492d0800000000000000
+      internalID: -3272714161913335702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_71
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ecc32bf096210cf0800000000000000
+      internalID: -287906497044427546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_72
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357116c0694eb82a0800000000000000
+      internalID: -6734037484698527917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_73
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d8cc428e801bd00800000000000000
+      internalID: 986579586513669508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_74
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8e585db1b8678d0800000000000000
+      internalID: -2848936762602559277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_75
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0567876c7efce7b80800000000000000
+      internalID: -8395044060997847472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_76
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f469fbfb3e22b9a50800000000000000
+      internalID: 6528850446373590607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_77
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af49ff243a98eff20800000000000000
+      internalID: 3458352898163840250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_78
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd187e2d603325e0800000000000000
+      internalID: -1935650169349988915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_79
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4caf3b2d472db970800000000000000
+      internalID: 8772210861579152461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_80
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e08bfc2a7aaafb90800000000000000
+      internalID: -7207260811935645465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_81
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f2d858007198360800000000000000
+      internalID: 7172289172572286764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_82
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0238f3e76f36c50800000000000000
+      internalID: 6657435696275595431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_83
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 3
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df71943cd90c27670800000000000000
+      internalID: 8535096027639257085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_84
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 3
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6a48b7be29b6c20800000000000000
+      internalID: 3200813500264130236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_85
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 3
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85b95bb4c5bb5290800000000000000
+      internalID: -7900521264729967221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_86
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 3
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40036d6b1fe0b3d00800000000000000
+      internalID: 953372177436389380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_87
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 3
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931e4336031cde0e0800000000000000
+      internalID: -2238921026166267591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chick_32x32_88
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 3
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52410245f78447eb0800000000000000
+      internalID: -4723070397495372763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Chick_32x32_0: -9030455647872629675
+      Chick_32x32_1: -4080534207283382156
+      Chick_32x32_10: -6714462240525586686
+      Chick_32x32_11: 2910409707288427559
+      Chick_32x32_12: -5302775451048609540
+      Chick_32x32_13: -2366598648001623474
+      Chick_32x32_14: -8094981021714824970
+      Chick_32x32_15: -8550383609543823911
+      Chick_32x32_16: -520543657161797065
+      Chick_32x32_17: 6561039117714556569
+      Chick_32x32_18: -7088107209730769622
+      Chick_32x32_19: 5504339454971236356
+      Chick_32x32_2: -8201650130886888455
+      Chick_32x32_20: -4907240589607055223
+      Chick_32x32_21: -2612992761861666722
+      Chick_32x32_22: 6135740510512526200
+      Chick_32x32_23: 175948332147490370
+      Chick_32x32_24: 4183233354919606052
+      Chick_32x32_25: -9174720099217774740
+      Chick_32x32_26: 8077132878711741395
+      Chick_32x32_27: -6700666429048720774
+      Chick_32x32_28: -5695970465806903936
+      Chick_32x32_29: -6910745168418505616
+      Chick_32x32_3: 7466262752902143435
+      Chick_32x32_30: 5229530228915732835
+      Chick_32x32_31: -2175663780734692969
+      Chick_32x32_32: 5513893823210109927
+      Chick_32x32_33: 1035990485833625515
+      Chick_32x32_34: -5608102809207609633
+      Chick_32x32_35: 553913006306914619
+      Chick_32x32_36: 7344314513162587593
+      Chick_32x32_37: -4437719281240393578
+      Chick_32x32_38: -1225180152660234228
+      Chick_32x32_39: 79734081797850497
+      Chick_32x32_4: -8826374978548357335
+      Chick_32x32_40: 7103837097482566410
+      Chick_32x32_41: 9100684340905400907
+      Chick_32x32_42: 2301752045253855819
+      Chick_32x32_43: 6481828716192549146
+      Chick_32x32_44: 6401713893991185660
+      Chick_32x32_45: 2051248519636128580
+      Chick_32x32_46: -143442392060132480
+      Chick_32x32_47: 507392180638648906
+      Chick_32x32_48: -3752981357138890013
+      Chick_32x32_49: 4597382845860539896
+      Chick_32x32_5: 1640989506206174395
+      Chick_32x32_50: 6216362483032777517
+      Chick_32x32_51: -1109191821940280371
+      Chick_32x32_52: -6384026870270713475
+      Chick_32x32_53: -6441168699611425973
+      Chick_32x32_54: -6444017184697255430
+      Chick_32x32_55: 4891053264642328443
+      Chick_32x32_56: -6767283900631735225
+      Chick_32x32_57: 1135124982942589920
+      Chick_32x32_58: -1423611614957746359
+      Chick_32x32_59: -2052655243948117032
+      Chick_32x32_6: -8741008437461952835
+      Chick_32x32_60: -2723344100867721977
+      Chick_32x32_61: -2322682405397488269
+      Chick_32x32_62: -2829153859056883841
+      Chick_32x32_63: 2018802020287038627
+      Chick_32x32_64: 7051482881328076167
+      Chick_32x32_65: 8419381137328497780
+      Chick_32x32_66: 4931553222088080792
+      Chick_32x32_67: -8571742433902860963
+      Chick_32x32_68: -6039602026174245287
+      Chick_32x32_69: -9201992243139558209
+      Chick_32x32_7: 8004317986605430642
+      Chick_32x32_70: -3272714161913335702
+      Chick_32x32_71: -287906497044427546
+      Chick_32x32_72: -6734037484698527917
+      Chick_32x32_73: 986579586513669508
+      Chick_32x32_74: -2848936762602559277
+      Chick_32x32_75: -8395044060997847472
+      Chick_32x32_76: 6528850446373590607
+      Chick_32x32_77: 3458352898163840250
+      Chick_32x32_78: -1935650169349988915
+      Chick_32x32_79: 8772210861579152461
+      Chick_32x32_8: -2604980865652363135
+      Chick_32x32_80: -7207260811935645465
+      Chick_32x32_81: 7172289172572286764
+      Chick_32x32_82: 6657435696275595431
+      Chick_32x32_83: 8535096027639257085
+      Chick_32x32_84: 3200813500264130236
+      Chick_32x32_85: -7900521264729967221
+      Chick_32x32_86: 953372177436389380
+      Chick_32x32_87: -2238921026166267591
+      Chick_32x32_88: -4723070397495372763
+      Chick_32x32_9: -6948180117132055213
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

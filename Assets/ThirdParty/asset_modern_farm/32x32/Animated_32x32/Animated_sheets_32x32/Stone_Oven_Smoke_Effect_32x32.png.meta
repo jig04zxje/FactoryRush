@@ -1,0 +1,1118 @@
+fileFormatVersion: 2
+guid: 4295a6c03310fe244911a4bd2bdd8166
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1656253357390301450
+    second: Stone_Oven_Smoke_Effect_32x32_0
+  - first:
+      213: 8589405350913629290
+    second: Stone_Oven_Smoke_Effect_32x32_1
+  - first:
+      213: 3837485349153302132
+    second: Stone_Oven_Smoke_Effect_32x32_2
+  - first:
+      213: 4397435108096112283
+    second: Stone_Oven_Smoke_Effect_32x32_3
+  - first:
+      213: 6836857866523648962
+    second: Stone_Oven_Smoke_Effect_32x32_4
+  - first:
+      213: 8547244275603143785
+    second: Stone_Oven_Smoke_Effect_32x32_5
+  - first:
+      213: -6056556105544775206
+    second: Stone_Oven_Smoke_Effect_32x32_6
+  - first:
+      213: -1366528745006565748
+    second: Stone_Oven_Smoke_Effect_32x32_7
+  - first:
+      213: 2051434665490990214
+    second: Stone_Oven_Smoke_Effect_32x32_8
+  - first:
+      213: 8781543723254289882
+    second: Stone_Oven_Smoke_Effect_32x32_9
+  - first:
+      213: 8667559689709596452
+    second: Stone_Oven_Smoke_Effect_32x32_10
+  - first:
+      213: -4437674503639228623
+    second: Stone_Oven_Smoke_Effect_32x32_11
+  - first:
+      213: -4231027991535424524
+    second: Stone_Oven_Smoke_Effect_32x32_12
+  - first:
+      213: -3603794367995876130
+    second: Stone_Oven_Smoke_Effect_32x32_13
+  - first:
+      213: 2280546330396254135
+    second: Stone_Oven_Smoke_Effect_32x32_14
+  - first:
+      213: -1368399595445184067
+    second: Stone_Oven_Smoke_Effect_32x32_15
+  - first:
+      213: 7028457066174114239
+    second: Stone_Oven_Smoke_Effect_32x32_16
+  - first:
+      213: 6454991254424502499
+    second: Stone_Oven_Smoke_Effect_32x32_17
+  - first:
+      213: 6469441023862342370
+    second: Stone_Oven_Smoke_Effect_32x32_18
+  - first:
+      213: 4726552364737147430
+    second: Stone_Oven_Smoke_Effect_32x32_19
+  - first:
+      213: -2569659672712060684
+    second: Stone_Oven_Smoke_Effect_32x32_20
+  - first:
+      213: -8510392173855159888
+    second: Stone_Oven_Smoke_Effect_32x32_21
+  - first:
+      213: 6266134966992593390
+    second: Stone_Oven_Smoke_Effect_32x32_22
+  - first:
+      213: -8246056355081020997
+    second: Stone_Oven_Smoke_Effect_32x32_23
+  - first:
+      213: -473455605839455172
+    second: Stone_Oven_Smoke_Effect_32x32_24
+  - first:
+      213: -1645320929102456847
+    second: Stone_Oven_Smoke_Effect_32x32_25
+  - first:
+      213: -5138441077806337242
+    second: Stone_Oven_Smoke_Effect_32x32_26
+  - first:
+      213: -9053263517649535851
+    second: Stone_Oven_Smoke_Effect_32x32_27
+  - first:
+      213: 91425338600488277
+    second: Stone_Oven_Smoke_Effect_32x32_28
+  - first:
+      213: -7980986321494803691
+    second: Stone_Oven_Smoke_Effect_32x32_29
+  - first:
+      213: -864800991779411470
+    second: Stone_Oven_Smoke_Effect_32x32_30
+  - first:
+      213: 3832313262790537728
+    second: Stone_Oven_Smoke_Effect_32x32_31
+  - first:
+      213: -5367839701835432402
+    second: Stone_Oven_Smoke_Effect_32x32_32
+  - first:
+      213: -4241126658898476665
+    second: Stone_Oven_Smoke_Effect_32x32_33
+  - first:
+      213: 7033022337544896062
+    second: Stone_Oven_Smoke_Effect_32x32_34
+  - first:
+      213: 4220338723493093267
+    second: Stone_Oven_Smoke_Effect_32x32_35
+  - first:
+      213: -3794690557048010138
+    second: Stone_Oven_Smoke_Effect_32x32_36
+  - first:
+      213: 1400638238411289297
+    second: Stone_Oven_Smoke_Effect_32x32_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stone_Oven_Smoke_Effect_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 121
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6f3beb85ec309e0800000000000000
+      internalID: -1656253357390301450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Oven_Smoke_Effect_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 121
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6cdb0578a2b33770800000000000000
+      internalID: 8589405350913629290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Oven_Smoke_Effect_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 95
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4766c0bd79c714530800000000000000
+      internalID: 3837485349153302132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Oven_Smoke_Effect_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 103
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9676e4aee3d60d30800000000000000
+      internalID: 4397435108096112283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Oven_Smoke_Effect_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 103
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c32af1a10661ee50800000000000000
+      internalID: 6836857866523648962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Oven_Smoke_Effect_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 109
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96cf0d72269ed9670800000000000000
+      internalID: 8547244275603143785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Oven_Smoke_Effect_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 107
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9c7ce9f4ac2fba0800000000000000
+      internalID: -6056556105544775206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Oven_Smoke_Effect_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 113
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86f58ab85d190de0800000000000000
+      internalID: -1366528745006565748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Oven_Smoke_Effect_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 113
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684438495f8287c10800000000000000
+      internalID: 2051434665490990214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Oven_Smoke_Effect_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 115
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5122c5d7f4ed970800000000000000
+      internalID: 8781543723254289882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Oven_Smoke_Effect_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 113
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fa2a67d9b594870800000000000000
+      internalID: 8667559689709596452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Oven_Smoke_Effect_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 117
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f96cdfc863a62c0800000000000000
+      internalID: -4437674503639228623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Oven_Smoke_Effect_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 117
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbebc9657e5845c0800000000000000
+      internalID: -4231027991535424524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Oven_Smoke_Effect_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 83
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc6d04bd10ccfdc0800000000000000
+      internalID: -3603794367995876130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Oven_Smoke_Effect_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 87
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bfd61dfdc026af10800000000000000
+      internalID: 2280546330396254135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Oven_Smoke_Effect_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 89
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db993ba61d7720de0800000000000000
+      internalID: -1368399595445184067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Oven_Smoke_Effect_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 93
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9646c96781a8160800000000000000
+      internalID: 7028457066174114239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Oven_Smoke_Effect_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 97
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0c93c885cb49950800000000000000
+      internalID: 6454991254424502499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Oven_Smoke_Effect_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 19
+        width: 72
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e287aaa55218c950800000000000000
+      internalID: 6469441023862342370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Oven_Smoke_Effect_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 19
+        width: 76
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622b0785556189140800000000000000
+      internalID: 4726552364737147430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Oven_Smoke_Effect_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 19
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0e95e642cb65cd0800000000000000
+      internalID: -2569659672712060684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Oven_Smoke_Effect_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 67
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9491a686305e980800000000000000
+      internalID: -8510392173855159888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Oven_Smoke_Effect_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 77
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee16f369d88c5f650800000000000000
+      internalID: 6266134966992593390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Oven_Smoke_Effect_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 77
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb91b8d3f6f109d80800000000000000
+      internalID: -8246056355081020997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Oven_Smoke_Effect_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 65
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c950d82a2fd69f0800000000000000
+      internalID: -473455605839455172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Oven_Smoke_Effect_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 61
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7155f0555aa29e0800000000000000
+      internalID: -1645320929102456847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Oven_Smoke_Effect_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 71
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623f31a701790b8b0800000000000000
+      internalID: -5138441077806337242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Oven_Smoke_Effect_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 21
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cfe740cc85c5280800000000000000
+      internalID: -9053263517649535851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Oven_Smoke_Effect_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 21
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d70ce6cdec44100800000000000000
+      internalID: 91425338600488277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Oven_Smoke_Effect_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 61
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bfc06c937dd3190800000000000000
+      internalID: -7980986321494803691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Oven_Smoke_Effect_32x32_30
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 57
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f92593741c9ff3f0800000000000000
+      internalID: -864800991779411470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Oven_Smoke_Effect_32x32_31
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 57
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002f5a8ab9c1f2530800000000000000
+      internalID: 3832313262790537728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Oven_Smoke_Effect_32x32_32
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 21
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e3cd03b3a9185b0800000000000000
+      internalID: -5367839701835432402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Oven_Smoke_Effect_32x32_33
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 61
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781cae036cd7425c0800000000000000
+      internalID: -4241126658898476665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Oven_Smoke_Effect_32x32_34
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 53
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e30cead805a9160800000000000000
+      internalID: 7033022337544896062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Oven_Smoke_Effect_32x32_35
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 53
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f91ad65b7a19a30800000000000000
+      internalID: 4220338723493093267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Oven_Smoke_Effect_32x32_36
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 21
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66acf922b0d865bc0800000000000000
+      internalID: -3794690557048010138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Oven_Smoke_Effect_32x32_37
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 19
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d275539e01107310800000000000000
+      internalID: 1400638238411289297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Stone_Oven_Smoke_Effect_32x32_0: -1656253357390301450
+      Stone_Oven_Smoke_Effect_32x32_1: 8589405350913629290
+      Stone_Oven_Smoke_Effect_32x32_10: 8667559689709596452
+      Stone_Oven_Smoke_Effect_32x32_11: -4437674503639228623
+      Stone_Oven_Smoke_Effect_32x32_12: -4231027991535424524
+      Stone_Oven_Smoke_Effect_32x32_13: -3603794367995876130
+      Stone_Oven_Smoke_Effect_32x32_14: 2280546330396254135
+      Stone_Oven_Smoke_Effect_32x32_15: -1368399595445184067
+      Stone_Oven_Smoke_Effect_32x32_16: 7028457066174114239
+      Stone_Oven_Smoke_Effect_32x32_17: 6454991254424502499
+      Stone_Oven_Smoke_Effect_32x32_18: 6469441023862342370
+      Stone_Oven_Smoke_Effect_32x32_19: 4726552364737147430
+      Stone_Oven_Smoke_Effect_32x32_2: 3837485349153302132
+      Stone_Oven_Smoke_Effect_32x32_20: -2569659672712060684
+      Stone_Oven_Smoke_Effect_32x32_21: -8510392173855159888
+      Stone_Oven_Smoke_Effect_32x32_22: 6266134966992593390
+      Stone_Oven_Smoke_Effect_32x32_23: -8246056355081020997
+      Stone_Oven_Smoke_Effect_32x32_24: -473455605839455172
+      Stone_Oven_Smoke_Effect_32x32_25: -1645320929102456847
+      Stone_Oven_Smoke_Effect_32x32_26: -5138441077806337242
+      Stone_Oven_Smoke_Effect_32x32_27: -9053263517649535851
+      Stone_Oven_Smoke_Effect_32x32_28: 91425338600488277
+      Stone_Oven_Smoke_Effect_32x32_29: -7980986321494803691
+      Stone_Oven_Smoke_Effect_32x32_3: 4397435108096112283
+      Stone_Oven_Smoke_Effect_32x32_30: -864800991779411470
+      Stone_Oven_Smoke_Effect_32x32_31: 3832313262790537728
+      Stone_Oven_Smoke_Effect_32x32_32: -5367839701835432402
+      Stone_Oven_Smoke_Effect_32x32_33: -4241126658898476665
+      Stone_Oven_Smoke_Effect_32x32_34: 7033022337544896062
+      Stone_Oven_Smoke_Effect_32x32_35: 4220338723493093267
+      Stone_Oven_Smoke_Effect_32x32_36: -3794690557048010138
+      Stone_Oven_Smoke_Effect_32x32_37: 1400638238411289297
+      Stone_Oven_Smoke_Effect_32x32_4: 6836857866523648962
+      Stone_Oven_Smoke_Effect_32x32_5: 8547244275603143785
+      Stone_Oven_Smoke_Effect_32x32_6: -6056556105544775206
+      Stone_Oven_Smoke_Effect_32x32_7: -1366528745006565748
+      Stone_Oven_Smoke_Effect_32x32_8: 2051434665490990214
+      Stone_Oven_Smoke_Effect_32x32_9: 8781543723254289882
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

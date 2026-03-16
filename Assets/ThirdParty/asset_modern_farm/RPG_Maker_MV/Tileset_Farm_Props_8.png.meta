@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: cf55f094241de7e43992a35f08a4efd0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9042766200343171648
+    second: Tileset_Farm_Props_8_0
+  - first:
+      213: -1134358478267154683
+    second: Tileset_Farm_Props_8_1
+  - first:
+      213: 6342145576770532123
+    second: Tileset_Farm_Props_8_2
+  - first:
+      213: -6303827932220284184
+    second: Tileset_Farm_Props_8_3
+  - first:
+      213: -3185468065904578278
+    second: Tileset_Farm_Props_8_4
+  - first:
+      213: -7306508810213517630
+    second: Tileset_Farm_Props_8_5
+  - first:
+      213: -5027468841752540746
+    second: Tileset_Farm_Props_8_6
+  - first:
+      213: 4284160888165470005
+    second: Tileset_Farm_Props_8_7
+  - first:
+      213: -8064922979751970585
+    second: Tileset_Farm_Props_8_8
+  - first:
+      213: 1372422406499263629
+    second: Tileset_Farm_Props_8_9
+  - first:
+      213: -5603181060891687101
+    second: Tileset_Farm_Props_8_10
+  - first:
+      213: -4453067061981318507
+    second: Tileset_Farm_Props_8_11
+  - first:
+      213: -3797996715572393133
+    second: Tileset_Farm_Props_8_12
+  - first:
+      213: -9058673195817488002
+    second: Tileset_Farm_Props_8_13
+  - first:
+      213: -8996850744177669572
+    second: Tileset_Farm_Props_8_14
+  - first:
+      213: -6710181575016312172
+    second: Tileset_Farm_Props_8_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset_Farm_Props_8_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 623
+        width: 193
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0421d56d2fb5e7d70800000000000000
+      internalID: 9042766200343171648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Farm_Props_8_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 623
+        width: 146
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ffeee59f2f140f0800000000000000
+      internalID: -1134358478267154683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Farm_Props_8_2
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 479
+        width: 338
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13f839ccc3d30850800000000000000
+      internalID: 6342145576770532123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Farm_Props_8_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 527
+        width: 145
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e223de05ed4488a0800000000000000
+      internalID: -6303827932220284184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Farm_Props_8_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 527
+        width: 146
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a113860eba1fac3d0800000000000000
+      internalID: -3185468065904578278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Farm_Props_8_5
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 431
+        width: 98
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c616fad2f01a9a90800000000000000
+      internalID: -7306508810213517630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Farm_Props_8_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 385
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9ceff99b7da3ab0800000000000000
+      internalID: -5027468841752540746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Farm_Props_8_7
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 404
+        width: 50
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f89bb11a5647b30800000000000000
+      internalID: 4284160888165470005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Farm_Props_8_8
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 383
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8bffa9743a31090800000000000000
+      internalID: -8064922979751970585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Farm_Props_8_9
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 95
+        width: 284
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84ec2548e2db0310800000000000000
+      internalID: 1372422406499263629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Farm_Props_8_10
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 335
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347ca5513808d32b0800000000000000
+      internalID: -5603181060891687101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Farm_Props_8_11
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 335
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5927c99b9178332c0800000000000000
+      internalID: -4453067061981318507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Farm_Props_8_12
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 239
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b053e1c1eca4bc0800000000000000
+      internalID: -3797996715572393133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Farm_Props_8_13
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 239
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7132fa29b0294280800000000000000
+      internalID: -9058673195817488002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Farm_Props_8_14
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 143
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ac4106ae3c42380800000000000000
+      internalID: -8996850744177669572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Farm_Props_8_15
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 143
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49218cad865a0e2a0800000000000000
+      internalID: -6710181575016312172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tileset_Farm_Props_8_0: 9042766200343171648
+      Tileset_Farm_Props_8_1: -1134358478267154683
+      Tileset_Farm_Props_8_10: -5603181060891687101
+      Tileset_Farm_Props_8_11: -4453067061981318507
+      Tileset_Farm_Props_8_12: -3797996715572393133
+      Tileset_Farm_Props_8_13: -9058673195817488002
+      Tileset_Farm_Props_8_14: -8996850744177669572
+      Tileset_Farm_Props_8_15: -6710181575016312172
+      Tileset_Farm_Props_8_2: 6342145576770532123
+      Tileset_Farm_Props_8_3: -6303827932220284184
+      Tileset_Farm_Props_8_4: -3185468065904578278
+      Tileset_Farm_Props_8_5: -7306508810213517630
+      Tileset_Farm_Props_8_6: -5027468841752540746
+      Tileset_Farm_Props_8_7: 4284160888165470005
+      Tileset_Farm_Props_8_8: -8064922979751970585
+      Tileset_Farm_Props_8_9: 1372422406499263629
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

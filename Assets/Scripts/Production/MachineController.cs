@@ -1,8 +1,9 @@
+using FactoryRush.Scripts.Map;
+using FactoryRush.Scripts.ScriptableObjects.Definitions;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
-using FactoryRush.Scripts.ScriptableObjects.Definitions;
 
 namespace FactoryRush.Scripts.Production
 {
@@ -142,7 +143,73 @@ namespace FactoryRush.Scripts.Production
                 _productionCoroutine = StartCoroutine(ProductionCycle());
             }
         }
+        // ─────────────────────────────────────────────────────────────────────
+        #region Interaction Handling (Mouse Clicks)
 
+        private void OnMouseDown()
+        {
+           
+            // 1. Check if in ddemolish mode
+            if (Map.BuildingUnlockSystem.Instance != null && Map.BuildingUnlockSystem.Instance.isDemolishMode)
+            {
+                //Get destroy object
+                Map.GridSlot parentSlot = GetComponentInParent<Map.GridSlot>();
+                if (parentSlot != null)
+                {
+                    Map.BuildingUnlockSystem.Instance.DemolishBuildingOnSlot(parentSlot);
+                }
+                else
+                {
+                    Debug.LogWarning($"[MachineController] Không tìm thấy GridSlot cha cho máy {GetMachineName()} để phá dỡ!");
+                }
+            }
+            else if (currentState == MachineState.ReadyToHarvest)
+            {
+                Harvest();
+            }
+        }
+        private void OnMouseEnter()
+        {
+            if (Map.SlotTooltipManager.Instance == null) return;
+
+            //if in demolish mode
+            if (Map.BuildingUnlockSystem.Instance.isDemolishMode)
+            {
+                Map.SlotTooltipManager.Instance.ShowTooltip("Press to destroy");
+
+                // Change color to red
+                SpriteRenderer sr = GetComponentInChildren<SpriteRenderer>();
+                if (sr != null) sr.color = Color.red;
+            }
+            else if (Map.BuildingUnlockSystem.Instance.isPlacementMode)
+            {
+                Map.SlotTooltipManager.Instance.ShowTooltip("Khu vực bị vướng");
+            }
+            else
+            {
+                string machineName = GetMachineName();
+                if (currentState == MachineState.ReadyToHarvest)
+                {
+                    Map.SlotTooltipManager.Instance.ShowTooltip($"{machineName}\n(Sẵn sàng thu hoạch)");
+                }
+                else
+                {
+                    Map.SlotTooltipManager.Instance.ShowTooltip(machineName);
+                }
+            }
+        }
+
+        private void OnMouseExit()
+        {
+            if (Map.SlotTooltipManager.Instance != null)
+            {
+                Map.SlotTooltipManager.Instance.HideTooltip();
+            }
+
+            SpriteRenderer sr = GetComponentInChildren<SpriteRenderer>();
+            if (sr != null) sr.color = Color.white;
+        }
+        #endregion
         /// <summary>Coroutine that counts time for 1 production cycle.</summary>
         private IEnumerator ProductionCycle()
         {

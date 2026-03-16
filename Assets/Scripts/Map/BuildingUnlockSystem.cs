@@ -12,9 +12,9 @@ namespace FactoryRush.Scripts.Map
         private GameObject pendingBuildingPrefab;
         private int pendingBuildingCost;
 
-        // BIẾN MỚI: Lưu trữ cái "bóng ma" đi theo chuột
         private GameObject ghostBuilding;
-
+        [Header("Demolish State")]
+        public bool isDemolishMode = false;
         private void Awake()
         {
             if (Instance == null) Instance = this;
@@ -25,22 +25,26 @@ namespace FactoryRush.Scripts.Map
         {
             if (isPlacementMode)
             {
-                // 1. LÀM BÓNG MA ĐI THEO CHUỘT
+                // 1.Make ghost building follow mouse
                 if (ghostBuilding != null)
                 {
-                    // Chuyển tọa độ chuột trên màn hình thành tọa độ thực trong game
+                    //convert to real world position
                     Vector3 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
                     mousePos.z = 0; // Đảm bảo Z = 0 cho game 2D
 
-                    // Gắn tọa độ cho bóng ma
+                    // ghost building position
                     ghostBuilding.transform.position = mousePos;
                 }
 
-                // 2. CANCEL BẰNG CHUỘT PHẢI
+                // 2. Cancel with right mouse
                 if (Input.GetMouseButtonDown(1))
                 {
                     ExitPlacementMode();
                 }
+            }
+            if (isDemolishMode && Input.GetMouseButtonDown(1))
+            {
+                ExitDemolishMode();
             }
         }
 
@@ -115,6 +119,37 @@ namespace FactoryRush.Scripts.Map
             if (ghostBuilding != null) Destroy(ghostBuilding);
 
             Debug.Log("[BuildingUnlockSystem] Đã thoát chế độ đặt nhà.");
+        }
+        public void ToggleDemolishMode()
+        {
+            if (isPlacementMode) ExitPlacementMode();
+
+            isDemolishMode = !isDemolishMode;
+            Debug.Log($"[BuildingUnlockSystem] Chế độ phá dỡ: {isDemolishMode}");
+        }
+
+        private void ExitDemolishMode()
+        {
+            isDemolishMode = false;
+            Debug.Log("[BuildingUnlockSystem] Đã thoát chế độ phá dỡ.");
+        }
+
+        public void DemolishBuildingOnSlot(GridSlot slot)
+        {
+            if (!isDemolishMode || !slot.isOccupied) return;
+
+            //Find building in slot
+            if (slot.transform.childCount > 0)
+            {
+                GameObject buildingToDestroy = slot.transform.GetChild(0).gameObject;
+                Destroy(buildingToDestroy); 
+
+                slot.SetOccupied(false); // return place
+
+                // (optional) refund gold
+
+                Debug.Log("[BuildingUnlockSystem] Đã dọn dẹp mặt bằng thành công!");
+            }
         }
     }
 }

@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &6158771984853061992
+--- !u!1 &2915693343138645188
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,48 +8,42 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 3037841148851042244}
-  - component: {fileID: 1650760720552033669}
+  - component: {fileID: 4628674482506077411}
+  - component: {fileID: 1920688653123090835}
   m_Layer: 0
-  m_Name: TimerManager
+  m_Name: PlayerInputController
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &3037841148851042244
+--- !u!4 &4628674482506077411
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6158771984853061992}
+  m_GameObject: {fileID: 2915693343138645188}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 211.43275, y: 77.77888, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -154.70247, y: 16.980179, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1650760720552033669
+--- !u!114 &1920688653123090835
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6158771984853061992}
+  m_GameObject: {fileID: 2915693343138645188}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7e1cf09ca2f96a94fbbbfc9c91c69c9e, type: 3}
+  m_Script: {fileID: 11500000, guid: f08bf1962667ca545935db970ad8d0ad, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::TimerManager
-  defaultDurationSeconds: 10
-  warningThresholdSeconds: 30
-  timeRemaining: 0
-  OnTimerWarning:
-    m_PersistentCalls:
-      m_Calls: []
-  OnTimerEnd:
-    m_PersistentCalls:
-      m_Calls: []
+  m_EditorClassIdentifier: Assembly-CSharp::FactoryRush.Scripts.Core.PlayerInputController
+  machineLayer:
+    serializedVersion: 2
+    m_Bits: 8

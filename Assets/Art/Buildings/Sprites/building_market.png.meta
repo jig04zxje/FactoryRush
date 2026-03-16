@@ -72,7 +72,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 64
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -134,16 +134,16 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: building_market_0
+      name: small_market
       rect:
         serializedVersion: 2
         x: 8
-        y: 11
-        width: 138
-        height: 462
+        y: 344
+        width: 106
+        height: 129
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 129, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -156,15 +156,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: building_market_1
+      name: big_market
       rect:
         serializedVersion: 2
-        x: 114
-        y: 151
-        width: 158
-        height: 322
+        x: 115
+        y: 343
+        width: 156
+        height: 130
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -178,15 +178,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: building_market_2
+      name: small_market_1
       rect:
         serializedVersion: 2
-        x: 174
-        y: 95
-        width: 36
-        height: 37
+        x: 7
+        y: 9
+        width: 139
+        height: 145
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -200,15 +200,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: building_market_3
+      name: cash_register
       rect:
         serializedVersion: 2
-        x: 212
-        y: 119
-        width: 28
-        height: 25
+        x: 213
+        y: 120
+        width: 26
+        height: 23
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -222,15 +222,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: building_market_4
+      name: scale
       rect:
         serializedVersion: 2
-        x: 214
-        y: 87
-        width: 26
-        height: 29
+        x: 215
+        y: 88
+        width: 24
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -244,15 +244,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: building_market_5
+      name: board_sign
       rect:
         serializedVersion: 2
-        x: 146
-        y: 25
-        width: 28
-        height: 47
+        x: 147
+        y: 26
+        width: 26
+        height: 45
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -266,15 +266,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: building_market_6
+      name: board_sign1
       rect:
         serializedVersion: 2
-        x: 178
-        y: 25
-        width: 28
-        height: 47
+        x: 179
+        y: 26
+        width: 26
+        height: 45
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -288,15 +288,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: building_market_7
+      name: board_sign2
       rect:
         serializedVersion: 2
-        x: 210
-        y: 25
-        width: 28
-        height: 47
+        x: 211
+        y: 26
+        width: 26
+        height: 45
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -313,7 +313,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 7a8f6eadc3f139440b4b538c9f53bf21
     internalID: 0
     vertices: []
     indices: 
@@ -321,16 +321,18 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      building_market_0: 6101352184918641241
-      building_market_1: 5237451508041999050
-      building_market_2: -7278522125299353248
-      building_market_3: -7566418761039448319
-      building_market_4: -7124247782317684175
-      building_market_5: -6364874444016239088
-      building_market_6: -963571152917469364
-      building_market_7: -5504154772479522557
+      big_market: 5237451508041999050
+      board_sign: -6364874444016239088
+      board_sign1: -963571152917469364
+      board_sign2: -5504154772479522557
+      cash_register: -7566418761039448319
+      scale: -7124247782317684175
+      small_market: 6101352184918641241
+      small_market_1: -7278522125299353248
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,8 +1,9 @@
+using FactoryRush.Scripts.Core;
 using System.Collections;
+using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
-using TMPro;
 
 namespace FactoryRush.Scripts.UI
 {
@@ -63,11 +64,10 @@ namespace FactoryRush.Scripts.UI
 
         private void OnPlayClicked()
         {
-            // Disable buttons to prevent multiple clicks
             if (playButton != null) playButton.interactable = false;
             if (quitButton != null) quitButton.interactable = false;
 
-            StartCoroutine(TransitionToGameScene());
+            SceneTransitionManager.Instance.LoadScene(gameSceneName);
         }
 
         private void OnQuitClicked()

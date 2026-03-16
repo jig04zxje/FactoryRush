@@ -1,0 +1,506 @@
+fileFormatVersion: 2
+guid: f90c2f433376bb2418c98b73f0786168
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6196011825038537488
+    second: building_bakery_animation_0
+  - first:
+      213: 153016806042555374
+    second: building_bakery_animation_1
+  - first:
+      213: -4882654187755988944
+    second: building_bakery_animation_2
+  - first:
+      213: -2247696386389363386
+    second: building_bakery_animation_3
+  - first:
+      213: 8213946790120420784
+    second: building_bakery_animation_4
+  - first:
+      213: 7083743161387355357
+    second: building_bakery_animation_5
+  - first:
+      213: 4958375764367598514
+    second: building_bakery_animation_6
+  - first:
+      213: 7911740498758920010
+    second: building_bakery_animation_7
+  - first:
+      213: 957875944030231736
+    second: building_bakery_animation_8
+  - first:
+      213: -3601332633456002522
+    second: building_bakery_animation_9
+  - first:
+      213: -4318324982516237767
+    second: building_bakery_animation_10
+  - first:
+      213: -8937370806980637337
+    second: building_bakery_animation_11
+  - first:
+      213: -4744422039937611835
+    second: building_bakery_animation_12
+  - first:
+      213: -7275565592513114846
+    second: building_bakery_animation_13
+  - first:
+      213: -6649813749086056824
+    second: building_bakery_animation_14
+  - first:
+      213: -274336150904779968
+    second: building_bakery_animation_15
+  - first:
+      213: -5005050877507564109
+    second: building_bakery_animation_16
+  - first:
+      213: -5949365079311042856
+    second: building_bakery_animation_17
+  - first:
+      213: 5494339202243767180
+    second: building_bakery_animation_18
+  - first:
+      213: 2442000405437802146
+    second: building_bakery_animation_19
+  - first:
+      213: -1804517571493526158
+    second: building_bakery_animation_20
+  - first:
+      213: 3504911881316480309
+    second: building_bakery_animation_21
+  - first:
+      213: 2414350868709545022
+    second: building_bakery_animation_22
+  - first:
+      213: 7979043422235415149
+    second: building_bakery_animation_23
+  - first:
+      213: 7474050195437268335
+    second: building_bakery_animation_24
+  - first:
+      213: -8313483389390216745
+    second: building_bakery_animation_25
+  - first:
+      213: 3394238827836869804
+    second: building_bakery_animation_26
+  - first:
+      213: 2482283726307914319
+    second: building_bakery_animation_27
+  - first:
+      213: 5860501507523037646
+    second: building_bakery_animation_28
+  - first:
+      213: -4498189147539720039
+    second: building_bakery_animation_29
+  - first:
+      213: -4410841612830864571
+    second: building_bakery_animation_30
+  - first:
+      213: -4224378482447461192
+    second: building_bakery_animation_31
+  - first:
+      213: -1216613907896274388
+    second: building_bakery_animation_32
+  - first:
+      213: 8721578024601076825
+    second: building_bakery_animation_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: building_bakery_animation_35
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 139
+        width: 106
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c22c838719d2d47926285bd533702f
+      internalID: -1532060898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_bakery_animation_36
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 139
+        width: 106
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd5f144918ef9c478dc297b3dedc0bb
+      internalID: -374556131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_bakery_animation_32
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 139
+        width: 106
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3f9f17176dc8347ade430cf2ba6588
+      internalID: 1596875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_bakery_animation_33
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 139
+        width: 106
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2599ba72c0cb146806b3b0826e01be
+      internalID: -504682271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_bakery_animation_34
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 139
+        width: 106
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ff0e0f4d63aa64d9bfc23f121d4cde
+      internalID: 770777150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_bakery_animation_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 139
+        width: 106
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527cd3e610c3bfe43929671d586ae8d6
+      internalID: 153016806042555374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_bakery_animation_2
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 139
+        width: 106
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde18b91136c87049a1767a06af51eda
+      internalID: -456573355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_bakery_animation_3
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 139
+        width: 106
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfcb6fa88a167f46972c4bbf29080ea
+      internalID: -2247696386389363386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_bakery_animation_31
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 139
+        width: 106
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4f028d04dc23149bf2c49f2d0be7d0
+      internalID: 2038334901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_bakery_animation_37
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 139
+        width: 106
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b538d5bc8e258234c96beb3422cdded0
+      internalID: 581997833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_bakery_animation_38
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 139
+        width: 106
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467ac0e466ecb0444a591b0fd9d5e62f
+      internalID: -1512071669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 33b41ccc2204ce34786dc0edacbdc09b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":150.0,"y":220.0},"gridSpriteOffset":{"x":15.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      building_bakery_animation_0: 6196011825038537488
+      building_bakery_animation_1: 153016806042555374
+      building_bakery_animation_10: -4318324982516237767
+      building_bakery_animation_11: -8937370806980637337
+      building_bakery_animation_12: -4744422039937611835
+      building_bakery_animation_13: -7275565592513114846
+      building_bakery_animation_14: -6649813749086056824
+      building_bakery_animation_17: -762684642
+      building_bakery_animation_18: 2111149975
+      building_bakery_animation_2: -456573355
+      building_bakery_animation_22: 2414350868709545022
+      building_bakery_animation_23: 7979043422235415149
+      building_bakery_animation_24: 7474050195437268335
+      building_bakery_animation_25: -8313483389390216745
+      building_bakery_animation_26: 3394238827836869804
+      building_bakery_animation_27: 2482283726307914319
+      building_bakery_animation_3: -2247696386389363386
+      building_bakery_animation_31: 2038334901
+      building_bakery_animation_32: 1596875
+      building_bakery_animation_33: -504682271
+      building_bakery_animation_34: 770777150
+      building_bakery_animation_35: -274336150904779968
+      building_bakery_animation_36: -5005050877507564109
+      building_bakery_animation_37: 581997833
+      building_bakery_animation_38: -1512071669
+      building_bakery_animation_4: 8213946790120420784
+      building_bakery_animation_6: 4958375764367598514
+      building_bakery_animation_7: 7911740498758920010
+      building_bakery_animation_8: 957875944030231736
+      building_bakery_animation_9: -3601332633456002522
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

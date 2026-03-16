@@ -1,0 +1,485 @@
+fileFormatVersion: 2
+guid: 1d645aceead1a784590940b9373944c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7208707044635310970
+    second: building_kitchen_animation_0
+  - first:
+      213: -6070375125654649827
+    second: building_kitchen_animation_1
+  - first:
+      213: -7542187590323722099
+    second: building_kitchen_animation_2
+  - first:
+      213: 513074554625028688
+    second: building_kitchen_animation_3
+  - first:
+      213: 1836618980977627247
+    second: building_kitchen_animation_4
+  - first:
+      213: -5964279634254291094
+    second: building_kitchen_animation_5
+  - first:
+      213: -6359180895782724329
+    second: building_kitchen_animation_6
+  - first:
+      213: 1794424823842839584
+    second: building_kitchen_animation_7
+  - first:
+      213: 5437426707711165903
+    second: building_kitchen_animation_8
+  - first:
+      213: 6964623959032977266
+    second: building_kitchen_animation_9
+  - first:
+      213: -7918295562787689875
+    second: building_kitchen_animation_10
+  - first:
+      213: 7858920801482900724
+    second: building_kitchen_animation_11
+  - first:
+      213: 1538348187990181544
+    second: building_kitchen_animation_12
+  - first:
+      213: 2535091738890642955
+    second: building_kitchen_animation_13
+  - first:
+      213: 274751186383608148
+    second: building_kitchen_animation_14
+  - first:
+      213: -1554117246784864316
+    second: building_kitchen_animation_15
+  - first:
+      213: 4723497844152801209
+    second: building_kitchen_animation_16
+  - first:
+      213: 2204420607156335624
+    second: building_kitchen_animation_17
+  - first:
+      213: -8202963190646738871
+    second: building_kitchen_animation_18
+  - first:
+      213: -7989876031702105883
+    second: building_kitchen_animation_19
+  - first:
+      213: 8223761553277103032
+    second: building_kitchen_animation_20
+  - first:
+      213: 1362202828341376541
+    second: building_kitchen_animation_21
+  - first:
+      213: 9172694819710487769
+    second: building_kitchen_animation_22
+  - first:
+      213: -4718894185837546875
+    second: building_kitchen_animation_23
+  - first:
+      213: -490198886502749477
+    second: building_kitchen_animation_24
+  - first:
+      213: 4212893545777459914
+    second: building_kitchen_animation_25
+  - first:
+      213: 5392865422672568450
+    second: building_kitchen_animation_26
+  - first:
+      213: -6123898343013413105
+    second: building_kitchen_animation_27
+  - first:
+      213: 169857794133873222
+    second: building_kitchen_animation_28
+  - first:
+      213: -3376147702295613190
+    second: building_kitchen_animation_29
+  - first:
+      213: 878778881068545733
+    second: building_kitchen_animation_30
+  - first:
+      213: -3231251924435209480
+    second: building_kitchen_animation_31
+  - first:
+      213: 2850874401880682629
+    second: building_kitchen_animation_32
+  - first:
+      213: 7559622978903898910
+    second: building_kitchen_animation_33
+  - first:
+      213: 796857831117099744
+    second: building_kitchen_animation_34
+  - first:
+      213: -4720382643280807002
+    second: building_kitchen_animation_35
+  - first:
+      213: 1076202942052090861
+    second: building_kitchen_animation_36
+  - first:
+      213: 3755106171760070997
+    second: building_kitchen_animation_37
+  - first:
+      213: 4975760935295970005
+    second: building_kitchen_animation_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: building_kitchen_working_6
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 213
+        width: 138
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804ba19dcdca79e10800000000000000
+      internalID: 2204420607156335624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_kitchen_working_4
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 213
+        width: 138
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5823f706dbe138eb0800000000000000
+      internalID: -4718894185837546875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_kitchen_working_5
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 213
+        width: 138
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda26bcb5b67239f0800000000000000
+      internalID: -490198886502749477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_kitchen_working_7
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 213
+        width: 138
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2f998eb54377a30800000000000000
+      internalID: 4212893545777459914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_kitchen_working_3
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 213
+        width: 138
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5803a57f927509720800000000000000
+      internalID: 2850874401880682629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_kitchen_idle
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 214
+        width: 138
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abf35fdef4dd7eb0800000000000000
+      internalID: -4720382643280807002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_kitchen_working_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 213
+        width: 138
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3ce33bfd07fee00800000000000000
+      internalID: 1076202942052090861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_kitchen_working_2
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 213
+        width: 138
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551d2a5fa21dc1430800000000000000
+      internalID: 3755106171760070997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_kitchen_working_8
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 213
+        width: 138
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dae49b35347d0540800000000000000
+      internalID: 4975760935295970005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 12dc9a995d3c307409989ebca1b9b13b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      I: -4720382643280807002
+      building_kitchen_animation_0: -7208707044635310970
+      building_kitchen_animation_1: -6070375125654649827
+      building_kitchen_animation_10: -7918295562787689875
+      building_kitchen_animation_11: 7858920801482900724
+      building_kitchen_animation_12: 1538348187990181544
+      building_kitchen_animation_13: 2535091738890642955
+      building_kitchen_animation_14: 274751186383608148
+      building_kitchen_animation_15: -1554117246784864316
+      building_kitchen_animation_16: 4723497844152801209
+      building_kitchen_animation_18: -8202963190646738871
+      building_kitchen_animation_19: -7989876031702105883
+      building_kitchen_animation_2: -7542187590323722099
+      building_kitchen_animation_20: 8223761553277103032
+      building_kitchen_animation_21: 1362202828341376541
+      building_kitchen_animation_22: 9172694819710487769
+      building_kitchen_animation_26: 5392865422672568450
+      building_kitchen_animation_27: -6123898343013413105
+      building_kitchen_animation_28: 169857794133873222
+      building_kitchen_animation_29: -3376147702295613190
+      building_kitchen_animation_3: 513074554625028688
+      building_kitchen_animation_30: 878778881068545733
+      building_kitchen_animation_31: -3231251924435209480
+      building_kitchen_animation_33: 7559622978903898910
+      building_kitchen_animation_34: 796857831117099744
+      building_kitchen_animation_4: 1836618980977627247
+      building_kitchen_animation_5: -5964279634254291094
+      building_kitchen_animation_6: -6359180895782724329
+      building_kitchen_animation_7: 1794424823842839584
+      building_kitchen_animation_8: 5437426707711165903
+      building_kitchen_animation_9: 6964623959032977266
+      building_kitchen_idle: -4720382643280807002
+      building_kitchen_working_1: 1076202942052090861
+      building_kitchen_working_2: 3755106171760070997
+      building_kitchen_working_3: 2850874401880682629
+      building_kitchen_working_4: -4718894185837546875
+      building_kitchen_working_5: -490198886502749477
+      building_kitchen_working_6: 2204420607156335624
+      building_kitchen_working_7: 4212893545777459914
+      building_kitchen_working_8: 4975760935295970005
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

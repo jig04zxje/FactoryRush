@@ -4,48 +4,71 @@ using UnityEngine.Events;
 
 namespace FactoryRush.Scripts.Timer
 {
-
     /// <summary>
-    /// Manages the game's countdown timer.
-    /// Uses Singleton pattern for global access.
+    /// Quản lý bộ đếm thời gian của game.
+    /// Sử dụng Singleton pattern để có thể truy cập toàn cục.
     /// </summary>
     public class TimerManager : MonoBehaviour
     {
-        /// <summary>Singleton instance of TimerManager.</summary>
+        /// <summary>
+        /// Instance duy nhất của TimerManager (Singleton).
+        /// </summary>
         public static TimerManager Instance { get; private set; }
 
         [Header("Config")]
-        /// <summary>Default duration of the countdown timer (seconds).</summary>
+
+        /// <summary>
+        /// Thời gian mặc định của countdown timer (tính bằng giây).
+        /// </summary>
         [SerializeField] private float defaultDurationSeconds = 300f;
 
-        /// <summary>Warning threshold when time remaining is low (seconds).</summary>
+        /// <summary>
+        /// Ngưỡng cảnh báo khi thời gian còn lại thấp (giây).
+        /// </summary>
         [SerializeField] private float warningThresholdSeconds = 30f;
 
         [Header("State")]
-        /// <summary>Current time remaining (seconds).</summary>
+
+        /// <summary>
+        /// Thời gian còn lại hiện tại của timer (giây).
+        /// </summary>
         [SerializeField] private float timeRemaining;
 
-        /// <summary>Public property to read the remaining time.</summary>
+        /// <summary>
+        /// Property public để đọc thời gian còn lại.
+        /// </summary>
         public float TimeRemaining => timeRemaining;
 
-        /// <summary>Running state of the countdown timer.</summary>
+        /// <summary>
+        /// Trạng thái đang chạy của timer.
+        /// </summary>
         public bool IsRunning { get; private set; }
 
         [Header("Events")]
-        /// <summary>Event fired once when remaining time is below the warning threshold.</summary>
+
+        /// <summary>
+        /// Event được gọi một lần khi thời gian còn lại nhỏ hơn ngưỡng cảnh báo.
+        /// </summary>
         public UnityEvent OnTimerWarning = new UnityEvent();
 
-        /// <summary>Event fired when the countdown timer ends (time's up).</summary>
+        /// <summary>
+        /// Event được gọi khi thời gian kết thúc (hết giờ).
+        /// </summary>
         public UnityEvent OnTimerEnd = new UnityEvent();
 
-        /// <summary>Reference to the running coroutine to stop it when needed.</summary>
+        /// <summary>
+        /// Tham chiếu tới coroutine đang chạy để có thể dừng khi cần.
+        /// </summary>
         private Coroutine countdownRoutine;
 
-        /// <summary>Flag marking whether the warning has been fired.</summary>
+        /// <summary>
+        /// Đánh dấu xem cảnh báo đã được kích hoạt hay chưa.
+        /// </summary>
         private bool warned;
 
         /// <summary>
-        /// Initializes the Singleton. Destroys duplicate instances.
+        /// Khởi tạo Singleton.
+        /// Nếu đã tồn tại instance thì destroy object trùng.
         /// </summary>
         private void Awake()
         {
@@ -59,22 +82,22 @@ namespace FactoryRush.Scripts.Timer
         }
 
         /// <summary>
-        /// Listens for the game started event to auto-start the timer.
-        /// Registers to call EndGame when time is up.
+        /// Lắng nghe event khi game bắt đầu để tự động start timer.
+        /// Đồng thời đăng ký EndGame khi timer kết thúc.
         /// </summary>
-        public void Init()
+        public  void Start()
         {
             if (GameStateManager.Instance != null)
             {
                 GameStateManager.Instance.OnGameStarted.AddListener(StartTimerDefault);
 
-                // Automatically end the game when time is up
+                // Tự động kết thúc game khi hết thời gian
                 OnTimerEnd.AddListener(GameStateManager.Instance.EndGame);
             }
         }
 
         /// <summary>
-        /// Starts the countdown timer with the configured default duration.
+        /// Bắt đầu timer với thời gian mặc định đã cấu hình.
         /// </summary>
         public void StartTimerDefault()
         {
@@ -82,10 +105,10 @@ namespace FactoryRush.Scripts.Timer
         }
 
         /// <summary>
-        /// Starts the countdown timer with the specified seconds.
-        /// Automatically stops the old timer if it's running.
+        /// Bắt đầu countdown timer với số giây chỉ định.
+        /// Nếu timer đang chạy thì sẽ dừng timer cũ trước.
         /// </summary>
-        /// <param name="seconds">Number of seconds for the countdown timer.</param>
+        /// <param name="seconds">Số giây của countdown timer.</param>
         public void StartTimer(float seconds)
         {
             StopTimer();
@@ -98,7 +121,7 @@ namespace FactoryRush.Scripts.Timer
         }
 
         /// <summary>
-        /// Stops the countdown timer and cancels the running coroutine.
+        /// Dừng countdown timer và hủy coroutine đang chạy.
         /// </summary>
         public void StopTimer()
         {
@@ -112,24 +135,40 @@ namespace FactoryRush.Scripts.Timer
         }
 
         /// <summary>
-        /// Coroutine that performs the countdown every frame.
-        /// Fires the warning event when time is low and the end event when time is up.
+        /// Cộng thêm thời gian vào timer hiện tại.
+        /// </summary>
+        public void AddTime(float secondsToAdd)
+        {
+            if (secondsToAdd <= 0f) return;
+            if (!IsRunning) return;
+
+            timeRemaining += secondsToAdd;
+
+            // Cho phép trigger lại cảnh báo nếu thời gian tăng lên trên threshold
+            if (timeRemaining > warningThresholdSeconds)
+                warned = false;
+        }
+
+        /// <summary>
+        /// Coroutine thực hiện countdown mỗi frame.
+        /// Khi thời gian thấp sẽ kích hoạt cảnh báo.
+        /// Khi hết thời gian sẽ kích hoạt event kết thúc.
         /// </summary>
         private IEnumerator CountdownCoroutine()
         {
             while (IsRunning)
             {
-                // Decrease time based on real time every frame
+                // Giảm thời gian theo thời gian thực mỗi frame
                 timeRemaining -= Time.deltaTime;
 
-                // Check and fire warning once when below threshold
+                // Kiểm tra và kích hoạt cảnh báo khi xuống dưới threshold
                 if (!warned && timeRemaining <= warningThresholdSeconds && timeRemaining > 0f)
                 {
                     warned = true;
                     OnTimerWarning?.Invoke();
                 }
 
-                // Time's up -> stop timer and fire end event
+                // Hết thời gian
                 if (timeRemaining <= 0f)
                 {
                     timeRemaining = 0f;
@@ -143,7 +182,7 @@ namespace FactoryRush.Scripts.Timer
         }
 
         /// <summary>
-        /// Returns the remaining time as an "mm:ss" string for UI display.
+        /// Trả về chuỗi thời gian dạng "mm:ss" để hiển thị trên UI.
         /// </summary>
         public string GetTimeText()
         {

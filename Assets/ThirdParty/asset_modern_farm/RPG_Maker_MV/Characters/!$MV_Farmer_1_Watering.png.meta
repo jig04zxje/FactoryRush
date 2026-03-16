@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 6e666be7e0413804b9ac2dd65422e328
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2091582788957670385
+    second: '!$MV_Farmer_1_Watering_0'
+  - first:
+      213: 1491151902713948610
+    second: '!$MV_Farmer_1_Watering_1'
+  - first:
+      213: -8797348755588949570
+    second: '!$MV_Farmer_1_Watering_2'
+  - first:
+      213: 6795595931003584371
+    second: '!$MV_Farmer_1_Watering_3'
+  - first:
+      213: -3808923682033400918
+    second: '!$MV_Farmer_1_Watering_4'
+  - first:
+      213: -6652862186936403429
+    second: '!$MV_Farmer_1_Watering_5'
+  - first:
+      213: -7660193600958837543
+    second: '!$MV_Farmer_1_Watering_6'
+  - first:
+      213: -5569282061021976023
+    second: '!$MV_Farmer_1_Watering_7'
+  - first:
+      213: -1043742320547469760
+    second: '!$MV_Farmer_1_Watering_8'
+  - first:
+      213: 9201550676136731414
+    second: '!$MV_Farmer_1_Watering_9'
+  - first:
+      213: 1196171205329176237
+    second: '!$MV_Farmer_1_Watering_10'
+  - first:
+      213: 2453985034692758219
+    second: '!$MV_Farmer_1_Watering_11'
+  - first:
+      213: -4132894587111967945
+    second: '!$MV_Farmer_1_Watering_12'
+  - first:
+      213: -8097224707309007988
+    second: '!$MV_Farmer_1_Watering_13'
+  - first:
+      213: 6533112954853559585
+    second: '!$MV_Farmer_1_Watering_14'
+  - first:
+      213: 6130838084718962645
+    second: '!$MV_Farmer_1_Watering_15'
+  - first:
+      213: -3750372631583743060
+    second: '!$MV_Farmer_1_Watering_16'
+  - first:
+      213: -7760352379082800098
+    second: '!$MV_Farmer_1_Watering_17'
+  - first:
+      213: -319805814184260194
+    second: '!$MV_Farmer_1_Watering_18'
+  - first:
+      213: -6588059662355920819
+    second: '!$MV_Farmer_1_Watering_19'
+  - first:
+      213: 1786377429470301937
+    second: '!$MV_Farmer_1_Watering_20'
+  - first:
+      213: 5718433530979216646
+    second: '!$MV_Farmer_1_Watering_21'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!$MV_Farmer_1_Watering_0'
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 441
+        width: 50
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb8422077bc60d10800000000000000
+      internalID: 2091582788957670385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Farmer_1_Watering_1'
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 447
+        width: 50
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9a96b41c2a1b410800000000000000
+      internalID: 1491151902713948610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Farmer_1_Watering_2'
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 435
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb955e9cae989e580800000000000000
+      internalID: -8797348755588949570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Farmer_1_Watering_3'
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 444
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ffe80ae7ece4e50800000000000000
+      internalID: 6795595931003584371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Farmer_1_Watering_4'
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 447
+        width: 50
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa383db771cf32bc0800000000000000
+      internalID: -3808923682033400918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Farmer_1_Watering_5'
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 438
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1af600e6194ca3a0800000000000000
+      internalID: -6652862186936403429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Farmer_1_Watering_6'
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 289
+        width: 104
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dcc020618681b590800000000000000
+      internalID: -7660193600958837543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Farmer_1_Watering_7'
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 295
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a64da097fe5b2b0800000000000000
+      internalID: -5569282061021976023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Farmer_1_Watering_8'
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 289
+        width: 92
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046e9b2b3e1e381f0800000000000000
+      internalID: -1043742320547469760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Farmer_1_Watering_9'
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 292
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613a2e9869972bf70800000000000000
+      internalID: 9201550676136731414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Farmer_1_Watering_10'
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 289
+        width: 92
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da64238af57a99010800000000000000
+      internalID: 1196171205329176237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Farmer_1_Watering_11'
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 286
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca8cf4236e4e0220800000000000000
+      internalID: 2453985034692758219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Farmer_1_Watering_12'
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 145
+        width: 104
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7337e01254205a6c0800000000000000
+      internalID: -4132894587111967945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Farmer_1_Watering_13'
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 145
+        width: 92
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b84569701e0af80800000000000000
+      internalID: -8097224707309007988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Farmer_1_Watering_14'
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 151
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d8c875e974aaa50800000000000000
+      internalID: 6533112954853559585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Farmer_1_Watering_15'
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 145
+        width: 92
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d72c1761cc151550800000000000000
+      internalID: 6130838084718962645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Farmer_1_Watering_16'
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 148
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3aa1f36fff3fbc0800000000000000
+      internalID: -3750372631583743060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Farmer_1_Watering_17'
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 142
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1489e890a0bd4490800000000000000
+      internalID: -7760352379082800098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Farmer_1_Watering_18'
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 30
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d41707e42df8bf0800000000000000
+      internalID: -319805814184260194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Farmer_1_Watering_19'
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 30
+        width: 50
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48023264a28294a0800000000000000
+      internalID: -6588059662355920819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Farmer_1_Watering_20'
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 93
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe4a56becc7ac810800000000000000
+      internalID: 1786377429470301937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$MV_Farmer_1_Watering_21'
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 30
+        width: 59
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60de2b5bff4fb5f40800000000000000
+      internalID: 5718433530979216646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '!$MV_Farmer_1_Watering_0': 2091582788957670385
+      '!$MV_Farmer_1_Watering_1': 1491151902713948610
+      '!$MV_Farmer_1_Watering_10': 1196171205329176237
+      '!$MV_Farmer_1_Watering_11': 2453985034692758219
+      '!$MV_Farmer_1_Watering_12': -4132894587111967945
+      '!$MV_Farmer_1_Watering_13': -8097224707309007988
+      '!$MV_Farmer_1_Watering_14': 6533112954853559585
+      '!$MV_Farmer_1_Watering_15': 6130838084718962645
+      '!$MV_Farmer_1_Watering_16': -3750372631583743060
+      '!$MV_Farmer_1_Watering_17': -7760352379082800098
+      '!$MV_Farmer_1_Watering_18': -319805814184260194
+      '!$MV_Farmer_1_Watering_19': -6588059662355920819
+      '!$MV_Farmer_1_Watering_2': -8797348755588949570
+      '!$MV_Farmer_1_Watering_20': 1786377429470301937
+      '!$MV_Farmer_1_Watering_21': 5718433530979216646
+      '!$MV_Farmer_1_Watering_3': 6795595931003584371
+      '!$MV_Farmer_1_Watering_4': -3808923682033400918
+      '!$MV_Farmer_1_Watering_5': -6652862186936403429
+      '!$MV_Farmer_1_Watering_6': -7660193600958837543
+      '!$MV_Farmer_1_Watering_7': -5569282061021976023
+      '!$MV_Farmer_1_Watering_8': -1043742320547469760
+      '!$MV_Farmer_1_Watering_9': 9201550676136731414
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -38,8 +38,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.000045776, y: 0.000015259}
-  m_SizeDelta: {x: 618.487, y: 566.176}
+  m_AnchoredPosition: {x: 93.601, y: 66}
+  m_SizeDelta: {x: 805.687, y: 417.976}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &5022421074161722030
 CanvasRenderer:
@@ -169,7 +169,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 0, b: 0, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -415,8 +415,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0.000041135834}
-  m_SizeDelta: {x: 0, y: 300}
+  m_AnchoredPosition: {x: 0.000038146973, y: 697.8171}
+  m_SizeDelta: {x: 0, y: 1098.793}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &6576457406537769378
 MonoBehaviour:
@@ -435,12 +435,12 @@ MonoBehaviour:
     m_Right: 0
     m_Top: 0
     m_Bottom: 0
-  m_ChildAlignment: 0
-  m_Spacing: 0
+  m_ChildAlignment: 6
+  m_Spacing: 50
   m_ChildForceExpandWidth: 1
-  m_ChildForceExpandHeight: 1
-  m_ChildControlWidth: 0
-  m_ChildControlHeight: 0
+  m_ChildForceExpandHeight: 0
+  m_ChildControlWidth: 1
+  m_ChildControlHeight: 1
   m_ChildScaleWidth: 0
   m_ChildScaleHeight: 0
   m_ReverseArrangement: 0
@@ -578,7 +578,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 6199301696833532968}
   m_HandleRect: {fileID: 5554398172466477735}
   m_Direction: 0
-  m_Value: 0
+  m_Value: 1
   m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:
@@ -704,8 +704,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 4013305980516720990}
   m_HandleRect: {fileID: 6415392921056854853}
   m_Direction: 2
-  m_Value: 0
-  m_Size: 1
+  m_Value: -0.00000008746586
+  m_Size: 0.36492407
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -1084,8 +1084,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 0.392}
-  m_RaycastTarget: 1
+  m_Color: {r: 1, g: 1, b: 1, a: 0.392}
+  m_RaycastTarget: 0
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -1128,7 +1128,4 @@ MonoBehaviour:
   shopPanel: {fileID: 8216126903907658622}
   contentContainer: {fileID: 4856219534771399875}
   itemRowPrefab: {fileID: 4831671762477607333, guid: 77f858e19b9957542b591c308dcf2eef, type: 3}
-  availableMachines:
-  - {fileID: 11400000, guid: d21a39b502315284fa8ef822223d1c68, type: 2}
-  - {fileID: 11400000, guid: 00b064b7f70de624ca83d60557e171d5, type: 2}
-  - {fileID: 11400000, guid: 454b837376fe0284d9c925bed146bf22, type: 2}
+  availableMachines: []

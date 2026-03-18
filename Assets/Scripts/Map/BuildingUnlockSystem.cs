@@ -53,7 +53,7 @@ namespace FactoryRush.Scripts.Map
             pendingBuildingPrefab = buildingPrefab;
             pendingBuildingCost = cost;
             isPlacementMode = true;
-
+          
             //Ghost preview
             // if old ghost still exist, delete it 
             if (ghostBuilding != null) Destroy(ghostBuilding);
@@ -64,9 +64,14 @@ namespace FactoryRush.Scripts.Map
             //Turn off collider
             Collider2D[] colliders = ghostBuilding.GetComponentsInChildren<Collider2D>();
             foreach (var col in colliders) col.enabled = false;
-
             // fade it 
             SpriteRenderer[] renderers = ghostBuilding.GetComponentsInChildren<SpriteRenderer>();
+
+            //Map.GridSlot[] allSlots = FindObjectsByType<Map.GridSlot>(FindObjectsSortMode.None);
+            //foreach (Map.GridSlot slot in allSlots)
+            //{
+            //    slot.SetVisualActive(true);
+            //}
             foreach (var sr in renderers)
             {
                 Color c = sr.color;
@@ -117,7 +122,11 @@ namespace FactoryRush.Scripts.Map
             pendingBuildingPrefab = null;
 
             if (ghostBuilding != null) Destroy(ghostBuilding);
-
+            //Map.GridSlot[] allSlots = FindObjectsByType<Map.GridSlot>(FindObjectsSortMode.None);
+            //foreach (Map.GridSlot slot in allSlots)
+            //{
+            //    slot.SetVisualActive(false);
+            //}
             Debug.Log("[BuildingUnlockSystem] Đã thoát chế độ đặt nhà.");
         }
         public void ToggleDemolishMode()

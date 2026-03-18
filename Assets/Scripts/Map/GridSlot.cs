@@ -22,6 +22,7 @@ namespace FactoryRush.Scripts.Map
         {
             spriteRenderer = GetComponent<SpriteRenderer>();
             UpdateVisual();
+            //SetVisualActive(false);
         }
 
         private void OnMouseEnter()
@@ -74,8 +75,8 @@ namespace FactoryRush.Scripts.Map
 
         private void OnMouseDown()
         {
-            if (GameStateManager.Instance != null && GameStateManager.Instance.State != GameState.Playing) return;
-
+            //if (GameStateManager.Instance != null && GameStateManager.Instance.State != GameState.Playing) return;
+            Debug.Log("🖱️ CHUỘT ĐÃ CHẠM ĐƯỢC VÀO ĐẤT!");
             if (BuildingUnlockSystem.Instance != null && BuildingUnlockSystem.Instance.isPlacementMode)
             {
                 BuildingUnlockSystem.Instance.PlaceBuildingOnSlot(this);
@@ -104,5 +105,12 @@ namespace FactoryRush.Scripts.Map
                 spriteRenderer.color = isOccupied ? occupiedColor : emptyColor;
             }
         }
+        //public void SetVisualActive(bool isActive)
+        //{
+        //    if (spriteRenderer != null)
+        //    {
+        //        spriteRenderer.enabled = isActive; 
+        //    }
+        //}
     }
 }

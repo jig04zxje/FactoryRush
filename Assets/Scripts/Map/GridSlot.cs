@@ -22,7 +22,7 @@ namespace FactoryRush.Scripts.Map
         {
             spriteRenderer = GetComponent<SpriteRenderer>();
             UpdateVisual();
-            //SetVisualActive(false);
+            SetVisualActive(false);
         }
 
         private void OnMouseEnter()
@@ -105,12 +105,12 @@ namespace FactoryRush.Scripts.Map
                 spriteRenderer.color = isOccupied ? occupiedColor : emptyColor;
             }
         }
-        //public void SetVisualActive(bool isActive)
-        //{
-        //    if (spriteRenderer != null)
-        //    {
-        //        spriteRenderer.enabled = isActive; 
-        //    }
-        //}
+        public void SetVisualActive(bool isActive)
+        {
+            if (spriteRenderer != null)
+            {
+                spriteRenderer.enabled = isActive;
+            }
+        }
     }
 }

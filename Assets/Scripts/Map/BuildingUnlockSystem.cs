@@ -5,6 +5,7 @@ namespace FactoryRush.Scripts.Map
 {
     public class BuildingUnlockSystem : MonoBehaviour
     {
+        
         public static BuildingUnlockSystem Instance { get; private set; }
 
         [Header("Placement State")]
@@ -67,11 +68,11 @@ namespace FactoryRush.Scripts.Map
             // fade it 
             SpriteRenderer[] renderers = ghostBuilding.GetComponentsInChildren<SpriteRenderer>();
 
-            //Map.GridSlot[] allSlots = FindObjectsByType<Map.GridSlot>(FindObjectsSortMode.None);
-            //foreach (Map.GridSlot slot in allSlots)
-            //{
-            //    slot.SetVisualActive(true);
-            //}
+            Map.GridSlot[] allSlots = FindObjectsByType<Map.GridSlot>(FindObjectsSortMode.None);
+            foreach (Map.GridSlot slot in allSlots)
+            {
+                slot.SetVisualActive(true);
+            }
             foreach (var sr in renderers)
             {
                 Color c = sr.color;
@@ -122,11 +123,11 @@ namespace FactoryRush.Scripts.Map
             pendingBuildingPrefab = null;
 
             if (ghostBuilding != null) Destroy(ghostBuilding);
-            //Map.GridSlot[] allSlots = FindObjectsByType<Map.GridSlot>(FindObjectsSortMode.None);
-            //foreach (Map.GridSlot slot in allSlots)
-            //{
-            //    slot.SetVisualActive(false);
-            //}
+            Map.GridSlot[] allSlots = FindObjectsByType<Map.GridSlot>(FindObjectsSortMode.None);
+            foreach (Map.GridSlot slot in allSlots)
+            {
+                slot.SetVisualActive(false);
+            }
             Debug.Log("[BuildingUnlockSystem] Đã thoát chế độ đặt nhà.");
         }
         public void ToggleDemolishMode()

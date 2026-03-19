@@ -36,7 +36,7 @@ namespace FactoryRush.Scripts.Core
 
         public void ResetGold()
         {
-            _totalGold = 2000; // Starting gold as per design doc
+            _totalGold = 300; // Starting gold as per design doc
             OnGoldChanged?.Invoke(_totalGold);
         }
 

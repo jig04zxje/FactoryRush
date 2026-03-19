@@ -26,7 +26,7 @@ Transform:
   m_GameObject: {fileID: 799451114867037465}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.97, y: 2.47, z: 0}
+  m_LocalPosition: {x: 0.45999026, y: -0.6400006, z: 0}
   m_LocalScale: {x: 4.7264, y: 4.6708, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -117,7 +117,7 @@ Transform:
   m_GameObject: {fileID: 1727608841936560633}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.97, y: 2.47, z: 0}
+  m_LocalPosition: {x: 0.46, y: -0.64, z: 0}
   m_LocalScale: {x: 4.7264, y: 4.6708, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -193,8 +193,8 @@ GameObject:
   - component: {fileID: 8619756636387645760}
   - component: {fileID: 5925670361372512477}
   - component: {fileID: 6487607315534444515}
-  - component: {fileID: 4577400972571095931}
   - component: {fileID: 3050356213658085526}
+  - component: {fileID: 2042653120397420264}
   m_Layer: 3
   m_Name: Building_Kitchen
   m_TagString: Untagged
@@ -211,7 +211,7 @@ Transform:
   m_GameObject: {fileID: 1981692585940980653}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 283.56622, y: 159.60468, z: 0}
+  m_LocalPosition: {x: 283.67, y: 159.58, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -269,12 +269,12 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 1749023864346193327, guid: fa3dbad510d8f3d48a3cc912145d17b9, type: 3}
-  m_Color: {r: 0.079431444, g: 0.02352941, b: 1, a: 1}
+  m_Sprite: {fileID: -4720382643280807002, guid: 1d645aceead1a784590940b9373944c8, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 1.38, y: 3.8}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -315,7 +315,25 @@ MonoBehaviour:
   OnProductionStopped:
     m_PersistentCalls:
       m_Calls: []
---- !u!61 &4577400972571095931
+--- !u!114 &3050356213658085526
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1981692585940980653}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa3b5c7f9992f704a93de7cbbd941d12, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::FactoryRush.Scripts.Production.MachineVisualController
+  waitingInputIcon: {fileID: 1727608841936560633}
+  inventoryFullIcon: {fileID: 2197377277601493117}
+  readyToHarvestIcon: {fileID: 799451114867037465}
+  pulseTarget: {fileID: 0}
+  pulseScale: 1.05
+  pulseSpeed: 2
+--- !u!61 &2042653120397420264
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -349,36 +367,18 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: -0.06087494}
+  m_Offset: {x: 0, y: -1.1564667}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 3.5703125, y: 1.875}
-    newSize: {x: 1, y: 1}
+    oldSize: {x: 1.38, y: 3.8}
+    newSize: {x: 1.38, y: 3.8}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 3.810608, y: 2.142929}
+  m_Size: {x: 1.38, y: 1.4870667}
   m_EdgeRadius: 0
---- !u!114 &3050356213658085526
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1981692585940980653}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: aa3b5c7f9992f704a93de7cbbd941d12, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::FactoryRush.Scripts.Production.MachineVisualController
-  waitingInputIcon: {fileID: 1727608841936560633}
-  inventoryFullIcon: {fileID: 2197377277601493117}
-  readyToHarvestIcon: {fileID: 799451114867037465}
-  pulseTarget: {fileID: 0}
-  pulseScale: 1.05
-  pulseSpeed: 2
 --- !u!1 &2197377277601493117
 GameObject:
   m_ObjectHideFlags: 0
@@ -405,7 +405,7 @@ Transform:
   m_GameObject: {fileID: 2197377277601493117}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.97, y: 2.47, z: 0}
+  m_LocalPosition: {x: 0.45999026, y: -0.6400006, z: 0}
   m_LocalScale: {x: 4.7264, y: 4.6708, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []

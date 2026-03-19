@@ -31,10 +31,9 @@ namespace FactoryRush.Scripts.Map
             if (spriteRenderer == null) return;
 
             bool isPlacing = BuildingUnlockSystem.Instance != null && BuildingUnlockSystem.Instance.isPlacementMode;
-
+            bool isDemolish = BuildingUnlockSystem.Instance != null && BuildingUnlockSystem.Instance.isDemolishMode;
             if (isPlacing)
             {
-
                 spriteRenderer.color = isOccupied ? invalidPlacementColor : hoverColor;
             }
             else
@@ -49,10 +48,17 @@ namespace FactoryRush.Scripts.Map
                 if (isPlacing)
                 {
                     SlotTooltipManager.Instance.ShowTooltip(isOccupied ? "Alreadytaken area" : "Placeable");
+                    spriteRenderer.color = isOccupied ? invalidPlacementColor : hoverColor;
+                }
+                else if (isDemolish)
+                {
+                    SlotTooltipManager.Instance.ShowTooltip(isOccupied ? "Press to destroy building" : "Nothing to destroy");
+                    spriteRenderer.color = isOccupied ? Color.red : emptyColor;
                 }
                 else
                 {
                     SlotTooltipManager.Instance.ShowTooltip(isOccupied ? "Alreadytaken area" : "Empty place");
+                    spriteRenderer.color = hoverColor;
                 }
             }
         }
@@ -73,6 +79,11 @@ namespace FactoryRush.Scripts.Map
             if (BuildingUnlockSystem.Instance != null && BuildingUnlockSystem.Instance.isPlacementMode)
             {
                 BuildingUnlockSystem.Instance.PlaceBuildingOnSlot(this);
+            }
+            else if (BuildingUnlockSystem.Instance.isDemolishMode)
+            {
+                BuildingUnlockSystem.Instance.DemolishBuildingOnSlot(this);
+                OnMouseEnter();
             }
             else if (!isOccupied)
             {

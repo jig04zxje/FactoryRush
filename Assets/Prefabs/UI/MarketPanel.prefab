@@ -54,7 +54,7 @@ MonoBehaviour:
     m_Top: 0
     m_Bottom: 0
   m_ChildAlignment: 4
-  m_Spacing: 200
+  m_Spacing: 500
   m_ChildForceExpandWidth: 1
   m_ChildForceExpandHeight: 1
   m_ChildControlWidth: 0
@@ -98,8 +98,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 25, y: 14}
-  m_SizeDelta: {x: -463.279, y: -555.935}
+  m_AnchoredPosition: {x: -513.25, y: 49}
+  m_SizeDelta: {x: -1176.895, y: -555.935}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &7551067487379600437
 CanvasRenderer:
@@ -123,7 +123,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 0.392}
-  m_RaycastTarget: 1
+  m_RaycastTarget: 0
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -154,5 +154,6 @@ MonoBehaviour:
   rowPrefab: {fileID: 5997117929240810813, guid: 60cde5139c77de246bffd7c4ee0797c7, type: 3}
   rowContainer: {fileID: 8175153597437965028}
   sellableItems:
-  - {fileID: 11400000, guid: 200b45ac36a7f904594842b42d54badb, type: 2}
+  - {fileID: 11400000, guid: 6ad7e060040fe6d41bbbd857e75c33f8, type: 2}
   - {fileID: 11400000, guid: 2ec191a372846d54aa89458840f1ec9a, type: 2}
+  - {fileID: 11400000, guid: 0a82441659a873d469daede54765cfcf, type: 2}

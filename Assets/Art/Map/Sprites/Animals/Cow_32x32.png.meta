@@ -1,0 +1,2431 @@
+fileFormatVersion: 2
+guid: 8a128b72405adbb419d3af05b836de3a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -328618666622673318
+    second: Cow_32x32_0
+  - first:
+      213: 8249464976505335602
+    second: Cow_32x32_1
+  - first:
+      213: -1149827114848118933
+    second: Cow_32x32_2
+  - first:
+      213: 1245178033673690221
+    second: Cow_32x32_3
+  - first:
+      213: -8489424982599707438
+    second: Cow_32x32_4
+  - first:
+      213: -8818718869462664853
+    second: Cow_32x32_5
+  - first:
+      213: -2626720018465985303
+    second: Cow_32x32_6
+  - first:
+      213: -4783401767600557942
+    second: Cow_32x32_7
+  - first:
+      213: 3698240194823401508
+    second: Cow_32x32_8
+  - first:
+      213: 7277568026994380928
+    second: Cow_32x32_9
+  - first:
+      213: -1805397287989547748
+    second: Cow_32x32_10
+  - first:
+      213: -7436528021219768655
+    second: Cow_32x32_11
+  - first:
+      213: -1149580676342067437
+    second: Cow_32x32_12
+  - first:
+      213: 1681712734160565532
+    second: Cow_32x32_13
+  - first:
+      213: -5914371673776724725
+    second: Cow_32x32_14
+  - first:
+      213: 7584821801538785449
+    second: Cow_32x32_15
+  - first:
+      213: -1138802590986901831
+    second: Cow_32x32_16
+  - first:
+      213: 2789637050499197737
+    second: Cow_32x32_17
+  - first:
+      213: -959771048064353664
+    second: Cow_32x32_18
+  - first:
+      213: 6383429628238653258
+    second: Cow_32x32_19
+  - first:
+      213: -7071902767820275654
+    second: Cow_32x32_20
+  - first:
+      213: -2275602065164495194
+    second: Cow_32x32_21
+  - first:
+      213: -8433759930535642348
+    second: Cow_32x32_22
+  - first:
+      213: -3497965610382852353
+    second: Cow_32x32_23
+  - first:
+      213: -8597204712334557626
+    second: Cow_32x32_24
+  - first:
+      213: -9172591825094708946
+    second: Cow_32x32_25
+  - first:
+      213: -845605748228195973
+    second: Cow_32x32_26
+  - first:
+      213: 8303939693097291528
+    second: Cow_32x32_27
+  - first:
+      213: 2398310427379410730
+    second: Cow_32x32_28
+  - first:
+      213: 3865576451418888475
+    second: Cow_32x32_29
+  - first:
+      213: 1814910149482493086
+    second: Cow_32x32_30
+  - first:
+      213: -8723702703828784014
+    second: Cow_32x32_31
+  - first:
+      213: 119794646433520806
+    second: Cow_32x32_32
+  - first:
+      213: -8341393493433432784
+    second: Cow_32x32_33
+  - first:
+      213: -5003546122575946915
+    second: Cow_32x32_34
+  - first:
+      213: 769364241495258499
+    second: Cow_32x32_35
+  - first:
+      213: -5666511178609306388
+    second: Cow_32x32_36
+  - first:
+      213: 8862235883488652749
+    second: Cow_32x32_37
+  - first:
+      213: 4683543517633268876
+    second: Cow_32x32_38
+  - first:
+      213: -6986402849313016288
+    second: Cow_32x32_39
+  - first:
+      213: -1870731640964521731
+    second: Cow_32x32_40
+  - first:
+      213: -6037836431508326444
+    second: Cow_32x32_41
+  - first:
+      213: 1148044413466982829
+    second: Cow_32x32_42
+  - first:
+      213: 2158201872644534551
+    second: Cow_32x32_43
+  - first:
+      213: 6355315036784125641
+    second: Cow_32x32_44
+  - first:
+      213: 9078628065222582367
+    second: Cow_32x32_45
+  - first:
+      213: 852655485385591978
+    second: Cow_32x32_46
+  - first:
+      213: -2765313696954008053
+    second: Cow_32x32_47
+  - first:
+      213: 6426762093425547231
+    second: Cow_32x32_48
+  - first:
+      213: -6799304891882370929
+    second: Cow_32x32_49
+  - first:
+      213: -4281973728426153048
+    second: Cow_32x32_50
+  - first:
+      213: 2479556990264869149
+    second: Cow_32x32_51
+  - first:
+      213: 4235034076696560000
+    second: Cow_32x32_52
+  - first:
+      213: 1167390762690763959
+    second: Cow_32x32_53
+  - first:
+      213: 2273176874966836805
+    second: Cow_32x32_54
+  - first:
+      213: -4316349780675785421
+    second: Cow_32x32_55
+  - first:
+      213: 779254364531661864
+    second: Cow_32x32_56
+  - first:
+      213: -244550370064311301
+    second: Cow_32x32_57
+  - first:
+      213: 3523363451561210538
+    second: Cow_32x32_58
+  - first:
+      213: -5889502425418488202
+    second: Cow_32x32_59
+  - first:
+      213: -7237363552785014149
+    second: Cow_32x32_60
+  - first:
+      213: -3205625458698835299
+    second: Cow_32x32_61
+  - first:
+      213: -4081231780364433228
+    second: Cow_32x32_62
+  - first:
+      213: -5726860710936217475
+    second: Cow_32x32_63
+  - first:
+      213: -542135399114145876
+    second: Cow_32x32_64
+  - first:
+      213: 304584833385884494
+    second: Cow_32x32_65
+  - first:
+      213: 4993415328833492469
+    second: Cow_32x32_66
+  - first:
+      213: -4541756929751964274
+    second: Cow_32x32_67
+  - first:
+      213: -5611828505435563503
+    second: Cow_32x32_68
+  - first:
+      213: 6397610786866301557
+    second: Cow_32x32_69
+  - first:
+      213: 7702107752296315502
+    second: Cow_32x32_70
+  - first:
+      213: -8394290058443461842
+    second: Cow_32x32_71
+  - first:
+      213: -2928559266594536162
+    second: Cow_32x32_72
+  - first:
+      213: 1507436059267043768
+    second: Cow_32x32_73
+  - first:
+      213: 2978059105796149975
+    second: Cow_32x32_74
+  - first:
+      213: 6142301590263682447
+    second: Cow_32x32_75
+  - first:
+      213: 7928906947404857754
+    second: Cow_32x32_76
+  - first:
+      213: -4473389247603497669
+    second: Cow_32x32_77
+  - first:
+      213: 7279424292451447979
+    second: Cow_32x32_78
+  - first:
+      213: -3184266425952464107
+    second: Cow_32x32_79
+  - first:
+      213: 1012653096796917850
+    second: Cow_32x32_80
+  - first:
+      213: -8697299491713737464
+    second: Cow_32x32_81
+  - first:
+      213: -7719843420077516063
+    second: Cow_32x32_82
+  - first:
+      213: -9030059640347960123
+    second: Cow_32x32_83
+  - first:
+      213: -6444637733311668173
+    second: Cow_32x32_84
+  - first:
+      213: -3285737956867389192
+    second: Cow_32x32_85
+  - first:
+      213: 8107219933490296929
+    second: Cow_32x32_86
+  - first:
+      213: -893442423075743264
+    second: Cow_32x32_87
+  - first:
+      213: 1061614799784091300
+    second: Cow_32x32_88
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cow_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 309
+        width: 92
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e94655013807bf0800000000000000
+      internalID: -328618666622673318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 287
+        width: 40
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f60a740bcfb7270800000000000000
+      internalID: 8249464976505335602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 309
+        width: 92
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b679d52c45efa00f0800000000000000
+      internalID: -1149827114848118933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 287
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c5d3b03d2c74110800000000000000
+      internalID: 1245178033673690221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 287
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d451dc05f08f2a80800000000000000
+      internalID: -8489424982599707438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 287
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69b4ab69ed9d9580800000000000000
+      internalID: -8818718869462664853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 287
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec6de66f040c8bd0800000000000000
+      internalID: -2626720018465985303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 297
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8071389f61fd9db0800000000000000
+      internalID: -4783401767600557942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 287
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4203582fcd9c25330800000000000000
+      internalID: 3698240194823401508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 287
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0809db5ff8d1ff460800000000000000
+      internalID: 7277568026994380928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 287
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1dede26bb0f1f6e0800000000000000
+      internalID: -1805397287989547748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 287
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b605f44a252cc890800000000000000
+      internalID: -7436528021219768655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 297
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f4af1377edb00f0800000000000000
+      internalID: -1149580676342067437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 287
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1534e552d4a65710800000000000000
+      internalID: 1681712734160565532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 287
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05e7e26c4eebeda0800000000000000
+      internalID: -5914371673776724725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 287
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a09b5d0e33b24960800000000000000
+      internalID: 7584821801538785449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 287
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b66eeeb3192230f0800000000000000
+      internalID: -1138802590986901831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 213
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92be5470e18c6b620800000000000000
+      internalID: 2789637050499197737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 213
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a7b6e11553ea2f0800000000000000
+      internalID: -959771048064353664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 213
+        width: 92
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a476edf0d6f769850800000000000000
+      internalID: 6383429628238653258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 213
+        width: 92
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3088f5b6ed8bdd90800000000000000
+      internalID: -7071902767820275654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 213
+        width: 92
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a699b77aff6b60e0800000000000000
+      internalID: -2275602065164495194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 213
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bff73f60445fa80800000000000000
+      internalID: -8433759930535642348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 191
+        width: 40
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffef8947fcab47fc0800000000000000
+      internalID: -3497965610382852353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 191
+        width: 40
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64efbf33dd790b880800000000000000
+      internalID: -8597204712334557626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 191
+        width: 40
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21f393655864b080800000000000000
+      internalID: -9172591825094708946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 191
+        width: 40
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7974dc5d0ec344f0800000000000000
+      internalID: -845605748228195973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 191
+        width: 40
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f845b97258d3370800000000000000
+      internalID: 8303939693097291528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 191
+        width: 40
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27a01d70a2884120800000000000000
+      internalID: 2398310427379410730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 213
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1910f64d4945a530800000000000000
+      internalID: 3865576451418888475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_30
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 213
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94b7274a2bdf2910800000000000000
+      internalID: 1814910149482493086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_31
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 213
+        width: 92
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cab2c6c9e2fe680800000000000000
+      internalID: -8723702703828784014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_32
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 213
+        width: 92
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6acd9a2a89899a100800000000000000
+      internalID: 119794646433520806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_33
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 213
+        width: 92
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0354524ffca6d3c80800000000000000
+      internalID: -8341393493433432784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_34
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 213
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bd39abf45df8ab0800000000000000
+      internalID: -5003546122575946915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_35
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 193
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385763d83b45daa00800000000000000
+      internalID: 769364241495258499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_36
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 193
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce456330b128c51b0800000000000000
+      internalID: -5666511178609306388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_37
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 193
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcdaf07f49cfcfa70800000000000000
+      internalID: 8862235883488652749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_38
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 193
+        width: 40
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c4d9ac30a4ff040800000000000000
+      internalID: 4683543517633268876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_39
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 193
+        width: 40
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026bbe4cf9f4b0f90800000000000000
+      internalID: -6986402849313016288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_40
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 193
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0e93eeb73d906e0800000000000000
+      internalID: -1870731640964521731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_41
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 117
+        width: 92
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7b80061cb453ca0800000000000000
+      internalID: -6037836431508326444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_42
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 117
+        width: 92
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9321bbf4caeef00800000000000000
+      internalID: 1148044413466982829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_43
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 117
+        width: 94
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7117f842b2973fd10800000000000000
+      internalID: 2158201872644534551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_44
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 117
+        width: 94
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c66733aa5d923850800000000000000
+      internalID: 6355315036784125641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_45
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 117
+        width: 92
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50eb7bef14cdfd70800000000000000
+      internalID: 9078628065222582367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_46
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 117
+        width: 92
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac423a75ad35db00800000000000000
+      internalID: 852655485385591978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_47
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 95
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0eb88808d1af99d0800000000000000
+      internalID: -2765313696954008053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_48
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 95
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd75392d212703950800000000000000
+      internalID: 6426762093425547231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_49
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 95
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8886cf993404a1a0800000000000000
+      internalID: -6799304891882370929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_50
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 95
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abaa93b49f5394c0800000000000000
+      internalID: -4281973728426153048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_51
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 95
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11031502f7296220800000000000000
+      internalID: 2479556990264869149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_52
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 95
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0814c29fd0dd5ca30800000000000000
+      internalID: 4235034076696560000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_53
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 117
+        width: 92
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc514ca6b7633010800000000000000
+      internalID: 1167390762690763959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_54
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 117
+        width: 92
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546e700f252fb8f10800000000000000
+      internalID: 2273176874966836805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_55
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 117
+        width: 94
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d0c745ebe3914c0800000000000000
+      internalID: -4316349780675785421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_56
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 117
+        width: 94
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c159347b770da00800000000000000
+      internalID: 779254364531661864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_57
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 117
+        width: 92
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb50aeebbe2b9cf0800000000000000
+      internalID: -244550370064311301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_58
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 117
+        width: 92
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa276e0446085e030800000000000000
+      internalID: 3523363451561210538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_59
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 97
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676212d7fb8444ea0800000000000000
+      internalID: -5889502425418488202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_60
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 95
+        width: 40
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72e3e5a138bf8b90800000000000000
+      internalID: -7237363552785014149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_61
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 95
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9aae4321a45383d0800000000000000
+      internalID: -3205625458698835299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_62
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 95
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8c75da15d8c57c0800000000000000
+      internalID: -4081231780364433228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_63
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 97
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78718e868a1680b0800000000000000
+      internalID: -5726860710936217475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_64
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 97
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caff2a31ab2f978f0800000000000000
+      internalID: -542135399114145876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_65
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 21
+        width: 92
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4befedca4a1a3400800000000000000
+      internalID: 304584833385884494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_66
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 21
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f55c1b09cc2c4540800000000000000
+      internalID: 4993415328833492469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_67
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 21
+        width: 94
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8527f9b22078f0c0800000000000000
+      internalID: -4541756929751964274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_68
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 21
+        width: 92
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a1a1105b7ce12b0800000000000000
+      internalID: -5611828505435563503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_69
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 21
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a8f5a5d11e8c850800000000000000
+      internalID: 6397610786866301557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_70
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 21
+        width: 94
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a7765713263ea60800000000000000
+      internalID: 7702107752296315502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_71
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1
+        width: 40
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b62ecaaad718b80800000000000000
+      internalID: -8394290058443461842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_72
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 0
+        width: 40
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1544fafcdaab57d0800000000000000
+      internalID: -2928559266594536162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_73
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 0
+        width: 40
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b11a32fb1d7be410800000000000000
+      internalID: 1507436059267043768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_74
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1
+        width: 40
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2d8117af0345920800000000000000
+      internalID: 2978059105796149975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_75
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 0
+        width: 40
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85dbf6c0c6dd3550800000000000000
+      internalID: 6142301590263682447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_76
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 0
+        width: 40
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9181390cd2290e60800000000000000
+      internalID: 7928906947404857754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_77
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 21
+        width: 92
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35aa8a2e245be1c0800000000000000
+      internalID: -4473389247603497669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_78
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 21
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4fae073d5b50560800000000000000
+      internalID: 7279424292451447979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_79
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 21
+        width: 94
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51396ea7e863fc3d0800000000000000
+      internalID: -3184266425952464107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_80
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 21
+        width: 92
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50974350aaad0e00800000000000000
+      internalID: 1012653096796917850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_81
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 21
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d973b413cfc4780800000000000000
+      internalID: -8697299491713737464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_82
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 21
+        width: 94
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea94a89f4b9dd490800000000000000
+      internalID: -7719843420077516063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_83
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 3
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ccd774b998cea280800000000000000
+      internalID: -9030059640347960123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_84
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 1
+        width: 40
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33021ef602c0096a0800000000000000
+      internalID: -6444637733311668173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_85
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 0
+        width: 40
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8c6ef9cb6b662d0800000000000000
+      internalID: -3285737956867389192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_86
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 3
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168b7ab5391a28070800000000000000
+      internalID: 8107219933490296929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_87
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 1
+        width: 40
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e95e4199dad993f0800000000000000
+      internalID: -893442423075743264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_32x32_88
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 0
+        width: 40
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae9d65290d9bbe00800000000000000
+      internalID: 1061614799784091300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cow_32x32_0: -328618666622673318
+      Cow_32x32_1: 8249464976505335602
+      Cow_32x32_10: -1805397287989547748
+      Cow_32x32_11: -7436528021219768655
+      Cow_32x32_12: -1149580676342067437
+      Cow_32x32_13: 1681712734160565532
+      Cow_32x32_14: -5914371673776724725
+      Cow_32x32_15: 7584821801538785449
+      Cow_32x32_16: -1138802590986901831
+      Cow_32x32_17: 2789637050499197737
+      Cow_32x32_18: -959771048064353664
+      Cow_32x32_19: 6383429628238653258
+      Cow_32x32_2: -1149827114848118933
+      Cow_32x32_20: -7071902767820275654
+      Cow_32x32_21: -2275602065164495194
+      Cow_32x32_22: -8433759930535642348
+      Cow_32x32_23: -3497965610382852353
+      Cow_32x32_24: -8597204712334557626
+      Cow_32x32_25: -9172591825094708946
+      Cow_32x32_26: -845605748228195973
+      Cow_32x32_27: 8303939693097291528
+      Cow_32x32_28: 2398310427379410730
+      Cow_32x32_29: 3865576451418888475
+      Cow_32x32_3: 1245178033673690221
+      Cow_32x32_30: 1814910149482493086
+      Cow_32x32_31: -8723702703828784014
+      Cow_32x32_32: 119794646433520806
+      Cow_32x32_33: -8341393493433432784
+      Cow_32x32_34: -5003546122575946915
+      Cow_32x32_35: 769364241495258499
+      Cow_32x32_36: -5666511178609306388
+      Cow_32x32_37: 8862235883488652749
+      Cow_32x32_38: 4683543517633268876
+      Cow_32x32_39: -6986402849313016288
+      Cow_32x32_4: -8489424982599707438
+      Cow_32x32_40: -1870731640964521731
+      Cow_32x32_41: -6037836431508326444
+      Cow_32x32_42: 1148044413466982829
+      Cow_32x32_43: 2158201872644534551
+      Cow_32x32_44: 6355315036784125641
+      Cow_32x32_45: 9078628065222582367
+      Cow_32x32_46: 852655485385591978
+      Cow_32x32_47: -2765313696954008053
+      Cow_32x32_48: 6426762093425547231
+      Cow_32x32_49: -6799304891882370929
+      Cow_32x32_5: -8818718869462664853
+      Cow_32x32_50: -4281973728426153048
+      Cow_32x32_51: 2479556990264869149
+      Cow_32x32_52: 4235034076696560000
+      Cow_32x32_53: 1167390762690763959
+      Cow_32x32_54: 2273176874966836805
+      Cow_32x32_55: -4316349780675785421
+      Cow_32x32_56: 779254364531661864
+      Cow_32x32_57: -244550370064311301
+      Cow_32x32_58: 3523363451561210538
+      Cow_32x32_59: -5889502425418488202
+      Cow_32x32_6: -2626720018465985303
+      Cow_32x32_60: -7237363552785014149
+      Cow_32x32_61: -3205625458698835299
+      Cow_32x32_62: -4081231780364433228
+      Cow_32x32_63: -5726860710936217475
+      Cow_32x32_64: -542135399114145876
+      Cow_32x32_65: 304584833385884494
+      Cow_32x32_66: 4993415328833492469
+      Cow_32x32_67: -4541756929751964274
+      Cow_32x32_68: -5611828505435563503
+      Cow_32x32_69: 6397610786866301557
+      Cow_32x32_7: -4783401767600557942
+      Cow_32x32_70: 7702107752296315502
+      Cow_32x32_71: -8394290058443461842
+      Cow_32x32_72: -2928559266594536162
+      Cow_32x32_73: 1507436059267043768
+      Cow_32x32_74: 2978059105796149975
+      Cow_32x32_75: 6142301590263682447
+      Cow_32x32_76: 7928906947404857754
+      Cow_32x32_77: -4473389247603497669
+      Cow_32x32_78: 7279424292451447979
+      Cow_32x32_79: -3184266425952464107
+      Cow_32x32_8: 3698240194823401508
+      Cow_32x32_80: 1012653096796917850
+      Cow_32x32_81: -8697299491713737464
+      Cow_32x32_82: -7719843420077516063
+      Cow_32x32_83: -9030059640347960123
+      Cow_32x32_84: -6444637733311668173
+      Cow_32x32_85: -3285737956867389192
+      Cow_32x32_86: 8107219933490296929
+      Cow_32x32_87: -893442423075743264
+      Cow_32x32_88: 1061614799784091300
+      Cow_32x32_9: 7277568026994380928
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

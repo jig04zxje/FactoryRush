@@ -66,6 +66,14 @@ namespace FactoryRush.Scripts.UI
 
         private void OnPlayClicked()
         {
+            if (SceneTransitionManager.Instance == null)
+            {
+                Debug.LogError("LỖI: SceneTransitionManager chưa tồn tại trong Scene!");
+                return;
+            }
+
+            if (playButton != null) playButton.interactable = false;
+            if (quitButton != null) quitButton.interactable = false;
             if (playButton != null) playButton.interactable = false;
             if (quitButton != null) quitButton.interactable = false;
 

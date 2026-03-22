@@ -62,6 +62,7 @@ public class GameStateManager : MonoBehaviour
     {
         if (state == GameState.Playing) return;
         state = GameState.Playing;
+        AudioManager.Instance?.PlayMusic("bgm_gameplay");
         OnGameStarted?.Invoke();
     }
 
@@ -73,6 +74,7 @@ public class GameStateManager : MonoBehaviour
     {
         if (state != GameState.Playing) return;
         state = GameState.GameOver;
+        AudioManager.Instance?.StopMusic();
 
         if (ScoreManager.Instance != null)
         {

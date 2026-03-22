@@ -31,11 +31,14 @@ namespace FactoryRush.Scripts.UI
         private void OnSellOneClicked()
         {
             MarketManager.Instance.SellItem(_boundItem, 1);
+            AudioManager.Instance?.PlaySFX("sell_ding");
+
         }
 
         private void OnSellAllClicked()
         {
             MarketManager.Instance.SellAllOfItem(_boundItem);
+            AudioManager.Instance?.PlaySFX("sell_ding");
         }
     }
 }

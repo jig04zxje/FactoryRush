@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 1683603172711044827}
   - component: {fileID: 1402190694095018503}
   - component: {fileID: 2965040627347764236}
+  - component: {fileID: 2342774309472080424}
   m_Layer: 5
   m_Name: InventoryPanel
   m_TagString: Untagged
@@ -115,3 +116,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::FactoryRush.Scripts.UI.InventoryUI
   slotPrefab: {fileID: 8484394175144637425, guid: b1d1e5f968a1e414db13ac55007616e3, type: 3}
   slotContainer: {fileID: 8014984856163618685}
+--- !u!114 &2342774309472080424
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 119782637455002079}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b5097bf389b7b94dbeadfe15f77e89a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::FactoryRush.Scripts.UI.SlidePanel
+  slideDistance: -2000
+  slideDuration: 0.3

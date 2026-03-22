@@ -16,17 +16,17 @@ MonoBehaviour:
   friedEggSellPrice: 25
   cakeSellPrice: 80
   kitchenBuyPrice: 60
-  millBuyPrice: 80
-  cakeOvenBuyPrice: 150
+  millBuyPrice: 70
+  cakeOvenBuyPrice: 120
   extend1MinCost: 50
   extend3MinCost: 120
   extend5MinCost: 180
   maxExtensionCount: 2
-  wheatFieldTime: 15
-  chickenCoopTime: 20
+  wheatFieldTime: 12
+  chickenCoopTime: 15
   bakeryTime: 25
-  kitchenTime: 20
-  millTime: 30
-  cakeOvenTime: 40
-  gameDurationSeconds: 300
-  startingGold: 0
+  kitchenTime: 18
+  millTime: 25
+  cakeOvenTime: 35
+  gameDurationSeconds: 360
+  startingGold: 60

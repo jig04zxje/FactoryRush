@@ -42,10 +42,10 @@ public class GoldEconomyConfigSO : ScriptableObject
     public int kitchenBuyPrice = 60;
 
     [Tooltip("May xay – unlock de san xuat Bot mi")]
-    public int millBuyPrice = 80;
+    public int millBuyPrice = 70;
 
     [Tooltip("Lo banh ngot – unlock de san xuat Banh ngot 80v")]
-    public int cakeOvenBuyPrice = 150;
+    public int cakeOvenBuyPrice = 120;
 
 
     // ================================================================
@@ -75,12 +75,12 @@ public class GoldEconomyConfigSO : ScriptableObject
 
     [Header("Thoi Gian San Xuat (giay)")]
 
-    public float wheatFieldTime = 15f;   // Canh dong lua
-    public float chickenCoopTime = 20f;  // Chuong ga
+    public float wheatFieldTime = 12f;   // Canh dong lua
+    public float chickenCoopTime = 15f;  // Chuong ga
     public float bakeryTime = 25f;       // Lo banh mi
-    public float kitchenTime = 20f;      // Bep nau
-    public float millTime = 30f;         // May xay
-    public float cakeOvenTime = 40f;     // Lo banh ngot
+    public float kitchenTime = 18f;      // Bep nau
+    public float millTime = 25f;         // May xay
+    public float cakeOvenTime = 35f;     // Lo banh ngot
 
 
     // ================================================================
@@ -91,9 +91,9 @@ public class GoldEconomyConfigSO : ScriptableObject
     [Header("Game Config")]
 
     [Tooltip("Thoi gian moi luot (giay). 300 = 5 phut theo requirement")]
-    public int gameDurationSeconds = 300;
+    public int gameDurationSeconds = 360;
 
     [Tooltip("Vang nguoi choi co khi bat dau luot")]
-    public int startingGold = 0;
+    public int startingGold = 50;
 
 }

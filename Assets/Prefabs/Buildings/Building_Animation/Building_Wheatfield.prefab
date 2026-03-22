@@ -465,6 +465,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aa3b5c7f9992f704a93de7cbbd941d12, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::FactoryRush.Scripts.Production.MachineVisualController
+  animatorTarget: {fileID: 4231563047428440592}
   waitingInputIcon: {fileID: 1025365605587125779}
   inventoryFullIcon: {fileID: 2135705790782648596}
   readyToHarvestIcon: {fileID: 3198225818988120678}

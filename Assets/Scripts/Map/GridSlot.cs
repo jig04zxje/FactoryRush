@@ -12,11 +12,11 @@ namespace FactoryRush.Scripts.Map
         [Header("Visual Colors")]
         public Color emptyColor = Color.green;
         public Color occupiedColor = Color.gray;
-        public Color hoverColor = Color.yellow; 
+        public Color hoverColor = Color.yellow;
 
         [Header("Placement Mode Colors (Task 11-14)")]
-        public Color validPlacementColor = new Color(0, 1, 0, 0.8f); 
-        public Color invalidPlacementColor = new Color(1, 0, 0, 0.8f); 
+        public Color validPlacementColor = new Color(0, 1, 0, 0.8f);
+        public Color invalidPlacementColor = new Color(1, 0, 0, 0.8f);
 
         void Awake()
         {
@@ -76,7 +76,6 @@ namespace FactoryRush.Scripts.Map
         private void OnMouseDown()
         {
             //if (GameStateManager.Instance != null && GameStateManager.Instance.State != GameState.Playing) return;
-            Debug.Log("🖱️ CHUỘT ĐÃ CHẠM ĐƯỢC VÀO ĐẤT!");
             if (BuildingUnlockSystem.Instance != null && BuildingUnlockSystem.Instance.isPlacementMode)
             {
                 BuildingUnlockSystem.Instance.PlaceBuildingOnSlot(this);

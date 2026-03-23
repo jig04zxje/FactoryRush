@@ -286,6 +286,7 @@ GameObject:
   - component: {fileID: 6182123265872190421}
   - component: {fileID: 6842872933537862337}
   - component: {fileID: 2882806374036478967}
+  - component: {fileID: 4231563047428440592}
   m_Layer: 3
   m_Name: Building_Wheatfield
   m_TagString: Untagged
@@ -361,7 +362,7 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: -2351779907202016323, guid: 83f104f0a14aace4b97b272f4bd00d6b, type: 3}
-  m_Color: {r: 0.9275635, g: 1, b: 0.023584902, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -464,9 +465,32 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aa3b5c7f9992f704a93de7cbbd941d12, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::FactoryRush.Scripts.Production.MachineVisualController
+  animatorTarget: {fileID: 4231563047428440592}
   waitingInputIcon: {fileID: 1025365605587125779}
   inventoryFullIcon: {fileID: 2135705790782648596}
   readyToHarvestIcon: {fileID: 3198225818988120678}
   pulseTarget: {fileID: 0}
   pulseScale: 1.05
   pulseSpeed: 2
+--- !u!95 &4231563047428440592
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7621031748506586241}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: f64db5067dc64ce4e8cc078fd3540e22, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0

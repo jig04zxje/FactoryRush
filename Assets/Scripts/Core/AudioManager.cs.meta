@@ -1,2 +1,16 @@
 fileFormatVersion: 2
 guid: 202e15b9aadff42478ebe2efa5b12a70
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sellDingClip: {fileID: 8300000, guid: d2c0d70a5b839c14ea669c392eb845b9, type: 3}
+  - timerTickClip: {fileID: 8300000, guid: a4e7ea287d5118145aedef00f6a3f7fb, type: 3}
+  - recordBrokenClip: {fileID: 8300000, guid: 071218d6c96f07749af05152c9cc87cb, type: 3}
+  - bgmGameplay: {fileID: 8300000, guid: 18ba861615f341740b572e5cb3250896, type: 3}
+  - bgmMenu: {fileID: 8300000, guid: 4558f7f60744703439f3a169094d9779, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

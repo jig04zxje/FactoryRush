@@ -25,6 +25,8 @@ namespace FactoryRush.Scripts.UI
 
         private void Start()
         {
+
+            AudioManager.Instance?.PlayMusic("bgm_menu");
             // Set up buttons
             if (playButton != null)
             {

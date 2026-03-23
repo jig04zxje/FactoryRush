@@ -94,6 +94,9 @@ namespace FactoryRush.Scripts.Timer
                 // Tự động kết thúc game khi hết thời gian
                 OnTimerEnd.AddListener(GameStateManager.Instance.EndGame);
             }
+
+            OnTimerWarning.AddListener(() => AudioManager.Instance?.PlaySFX("timer_tick"));
+
         }
 
         /// <summary>

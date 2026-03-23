@@ -1,0 +1,742 @@
+fileFormatVersion: 2
+guid: 02f7a162381e7304cbca0895f7bd2b11
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1258841614360927564
+    second: building_chicken_coop_anim_0
+  - first:
+      213: -5394543313061748742
+    second: building_chicken_coop_anim_1
+  - first:
+      213: -5485263508903850673
+    second: building_chicken_coop_anim_2
+  - first:
+      213: 6916436815258483967
+    second: building_chicken_coop_anim_3
+  - first:
+      213: 6479148771949876987
+    second: building_chicken_coop_anim_4
+  - first:
+      213: 8365707818866732490
+    second: building_chicken_coop_anim_5
+  - first:
+      213: 1657880428627412361
+    second: building_chicken_coop_anim_6
+  - first:
+      213: 5258242320818087725
+    second: building_chicken_coop_anim_7
+  - first:
+      213: -4884217795120531157
+    second: building_chicken_coop_anim_8
+  - first:
+      213: 8398025758704272536
+    second: building_chicken_coop_anim_9
+  - first:
+      213: -5264997707914215579
+    second: building_chicken_coop_anim_10
+  - first:
+      213: -4239362088251117104
+    second: building_chicken_coop_anim_11
+  - first:
+      213: -602056626635514798
+    second: building_chicken_coop_anim_12
+  - first:
+      213: -7582657762610092261
+    second: building_chicken_coop_anim_13
+  - first:
+      213: -2310072022793693449
+    second: building_chicken_coop_anim_14
+  - first:
+      213: 3284167158315772628
+    second: building_chicken_coop_anim_15
+  - first:
+      213: -7813130813419627361
+    second: building_chicken_coop_anim_16
+  - first:
+      213: -6549888534761590722
+    second: building_chicken_coop_anim_17
+  - first:
+      213: -9217753145715863671
+    second: building_chicken_coop_anim_18
+  - first:
+      213: 6765758978016447123
+    second: building_chicken_coop_anim_19
+  - first:
+      213: -3944034490690562425
+    second: building_chicken_coop_anim_20
+  - first:
+      213: 7636332757768118478
+    second: building_chicken_coop_anim_21
+  - first:
+      213: -4634960723098200840
+    second: building_chicken_coop_anim_22
+  - first:
+      213: 3480459775418545311
+    second: building_chicken_coop_anim_23
+  - first:
+      213: -6315039480082721585
+    second: building_chicken_coop_anim_24
+  - first:
+      213: -607649357845331700
+    second: building_chicken_coop_anim_25
+  - first:
+      213: 1655492886827295630
+    second: building_chicken_coop_anim_26
+  - first:
+      213: 1047053111568254444
+    second: building_chicken_coop_anim_27
+  - first:
+      213: -3560599665798808253
+    second: building_chicken_coop_anim_28
+  - first:
+      213: -3008814827060913905
+    second: building_chicken_coop_anim_29
+  - first:
+      213: 4279961770644990045
+    second: building_chicken_coop_anim_30
+  - first:
+      213: -4803496272390561785
+    second: building_chicken_coop_anim_31
+  - first:
+      213: -1600472477263342057
+    second: building_chicken_coop_anim_32
+  - first:
+      213: 1929875039825904415
+    second: building_chicken_coop_anim_33
+  - first:
+      213: 1107526633376332949
+    second: building_chicken_coop_anim_34
+  - first:
+      213: 2176714304892185493
+    second: building_chicken_coop_anim_35
+  - first:
+      213: -5772637273640942544
+    second: building_chicken_coop_anim_36
+  - first:
+      213: 8183854100739171888
+    second: building_chicken_coop_anim_37
+  - first:
+      213: 40107835387783103
+    second: building_chicken_coop_anim_38
+  - first:
+      213: -3165820175264325728
+    second: building_chicken_coop_anim_39
+  - first:
+      213: 8264778983428694303
+    second: building_chicken_coop_anim_40
+  - first:
+      213: -6874810903255026990
+    second: building_chicken_coop_anim_41
+  - first:
+      213: 228317497915455395
+    second: building_chicken_coop_anim_42
+  - first:
+      213: -7547842605378185462
+    second: building_chicken_coop_anim_43
+  - first:
+      213: -7316169989707370981
+    second: building_chicken_coop_anim_44
+  - first:
+      213: 4576615798069050737
+    second: building_chicken_coop_anim_45
+  - first:
+      213: 633121459755220637
+    second: building_chicken_coop_anim_46
+  - first:
+      213: -3786411079598139517
+    second: building_chicken_coop_anim_47
+  - first:
+      213: -8445632886371557601
+    second: building_chicken_coop_anim_48
+  - first:
+      213: -5287408868427147271
+    second: building_chicken_coop_anim_49
+  - first:
+      213: 479145985689007323
+    second: building_chicken_coop_anim_50
+  - first:
+      213: -7130626445605644205
+    second: building_chicken_coop_anim_51
+  - first:
+      213: 1426954162301494489
+    second: building_chicken_coop_anim_52
+  - first:
+      213: 6793932607271678644
+    second: building_chicken_coop_anim_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: building_chicken_coop_anim_0
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 455
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2a98ba832b78ee0800000000000000
+      internalID: -1258841614360927564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_chicken_coop_anim_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 420
+        width: 120
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: affde73307bb225b0800000000000000
+      internalID: -5394543313061748742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_chicken_coop_anim_2
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 420
+        width: 120
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d8f5c96ed60e3b0800000000000000
+      internalID: -5485263508903850673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_chicken_coop_anim_3
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 418
+        width: 120
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc7aec73ae1cff50800000000000000
+      internalID: 6916436815258483967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_chicken_coop_anim_5
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 420
+        width: 120
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd624610f6f81470800000000000000
+      internalID: 8365707818866732490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_chicken_coop_anim_7
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 418
+        width: 120
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27a94b088709f840800000000000000
+      internalID: 5258242320818087725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_chicken_coop_anim_9
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 418
+        width: 120
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8940622dee7cb8470800000000000000
+      internalID: 8398025758704272536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_chicken_coop_anim_11
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 418
+        width: 120
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1b88f44a2ca25c0800000000000000
+      internalID: -4239362088251117104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_chicken_coop_anim_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 211
+        width: 120
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc41a172d097c58a0800000000000000
+      internalID: -6315039480082721585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_chicken_coop_anim_26
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 211
+        width: 120
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83e687620e79f610800000000000000
+      internalID: 1655492886827295630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_chicken_coop_anim_28
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 211
+        width: 120
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34dffa40875369ec0800000000000000
+      internalID: -3560599665798808253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_chicken_coop_anim_30
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 210
+        width: 120
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58eb8fdd8a756b30800000000000000
+      internalID: 4279961770644990045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_chicken_coop_anim_31
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 211
+        width: 120
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7006f3c179d865db0800000000000000
+      internalID: -4803496272390561785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_chicken_coop_anim_32
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 211
+        width: 120
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716dde7f2caf9c9e0800000000000000
+      internalID: -1600472477263342057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_chicken_coop_anim_33
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 211
+        width: 120
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1347b1bf1b48ca10800000000000000
+      internalID: 1929875039825904415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_chicken_coop_anim_34
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 211
+        width: 120
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c3ea9ea99be5f00800000000000000
+      internalID: 1107526633376332949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_chicken_coop_anim_35
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 211
+        width: 120
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b2c98a02e353e10800000000000000
+      internalID: 2176714304892185493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_chicken_coop_anim_36
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 211
+        width: 119
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034c37ffbf873efa0800000000000000
+      internalID: -5772637273640942544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1d53878f8103cf64b8bb690dc28b0510
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      building_chicken_coop_anim_0: -1258841614360927564
+      building_chicken_coop_anim_1: -5394543313061748742
+      building_chicken_coop_anim_10: -5264997707914215579
+      building_chicken_coop_anim_11: -4239362088251117104
+      building_chicken_coop_anim_12: -602056626635514798
+      building_chicken_coop_anim_13: -7582657762610092261
+      building_chicken_coop_anim_14: -2310072022793693449
+      building_chicken_coop_anim_15: 3284167158315772628
+      building_chicken_coop_anim_16: -7813130813419627361
+      building_chicken_coop_anim_17: -6549888534761590722
+      building_chicken_coop_anim_18: -9217753145715863671
+      building_chicken_coop_anim_19: 6765758978016447123
+      building_chicken_coop_anim_2: -5485263508903850673
+      building_chicken_coop_anim_20: -3944034490690562425
+      building_chicken_coop_anim_21: 7636332757768118478
+      building_chicken_coop_anim_22: -4634960723098200840
+      building_chicken_coop_anim_23: 3480459775418545311
+      building_chicken_coop_anim_24: -6315039480082721585
+      building_chicken_coop_anim_25: -607649357845331700
+      building_chicken_coop_anim_26: 1655492886827295630
+      building_chicken_coop_anim_27: 1047053111568254444
+      building_chicken_coop_anim_28: -3560599665798808253
+      building_chicken_coop_anim_29: -3008814827060913905
+      building_chicken_coop_anim_3: 6916436815258483967
+      building_chicken_coop_anim_30: 4279961770644990045
+      building_chicken_coop_anim_31: -4803496272390561785
+      building_chicken_coop_anim_32: -1600472477263342057
+      building_chicken_coop_anim_33: 1929875039825904415
+      building_chicken_coop_anim_34: 1107526633376332949
+      building_chicken_coop_anim_35: 2176714304892185493
+      building_chicken_coop_anim_36: -5772637273640942544
+      building_chicken_coop_anim_37: 8183854100739171888
+      building_chicken_coop_anim_38: 40107835387783103
+      building_chicken_coop_anim_39: -3165820175264325728
+      building_chicken_coop_anim_4: 6479148771949876987
+      building_chicken_coop_anim_40: 8264778983428694303
+      building_chicken_coop_anim_41: -6874810903255026990
+      building_chicken_coop_anim_42: 228317497915455395
+      building_chicken_coop_anim_43: -7547842605378185462
+      building_chicken_coop_anim_44: -7316169989707370981
+      building_chicken_coop_anim_45: 4576615798069050737
+      building_chicken_coop_anim_46: 633121459755220637
+      building_chicken_coop_anim_47: -3786411079598139517
+      building_chicken_coop_anim_48: -8445632886371557601
+      building_chicken_coop_anim_49: -5287408868427147271
+      building_chicken_coop_anim_5: 8365707818866732490
+      building_chicken_coop_anim_50: 479145985689007323
+      building_chicken_coop_anim_51: -7130626445605644205
+      building_chicken_coop_anim_52: 1426954162301494489
+      building_chicken_coop_anim_53: 6793932607271678644
+      building_chicken_coop_anim_6: 1657880428627412361
+      building_chicken_coop_anim_7: 5258242320818087725
+      building_chicken_coop_anim_8: -4884217795120531157
+      building_chicken_coop_anim_9: 8398025758704272536
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

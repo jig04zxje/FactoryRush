@@ -195,6 +195,7 @@ GameObject:
   - component: {fileID: 1859386611616820089}
   - component: {fileID: 4416401580113358505}
   - component: {fileID: 9217098355172378873}
+  - component: {fileID: 5364265225984242372}
   m_Layer: 3
   m_Name: Building_ChickenCoop
   m_TagString: Untagged
@@ -373,12 +374,35 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aa3b5c7f9992f704a93de7cbbd941d12, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::FactoryRush.Scripts.Production.MachineVisualController
+  animatorTarget: {fileID: 5364265225984242372}
   waitingInputIcon: {fileID: 5434575184893580980}
   inventoryFullIcon: {fileID: 4570763911906238801}
   readyToHarvestIcon: {fileID: 3251035025904682099}
   pulseTarget: {fileID: 0}
   pulseScale: 1.05
   pulseSpeed: 2
+--- !u!95 &5364265225984242372
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5111895981143177606}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 5c85e949db78afe46937f8076a16275f, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &5434575184893580980
 GameObject:
   m_ObjectHideFlags: 0

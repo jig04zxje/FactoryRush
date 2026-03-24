@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53cf8db7e3e33e543aef0b22ce06a74e, type: 3}
+  m_Name: Achievement_ Master_Earner1
+  m_EditorClassIdentifier: Assembly-CSharp::FactoryRush.Scripts.Core.AchievementSO
+  id: master_earner
+  title: "Vua \u0110\xE1 Qu\xFD"
+  description: 
+  icon: {fileID: 569833037020877403, guid: c6d89016c988d9548b66045a965aacd6, type: 3}
+  gemThreshold: 20000

@@ -4,6 +4,7 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
+using FactoryRush.Scripts.UI; // Explicitly include siblings
 
 namespace FactoryRush.Scripts.UI
 {
@@ -16,8 +17,12 @@ namespace FactoryRush.Scripts.UI
         [Header("UI References")]
         [SerializeField] private Button playButton;
         [SerializeField] private Button quitButton;
+        [SerializeField] private Button achievementButton; // New Button
         [SerializeField] private TextMeshProUGUI highScoreText;
         [SerializeField] private Image fadeOverlay;
+
+        [Header("Achievements")]
+        [SerializeField] private AchievementMenuUI achievementMenu; // New Reference
 
         [Header("Settings")]
         [SerializeField] private string gameSceneName = "GamePlayScene";
@@ -38,6 +43,12 @@ namespace FactoryRush.Scripts.UI
             {
                 quitButton.onClick.RemoveAllListeners();
                 quitButton.onClick.AddListener(OnQuitClicked);
+            }
+
+            if (achievementButton != null && achievementMenu != null)
+            {
+                achievementButton.onClick.RemoveAllListeners();
+                achievementButton.onClick.AddListener(() => achievementMenu.OpenMenu());
             }
 
             // Setup High Score

@@ -9,7 +9,10 @@ namespace FactoryRush.Scripts.Core
 
         private int _totalGold = 200; // Starting gold as per design doc
 
+        private int _totalGems = 0; 
+
         public UnityEvent<int> OnGoldChanged = new UnityEvent<int>();
+        public UnityEvent<int> OnGemsChanged = new UnityEvent<int>();
 
         private void Awake()
         {
@@ -46,6 +49,23 @@ namespace FactoryRush.Scripts.Core
             OnGoldChanged?.Invoke(_totalGold);
         }
 
+        public void AddGem(int amount)
+        {
+            _totalGems += amount;
+            OnGemsChanged?.Invoke(_totalGems);
+        }
+
+        public bool SpendGem(int amount)
+        {
+            if (_totalGems >= amount)
+            {
+                _totalGems -= amount;
+                OnGemsChanged?.Invoke(_totalGems);
+                return true;
+            }
+            return false;
+        }
+
         public bool SpendGold(int amount)
         {
             if (_totalGold >= amount)
@@ -55,6 +75,11 @@ namespace FactoryRush.Scripts.Core
                 return true;
             }
             return false;
+        }
+
+        public int GetGems()
+        {
+            return _totalGems;
         }
 
         public int GetGold()

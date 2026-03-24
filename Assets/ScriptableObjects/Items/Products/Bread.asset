@@ -15,5 +15,6 @@ MonoBehaviour:
   itemName: Bread
   icon: {fileID: 6706604562591481552, guid: 2e8d3c9e091451b4ea6bbf612f521420, type: 3}
   price: 30
+  gem_gain: 20
   type: 1
   description: 

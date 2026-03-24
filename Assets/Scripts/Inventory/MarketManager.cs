@@ -43,6 +43,8 @@ namespace FactoryRush.Scripts.Inventory
             {
                 if (InventoryManager.Instance.RemoveItem(item, quantity))
                 {
+                    int totalGemGain = item.gem_gain * quantity; // Requirement cô Chi
+                    ScoreManager.Instance.AddGem(totalGemGain); // Requirement cô Chi
                     int totalGoldEarned = item.price * quantity;
                     ScoreManager.Instance.AddGold(totalGoldEarned);
                     Debug.Log($"Sold {quantity} {item.itemName} for {totalGoldEarned} gold.");

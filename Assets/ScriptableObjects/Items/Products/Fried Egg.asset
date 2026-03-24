@@ -15,5 +15,6 @@ MonoBehaviour:
   itemName: Fried Egg
   icon: {fileID: -2415191492981613760, guid: 3cf6b74b24e771346ad63a9ffbcecb3d, type: 3}
   price: 25
+  gem_gain: 10
   type: 1
   description: 

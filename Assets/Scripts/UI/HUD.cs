@@ -2,6 +2,7 @@ using UnityEngine;
 using TMPro;
 using FactoryRush.Scripts.Core;
 using FactoryRush.Scripts.Timer;
+using UnityEngine.SocialPlatforms.Impl;
 
 namespace FactoryRush.Scripts.UI
 {
@@ -9,6 +10,7 @@ namespace FactoryRush.Scripts.UI
     {
         [Header("UI References")]
         [SerializeField] private TextMeshProUGUI goldText;
+        [SerializeField] private TextMeshProUGUI gemText;
         [SerializeField] private TextMeshProUGUI timerText;
         [SerializeField] private GameObject timerWarningEffect;
 
@@ -18,6 +20,8 @@ namespace FactoryRush.Scripts.UI
             {
                 ScoreManager.Instance.OnGoldChanged.AddListener(OnGoldChanged);
                 UpdateGoldDisplay(ScoreManager.Instance.GetGold());
+                ScoreManager.Instance.OnGemsChanged.AddListener(OnGemChanged);
+                UpdateGemDisplay(ScoreManager.Instance.GetGems());
             }
         }
 
@@ -32,6 +36,17 @@ namespace FactoryRush.Scripts.UI
         private void OnGoldChanged(int totalGold)
         {
             UpdateGoldDisplay(totalGold);
+        }
+
+        private void OnGemChanged(int totalGems)
+        {
+            UpdateGemDisplay(totalGems);
+        }
+
+        private void UpdateGemDisplay(int gems)
+        {
+            if (gemText != null)
+                gemText.text = gems.ToString();
         }
 
         private void UpdateGoldDisplay(int gold)

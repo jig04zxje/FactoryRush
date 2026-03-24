@@ -15,6 +15,7 @@ namespace FactoryRush.Scripts.ScriptableObjects.Definitions
         public string itemName;
         public Sprite icon;
         public int price;
+        public int gem_gain; // Requirement cô Chi
         public ItemType type;
 
         [TextArea(3, 10)]

@@ -17,5 +17,5 @@ MonoBehaviour:
   visualPrefab: {fileID: 5111895981143177606, guid: 10eeb9b1debd7a345a19214b9252b5a4, type: 3}
   requiredInputs: []
   outputItem: {fileID: 11400000, guid: ce592fb0899810343b9c5aa02f8c303c, type: 2}
-  productionTime: 20
+  productionTime: 18
   description: 

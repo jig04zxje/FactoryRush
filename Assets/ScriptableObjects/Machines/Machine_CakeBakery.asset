@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: Machine_CakeBakery
   m_EditorClassIdentifier: Assembly-CSharp::FactoryRush.Scripts.ScriptableObjects.Definitions.MachineSO
   machineName: Cake Bakery
-  purchasePrice: 200
+  purchasePrice: 150
   visualPrefab: {fileID: 7936009478636807099, guid: 957c5993a64c9044d969c7adece3d951, type: 3}
   requiredInputs:
   - {fileID: 11400000, guid: 200b45ac36a7f904594842b42d54badb, type: 2}
   - {fileID: 11400000, guid: ce592fb0899810343b9c5aa02f8c303c, type: 2}
   outputItem: {fileID: 11400000, guid: 2ec191a372846d54aa89458840f1ec9a, type: 2}
-  productionTime: 40
+  productionTime: 35
   description: 

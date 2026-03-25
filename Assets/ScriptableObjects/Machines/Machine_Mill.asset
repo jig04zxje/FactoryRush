@@ -13,12 +13,12 @@ MonoBehaviour:
   m_Name: Machine_Mill
   m_EditorClassIdentifier: Assembly-CSharp::FactoryRush.Scripts.ScriptableObjects.Definitions.MachineSO
   machineName: Mill
-  purchasePrice: 120
+  purchasePrice: 70
   visualPrefab: {fileID: 3323816482591321259, guid: 5af7ca4cd46b84647b8ae3c79bca89ca, type: 3}
   requiredInputs:
   - {fileID: 11400000, guid: a81a18871f48c0b488d119d56dc965d5, type: 2}
   - {fileID: 11400000, guid: a81a18871f48c0b488d119d56dc965d5, type: 2}
   - {fileID: 11400000, guid: a81a18871f48c0b488d119d56dc965d5, type: 2}
   outputItem: {fileID: 11400000, guid: 200b45ac36a7f904594842b42d54badb, type: 2}
-  productionTime: 30
+  productionTime: 25
   description: 
